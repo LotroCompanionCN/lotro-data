@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?><baubles>
-<bauble identifier="1879494133" name="Guise of Amarthiel"/>
-<bauble identifier="1879494123" name="Guise of Mordirith"/>
-<bauble identifier="1879494129" name="Guise of the Witch-king of Angmar"/>
-<bauble identifier="1879494109" name="Guise of Skorgrím Dourhand"/>
-<bauble identifier="1879494116" name="Guise of Sara Oakheart"/>
-<bauble identifier="1879494099" name="Guise of Gandalf the Grey"/>
-<bauble identifier="1879494131" name="Guise of Gandalf the White"/>
-<bauble identifier="1879494118" name="Guise of Goldberry"/>
-<bauble identifier="1879494117" name="Guise of Tom Bombadil"/>
-<bauble identifier="1879494111" name="Guise of Durin VI"/>
-<bauble identifier="1879494093" name="Guise of Karazgar"/>
-<bauble identifier="1879494124" name="Guise of Saruman"/>
-<bauble identifier="1879494102" name="Guise of Gollum"/>
-<bauble identifier="1879494098" name="Guise of Hermáth Stormhammer"/>
-<bauble identifier="1879494100" name="Guise of Servant of the First Crafter"/>
-<bauble identifier="1879496912" name="Guise of Galadriel"/>
-<bauble identifier="1879496911" name="Guise of Battle-ready Galadriel"/>
-<bauble identifier="1879496910" name="Guise of a Goblin Corsair"/>
-<bauble identifier="1879494912" name="Treasured Smoking Bauble"/>
-<bauble identifier="1879494910" name="Scorpion Surprise Bauble"/>
-<bauble identifier="1879495077" name="Cozy Camp-fire"/>
-<bauble identifier="1879495079" name="Mysteriously Full Pipe"/>
-<bauble identifier="1879495133" name="Prized Flower"/>
-<bauble identifier="1879495159" name="Exotic Cheese"/>
-<bauble identifier="1879495144" name="Ominous Bird Call"/>
-<bauble identifier="1879495160" name="Quick Bird Call"/>
-<bauble identifier="1879495149" name="Pitched Bird Call"/>
-<bauble identifier="1879495129" name="Long Bird Call"/>
-<bauble identifier="1879495154" name="Confusing Map"/>
-<bauble identifier="1879495139" name="Calming Flower Pot"/>
-<bauble identifier="1879495137" name="Fantastic Fern"/>
-<bauble identifier="1879495142" name="Lovely Flowers"/>
-<bauble identifier="1879495146" name="Golden Flowers"/>
-<bauble identifier="1879495152" name="Unlabeled Firework"/>
-<bauble identifier="1879495171" name="Impressive Pumpkin"/>
-<bauble identifier="1879496309" name="Camping Chair"/>
-<bauble identifier="1879496307" name="Cozy Shelter"/>
-<bauble identifier="1879496323" name="Illuminating Lantern"/>
-<bauble identifier="1879493373" name="Yellow Dwarf-candle"/>
-<bauble identifier="1879493375" name="Red Dwarf-candle"/>
-<bauble identifier="1879493372" name="Green Dwarf-candle"/>
-<bauble identifier="1879493371" name="Blue Dwarf-candle"/>
-<bauble identifier="1879493378" name="Orange Dwarf-candle"/>
-<bauble identifier="1879493384" name="White Dwarf-candle"/>
-<bauble identifier="1879493383" name="Purple Dwarf-candle"/>
-<bauble identifier="1879502365" name="Unsettling Skull"/>
-<bauble identifier="1879502752" name="Tea Time of the Sands"/>
-<bauble identifier="1879503828" name="Baker's Delight Fireworks"/>
-<bauble identifier="1879509118" name="Handful of Bird Feed"/>
-<bauble identifier="1879509119" name="Bird in the Hand"/>
-<bauble identifier="1879515014" name="A Wisp of Shadows"/>
-<bauble identifier="1879516927" name="What's in the Basket?"/>
-<bauble identifier="1879516925" name="Vigilant Cobra Bauble"/>
-<bauble identifier="1879520105" name="Gilded Caravan Market Stall"/>
-<bauble identifier="1879520601" name="Guise of Daxamat"/>
-<bauble identifier="1879522076" name="Viznak's Cure?"/>
-<bauble identifier="1879522077" name="A Memento of Idagâl"/>
-<bauble identifier="1879522074" name="Laundry Day"/>
-<bauble identifier="1879522078" name="Plant a Patch of: Crystals"/>
-<bauble identifier="1879522079" name="Plant a Patch of: Saffron"/>
-<bauble identifier="1879522080" name="Plant a Patch of: Tulips"/>
-<bauble identifier="1879522081" name="Plant a Patch of: Poppies"/>
-<bauble identifier="1879522082" name="Stink Ball"/>
-<bauble identifier="1879522083" name="Behold: My Treasure Hauler"/>
-<bauble identifier="1879522084" name="Sandstorm is Coming"/>
-<bauble identifier="1879523206" name="The Effigy of The Grim Southron"/>
-<bauble identifier="1879523196" name="The Effigy of The Forsaken Reaver"/>
-<bauble identifier="1879523194" name="The Effigy of The Gloom of Nurn"/>
-<bauble identifier="1879523200" name="The Effigy of The Black Blade of Lebennin"/>
-<bauble identifier="1879523198" name="The Effigy of The Bane of Rhûn"/>
-<bauble identifier="1879523195" name="The Effigy of The High Sorcerer of Harad"/>
-<bauble identifier="1879523192" name="The Effigy of The Woe of Khand"/>
-<bauble identifier="1879523199" name="The Effigy of The Cursed Rider"/>
-<bauble identifier="1879523197" name="The Effigy of The Witch-king"/>
-<bauble identifier="1879524140" name="Pungent Blight Mushroom"/>
-<bauble identifier="1879524435" name="Daffodil Green Thumb"/>
-<bauble identifier="1879524430" name="Maramam's Bacon Pie Bauble"/>
-<bauble identifier="1879524431" name="Daffodil Flag-bearer"/>
-<bauble identifier="1879525122" name="Rotten Fruit"/>
-<bauble identifier="1879525180" name="Dragon Fireworks"/>
-<bauble identifier="1879525255" name="Flower Petals"/>
-<bauble identifier="1879525256" name="Sack of Petals"/>
-<bauble identifier="1879525327" name="Friend-shot Fireworks"/>
-<bauble identifier="1879525377" name="Hollin Gate Fireworks"/>
-<bauble identifier="1879525372" name="Incandescent Lightning Fireworks"/>
-<bauble identifier="1879525371" name="Mighty Ram Fireworks"/>
-<bauble identifier="1879525376" name="Orange Star Fireworks"/>
-<bauble identifier="1879525379" name="Pinwheel Fireworks"/>
-<bauble identifier="1879525373" name="Soaring Pinwheel Fireworks"/>
-<bauble identifier="1879525378" name="White Tree Fireworks"/>
-<bauble identifier="1879525375" name="Willow Fireworks"/>
-<bauble identifier="1879525374" name="Yellow Star Fireworks"/>
+    <bauble identifier="1879494133" name="阿玛希尔伪装"/>
+    <bauble identifier="1879494123" name="莫迪里斯伪装"/>
+    <bauble identifier="1879494129" name="安格玛巫王伪装"/>
+    <bauble identifier="1879494109" name="斯科格瑞姆·杜尔汉伪装"/>
+    <bauble identifier="1879494116" name="萨拉·橡树之心伪装"/>
+    <bauble identifier="1879494099" name="灰袍甘道夫伪装"/>
+    <bauble identifier="1879494131" name="白袍甘道夫伪装"/>
+    <bauble identifier="1879494118" name="金莓伪装"/>
+    <bauble identifier="1879494117" name="汤姆·邦巴迪尔伪装"/>
+    <bauble identifier="1879494111" name="都林六世伪装"/>
+    <bauble identifier="1879494093" name="卡拉兹加伪装"/>
+    <bauble identifier="1879494124" name="萨鲁曼伪装"/>
+    <bauble identifier="1879494102" name="咕噜伪装"/>
+    <bauble identifier="1879494098" name="赫尔玛斯·风暴之锤伪装"/>
+    <bauble identifier="1879494100" name="初代工匠仆从伪装"/>
+    <bauble identifier="1879496912" name="凯兰崔尔伪装"/>
+    <bauble identifier="1879496911" name="备战状态的凯兰崔尔伪装"/>
+    <bauble identifier="1879496910" name="哥布林海盗伪装"/>
+    <bauble identifier="1879494912" name="珍贵的吸烟饰品"/>
+    <bauble identifier="1879494910" name="蝎子惊喜小饰品"/>
+    <bauble identifier="1879495077" name="舒适营火"/>
+    <bauble identifier="1879495079" name="神秘装满的烟斗"/>
+    <bauble identifier="1879495133" name="珍贵的花朵（Prized Flower）"/>
+    <bauble identifier="1879495159" name="异域奶酪"/>
+    <bauble identifier="1879495144" name="不祥鸟啼"/>
+    <bauble identifier="1879495160" name="快速鸟鸣"/>
+    <bauble identifier="1879495149" name="高音鸟哨"/>
+    <bauble identifier="1879495129" name="长鸟鸣哨"/>
+    <bauble identifier="1879495154" name="混乱地图"/>
+    <bauble identifier="1879495139" name="安神花盆"/>
+    <bauble identifier="1879495137" name="奇妙蕨类"/>
+    <bauble identifier="1879495142" name="可爱花朵"/>
+    <bauble identifier="1879495146" name="金色花朵"/>
+    <bauble identifier="1879495152" name="无标签烟花"/>
+    <bauble identifier="1879495171" name="令人赞叹的南瓜"/>
+    <bauble identifier="1879496309" name="露营椅"/>
+    <bauble identifier="1879496307" name="舒适庇护所"/>
+    <bauble identifier="1879496323" name="照明灯笼"/>
+    <bauble identifier="1879493373" name="黄色矮人蜡烛"/>
+    <bauble identifier="1879493375" name="红色矮人蜡烛"/>
+    <bauble identifier="1879493372" name="绿色矮人蜡烛"/>
+    <bauble identifier="1879493371" name="蓝色矮人蜡烛"/>
+    <bauble identifier="1879493378" name="橙色矮人蜡烛"/>
+    <bauble identifier="1879493384" name="白色矮人蜡烛"/>
+    <bauble identifier="1879493383" name="紫色矮人蜡烛"/>
+    <bauble identifier="1879502365" name="令人不安的 skull"/>
+    <bauble identifier="1879502752" name="沙之茶会"/>
+    <bauble identifier="1879503828" name="面包师的欢乐烟花"/>
+    <bauble identifier="1879509118" name="一把鸟食"/>
+    <bauble identifier="1879509119" name="手中之鸟"/>
+    <bauble identifier="1879515014" name="一缕暗影"/>
+    <bauble identifier="1879516927" name="篮子里有什么？"/>
+    <bauble identifier="1879516925" name="警戒眼镜蛇摆件"/>
+    <bauble identifier="1879520105" name="镀金商队市场摊位（Gilded Caravan Market Stall）"/>
+    <bauble identifier="1879520601" name="达克萨马特的伪装（Guise of Daxamat）"/>
+    <bauble identifier="1879522076" name="维兹纳克的解药？"/>
+    <bauble identifier="1879522077" name="伊达加尔的纪念物"/>
+    <bauble identifier="1879522074" name="洗衣日"/>
+    <bauble identifier="1879522078" name="种植一片：水晶"/>
+    <bauble identifier="1879522079" name="种植一片：藏红花"/>
+    <bauble identifier="1879522080" name="种植一片：郁金香"/>
+    <bauble identifier="1879522081" name="种植一片：罂粟"/>
+    <bauble identifier="1879522082" name="臭臭球"/>
+    <bauble identifier="1879522083" name="瞧好：我的宝藏搬运车"/>
+    <bauble identifier="1879522084" name="沙尘暴要来了"/>
+    <bauble identifier="1879523206" name="冷酷的南方人塑像（The Effigy of The Grim Southron）"/>
+    <bauble identifier="1879523196" name="弃誓劫掠者塑像（The Effigy of The Forsaken Reaver）"/>
+    <bauble identifier="1879523194" name="努恩阴霾塑像（The Effigy of The Gloom of Nurn）"/>
+    <bauble identifier="1879523200" name="莱本宁黑刃塑像（The Effigy of The Black Blade of Lebennin）"/>
+    <bauble identifier="1879523198" name="鲁恩祸害塑像（The Effigy of The Bane of Rhûn）"/>
+    <bauble identifier="1879523195" name="哈拉德至高巫师塑像（The Effigy of The High Sorcerer of Harad）"/>
+    <bauble identifier="1879523192" name="罕德祸患塑像（The Effigy of The Woe of Khand）"/>
+    <bauble identifier="1879523199" name="诅咒骑手塑像（The Effigy of The Cursed Rider）"/>
+    <bauble identifier="1879523197" name="巫王塑像（The Effigy of The Witch-king）"/>
+    <bauble identifier="1879524140" name="刺鼻枯萎蘑菇"/>
+    <bauble identifier="1879524435" name="黄水仙绿手指"/>
+    <bauble identifier="1879524430" name="玛拉玛姆的培根派小玩意"/>
+    <bauble identifier="1879524431" name="黄水仙旗手"/>
+    <bauble identifier="1879525122" name="烂果"/>
+    <bauble identifier="1879525180" name="巨龙烟火"/>
+    <bauble identifier="1879525255" name="玫瑰花瓣"/>
+    <bauble identifier="1879525256" name="花瓣袋"/>
+    <bauble identifier="1879525327" name="友善礼炮烟火"/>
+    <bauble identifier="1879525377" name="霍林之门烟火"/>
+    <bauble identifier="1879525372" name="炽雷烟火"/>
+    <bauble identifier="1879525371" name="巨角冲撞烟火"/>
+    <bauble identifier="1879525376" name="橙色星形烟火"/>
+    <bauble identifier="1879525379" name="风车烟火"/>
+    <bauble identifier="1879525373" name="凌空风车烟火"/>
+    <bauble identifier="1879525378" name="白树烟火"/>
+    <bauble identifier="1879525375" name="垂柳烟火"/>
+    <bauble identifier="1879525374" name="黄色星形烟火"/>
 </baubles>

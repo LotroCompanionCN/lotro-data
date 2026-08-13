@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="en">
-<label key="1879054946" value="Scholar"/>
-<label key="1879055079" value="Metalsmith"/>
-<label key="1879055299" value="Jeweller"/>
-<label key="1879055477" value="Tailor"/>
-<label key="1879055778" value="Weaponsmith"/>
-<label key="1879055941" value="Woodworker"/>
-<label key="1879061252" value="Cook"/>
-<label key="1879062809" value="Armourer"/>
-<label key="1879062810" value="Explorer"/>
-<label key="1879062811" value="Armsman"/>
-<label key="1879062812" value="Tinker"/>
-<label key="1879062813" value="Yeoman"/>
-<label key="1879062814" value="Woodsman"/>
-<label key="1879062815" value="Historian"/>
-<label key="1879062816" value="Farmer"/>
-<label key="1879062817" value="Forester"/>
-<label key="1879062818" value="Prospector"/>
-<label key="key:620761097:54354734" value="Scholars locate and research relics of ancient lore, relying on a vast knowledge of the world to produce scrolls and potions that aid in combat or craft."/>
-<label key="key:620761183:54354734" value="Metalsmiths use ingots of bronze, iron, and steel to forge shields and heavy-weight armour."/>
-<label key="key:620761355:54354734" value="Jewellers create beautiful rings, necklaces, bracelets, and earrings from precious metals and valuable gemstones."/>
-<label key="key:620761490:54354734" value="Tailors use bolts of cloth and treated leather to create versatile lightweight and rugged medium-weight armour."/>
-<label key="key:620761693:54354734" value="Weaponsmiths are skilled in both blacksmithing and bladecraft, combining these talents to produce fine metal weapons like swords and daggers."/>
-<label key="key:620761812:54354734" value="Woodworkers shape and cut wood to produce hand-carved weapons like bows and staves."/>
-<label key="key:620766247:54354734" value="Cooks use fresh produce and other ingredients to make a large variety of meals, snacks, soups, and strong drink."/>
-<label key="key:620767730:54354734" value="An Armourer knows that all that stands between a good soul and the grave is often a thin sheet of metal."/>
-<label key="key:620767731:54354734" value="Prospectors locate and mine mineral deposits, smelt raw metal ore into ingots, and refine metals used by smiths and jewellers."/>
-<label key="key:620767765:54354734" value="These canny travellers know much of the lands of Middle-Earth and its resources."/>
-<label key="key:620767766:54354734" value="Foresters locate and gather workable wood, producing treated timber for woodworkers. They have also mastered the skills of tanning, processing raw animal hides into leather for tailors."/>
-<label key="key:620767796:54354734" value="An Armsman knows the many secrets of weaponry, and can craft almost any weapon imaginable."/>
-<label key="key:620767797:54354734" value="Fascinated by things intricate and beautiful, the Tinker seeks to create great things."/>
-<label key="key:620767798:54354734" value="Hard-working and knowledgeable about the land, a Yeoman is well versed in farming, cooking, and tailoring."/>
-<label key="key:620767799:54354734" value="Farmers grow and harvest many types of crops including flowers, fruits, grains, pipe-weed, and vegetables."/>
-<label key="key:620767897:54354734" value="A Woodsman is trained to survive off the land, and make weapons from natural materials."/>
-<label key="key:620767898:54354734" value="Historians are the caretakers of lore and legend that the forces of light dare not forget."/>
+    <label key="1879054946" value="学者"/>
+    <label key="1879055079" value="冶炼师"/>
+    <label key="1879055299" value="珠宝匠"/>
+    <label key="1879055477" value="裁缝"/>
+    <label key="1879055778" value="锻造师"/>
+    <label key="1879055941" value="木工"/>
+    <label key="1879061252" value="厨师"/>
+    <label key="1879062809" value="军械师"/>
+    <label key="1879062810" value="探险家"/>
+    <label key="1879062811" value="锻造师（Armsman）"/>
+    <label key="1879062812" value="修补匠(Tinker)"/>
+    <label key="1879062813" value="自耕农（Yeoman）"/>
+    <label key="1879062814" value="伐木工（Woodsman）"/>
+    <label key="1879062815" value="历史学家（Historian）"/>
+    <label key="1879062816" value="农夫"/>
+    <label key="1879062817" value="伐木工"/>
+    <label key="1879062818" value="勘探师"/>
+    <label key="key:620761097:54354734" value="学者发掘并研究古代学识的遗物，凭借渊博的世界知识制作有助于战斗或工艺的卷轴与药剂。"/>
+    <label key="key:620761183:54354734" value="冶炼师使用青铜、铁和钢锭锻造盾牌和重型盔甲。"/>
+    <label key="key:620761355:54354734" value="珠宝匠用贵金属和珍贵宝石制作美丽的戒指、项链、手镯和耳环。"/>
+    <label key="key:620761490:54354734" value="裁缝使用布卷和处理过的皮革制作多功能的轻型和耐用的中型护甲。"/>
+    <label key="key:620761693:54354734" value="锻造师擅长锻造和 bladecraft，结合这些才能生产出精美的金属武器，如剑和匕首。"/>
+    <label key="key:620761812:54354734" value="木工通过塑形和切割木材来制作弓箭、法杖等手工雕刻武器。"/>
+    <label key="key:620766247:54354734" value="厨师使用新鲜农产品和其他食材制作各种各样的膳食、小吃、汤品和烈酒。"/>
+    <label key="key:620767730:54354734" value="军械师知道，隔开善良灵魂与坟墓的往往只是薄薄的一层金属。"/>
+    <label key="key:620767731:54354734" value="勘探师会定位并开采矿床，将原金属矿石熔炼成锭，还会精炼供铁匠和珠宝匠使用的金属。"/>
+    <label key="key:620767765:54354734" value="这些精明的旅行者非常了解中洲的土地及其资源。"/>
+    <label key="key:620767766:54354734" value="伐木工寻找并采集可用木材，为木工生产经过处理的木料。他们还掌握了鞣制技能，将生兽皮加工成供裁缝使用的皮革。"/>
+    <label key="key:620767796:54354734" value="锻造师知晓武器制造的诸多秘密，几乎能打造出任何能想象到的武器。"/>
+    <label key="key:620767797:54354734" value="痴迷于复杂而美丽的事物，工匠致力于创造伟大的作品。"/>
+    <label key="key:620767798:54354734" value="自耕农（Yeoman）勤劳且熟悉土地，精通耕种、烹饪和裁缝技艺。"/>
+    <label key="key:620767799:54354734" value="农夫种植和收获多种作物，包括花卉、水果、谷物、烟斗草和蔬菜。"/>
+    <label key="key:620767897:54354734" value="伐木工受过在野外生存的训练，能用天然材料制作武器。"/>
+    <label key="key:620767898:54354734" value="历史学家（Historian）是光明势力不敢遗忘的知识与传说的守护者。"/>
 </labels>

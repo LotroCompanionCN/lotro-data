@@ -1,866 +1,876 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202756" name="BillingGroup">
-<entry code="1" name="TurbineEmployee"/>
-<entry code="2" name="TurbineVIP"/>
-<entry code="3" name="TurbineExec"/>
-<entry code="4" name="Press"/>
-<entry code="5" name="AngmarGuest"/>
-<entry code="6" name="AngmarBeta"/>
-<entry code="7" name="AngmarBeta2"/>
-<entry code="8" name="AngmarSE"/>
-<entry code="9" name="AngmarOB"/>
-<entry code="10" name="AngmarStd"/>
-<entry code="11" name="AngmarLtd"/>
-<entry code="12" name="AngmarPre"/>
-<entry code="13" name="AngmarEBPre"/>
-<entry code="14" name="AngmarBBPre"/>
-<entry code="15" name="AngmarCUPre"/>
-<entry code="16" name="AngmarPre2"/>
-<entry code="17" name="AngmarRetail"/>
-<entry code="18" name="AngmarPromo1"/>
-<entry code="19" name="AngmarPromo2"/>
-<entry code="20" name="AngmarPromo3"/>
-<entry code="21" name="AngmarPromo4"/>
-<entry code="22" name="AngmarPromo5"/>
-<entry code="23" name="AngmarPromo6"/>
-<entry code="24" name="AngmarPromo7"/>
-<entry code="25" name="AngmarTrial"/>
-<entry code="26" name="AngmarReferred"/>
-<entry code="27" name="AngPr8"/>
-<entry code="28" name="AngPr9"/>
-<entry code="29" name="AngPr10"/>
-<entry code="30" name="AngPr11"/>
-<entry code="31" name="AngPr12"/>
-<entry code="32" name="MorPr1"/>
-<entry code="33" name="MorPr2"/>
-<entry code="34" name="MorPr3"/>
-<entry code="35" name="MorPr4"/>
-<entry code="36" name="MorPr5"/>
-<entry code="37" name="MorPr6"/>
-<entry code="38" name="MorPr7"/>
-<entry code="39" name="MorPr8"/>
-<entry code="40" name="MorPr9"/>
-<entry code="41" name="MorPr10"/>
-<entry code="42" name="MorPr11"/>
-<entry code="43" name="MorPr12"/>
-<entry code="44" name="MoriaAlpha0"/>
-<entry code="45" name="MoriaAlpha1"/>
-<entry code="46" name="MoriaBeta1"/>
-<entry code="47" name="MoriaBeta2"/>
-<entry code="48" name="MoriaStress1"/>
-<entry code="49" name="MoriaStress2"/>
-<entry code="50" name="MorPr13"/>
-<entry code="51" name="MorPr14"/>
-<entry code="52" name="MorPr15"/>
-<entry code="53" name="MorPr16"/>
-<entry code="54" name="MorPr17"/>
-<entry code="55" name="MorPr18"/>
-<entry code="56" name="MorPr19"/>
-<entry code="57" name="MorPr20"/>
-<entry code="58" name="MorPr21"/>
-<entry code="59" name="MorPr22"/>
-<entry code="60" name="MorPr23"/>
-<entry code="61" name="MorPr24"/>
-<entry code="62" name="MorPr25"/>
-<entry code="63" name="MorPr26"/>
-<entry code="64" name="MorPr27"/>
-<entry code="65" name="MorPr28"/>
-<entry code="66" name="MorPr29"/>
-<entry code="67" name="MorPr30"/>
-<entry code="68" name="MorPr31"/>
-<entry code="69" name="MorPr32"/>
-<entry code="70" name="MorPr33"/>
-<entry code="71" name="MoriaSTD"/>
-<entry code="72" name="MoriaTrial"/>
-<entry code="73" name="MoriaGuest"/>
-<entry code="74" name="WSCS"/>
-<entry code="75" name="WSCS_2"/>
-<entry code="76" name="WSCS_3"/>
-<entry code="77" name="WSSB"/>
-<entry code="78" name="WSSB_2"/>
-<entry code="79" name="WSSB_3"/>
-<entry code="80" name="WSSB_4"/>
-<entry code="81" name="MorPr34"/>
-<entry code="82" name="MorPr35"/>
-<entry code="85" name="MirkStd"/>
-<entry code="86" name="WebStore_WardrobeSpace"/>
-<entry code="87" name="WebStore_WardrobeSpace_2"/>
-<entry code="88" name="WebStore_WardrobeSpace_3"/>
-<entry code="89" name="WebStore_WardrobeSpace_4"/>
-<entry code="90" name="MirkPr1"/>
-<entry code="91" name="DGBeta"/>
-<entry code="92" name="DGBetaPress"/>
-<entry code="93" name="DGBetaVIP"/>
-<entry code="94" name="WSRK"/>
-<entry code="95" name="WSWD"/>
-<entry code="96" name="WSGC"/>
-<entry code="97" name="WSRLL"/>
-<entry code="98" name="WSRND"/>
-<entry code="99" name="WSRTS"/>
-<entry code="100" name="WSRMM"/>
-<entry code="101" name="WSRAM"/>
-<entry code="103" name="WSRED"/>
-<entry code="104" name="WSRFC"/>
-<entry code="105" name="WSRER"/>
-<entry code="106" name="WSREW"/>
-<entry code="107" name="WSCCK"/>
-<entry code="108" name="WSCFM"/>
-<entry code="109" name="WSCFR"/>
-<entry code="110" name="WSCJW"/>
-<entry code="111" name="WSCMS"/>
-<entry code="112" name="WSCPR"/>
-<entry code="113" name="WSCSC"/>
-<entry code="114" name="WSCTA"/>
-<entry code="115" name="WSCWS"/>
-<entry code="116" name="WSCWW"/>
-<entry code="117" name="WSCGC"/>
-<entry code="118" name="WSCGJ"/>
-<entry code="119" name="WSCGM"/>
-<entry code="120" name="WSCGS"/>
-<entry code="121" name="WSCGT"/>
-<entry code="122" name="WSCGW"/>
-<entry code="123" name="WSCGO"/>
-<entry code="129" name="WSAU"/>
-<entry code="130" name="WSAU_2"/>
-<entry code="131" name="WSAU_3"/>
-<entry code="132" name="WSAU_4"/>
-<entry code="133" name="WSAU_5"/>
-<entry code="134" name="WSSFB"/>
-<entry code="135" name="WSSWT"/>
-<entry code="136" name="WSSMT"/>
-<entry code="137" name="WSSMD"/>
-<entry code="138" name="WSSDG"/>
-<entry code="139" name="WSSDL"/>
-<entry code="140" name="WSSDT"/>
-<entry code="141" name="WSSSB"/>
-<entry code="142" name="WSSBO"/>
-<entry code="143" name="WSSBD"/>
-<entry code="144" name="WSSRR"/>
-<entry code="145" name="WSIN"/>
-<entry code="146" name="WSIN_2"/>
-<entry code="147" name="LOTROPreview"/>
-<entry code="148" name="WSCS_4"/>
-<entry code="149" name="WSCS_5"/>
-<entry code="150" name="WSCS_6"/>
-<entry code="151" name="WSCS_7"/>
-<entry code="152" name="WSCS_8"/>
-<entry code="153" name="WSCS_9"/>
-<entry code="154" name="StTuQu"/>
-<entry code="155" name="WSCS_10"/>
-<entry code="156" name="WebStore_WardrobeSpace_5"/>
-<entry code="160" name="WSRMoria"/>
-<entry code="161" name="WSRLorien"/>
-<entry code="162" name="WSRMirkwood"/>
-<entry code="163" name="WSTSkirmishMaxRank1"/>
-<entry code="164" name="WSTSkirmishMaxRank2"/>
-<entry code="165" name="WebStore_WardrobeSpace_6"/>
-<entry code="166" name="WebStore_WardrobeSpace_7"/>
-<entry code="167" name="WebStore_WardrobeSpace_8"/>
-<entry code="168" name="WebStore_WardrobeSpace_9"/>
-<entry code="169" name="WebStore_WardrobeSpace_10"/>
-<entry code="170" name="WSSB_5"/>
-<entry code="171" name="WSSB_6"/>
-<entry code="172" name="WSSB_7"/>
-<entry code="173" name="WSSB_8"/>
-<entry code="174" name="WSSB_9"/>
-<entry code="175" name="WSOF"/>
-<entry code="176" name="WSOF_2"/>
-<entry code="177" name="WSOF_3"/>
-<entry code="178" name="LOTROPAX2011"/>
-<entry code="179" name="WSOF_4"/>
-<entry code="180" name="WSOF_5"/>
-<entry code="181" name="WSSAAD"/>
-<entry code="182" name="WSSFIC"/>
-<entry code="183" name="WSSHON"/>
-<entry code="184" name="WSSIOF"/>
-<entry code="185" name="IsenSTD"/>
-<entry code="186" name="LOTROIsenCloak1"/>
-<entry code="187" name="LOTROIsenCloak2"/>
-<entry code="188" name="LOTROIsenCloak3"/>
-<entry code="189" name="LOTROIsenMount1"/>
-<entry code="190" name="LOTROIsenMount2"/>
-<entry code="191" name="LOTROIsenMount3"/>
-<entry code="192" name="LOTROIsenXP"/>
-<entry code="193" name="LOTROIsenBase"/>
-<entry code="194" name="LOTROIsenBundle"/>
-<entry code="195" name="WSMP_REAVER"/>
-<entry code="196" name="WSMP_BLACKARROW"/>
-<entry code="197" name="WSMP_WARLEADER"/>
-<entry code="198" name="WSMP_WEAVER"/>
-<entry code="199" name="WSMP_DEFILER"/>
-<entry code="200" name="WSMP_STALKER"/>
-<entry code="201" name="LOTRO_EU_VIP"/>
-<entry code="202" name="LOTRO_EU_LIFETIME"/>
-<entry code="203" name="LOTRO_EU_EX_VIP"/>
-<entry code="204" name="LOTRO_EU_COG"/>
-<entry code="205" name="LOTRONoRP"/>
-<entry code="206" name="IsenBeta"/>
-<entry code="207" name="WSSDRA"/>
-<entry code="208" name="WSRIsengard"/>
-<entry code="209" name="WSTSMR3"/>
-<entry code="210" name="GS_Mount"/>
-<entry code="211" name="StarterSkuMount"/>
-<entry code="212" name="WSIC_U5"/>
-<entry code="213" name="WSSB_10"/>
-<entry code="214" name="WSSB_11"/>
-<entry code="215" name="WSRGreatRiver"/>
-<entry code="216" name="WebStore_WardrobeSpace_11"/>
-<entry code="217" name="WebStore_WardrobeSpace_12"/>
-<entry code="218" name="WSAS_1"/>
-<entry code="219" name="WSWU"/>
-<entry code="220" name="LBNDRUNE"/>
-<entry code="221" name="LBNDWARD"/>
-<entry code="222" name="LPAX2012"/>
-<entry code="223" name="LBNDCON"/>
-<entry code="224" name="LCLOAK_V"/>
-<entry code="225" name="WSIN_3"/>
-<entry code="226" name="WSINPK"/>
-<entry code="227" name="AG_2012_3YEAR"/>
-<entry code="228" name="AG_2012_4YEAR"/>
-<entry code="229" name="AG_2012_5YEAR"/>
-<entry code="230" name="AG_2012_FREE"/>
-<entry code="237" name="WSTSMR4"/>
-<entry code="238" name="WSAS_T1_1"/>
-<entry code="239" name="WSAS_T1_2"/>
-<entry code="240" name="WSAS_T1_3"/>
-<entry code="241" name="WSAS_T1_4"/>
-<entry code="242" name="WSAS_T1_5"/>
-<entry code="243" name="WSAS_T1_6"/>
-<entry code="244" name="WSAS_T1_7"/>
-<entry code="245" name="WSAS_T1_8"/>
-<entry code="246" name="WSAS_T1_9"/>
-<entry code="247" name="WSAS_T1_10"/>
-<entry code="290" name="AG_2012_1YEAR"/>
-<entry code="291" name="AG_2012_2YEAR"/>
-<entry code="292" name="WS_ANNI_MOUNT"/>
-<entry code="293" name="WS_ANNI_CLOTH"/>
-<entry code="294" name="WS_ANNI_BUND"/>
-<entry code="295" name="PO_ROHAN_1"/>
-<entry code="296" name="PO_ROHAN_2"/>
-<entry code="297" name="PO_ROHAN_3"/>
-<entry code="299" name="WSSDSOM"/>
-<entry code="300" name="REF_MNT_1"/>
-<entry code="301" name="WS_XSELL_1"/>
-<entry code="302" name="WS_XSELL_2"/>
-<entry code="303" name="STEAM_MITH"/>
-<entry code="304" name="ROR_B_BUG"/>
-<entry code="305" name="ROR_B_SQ"/>
-<entry code="306" name="ROR_B_WISE"/>
-<entry code="307" name="ROR_B_SOC"/>
-<entry code="308" name="ROR_B_WELL"/>
-<entry code="309" name="ROHANBETA"/>
-<entry code="310" name="ROHANPRESS"/>
-<entry code="311" name="WSSB_12"/>
-<entry code="312" name="WSSB_13"/>
-<entry code="313" name="WebStore_WardrobeSpace_13"/>
-<entry code="314" name="WebStore_WardrobeSpace_14"/>
-<entry code="315" name="RoRSTD"/>
-<entry code="316" name="WSRRohan"/>
-<entry code="317" name="MC_TRT_1"/>
-<entry code="318" name="MC_TRT_2"/>
-<entry code="319" name="MC_TRT_3"/>
-<entry code="320" name="MC_TRT_4"/>
-<entry code="321" name="MC_TRT_5"/>
-<entry code="322" name="MC_CSM_1"/>
-<entry code="323" name="MC_CSM_2"/>
-<entry code="324" name="MC_CSM_3"/>
-<entry code="325" name="MC_CSM_4"/>
-<entry code="326" name="MC_CSM_5"/>
-<entry code="329" name="MC_CSM_6"/>
-<entry code="330" name="MC_CSM_7"/>
-<entry code="331" name="MC_TRT_6"/>
-<entry code="332" name="MC_TRT_7"/>
-<entry code="333" name="MC_TRTT_L"/>
-<entry code="334" name="MC_TRTT_H"/>
-<entry code="335" name="ROR_EU_1"/>
-<entry code="336" name="ROHAN_DR_B"/>
-<entry code="337" name="ROHAN_DR_H"/>
-<entry code="338" name="ROHAN_DR_L"/>
-<entry code="339" name="ROHAN_WS_1"/>
-<entry code="340" name="HORSEPLAY"/>
-<entry code="341" name="STARTBUND"/>
-<entry code="342" name="MAC_START"/>
-<entry code="343" name="WSRERIDR"/>
-<entry code="344" name="STARTBUND_WS"/>
-<entry code="345" name="TREATED_AS_SUBSCRIBER"/>
-<entry code="347" name="F2PLOTROUp"/>
-<entry code="348" name="WSIC_U9"/>
-<entry code="349" name="AG_2012_6YEAR"/>
-<entry code="350" name="WSRWILDR"/>
-<entry code="352" name="DR_MOUNT_2"/>
-<entry code="353" name="DR_MOUNT_3"/>
-<entry code="354" name="DR_MOUNT_4"/>
-<entry code="355" name="DR_MOUNT_5"/>
-<entry code="356" name="DR_MOUNT_1"/>
-<entry code="357" name="WEATHERSTOCK_1"/>
-<entry code="358" name="WEATHERSTOCK_2"/>
-<entry code="359" name="WEATHERSTOCK_3"/>
-<entry code="360" name="EXTRALIFE_1"/>
-<entry code="362" name="WebStore_WardrobeSpace_15"/>
-<entry code="363" name="WebStore_WardrobeSpace_16"/>
-<entry code="364" name="WebStore_WardrobeSpace_17"/>
-<entry code="365" name="WebStore_WardrobeSpace_18"/>
-<entry code="366" name="WebStore_WardrobeSpace_19"/>
-<entry code="367" name="WebStore_WardrobeSpace_20"/>
-<entry code="368" name="WebStore_WardrobeSpace_21"/>
-<entry code="369" name="WebStore_WardrobeSpace_22"/>
-<entry code="370" name="WebStore_WardrobeSpace_23"/>
-<entry code="371" name="WebStore_WardrobeSpace_24"/>
-<entry code="372" name="WSTSMR5"/>
-<entry code="373" name="WSSB_14"/>
-<entry code="374" name="ADV_RIDE_1"/>
-<entry code="375" name="ADV_RIDE_2"/>
-<entry code="376" name="WSRHELM"/>
-<entry code="377" name="HELM_XP"/>
-<entry code="378" name="HELM_TITLE_ENF"/>
-<entry code="379" name="HELM_TITLE_AVE"/>
-<entry code="380" name="HELM_MOUNT_1"/>
-<entry code="381" name="HELM_MOUNT_2"/>
-<entry code="382" name="HELM_COS_CHEST"/>
-<entry code="383" name="HELM_COS_FULL"/>
-<entry code="384" name="HELM_SLOTS"/>
-<entry code="385" name="HELM_CRYS"/>
-<entry code="386" name="HELM_LEG_BUNDLE"/>
-<entry code="387" name="HELM_COS_BACK"/>
-<entry code="389" name="HELM_PRESS"/>
-<entry code="390" name="HELM_BETA"/>
-<entry code="391" name="OCR_FESTIVAL_1"/>
-<entry code="392" name="OCR_CHILDSPLAY_1"/>
-<entry code="393" name="HDSTD"/>
-<entry code="394" name="HD_EU_MOUNT_1"/>
-<entry code="395" name="MNT_RAC_ELF"/>
-<entry code="396" name="MNT_RAC_DWF"/>
-<entry code="397" name="MNT_RAC_HUM"/>
-<entry code="398" name="MNT_RAC_HOB"/>
-<entry code="399" name="OCR_FASHIONABLE"/>
-<entry code="400" name="OCR_UNFASHIONABLE"/>
-<entry code="401" name="WSIS"/>
-<entry code="402" name="WSIS_2"/>
-<entry code="403" name="WSIS_3"/>
-<entry code="404" name="WSIS_4"/>
-<entry code="405" name="WSIS_5"/>
-<entry code="406" name="WSIS_6"/>
-<entry code="407" name="WSIS_7"/>
-<entry code="408" name="WSIS_8"/>
-<entry code="409" name="WSIS_9"/>
-<entry code="410" name="WSIS_10"/>
-<entry code="411" name="WSIS_11"/>
-<entry code="412" name="WSIS_12"/>
-<entry code="413" name="WSIS_13"/>
-<entry code="414" name="WSIS_14"/>
-<entry code="415" name="WSIS_15"/>
-<entry code="416" name="AG_2012_7YEAR"/>
-<entry code="417" name="WSRGOND"/>
-<entry code="418" name="14STPCK"/>
-<entry code="419" name="OCRGBEAR"/>
-<entry code="420" name="XL14CUB"/>
-<entry code="421" name="WSSB_15"/>
-<entry code="422" name="WSSB_16"/>
-<entry code="423" name="WSSB_17"/>
-<entry code="424" name="WSSB_18"/>
-<entry code="425" name="WSSB_19"/>
-<entry code="426" name="WSSB_20"/>
-<entry code="427" name="WSRCGON"/>
-<entry code="428" name="WSTSMR6"/>
-<entry code="429" name="WSCS_11"/>
-<entry code="430" name="WSCS_12"/>
-<entry code="431" name="WSCS_13"/>
-<entry code="432" name="WSBN"/>
-<entry code="433" name="LBNDBEOR"/>
-<entry code="434" name="LOTROAlpha"/>
-<entry code="435" name="AG_2012_8YEAR"/>
-<entry code="436" name="WSREGON"/>
-<entry code="437" name="EnterLockedWorld"/>
-<entry code="438" name="WSCS_14"/>
-<entry code="439" name="WSCS_15"/>
-<entry code="440" name="WSCS_16"/>
-<entry code="441" name="WSCS_17"/>
-<entry code="442" name="WSCS_18"/>
-<entry code="443" name="WSCS_19"/>
-<entry code="444" name="WSCS_20"/>
-<entry code="445" name="WSCS_21"/>
-<entry code="446" name="WSCS_22"/>
-<entry code="447" name="WSCS_23"/>
-<entry code="448" name="WSCS_24"/>
-<entry code="449" name="WSCS_25"/>
-<entry code="450" name="WSCS_26"/>
-<entry code="451" name="WSCS_27"/>
-<entry code="452" name="WSCS_28"/>
-<entry code="453" name="WSCS_29"/>
-<entry code="454" name="WSCS_30"/>
-<entry code="455" name="WSCS_31"/>
-<entry code="456" name="WSCS_32"/>
-<entry code="457" name="WSCS_33"/>
-<entry code="458" name="WSCS_34"/>
-<entry code="459" name="WSCS_35"/>
-<entry code="460" name="WSCS_36"/>
-<entry code="461" name="WSCS_37"/>
-<entry code="462" name="WSCS_38"/>
-<entry code="463" name="WORLDCONS"/>
-<entry code="464" name="WSSB_21"/>
-<entry code="465" name="WSSB_22"/>
-<entry code="466" name="WSSB_23"/>
-<entry code="467" name="WSSB_24"/>
-<entry code="468" name="WSSB_25"/>
-<entry code="469" name="WebStore_WardrobeSpace_25"/>
-<entry code="470" name="WebStore_WardrobeSpace_26"/>
-<entry code="471" name="WebStore_WardrobeSpace_27"/>
-<entry code="472" name="WebStore_WardrobeSpace_28"/>
-<entry code="473" name="WebStore_WardrobeSpace_29"/>
-<entry code="474" name="WSIS_16"/>
-<entry code="475" name="WSIS_17"/>
-<entry code="476" name="WSIS_18"/>
-<entry code="477" name="WSRANOR"/>
-<entry code="478" name="WSRFNOR"/>
-<entry code="479" name="WSREPIC_U18"/>
-<entry code="480" name="WSIC_U18"/>
-<entry code="481" name="U18PACK"/>
-<entry code="482" name="AG_2012_9YEAR"/>
-<entry code="483" name="WSSB_26"/>
-<entry code="484" name="WSSB_27"/>
-<entry code="485" name="WSSB_28"/>
-<entry code="486" name="WSSB_29"/>
-<entry code="487" name="WSSB_30"/>
-<entry code="488" name="WSSB_31"/>
-<entry code="489" name="WSSB_32"/>
-<entry code="490" name="WSSB_33"/>
-<entry code="491" name="WSSB_34"/>
-<entry code="492" name="WSSB_35"/>
-<entry code="493" name="WebStore_WardrobeSpace_30"/>
-<entry code="494" name="WebStore_WardrobeSpace_31"/>
-<entry code="495" name="WebStore_WardrobeSpace_32"/>
-<entry code="496" name="WebStore_WardrobeSpace_33"/>
-<entry code="497" name="WebStore_WardrobeSpace_34"/>
-<entry code="498" name="WebStore_WardrobeSpace_35"/>
-<entry code="499" name="WebStore_WardrobeSpace_36"/>
-<entry code="500" name="WebStore_WardrobeSpace_37"/>
-<entry code="501" name="WebStore_WardrobeSpace_38"/>
-<entry code="502" name="WebStore_WardrobeSpace_39"/>
-<entry code="503" name="WebStore_WardrobeSpace_VIP"/>
-<entry code="504" name="LOTRO_LIFETIME"/>
-<entry code="505" name="WSRMNSDW"/>
-<entry code="506" name="WSRWASTE"/>
-<entry code="507" name="VIP_REVIVAL"/>
-<entry code="508" name="SSGVIPTERMSACCEPT"/>
-<entry code="509" name="AG_2017_10YEAR"/>
-<entry code="510" name="MordorSTD"/>
-<entry code="511" name="WSRMORDOR"/>
-<entry code="512" name="WSHE"/>
-<entry code="513" name="key:621012615:146990316"/>
-<entry code="514" name="MordorUlt"/>
-<entry code="516" name="GotMordorSt"/>
-<entry code="517" name="GotMordorCo"/>
-<entry code="518" name="GotMordorUl"/>
-<entry code="519" name="WSRMIRKWOODNORTH"/>
-<entry code="520" name="AG_2018_11YEAR"/>
-<entry code="521" name="AnniversaryRewardGranted_2018"/>
-<entry code="522" name="WSRDWARFHOLDS"/>
-<entry code="523" name="WSOF_6"/>
-<entry code="524" name="WSRAddonU23"/>
-<entry code="525" name="Legendary_Acc_1"/>
-<entry code="526" name="key:621012615:263819237"/>
-<entry code="527" name="key:621012615:263819040"/>
-<entry code="528" name="key:621012615:160004673"/>
-<entry code="529" name="key:621012615:29106482"/>
-<entry code="530" name="LegServ_MTX"/>
-<entry code="531" name="Legendary_VIP_2018"/>
-<entry code="532" name="SUBBndl_2018"/>
-<entry code="533" name="RewVIP_1"/>
-<entry code="534" name="RewVIP_2"/>
-<entry code="535" name="RewVIP_3"/>
-<entry code="536" name="GotSUBBndl_2018"/>
-<entry code="537" name="MNTWHITE"/>
-<entry code="538" name="MNTHUNT"/>
-<entry code="539" name="MNTFGOAT"/>
-<entry code="540" name="MNTGSKEL"/>
-<entry code="541" name="MNTMINI"/>
-<entry code="542" name="MNTKHUND"/>
-<entry code="543" name="MNTIRON"/>
-<entry code="544" name="MNTOBSID"/>
-<entry code="545" name="MNTDAGO"/>
-<entry code="546" name="WSRVoA"/>
-<entry code="547" name="key:621012615:142959824"/>
-<entry code="548" name="key:621012615:42394945"/>
-<entry code="549" name="key:621012615:258140081"/>
-<entry code="550" name="MoriaMTX2019"/>
-<entry code="551" name="AG_2019_12YEAR"/>
-<entry code="552" name="AGGranted_2019"/>
-<entry code="553" name="OCR_EvtOrg"/>
-<entry code="554" name="OCR_EvtWin"/>
-<entry code="555" name="OCR_Music"/>
-<entry code="556" name="OCR_MusicPost"/>
-<entry code="557" name="OCR_Spect"/>
-<entry code="558" name="OCR_Artist"/>
-<entry code="559" name="OCR_ArtistPost"/>
-<entry code="560" name="OCR_EvtInfo"/>
-<entry code="561" name="OCR_ConAttend"/>
-<entry code="562" name="OCR_EvtView"/>
-<entry code="563" name="OCR_MusicAsst"/>
-<entry code="564" name="OCR_Victory"/>
-<entry code="565" name="OCR_Words"/>
-<entry code="566" name="OCR_Perform"/>
-<entry code="567" name="OCR_Audience"/>
-<entry code="568" name="OCR_Harnkeg"/>
-<entry code="569" name="OCR_ArtLove"/>
-<entry code="570" name="WSRMORGUL"/>
-<entry code="571" name="key:621012615:142959829"/>
-<entry code="572" name="key:621012615:246579707"/>
-<entry code="573" name="key:621012615:96857291"/>
-<entry code="574" name="key:621012615:142959845"/>
-<entry code="575" name="key:621012615:246565070"/>
-<entry code="576" name="key:621012615:24201858"/>
-<entry code="577" name="WSStout"/>
-<entry code="578" name="MORGULStd"/>
-<entry code="579" name="GotMORGULStd"/>
-<entry code="580" name="key:621012615:21283340"/>
-<entry code="581" name="GotMORGULColl"/>
-<entry code="582" name="MORGULUlt"/>
-<entry code="583" name="GotMORGULUlt"/>
-<entry code="584" name="LOTROPalantir"/>
-<entry code="585" name="GotMORGULColl_120"/>
-<entry code="586" name="GotMORGULUlt_120"/>
-<entry code="587" name="WSRBBoM"/>
-<entry code="588" name="GotMORGULColl_Bag"/>
-<entry code="589" name="GotMORGULUlt_Bags"/>
-<entry code="590" name="OCR_Aid"/>
-<entry code="591" name="RaceChange"/>
-<entry code="592" name="WSRWoA"/>
-<entry code="593" name="key:621012615:142959861"/>
-<entry code="594" name="key:621012615:132902226"/>
-<entry code="595" name="Rohan_VIP_2020"/>
-<entry code="596" name="AG_2020_13YEAR"/>
-<entry code="597" name="AGGranted_2020"/>
-<entry code="598" name="WSRHELMcontent"/>
-<entry code="599" name="VIP_Pig"/>
-<entry code="600" name="VIPMay2020"/>
-<entry code="601" name="GotMay2020"/>
-<entry code="602" name="key:621012615:110386945"/>
-<entry code="603" name="key:621012615:110386946"/>
-<entry code="604" name="key:621012615:110386947"/>
-<entry code="605" name="key:621012615:21372478"/>
-<entry code="606" name="key:621012615:19741506"/>
-<entry code="607" name="key:621012615:35606321"/>
-<entry code="608" name="key:621012615:35606322"/>
-<entry code="609" name="key:621012615:35606323"/>
-<entry code="610" name="key:621012615:35606324"/>
-<entry code="611" name="key:621012615:35606325"/>
-<entry code="612" name="WSRELD"/>
-<entry code="613" name="WSRMoria_99"/>
-<entry code="614" name="WSRMirkwood_99"/>
-<entry code="615" name="WSRIsengard_99"/>
-<entry code="616" name="WSIC_U5_99"/>
-<entry code="617" name="WSRRohan_99"/>
-<entry code="618" name="WSIC_U9_99"/>
-<entry code="619" name="WSRHELMcont_99"/>
-<entry code="620" name="key:621012615:25080196"/>
-<entry code="621" name="key:621012615:134267550"/>
-<entry code="622" name="VIP_HD_2020"/>
-<entry code="623" name="W3PeaksStd"/>
-<entry code="624" name="key:621012615:242034764"/>
-<entry code="625" name="Got3PeaksColl"/>
-<entry code="626" name="W3PeaksUlt"/>
-<entry code="627" name="Got3PeaksUlt"/>
-<entry code="628" name="OCRPetSlug"/>
-<entry code="629" name="WSWILDW"/>
-<entry code="630" name="WSAZNLBZ"/>
-<entry code="631" name="key:621012615:139870384"/>
-<entry code="632" name="key:621012615:132848206"/>
-<entry code="633" name="key:621012615:20135966"/>
-<entry code="634" name="LOTRO_catchup_bundle"/>
-<entry code="635" name="LOTRO_DBG_Starter"/>
-<entry code="636" name="GotLOTRO_DBG_Starter"/>
-<entry code="637" name="SSGEmployee"/>
-<entry code="638" name="GundabadSTD"/>
-<entry code="639" name="WSRGUN"/>
-<entry code="640" name="key:621012615:139870389"/>
-<entry code="641" name="key:621012615:244962419"/>
-<entry code="642" name="key:621012615:30214612"/>
-<entry code="643" name="AG_2021_14YEAR"/>
-<entry code="644" name="AGGranted_2021"/>
-<entry code="645" name="WSFurther01"/>
-<entry code="646" name="key:621012615:223020545"/>
-<entry code="647" name="key:621012615:223020547"/>
-<entry code="648" name="key:621012615:74220449"/>
-<entry code="649" name="key:621012615:74220451"/>
-<entry code="650" name="key:621012615:94378001"/>
-<entry code="651" name="key:621012615:94378003"/>
-<entry code="652" name="key:621012615:180593185"/>
-<entry code="653" name="key:621012615:180593187"/>
-<entry code="654" name="key:621012615:98572369"/>
-<entry code="655" name="key:621012615:98572371"/>
-<entry code="656" name="key:621012615:247703073"/>
-<entry code="657" name="key:621012615:247703075"/>
-<entry code="658" name="key:621012615:32472401"/>
-<entry code="659" name="key:621012615:32472403"/>
-<entry code="660" name="key:621012615:238409313"/>
-<entry code="661" name="key:621012615:238409315"/>
-<entry code="662" name="key:621012615:178644481"/>
-<entry code="663" name="key:621012615:178644483"/>
-<entry code="664" name="key:621012615:178160593"/>
-<entry code="665" name="key:621012615:178160595"/>
-<entry code="666" name="key:621012615:229188913"/>
-<entry code="667" name="key:621012615:229188915"/>
-<entry code="668" name="key:621012615:173166753"/>
-<entry code="669" name="key:621012615:173166755"/>
-<entry code="670" name="key:621012615:172496721"/>
-<entry code="671" name="key:621012615:172496723"/>
-<entry code="672" name="key:621012615:71530193"/>
-<entry code="673" name="key:621012615:71530195"/>
-<entry code="674" name="key:621012615:100629553"/>
-<entry code="675" name="key:621012615:100629555"/>
-<entry code="676" name="key:621012615:255189025"/>
-<entry code="677" name="key:621012615:255189027"/>
-<entry code="678" name="key:621012615:242946881"/>
-<entry code="679" name="key:621012615:242946883"/>
-<entry code="680" name="key:621012615:124991377"/>
-<entry code="681" name="key:621012615:124991379"/>
-<entry code="682" name="key:621012615:98231025"/>
-<entry code="683" name="key:621012615:98231027"/>
-<entry code="684" name="key:621012615:225332257"/>
-<entry code="685" name="key:621012615:225332259"/>
-<entry code="686" name="key:621012615:190113553"/>
-<entry code="687" name="key:621012615:190113555"/>
-<entry code="688" name="key:621012615:93221569"/>
-<entry code="689" name="key:621012615:93221571"/>
-<entry code="690" name="WSRMORDOR_99"/>
-<entry code="691" name="key:621012615:139870405"/>
-<entry code="692" name="key:621012615:42464722"/>
-<entry code="693" name="key:621012615:216412179"/>
-<entry code="694" name="GUNDColl"/>
-<entry code="695" name="GUNDUlt"/>
-<entry code="696" name="GotGUNDStd"/>
-<entry code="697" name="GotGUNDColl"/>
-<entry code="698" name="GotGUNDUlt"/>
-<entry code="699" name="GotGUNDCollDelv"/>
-<entry code="700" name="GotGUNDUltDelv"/>
-<entry code="701" name="DB_GUNDStd2Coll"/>
-<entry code="702" name="DB_GUNDStd2Ult"/>
-<entry code="703" name="DB_GUNDColl2Ult"/>
-<entry code="704" name="GotGUNDColl_130"/>
-<entry code="705" name="GotGUNDUlt_130"/>
-<entry code="706" name="PreviewPRESS"/>
-<entry code="707" name="WSBW"/>
-<entry code="708" name="key:621012615:139870416"/>
-<entry code="709" name="key:621012615:132901153"/>
-<entry code="710" name="key:621012615:90667859"/>
-<entry code="711" name="WSRYON"/>
-<entry code="712" name="WSRAngle"/>
-<entry code="713" name="key:621012615:139870432"/>
-<entry code="714" name="key:621012615:42463244"/>
-<entry code="715" name="key:621012615:159970366"/>
-<entry code="716" name="AG_2022_15YEAR"/>
-<entry code="717" name="AGGranted_2022"/>
-<entry code="718" name="VIPAnni2022"/>
-<entry code="719" name="GotVIPAnni2022"/>
-<entry code="720" name="FREEAnni2022"/>
-<entry code="721" name="GotFREEAnni2022"/>
-<entry code="722" name="WSRCrdSwn"/>
-<entry code="723" name="Supp2022Std"/>
-<entry code="724" name="Supp2022Mid"/>
-<entry code="725" name="Supp2022Full"/>
-<entry code="726" name="Supp2022_UpS2M"/>
-<entry code="727" name="Supp2022_UpM2F"/>
-<entry code="728" name="Supp2022_UpS2F"/>
-<entry code="729" name="WSFurther02"/>
-<entry code="730" name="GotSupp2022Std"/>
-<entry code="731" name="GotSupp2022Mid"/>
-<entry code="732" name="GotSupp2022Full"/>
-<entry code="733" name="BTSSTD"/>
-<entry code="734" name="BTSColl"/>
-<entry code="735" name="BTSUlt"/>
-<entry code="736" name="GotBTSColl"/>
-<entry code="737" name="GotBTSUlt"/>
-<entry code="741" name="DB_BTSStd2Coll"/>
-<entry code="742" name="DB_BTSStd2Ult"/>
-<entry code="743" name="DB_BTSColl2Ult"/>
-<entry code="744" name="WSRMORGUL_99"/>
-<entry code="745" name="WSRELD_99"/>
-<entry code="746" name="WSRBtSStarter"/>
-<entry code="747" name="MithPat2022Std"/>
-<entry code="748" name="MithPat2022Mid"/>
-<entry code="749" name="MithPat2022Full"/>
-<entry code="750" name="WSIC_U35"/>
-<entry code="751" name="key:621012615:67202707"/>
-<entry code="752" name="key:621012615:14092849"/>
-<entry code="753" name="key:621012615:14092851"/>
-<entry code="754" name="key:621012615:67202705"/>
-<entry code="755" name="WSCR"/>
-<entry code="756" name="key:621012615:2289669"/>
-<entry code="757" name="WSRU36"/>
-<entry code="758" name="MithHome2023Std"/>
-<entry code="759" name="MithHome2023Mid"/>
-<entry code="760" name="MithHome2023Full"/>
-<entry code="761" name="AG_2023_16YEAR"/>
-<entry code="762" name="AGGranted_2023"/>
-<entry code="763" name="WSRSoWW"/>
-<entry code="764" name="WSRUmbar"/>
-<entry code="765" name="WSRH"/>
-<entry code="766" name="Supp2023Std"/>
-<entry code="767" name="Supp2023Mid"/>
-<entry code="768" name="Supp2023Full"/>
-<entry code="769" name="Supp2023_UpS2M"/>
-<entry code="770" name="Supp2023_UpM2F"/>
-<entry code="771" name="Supp2023_UpS2F"/>
-<entry code="772" name="GotSupp2023Std"/>
-<entry code="773" name="GotSupp2023Mid"/>
-<entry code="774" name="GotSupp2023Full"/>
-<entry code="775" name="UmbarStd"/>
-<entry code="776" name="UmbarColl"/>
-<entry code="777" name="UmbarUlt"/>
-<entry code="778" name="GotUmbarColl"/>
-<entry code="779" name="GotUmbarUlt"/>
-<entry code="780" name="DB_UmbarStd2Coll"/>
-<entry code="781" name="DB_UmbarColl2Ult"/>
-<entry code="782" name="DB_UmbarStd2Ult"/>
-<entry code="783" name="GotUmbarValar"/>
-<entry code="784" name="MithSublime2023Std"/>
-<entry code="785" name="MithSublime2023Mid"/>
-<entry code="786" name="MithSublime2023Full"/>
-<entry code="787" name="MithWhims2024Std"/>
-<entry code="788" name="MithWhims2024Mid"/>
-<entry code="789" name="MithWhims2024Full"/>
-<entry code="790" name="AG_2024_17YEAR"/>
-<entry code="791" name="AGGranted_2024"/>
-<entry code="792" name="WSRUnderUmbar"/>
-<entry code="793" name="WSMP_Rewardtrack01"/>
-<entry code="794" name="WSRIkorban"/>
-<entry code="795" name="key:621012615:188210769"/>
-<entry code="796" name="key:621012615:188210770"/>
-<entry code="797" name="key:621012615:188210771"/>
-<entry code="798" name="key:621012615:188210772"/>
-<entry code="799" name="key:621012615:188210773"/>
-<entry code="800" name="key:621012615:188210774"/>
-<entry code="801" name="key:621012615:188210775"/>
-<entry code="802" name="key:621012615:188210776"/>
-<entry code="803" name="key:621012615:188210777"/>
-<entry code="804" name="key:621012615:233017297"/>
-<entry code="805" name="MithMirk2024Std"/>
-<entry code="806" name="MithMirk2024Mid"/>
-<entry code="807" name="MithMirk2024Full"/>
-<entry code="808" name="key:621012615:122640564"/>
-<entry code="809" name="key:621012615:140692407"/>
-<entry code="810" name="StarterPack2024"/>
-<entry code="811" name="JourneyStd"/>
-<entry code="812" name="JourneyColl"/>
-<entry code="813" name="JourneyUlt"/>
-<entry code="814" name="DB_JourneyStd2Coll"/>
-<entry code="815" name="DB_JourneyColl2Ult"/>
-<entry code="816" name="DB_JourneyStd2Ult"/>
-<entry code="817" name="GotJourneyStd"/>
-<entry code="818" name="GotJourneyColl"/>
-<entry code="819" name="GotJourneyUlt"/>
-<entry code="820" name="GotJourneyStd_150"/>
-<entry code="821" name="GotJourneyUlt_150"/>
-<entry code="822" name="MithRohan2024Std"/>
-<entry code="823" name="MithRohan2024Mid"/>
-<entry code="824" name="MithRohan2024Full"/>
-<entry code="825" name="WardrobeSpace_40"/>
-<entry code="826" name="WardrobeSpace_41"/>
-<entry code="827" name="WardrobeSpace_42"/>
-<entry code="828" name="WardrobeSpace_43"/>
-<entry code="829" name="WardrobeSpace_44"/>
-<entry code="830" name="WardrobeSpace_45"/>
-<entry code="831" name="WardrobeSpace_46"/>
-<entry code="832" name="WardrobeSpace_47"/>
-<entry code="833" name="WardrobeSpace_48"/>
-<entry code="834" name="WardrobeSpace_49"/>
-<entry code="835" name="WardrobeSpace_50"/>
-<entry code="836" name="WardrobeSpace_51"/>
-<entry code="837" name="WardrobeSpace_52"/>
-<entry code="838" name="WardrobeSpace_53"/>
-<entry code="839" name="WardrobeSpace_54"/>
-<entry code="840" name="WardrobeSpace_55"/>
-<entry code="841" name="WardrobeSpace_56"/>
-<entry code="842" name="WardrobeSpace_57"/>
-<entry code="843" name="WardrobeSpace_58"/>
-<entry code="844" name="WardrobeSpace_59"/>
-<entry code="845" name="WardrobeSpace_60"/>
-<entry code="846" name="WardrobeSpace_61"/>
-<entry code="847" name="WardrobeSpace_62"/>
-<entry code="848" name="WardrobeSpace_63"/>
-<entry code="849" name="WardrobeSpace_64"/>
-<entry code="850" name="WardrobeSpace_65"/>
-<entry code="851" name="WardrobeSpace_66"/>
-<entry code="852" name="WardrobeSpace_67"/>
-<entry code="853" name="WardrobeSpace_68"/>
-<entry code="854" name="WardrobeSpace_69"/>
-<entry code="855" name="WardrobeSpace_70"/>
-<entry code="856" name="WardrobeSpace_71"/>
-<entry code="857" name="WardrobeSpace_72"/>
-<entry code="858" name="WardrobeSpace_73"/>
-<entry code="859" name="WardrobeSpace_74"/>
-<entry code="860" name="WardrobeSpace_75"/>
-<entry code="861" name="WardrobeSpace_76"/>
-<entry code="862" name="WardrobeSpace_77"/>
-<entry code="863" name="WardrobeSpace_78"/>
-<entry code="864" name="WardrobeSpace_79"/>
-<entry code="865" name="MithSands2025Std"/>
-<entry code="866" name="MithSands2025Mid"/>
-<entry code="867" name="MithSands2025Full"/>
-<entry code="868" name="WSRCrownHamat"/>
-<entry code="869" name="AG_2025_18YEAR"/>
-<entry code="870" name="AGGranted_2025"/>
-<entry code="871" name="MithKnight2025Std"/>
-<entry code="872" name="MithKnight2025Mid"/>
-<entry code="873" name="MithKnight2025Full"/>
-<entry code="874" name="WSMP_Rewardtrack02"/>
-<entry code="875" name="WSMP_Rewardtrack03"/>
-<entry code="876" name="WSMP_Rewardtrack04"/>
-<entry code="877" name="WSMP_Rewardtrack05"/>
-<entry code="878" name="WSRMurGhala"/>
-<entry code="879" name="DKHaradStd"/>
-<entry code="880" name="DKHaradColl"/>
-<entry code="881" name="DKHaradUlt"/>
-<entry code="882" name="DB_DKHaradStd2Coll"/>
-<entry code="883" name="DB_DKHaradColl2Ult"/>
-<entry code="884" name="DB_DKHaradStd2Ult"/>
-<entry code="885" name="WSOF_7"/>
-<entry code="886" name="WSOF_8"/>
-<entry code="887" name="WSOF_9"/>
-<entry code="888" name="WSOF_10"/>
-<entry code="889" name="WSOF_11"/>
-<entry code="890" name="WSOF_12"/>
-<entry code="891" name="WSOF_13"/>
-<entry code="892" name="WSOF_14"/>
-<entry code="893" name="WSOF_15"/>
-<entry code="894" name="WSOF_16"/>
-<entry code="895" name="WSOF_17"/>
-<entry code="896" name="WSOF_18"/>
-<entry code="897" name="WSOF_19"/>
-<entry code="898" name="WSOF_20"/>
-<entry code="899" name="MithMonkey2025Std"/>
-<entry code="900" name="MithMonkey2025Mid"/>
-<entry code="901" name="MithMonkey2025Full"/>
-<entry code="902" name="GotDKHaradStd_150"/>
-<entry code="903" name="GotDKHaradColl_Supp"/>
-<entry code="904" name="GotDKHaradUlt_Supp"/>
-<entry code="905" name="GotDKHaradUlt_Valar"/>
-<entry code="906" name="OCR_Eyesore"/>
-<entry code="907" name="OCR_Bullroarer"/>
-<entry code="908" name="OCR_Animal_Frnd"/>
-<entry code="909" name="OCR_Colletor"/>
-<entry code="910" name="MithCaravan2025Std"/>
-<entry code="911" name="MithCaravan2025Mid"/>
-<entry code="912" name="MithCaravan2025Full"/>
-<entry code="913" name="MemDeep2025Std"/>
-<entry code="914" name="MemDeep2025Mid"/>
-<entry code="915" name="MemDeep2025Full"/>
-<entry code="916" name="WSMP_Rewardtrack06"/>
-<entry code="917" name="key:621012615:7910117"/>
-<entry code="918" name="WSRGloriousHunt"/>
-<entry code="919" name="key:621012615:247266689"/>
-<entry code="920" name="key:621012615:247266690"/>
-<entry code="921" name="key:621012615:247266691"/>
-<entry code="922" name="key:621012615:247266692"/>
-<entry code="923" name="key:621012615:247266693"/>
-<entry code="924" name="key:621012615:247266694"/>
-<entry code="925" name="key:621012615:247266695"/>
-<entry code="926" name="key:621012615:247266696"/>
-<entry code="927" name="key:621012615:247266697"/>
-<entry code="928" name="AG_2026_19YEAR"/>
-<entry code="929" name="AGGranted_2026"/>
-<entry code="930" name="MithHighElf2026Std"/>
-<entry code="931" name="MithHighElf2026Mid"/>
-<entry code="932" name="MithHighElf2026Full"/>
-<entry code="933" name="WSMP_Rewardtrack07"/>
-<entry code="934" name="key:621012615:158905077"/>
+    <entry code="1" name="TurbineEmployee"/>
+    <entry code="2" name="TurbineVIP"/>
+    <entry code="3" name="TurbineExec"/>
+    <entry code="4" name="Press"/>
+    <entry code="5" name="AngmarGuest"/>
+    <entry code="6" name="AngmarBeta"/>
+    <entry code="7" name="AngmarBeta2"/>
+    <entry code="8" name="AngmarSE"/>
+    <entry code="9" name="AngmarOB"/>
+    <entry code="10" name="AngmarStd"/>
+    <entry code="11" name="AngmarLtd"/>
+    <entry code="12" name="AngmarPre"/>
+    <entry code="13" name="AngmarEBPre"/>
+    <entry code="14" name="AngmarBBPre"/>
+    <entry code="15" name="AngmarCUPre"/>
+    <entry code="16" name="AngmarPre2"/>
+    <entry code="17" name="AngmarRetail"/>
+    <entry code="18" name="AngmarPromo1"/>
+    <entry code="19" name="AngmarPromo2"/>
+    <entry code="20" name="AngmarPromo3"/>
+    <entry code="21" name="AngmarPromo4"/>
+    <entry code="22" name="AngmarPromo5"/>
+    <entry code="23" name="AngmarPromo6"/>
+    <entry code="24" name="AngmarPromo7"/>
+    <entry code="25" name="AngmarTrial"/>
+    <entry code="26" name="AngmarReferred"/>
+    <entry code="27" name="AngPr8"/>
+    <entry code="28" name="AngPr9"/>
+    <entry code="29" name="AngPr10"/>
+    <entry code="30" name="AngPr11"/>
+    <entry code="31" name="AngPr12"/>
+    <entry code="32" name="MorPr1"/>
+    <entry code="33" name="MorPr2"/>
+    <entry code="34" name="MorPr3"/>
+    <entry code="35" name="MorPr4"/>
+    <entry code="36" name="MorPr5"/>
+    <entry code="37" name="MorPr6"/>
+    <entry code="38" name="MorPr7"/>
+    <entry code="39" name="MorPr8"/>
+    <entry code="40" name="MorPr9"/>
+    <entry code="41" name="MorPr10"/>
+    <entry code="42" name="MorPr11"/>
+    <entry code="43" name="MorPr12"/>
+    <entry code="44" name="MoriaAlpha0"/>
+    <entry code="45" name="MoriaAlpha1"/>
+    <entry code="46" name="MoriaBeta1"/>
+    <entry code="47" name="MoriaBeta2"/>
+    <entry code="48" name="MoriaStress1"/>
+    <entry code="49" name="MoriaStress2"/>
+    <entry code="50" name="MorPr13"/>
+    <entry code="51" name="MorPr14"/>
+    <entry code="52" name="MorPr15"/>
+    <entry code="53" name="MorPr16"/>
+    <entry code="54" name="MorPr17"/>
+    <entry code="55" name="MorPr18"/>
+    <entry code="56" name="MorPr19"/>
+    <entry code="57" name="MorPr20"/>
+    <entry code="58" name="MorPr21"/>
+    <entry code="59" name="MorPr22"/>
+    <entry code="60" name="MorPr23"/>
+    <entry code="61" name="MorPr24"/>
+    <entry code="62" name="MorPr25"/>
+    <entry code="63" name="MorPr26"/>
+    <entry code="64" name="MorPr27"/>
+    <entry code="65" name="MorPr28"/>
+    <entry code="66" name="MorPr29"/>
+    <entry code="67" name="MorPr30"/>
+    <entry code="68" name="MorPr31"/>
+    <entry code="69" name="MorPr32"/>
+    <entry code="70" name="MorPr33"/>
+    <entry code="71" name="MoriaSTD"/>
+    <entry code="72" name="MoriaTrial"/>
+    <entry code="73" name="MoriaGuest"/>
+    <entry code="74" name="WSCS"/>
+    <entry code="75" name="WSCS_2"/>
+    <entry code="76" name="WSCS_3"/>
+    <entry code="77" name="WSSB"/>
+    <entry code="78" name="WSSB_2"/>
+    <entry code="79" name="WSSB_3"/>
+    <entry code="80" name="WSSB_4"/>
+    <entry code="81" name="MorPr34"/>
+    <entry code="82" name="MorPr35"/>
+    <entry code="85" name="MirkStd"/>
+    <entry code="86" name="WebStore_WardrobeSpace"/>
+    <entry code="87" name="WebStore_WardrobeSpace_2"/>
+    <entry code="88" name="WebStore_WardrobeSpace_3"/>
+    <entry code="89" name="WebStore_WardrobeSpace_4"/>
+    <entry code="90" name="MirkPr1"/>
+    <entry code="91" name="DGBeta"/>
+    <entry code="92" name="DGBetaPress"/>
+    <entry code="93" name="DGBetaVIP"/>
+    <entry code="94" name="WSRK"/>
+    <entry code="95" name="WSWD"/>
+    <entry code="96" name="WSGC"/>
+    <entry code="97" name="WSRLL"/>
+    <entry code="98" name="WSRND"/>
+    <entry code="99" name="WSRTS"/>
+    <entry code="100" name="WSRMM"/>
+    <entry code="101" name="WSRAM"/>
+    <entry code="103" name="WSRED"/>
+    <entry code="104" name="WSRFC"/>
+    <entry code="105" name="WSRER"/>
+    <entry code="106" name="WSREW"/>
+    <entry code="107" name="WSCCK"/>
+    <entry code="108" name="WSCFM"/>
+    <entry code="109" name="WSCFR"/>
+    <entry code="110" name="WSCJW"/>
+    <entry code="111" name="WSCMS"/>
+    <entry code="112" name="WSCPR"/>
+    <entry code="113" name="WSCSC"/>
+    <entry code="114" name="WSCTA"/>
+    <entry code="115" name="WSCWS"/>
+    <entry code="116" name="WSCWW"/>
+    <entry code="117" name="WSCGC"/>
+    <entry code="118" name="WSCGJ"/>
+    <entry code="119" name="WSCGM"/>
+    <entry code="120" name="WSCGS"/>
+    <entry code="121" name="WSCGT"/>
+    <entry code="122" name="WSCGW"/>
+    <entry code="123" name="WSCGO"/>
+    <entry code="129" name="WSAU"/>
+    <entry code="130" name="WSAU_2"/>
+    <entry code="131" name="WSAU_3"/>
+    <entry code="132" name="WSAU_4"/>
+    <entry code="133" name="WSAU_5"/>
+    <entry code="134" name="WSSFB"/>
+    <entry code="135" name="WSSWT"/>
+    <entry code="136" name="WSSMT"/>
+    <entry code="137" name="WSSMD"/>
+    <entry code="138" name="WSSDG"/>
+    <entry code="139" name="WSSDL"/>
+    <entry code="140" name="WSSDT"/>
+    <entry code="141" name="WSSSB"/>
+    <entry code="142" name="WSSBO"/>
+    <entry code="143" name="WSSBD"/>
+    <entry code="144" name="WSSRR"/>
+    <entry code="145" name="WSIN"/>
+    <entry code="146" name="WSIN_2"/>
+    <entry code="147" name="LOTROPreview"/>
+    <entry code="148" name="WSCS_4"/>
+    <entry code="149" name="WSCS_5"/>
+    <entry code="150" name="WSCS_6"/>
+    <entry code="151" name="WSCS_7"/>
+    <entry code="152" name="WSCS_8"/>
+    <entry code="153" name="WSCS_9"/>
+    <entry code="154" name="StTuQu"/>
+    <entry code="155" name="WSCS_10"/>
+    <entry code="156" name="WebStore_WardrobeSpace_5"/>
+    <entry code="160" name="WSRMoria"/>
+    <entry code="161" name="WSRLorien"/>
+    <entry code="162" name="WSRMirkwood"/>
+    <entry code="163" name="WSTSkirmishMaxRank1"/>
+    <entry code="164" name="WSTSkirmishMaxRank2"/>
+    <entry code="165" name="WebStore_WardrobeSpace_6"/>
+    <entry code="166" name="WebStore_WardrobeSpace_7"/>
+    <entry code="167" name="WebStore_WardrobeSpace_8"/>
+    <entry code="168" name="WebStore_WardrobeSpace_9"/>
+    <entry code="169" name="WebStore_WardrobeSpace_10"/>
+    <entry code="170" name="WSSB_5"/>
+    <entry code="171" name="WSSB_6"/>
+    <entry code="172" name="WSSB_7"/>
+    <entry code="173" name="WSSB_8"/>
+    <entry code="174" name="WSSB_9"/>
+    <entry code="175" name="WSOF"/>
+    <entry code="176" name="WSOF_2"/>
+    <entry code="177" name="WSOF_3"/>
+    <entry code="178" name="LOTROPAX2011"/>
+    <entry code="179" name="WSOF_4"/>
+    <entry code="180" name="WSOF_5"/>
+    <entry code="181" name="WSSAAD"/>
+    <entry code="182" name="WSSFIC"/>
+    <entry code="183" name="WSSHON"/>
+    <entry code="184" name="WSSIOF"/>
+    <entry code="185" name="IsenSTD"/>
+    <entry code="186" name="LOTROIsenCloak1"/>
+    <entry code="187" name="LOTROIsenCloak2"/>
+    <entry code="188" name="LOTROIsenCloak3"/>
+    <entry code="189" name="LOTROIsenMount1"/>
+    <entry code="190" name="LOTROIsenMount2"/>
+    <entry code="191" name="LOTROIsenMount3"/>
+    <entry code="192" name="LOTROIsenXP"/>
+    <entry code="193" name="LOTROIsenBase"/>
+    <entry code="194" name="LOTROIsenBundle"/>
+    <entry code="195" name="WSMP_REAVER"/>
+    <entry code="196" name="WSMP_BLACKARROW"/>
+    <entry code="197" name="WSMP_WARLEADER"/>
+    <entry code="198" name="WSMP_WEAVER"/>
+    <entry code="199" name="WSMP_DEFILER"/>
+    <entry code="200" name="WSMP_STALKER"/>
+    <entry code="201" name="LOTRO_EU_VIP"/>
+    <entry code="202" name="LOTRO_EU_LIFETIME"/>
+    <entry code="203" name="LOTRO_EU_EX_VIP"/>
+    <entry code="204" name="LOTRO_EU_COG"/>
+    <entry code="205" name="LOTRONoRP"/>
+    <entry code="206" name="IsenBeta"/>
+    <entry code="207" name="WSSDRA"/>
+    <entry code="208" name="WSRIsengard"/>
+    <entry code="209" name="WSTSMR3"/>
+    <entry code="210" name="GS_Mount"/>
+    <entry code="211" name="StarterSkuMount"/>
+    <entry code="212" name="WSIC_U5"/>
+    <entry code="213" name="WSSB_10"/>
+    <entry code="214" name="WSSB_11"/>
+    <entry code="215" name="WSRGreatRiver"/>
+    <entry code="216" name="WebStore_WardrobeSpace_11"/>
+    <entry code="217" name="WebStore_WardrobeSpace_12"/>
+    <entry code="218" name="WSAS_1"/>
+    <entry code="219" name="WSWU"/>
+    <entry code="220" name="LBNDRUNE"/>
+    <entry code="221" name="LBNDWARD"/>
+    <entry code="222" name="LPAX2012"/>
+    <entry code="223" name="LBNDCON"/>
+    <entry code="224" name="LCLOAK_V"/>
+    <entry code="225" name="WSIN_3"/>
+    <entry code="226" name="WSINPK"/>
+    <entry code="227" name="AG_2012_3YEAR"/>
+    <entry code="228" name="AG_2012_4YEAR"/>
+    <entry code="229" name="AG_2012_5YEAR"/>
+    <entry code="230" name="AG_2012_FREE"/>
+    <entry code="237" name="WSTSMR4"/>
+    <entry code="238" name="WSAS_T1_1"/>
+    <entry code="239" name="WSAS_T1_2"/>
+    <entry code="240" name="WSAS_T1_3"/>
+    <entry code="241" name="WSAS_T1_4"/>
+    <entry code="242" name="WSAS_T1_5"/>
+    <entry code="243" name="WSAS_T1_6"/>
+    <entry code="244" name="WSAS_T1_7"/>
+    <entry code="245" name="WSAS_T1_8"/>
+    <entry code="246" name="WSAS_T1_9"/>
+    <entry code="247" name="WSAS_T1_10"/>
+    <entry code="290" name="AG_2012_1YEAR"/>
+    <entry code="291" name="AG_2012_2YEAR"/>
+    <entry code="292" name="WS_ANNI_MOUNT"/>
+    <entry code="293" name="WS_ANNI_CLOTH"/>
+    <entry code="294" name="WS_ANNI_BUND"/>
+    <entry code="295" name="PO_ROHAN_1"/>
+    <entry code="296" name="PO_ROHAN_2"/>
+    <entry code="297" name="PO_ROHAN_3"/>
+    <entry code="299" name="WSSDSOM"/>
+    <entry code="300" name="REF_MNT_1"/>
+    <entry code="301" name="WS_XSELL_1"/>
+    <entry code="302" name="WS_XSELL_2"/>
+    <entry code="303" name="STEAM_MITH"/>
+    <entry code="304" name="ROR_B_BUG"/>
+    <entry code="305" name="ROR_B_SQ"/>
+    <entry code="306" name="ROR_B_WISE"/>
+    <entry code="307" name="ROR_B_SOC"/>
+    <entry code="308" name="ROR_B_WELL"/>
+    <entry code="309" name="ROHANBETA"/>
+    <entry code="310" name="ROHANPRESS"/>
+    <entry code="311" name="WSSB_12"/>
+    <entry code="312" name="WSSB_13"/>
+    <entry code="313" name="WebStore_WardrobeSpace_13"/>
+    <entry code="314" name="WebStore_WardrobeSpace_14"/>
+    <entry code="315" name="RoRSTD"/>
+    <entry code="316" name="WSRRohan"/>
+    <entry code="317" name="MC_TRT_1"/>
+    <entry code="318" name="MC_TRT_2"/>
+    <entry code="319" name="MC_TRT_3"/>
+    <entry code="320" name="MC_TRT_4"/>
+    <entry code="321" name="MC_TRT_5"/>
+    <entry code="322" name="MC_CSM_1"/>
+    <entry code="323" name="MC_CSM_2"/>
+    <entry code="324" name="MC_CSM_3"/>
+    <entry code="325" name="MC_CSM_4"/>
+    <entry code="326" name="MC_CSM_5"/>
+    <entry code="329" name="MC_CSM_6"/>
+    <entry code="330" name="MC_CSM_7"/>
+    <entry code="331" name="MC_TRT_6"/>
+    <entry code="332" name="MC_TRT_7"/>
+    <entry code="333" name="MC_TRTT_L"/>
+    <entry code="334" name="MC_TRTT_H"/>
+    <entry code="335" name="ROR_EU_1"/>
+    <entry code="336" name="ROHAN_DR_B"/>
+    <entry code="337" name="ROHAN_DR_H"/>
+    <entry code="338" name="ROHAN_DR_L"/>
+    <entry code="339" name="ROHAN_WS_1"/>
+    <entry code="340" name="HORSEPLAY"/>
+    <entry code="341" name="STARTBUND"/>
+    <entry code="342" name="MAC_START"/>
+    <entry code="343" name="WSRERIDR"/>
+    <entry code="344" name="STARTBUND_WS"/>
+    <entry code="345" name="TREATED_AS_SUBSCRIBER"/>
+    <entry code="347" name="F2PLOTROUp"/>
+    <entry code="348" name="WSIC_U9"/>
+    <entry code="349" name="AG_2012_6YEAR"/>
+    <entry code="350" name="WSRWILDR"/>
+    <entry code="352" name="DR_MOUNT_2"/>
+    <entry code="353" name="DR_MOUNT_3"/>
+    <entry code="354" name="DR_MOUNT_4"/>
+    <entry code="355" name="DR_MOUNT_5"/>
+    <entry code="356" name="DR_MOUNT_1"/>
+    <entry code="357" name="WEATHERSTOCK_1"/>
+    <entry code="358" name="WEATHERSTOCK_2"/>
+    <entry code="359" name="WEATHERSTOCK_3"/>
+    <entry code="360" name="EXTRALIFE_1"/>
+    <entry code="362" name="WebStore_WardrobeSpace_15"/>
+    <entry code="363" name="WebStore_WardrobeSpace_16"/>
+    <entry code="364" name="WebStore_WardrobeSpace_17"/>
+    <entry code="365" name="WebStore_WardrobeSpace_18"/>
+    <entry code="366" name="WebStore_WardrobeSpace_19"/>
+    <entry code="367" name="WebStore_WardrobeSpace_20"/>
+    <entry code="368" name="WebStore_WardrobeSpace_21"/>
+    <entry code="369" name="WebStore_WardrobeSpace_22"/>
+    <entry code="370" name="WebStore_WardrobeSpace_23"/>
+    <entry code="371" name="WebStore_WardrobeSpace_24"/>
+    <entry code="372" name="WSTSMR5"/>
+    <entry code="373" name="WSSB_14"/>
+    <entry code="374" name="ADV_RIDE_1"/>
+    <entry code="375" name="ADV_RIDE_2"/>
+    <entry code="376" name="WSRHELM"/>
+    <entry code="377" name="HELM_XP"/>
+    <entry code="378" name="HELM_TITLE_ENF"/>
+    <entry code="379" name="HELM_TITLE_AVE"/>
+    <entry code="380" name="HELM_MOUNT_1"/>
+    <entry code="381" name="HELM_MOUNT_2"/>
+    <entry code="382" name="HELM_COS_CHEST"/>
+    <entry code="383" name="HELM_COS_FULL"/>
+    <entry code="384" name="HELM_SLOTS"/>
+    <entry code="385" name="HELM_CRYS"/>
+    <entry code="386" name="HELM_LEG_BUNDLE"/>
+    <entry code="387" name="HELM_COS_BACK"/>
+    <entry code="389" name="HELM_PRESS"/>
+    <entry code="390" name="HELM_BETA"/>
+    <entry code="391" name="OCR_FESTIVAL_1"/>
+    <entry code="392" name="OCR_CHILDSPLAY_1"/>
+    <entry code="393" name="HDSTD"/>
+    <entry code="394" name="HD_EU_MOUNT_1"/>
+    <entry code="395" name="MNT_RAC_ELF"/>
+    <entry code="396" name="MNT_RAC_DWF"/>
+    <entry code="397" name="MNT_RAC_HUM"/>
+    <entry code="398" name="MNT_RAC_HOB"/>
+    <entry code="399" name="OCR_FASHIONABLE"/>
+    <entry code="400" name="OCR_UNFASHIONABLE"/>
+    <entry code="401" name="WSIS"/>
+    <entry code="402" name="WSIS_2"/>
+    <entry code="403" name="WSIS_3"/>
+    <entry code="404" name="WSIS_4"/>
+    <entry code="405" name="WSIS_5"/>
+    <entry code="406" name="WSIS_6"/>
+    <entry code="407" name="WSIS_7"/>
+    <entry code="408" name="WSIS_8"/>
+    <entry code="409" name="WSIS_9"/>
+    <entry code="410" name="WSIS_10"/>
+    <entry code="411" name="WSIS_11"/>
+    <entry code="412" name="WSIS_12"/>
+    <entry code="413" name="WSIS_13"/>
+    <entry code="414" name="WSIS_14"/>
+    <entry code="415" name="WSIS_15"/>
+    <entry code="416" name="AG_2012_7YEAR"/>
+    <entry code="417" name="WSRGOND"/>
+    <entry code="418" name="14STPCK"/>
+    <entry code="419" name="OCRGBEAR"/>
+    <entry code="420" name="XL14CUB"/>
+    <entry code="421" name="WSSB_15"/>
+    <entry code="422" name="WSSB_16"/>
+    <entry code="423" name="WSSB_17"/>
+    <entry code="424" name="WSSB_18"/>
+    <entry code="425" name="WSSB_19"/>
+    <entry code="426" name="WSSB_20"/>
+    <entry code="427" name="WSRCGON"/>
+    <entry code="428" name="WSTSMR6"/>
+    <entry code="429" name="WSCS_11"/>
+    <entry code="430" name="WSCS_12"/>
+    <entry code="431" name="WSCS_13"/>
+    <entry code="432" name="WSBN"/>
+    <entry code="433" name="LBNDBEOR"/>
+    <entry code="434" name="LOTROAlpha"/>
+    <entry code="435" name="AG_2012_8YEAR"/>
+    <entry code="436" name="WSREGON"/>
+    <entry code="437" name="EnterLockedWorld"/>
+    <entry code="438" name="WSCS_14"/>
+    <entry code="439" name="WSCS_15"/>
+    <entry code="440" name="WSCS_16"/>
+    <entry code="441" name="WSCS_17"/>
+    <entry code="442" name="WSCS_18"/>
+    <entry code="443" name="WSCS_19"/>
+    <entry code="444" name="WSCS_20"/>
+    <entry code="445" name="WSCS_21"/>
+    <entry code="446" name="WSCS_22"/>
+    <entry code="447" name="WSCS_23"/>
+    <entry code="448" name="WSCS_24"/>
+    <entry code="449" name="WSCS_25"/>
+    <entry code="450" name="WSCS_26"/>
+    <entry code="451" name="WSCS_27"/>
+    <entry code="452" name="WSCS_28"/>
+    <entry code="453" name="WSCS_29"/>
+    <entry code="454" name="WSCS_30"/>
+    <entry code="455" name="WSCS_31"/>
+    <entry code="456" name="WSCS_32"/>
+    <entry code="457" name="WSCS_33"/>
+    <entry code="458" name="WSCS_34"/>
+    <entry code="459" name="WSCS_35"/>
+    <entry code="460" name="WSCS_36"/>
+    <entry code="461" name="WSCS_37"/>
+    <entry code="462" name="WSCS_38"/>
+    <entry code="463" name="WORLDCONS"/>
+    <entry code="464" name="WSSB_21"/>
+    <entry code="465" name="WSSB_22"/>
+    <entry code="466" name="WSSB_23"/>
+    <entry code="467" name="WSSB_24"/>
+    <entry code="468" name="WSSB_25"/>
+    <entry code="469" name="WebStore_WardrobeSpace_25"/>
+    <entry code="470" name="WebStore_WardrobeSpace_26"/>
+    <entry code="471" name="WebStore_WardrobeSpace_27"/>
+    <entry code="472" name="WebStore_WardrobeSpace_28"/>
+    <entry code="473" name="WebStore_WardrobeSpace_29"/>
+    <entry code="474" name="WSIS_16"/>
+    <entry code="475" name="WSIS_17"/>
+    <entry code="476" name="WSIS_18"/>
+    <entry code="477" name="WSRANOR"/>
+    <entry code="478" name="WSRFNOR"/>
+    <entry code="479" name="WSREPIC_U18"/>
+    <entry code="480" name="WSIC_U18"/>
+    <entry code="481" name="U18PACK"/>
+    <entry code="482" name="AG_2012_9YEAR"/>
+    <entry code="483" name="WSSB_26"/>
+    <entry code="484" name="WSSB_27"/>
+    <entry code="485" name="WSSB_28"/>
+    <entry code="486" name="WSSB_29"/>
+    <entry code="487" name="WSSB_30"/>
+    <entry code="488" name="WSSB_31"/>
+    <entry code="489" name="WSSB_32"/>
+    <entry code="490" name="WSSB_33"/>
+    <entry code="491" name="WSSB_34"/>
+    <entry code="492" name="WSSB_35"/>
+    <entry code="493" name="WebStore_WardrobeSpace_30"/>
+    <entry code="494" name="WebStore_WardrobeSpace_31"/>
+    <entry code="495" name="WebStore_WardrobeSpace_32"/>
+    <entry code="496" name="WebStore_WardrobeSpace_33"/>
+    <entry code="497" name="WebStore_WardrobeSpace_34"/>
+    <entry code="498" name="WebStore_WardrobeSpace_35"/>
+    <entry code="499" name="WebStore_WardrobeSpace_36"/>
+    <entry code="500" name="WebStore_WardrobeSpace_37"/>
+    <entry code="501" name="WebStore_WardrobeSpace_38"/>
+    <entry code="502" name="WebStore_WardrobeSpace_39"/>
+    <entry code="503" name="WebStore_WardrobeSpace_VIP"/>
+    <entry code="504" name="LOTRO_LIFETIME"/>
+    <entry code="505" name="WSRMNSDW"/>
+    <entry code="506" name="WSRWASTE"/>
+    <entry code="507" name="VIP_REVIVAL"/>
+    <entry code="508" name="SSGVIPTERMSACCEPT"/>
+    <entry code="509" name="AG_2017_10YEAR"/>
+    <entry code="510" name="MordorSTD"/>
+    <entry code="511" name="WSRMORDOR"/>
+    <entry code="512" name="WSHE"/>
+    <entry code="513" name="key:621012615:146990316"/>
+    <entry code="514" name="MordorUlt"/>
+    <entry code="516" name="GotMordorSt"/>
+    <entry code="517" name="GotMordorCo"/>
+    <entry code="518" name="GotMordorUl"/>
+    <entry code="519" name="WSRMIRKWOODNORTH"/>
+    <entry code="520" name="AG_2018_11YEAR"/>
+    <entry code="521" name="AnniversaryRewardGranted_2018"/>
+    <entry code="522" name="WSRDWARFHOLDS"/>
+    <entry code="523" name="WSOF_6"/>
+    <entry code="524" name="WSRAddonU23"/>
+    <entry code="525" name="Legendary_Acc_1"/>
+    <entry code="526" name="key:621012615:263819237"/>
+    <entry code="527" name="key:621012615:263819040"/>
+    <entry code="528" name="key:621012615:160004673"/>
+    <entry code="529" name="key:621012615:29106482"/>
+    <entry code="530" name="LegServ_MTX"/>
+    <entry code="531" name="Legendary_VIP_2018"/>
+    <entry code="532" name="SUBBndl_2018"/>
+    <entry code="533" name="RewVIP_1"/>
+    <entry code="534" name="RewVIP_2"/>
+    <entry code="535" name="RewVIP_3"/>
+    <entry code="536" name="GotSUBBndl_2018"/>
+    <entry code="537" name="MNTWHITE"/>
+    <entry code="538" name="MNTHUNT"/>
+    <entry code="539" name="MNTFGOAT"/>
+    <entry code="540" name="MNTGSKEL"/>
+    <entry code="541" name="MNTMINI"/>
+    <entry code="542" name="MNTKHUND"/>
+    <entry code="543" name="MNTIRON"/>
+    <entry code="544" name="MNTOBSID"/>
+    <entry code="545" name="MNTDAGO"/>
+    <entry code="546" name="WSRVoA"/>
+    <entry code="547" name="key:621012615:142959824"/>
+    <entry code="548" name="key:621012615:42394945"/>
+    <entry code="549" name="key:621012615:258140081"/>
+    <entry code="550" name="MoriaMTX2019"/>
+    <entry code="551" name="AG_2019_12YEAR"/>
+    <entry code="552" name="AGGranted_2019"/>
+    <entry code="553" name="OCR_EvtOrg"/>
+    <entry code="554" name="OCR_EvtWin"/>
+    <entry code="555" name="OCR_Music"/>
+    <entry code="556" name="OCR_MusicPost"/>
+    <entry code="557" name="OCR_Spect"/>
+    <entry code="558" name="OCR_Artist"/>
+    <entry code="559" name="OCR_ArtistPost"/>
+    <entry code="560" name="OCR_EvtInfo"/>
+    <entry code="561" name="OCR_ConAttend"/>
+    <entry code="562" name="OCR_EvtView"/>
+    <entry code="563" name="OCR_MusicAsst"/>
+    <entry code="564" name="OCR_Victory"/>
+    <entry code="565" name="OCR_Words"/>
+    <entry code="566" name="OCR_Perform"/>
+    <entry code="567" name="OCR_Audience"/>
+    <entry code="568" name="OCR_Harnkeg"/>
+    <entry code="569" name="OCR_ArtLove"/>
+    <entry code="570" name="WSRMORGUL"/>
+    <entry code="571" name="key:621012615:142959829"/>
+    <entry code="572" name="key:621012615:246579707"/>
+    <entry code="573" name="key:621012615:96857291"/>
+    <entry code="574" name="key:621012615:142959845"/>
+    <entry code="575" name="key:621012615:246565070"/>
+    <entry code="576" name="key:621012615:24201858"/>
+    <entry code="577" name="WSStout"/>
+    <entry code="578" name="MORGULStd"/>
+    <entry code="579" name="GotMORGULStd"/>
+    <entry code="580" name="key:621012615:21283340"/>
+    <entry code="581" name="GotMORGULColl"/>
+    <entry code="582" name="MORGULUlt"/>
+    <entry code="583" name="GotMORGULUlt"/>
+    <entry code="584" name="LOTROPalantir"/>
+    <entry code="585" name="GotMORGULColl_120"/>
+    <entry code="586" name="GotMORGULUlt_120"/>
+    <entry code="587" name="WSRBBoM"/>
+    <entry code="588" name="GotMORGULColl_Bag"/>
+    <entry code="589" name="GotMORGULUlt_Bags"/>
+    <entry code="590" name="OCR_Aid"/>
+    <entry code="591" name="RaceChange"/>
+    <entry code="592" name="WSRWoA"/>
+    <entry code="593" name="key:621012615:142959861"/>
+    <entry code="594" name="key:621012615:132902226"/>
+    <entry code="595" name="Rohan_VIP_2020"/>
+    <entry code="596" name="AG_2020_13YEAR"/>
+    <entry code="597" name="AGGranted_2020"/>
+    <entry code="598" name="WSRHELMcontent"/>
+    <entry code="599" name="VIP_Pig"/>
+    <entry code="600" name="VIPMay2020"/>
+    <entry code="601" name="GotMay2020"/>
+    <entry code="602" name="key:621012615:110386945"/>
+    <entry code="603" name="key:621012615:110386946"/>
+    <entry code="604" name="key:621012615:110386947"/>
+    <entry code="605" name="key:621012615:21372478"/>
+    <entry code="606" name="key:621012615:19741506"/>
+    <entry code="607" name="key:621012615:35606321"/>
+    <entry code="608" name="key:621012615:35606322"/>
+    <entry code="609" name="key:621012615:35606323"/>
+    <entry code="610" name="key:621012615:35606324"/>
+    <entry code="611" name="key:621012615:35606325"/>
+    <entry code="612" name="WSRELD"/>
+    <entry code="613" name="WSRMoria_99"/>
+    <entry code="614" name="WSRMirkwood_99"/>
+    <entry code="615" name="WSRIsengard_99"/>
+    <entry code="616" name="WSIC_U5_99"/>
+    <entry code="617" name="WSRRohan_99"/>
+    <entry code="618" name="WSIC_U9_99"/>
+    <entry code="619" name="WSRHELMcont_99"/>
+    <entry code="620" name="key:621012615:25080196"/>
+    <entry code="621" name="key:621012615:134267550"/>
+    <entry code="622" name="VIP_HD_2020"/>
+    <entry code="623" name="W3PeaksStd"/>
+    <entry code="624" name="key:621012615:242034764"/>
+    <entry code="625" name="Got3PeaksColl"/>
+    <entry code="626" name="W3PeaksUlt"/>
+    <entry code="627" name="Got3PeaksUlt"/>
+    <entry code="628" name="OCRPetSlug"/>
+    <entry code="629" name="WSWILDW"/>
+    <entry code="630" name="WSAZNLBZ"/>
+    <entry code="631" name="key:621012615:139870384"/>
+    <entry code="632" name="key:621012615:132848206"/>
+    <entry code="633" name="key:621012615:20135966"/>
+    <entry code="634" name="LOTRO_catchup_bundle"/>
+    <entry code="635" name="LOTRO_DBG_Starter"/>
+    <entry code="636" name="GotLOTRO_DBG_Starter"/>
+    <entry code="637" name="SSGEmployee"/>
+    <entry code="638" name="GundabadSTD"/>
+    <entry code="639" name="WSRGUN"/>
+    <entry code="640" name="key:621012615:139870389"/>
+    <entry code="641" name="key:621012615:244962419"/>
+    <entry code="642" name="key:621012615:30214612"/>
+    <entry code="643" name="AG_2021_14YEAR"/>
+    <entry code="644" name="AGGranted_2021"/>
+    <entry code="645" name="WSFurther01"/>
+    <entry code="646" name="key:621012615:223020545"/>
+    <entry code="647" name="key:621012615:223020547"/>
+    <entry code="648" name="key:621012615:74220449"/>
+    <entry code="649" name="key:621012615:74220451"/>
+    <entry code="650" name="key:621012615:94378001"/>
+    <entry code="651" name="key:621012615:94378003"/>
+    <entry code="652" name="key:621012615:180593185"/>
+    <entry code="653" name="key:621012615:180593187"/>
+    <entry code="654" name="key:621012615:98572369"/>
+    <entry code="655" name="key:621012615:98572371"/>
+    <entry code="656" name="key:621012615:247703073"/>
+    <entry code="657" name="key:621012615:247703075"/>
+    <entry code="658" name="key:621012615:32472401"/>
+    <entry code="659" name="key:621012615:32472403"/>
+    <entry code="660" name="key:621012615:238409313"/>
+    <entry code="661" name="key:621012615:238409315"/>
+    <entry code="662" name="key:621012615:178644481"/>
+    <entry code="663" name="key:621012615:178644483"/>
+    <entry code="664" name="key:621012615:178160593"/>
+    <entry code="665" name="key:621012615:178160595"/>
+    <entry code="666" name="key:621012615:229188913"/>
+    <entry code="667" name="key:621012615:229188915"/>
+    <entry code="668" name="key:621012615:173166753"/>
+    <entry code="669" name="key:621012615:173166755"/>
+    <entry code="670" name="key:621012615:172496721"/>
+    <entry code="671" name="key:621012615:172496723"/>
+    <entry code="672" name="key:621012615:71530193"/>
+    <entry code="673" name="key:621012615:71530195"/>
+    <entry code="674" name="key:621012615:100629553"/>
+    <entry code="675" name="key:621012615:100629555"/>
+    <entry code="676" name="key:621012615:255189025"/>
+    <entry code="677" name="key:621012615:255189027"/>
+    <entry code="678" name="key:621012615:242946881"/>
+    <entry code="679" name="key:621012615:242946883"/>
+    <entry code="680" name="key:621012615:124991377"/>
+    <entry code="681" name="key:621012615:124991379"/>
+    <entry code="682" name="key:621012615:98231025"/>
+    <entry code="683" name="key:621012615:98231027"/>
+    <entry code="684" name="key:621012615:225332257"/>
+    <entry code="685" name="key:621012615:225332259"/>
+    <entry code="686" name="key:621012615:190113553"/>
+    <entry code="687" name="key:621012615:190113555"/>
+    <entry code="688" name="key:621012615:93221569"/>
+    <entry code="689" name="key:621012615:93221571"/>
+    <entry code="690" name="WSRMORDOR_99"/>
+    <entry code="691" name="key:621012615:139870405"/>
+    <entry code="692" name="key:621012615:42464722"/>
+    <entry code="693" name="key:621012615:216412179"/>
+    <entry code="694" name="GUNDColl"/>
+    <entry code="695" name="GUNDUlt"/>
+    <entry code="696" name="GotGUNDStd"/>
+    <entry code="697" name="GotGUNDColl"/>
+    <entry code="698" name="GotGUNDUlt"/>
+    <entry code="699" name="GotGUNDCollDelv"/>
+    <entry code="700" name="GotGUNDUltDelv"/>
+    <entry code="701" name="DB_GUNDStd2Coll"/>
+    <entry code="702" name="DB_GUNDStd2Ult"/>
+    <entry code="703" name="DB_GUNDColl2Ult"/>
+    <entry code="704" name="GotGUNDColl_130"/>
+    <entry code="705" name="GotGUNDUlt_130"/>
+    <entry code="706" name="PreviewPRESS"/>
+    <entry code="707" name="WSBW"/>
+    <entry code="708" name="key:621012615:139870416"/>
+    <entry code="709" name="key:621012615:132901153"/>
+    <entry code="710" name="key:621012615:90667859"/>
+    <entry code="711" name="WSRYON"/>
+    <entry code="712" name="WSRAngle"/>
+    <entry code="713" name="key:621012615:139870432"/>
+    <entry code="714" name="key:621012615:42463244"/>
+    <entry code="715" name="key:621012615:159970366"/>
+    <entry code="716" name="AG_2022_15YEAR"/>
+    <entry code="717" name="AGGranted_2022"/>
+    <entry code="718" name="VIPAnni2022"/>
+    <entry code="719" name="GotVIPAnni2022"/>
+    <entry code="720" name="FREEAnni2022"/>
+    <entry code="721" name="GotFREEAnni2022"/>
+    <entry code="722" name="WSRCrdSwn"/>
+    <entry code="723" name="Supp2022Std"/>
+    <entry code="724" name="Supp2022Mid"/>
+    <entry code="725" name="Supp2022Full"/>
+    <entry code="726" name="Supp2022_UpS2M"/>
+    <entry code="727" name="Supp2022_UpM2F"/>
+    <entry code="728" name="Supp2022_UpS2F"/>
+    <entry code="729" name="WSFurther02"/>
+    <entry code="730" name="GotSupp2022Std"/>
+    <entry code="731" name="GotSupp2022Mid"/>
+    <entry code="732" name="GotSupp2022Full"/>
+    <entry code="733" name="BTSSTD"/>
+    <entry code="734" name="BTSColl"/>
+    <entry code="735" name="BTSUlt"/>
+    <entry code="736" name="GotBTSColl"/>
+    <entry code="737" name="GotBTSUlt"/>
+    <entry code="741" name="DB_BTSStd2Coll"/>
+    <entry code="742" name="DB_BTSStd2Ult"/>
+    <entry code="743" name="DB_BTSColl2Ult"/>
+    <entry code="744" name="WSRMORGUL_99"/>
+    <entry code="745" name="WSRELD_99"/>
+    <entry code="746" name="WSRBtSStarter"/>
+    <entry code="747" name="MithPat2022Std"/>
+    <entry code="748" name="MithPat2022Mid"/>
+    <entry code="749" name="MithPat2022Full"/>
+    <entry code="750" name="WSIC_U35"/>
+    <entry code="751" name="key:621012615:67202707"/>
+    <entry code="752" name="key:621012615:14092849"/>
+    <entry code="753" name="key:621012615:14092851"/>
+    <entry code="754" name="key:621012615:67202705"/>
+    <entry code="755" name="WSCR"/>
+    <entry code="756" name="key:621012615:2289669"/>
+    <entry code="757" name="WSRU36"/>
+    <entry code="758" name="MithHome2023Std"/>
+    <entry code="759" name="MithHome2023Mid"/>
+    <entry code="760" name="MithHome2023Full"/>
+    <entry code="761" name="AG_2023_16YEAR"/>
+    <entry code="762" name="AGGranted_2023"/>
+    <entry code="763" name="WSRSoWW"/>
+    <entry code="764" name="WSRUmbar"/>
+    <entry code="765" name="WSRH"/>
+    <entry code="766" name="Supp2023Std"/>
+    <entry code="767" name="Supp2023Mid"/>
+    <entry code="768" name="Supp2023Full"/>
+    <entry code="769" name="Supp2023_UpS2M"/>
+    <entry code="770" name="Supp2023_UpM2F"/>
+    <entry code="771" name="Supp2023_UpS2F"/>
+    <entry code="772" name="GotSupp2023Std"/>
+    <entry code="773" name="GotSupp2023Mid"/>
+    <entry code="774" name="GotSupp2023Full"/>
+    <entry code="775" name="UmbarStd"/>
+    <entry code="776" name="UmbarColl"/>
+    <entry code="777" name="UmbarUlt"/>
+    <entry code="778" name="GotUmbarColl"/>
+    <entry code="779" name="GotUmbarUlt"/>
+    <entry code="780" name="DB_UmbarStd2Coll"/>
+    <entry code="781" name="DB_UmbarColl2Ult"/>
+    <entry code="782" name="DB_UmbarStd2Ult"/>
+    <entry code="783" name="GotUmbarValar"/>
+    <entry code="784" name="MithSublime2023Std"/>
+    <entry code="785" name="MithSublime2023Mid"/>
+    <entry code="786" name="MithSublime2023Full"/>
+    <entry code="787" name="MithWhims2024Std"/>
+    <entry code="788" name="MithWhims2024Mid"/>
+    <entry code="789" name="MithWhims2024Full"/>
+    <entry code="790" name="AG_2024_17YEAR"/>
+    <entry code="791" name="AGGranted_2024"/>
+    <entry code="792" name="WSRUnderUmbar"/>
+    <entry code="793" name="WSMP_Rewardtrack01"/>
+    <entry code="794" name="WSRIkorban"/>
+    <entry code="795" name="key:621012615:188210769"/>
+    <entry code="796" name="key:621012615:188210770"/>
+    <entry code="797" name="key:621012615:188210771"/>
+    <entry code="798" name="key:621012615:188210772"/>
+    <entry code="799" name="key:621012615:188210773"/>
+    <entry code="800" name="key:621012615:188210774"/>
+    <entry code="801" name="key:621012615:188210775"/>
+    <entry code="802" name="key:621012615:188210776"/>
+    <entry code="803" name="key:621012615:188210777"/>
+    <entry code="804" name="key:621012615:233017297"/>
+    <entry code="805" name="MithMirk2024Std"/>
+    <entry code="806" name="MithMirk2024Mid"/>
+    <entry code="807" name="MithMirk2024Full"/>
+    <entry code="808" name="key:621012615:122640564"/>
+    <entry code="809" name="key:621012615:140692407"/>
+    <entry code="810" name="StarterPack2024"/>
+    <entry code="811" name="JourneyStd"/>
+    <entry code="812" name="JourneyColl"/>
+    <entry code="813" name="JourneyUlt"/>
+    <entry code="814" name="DB_JourneyStd2Coll"/>
+    <entry code="815" name="DB_JourneyColl2Ult"/>
+    <entry code="816" name="DB_JourneyStd2Ult"/>
+    <entry code="817" name="GotJourneyStd"/>
+    <entry code="818" name="GotJourneyColl"/>
+    <entry code="819" name="GotJourneyUlt"/>
+    <entry code="820" name="GotJourneyStd_150"/>
+    <entry code="821" name="GotJourneyUlt_150"/>
+    <entry code="822" name="MithRohan2024Std"/>
+    <entry code="823" name="MithRohan2024Mid"/>
+    <entry code="824" name="MithRohan2024Full"/>
+    <entry code="825" name="WardrobeSpace_40"/>
+    <entry code="826" name="WardrobeSpace_41"/>
+    <entry code="827" name="WardrobeSpace_42"/>
+    <entry code="828" name="WardrobeSpace_43"/>
+    <entry code="829" name="WardrobeSpace_44"/>
+    <entry code="830" name="WardrobeSpace_45"/>
+    <entry code="831" name="WardrobeSpace_46"/>
+    <entry code="832" name="WardrobeSpace_47"/>
+    <entry code="833" name="WardrobeSpace_48"/>
+    <entry code="834" name="WardrobeSpace_49"/>
+    <entry code="835" name="WardrobeSpace_50"/>
+    <entry code="836" name="WardrobeSpace_51"/>
+    <entry code="837" name="WardrobeSpace_52"/>
+    <entry code="838" name="WardrobeSpace_53"/>
+    <entry code="839" name="WardrobeSpace_54"/>
+    <entry code="840" name="WardrobeSpace_55"/>
+    <entry code="841" name="WardrobeSpace_56"/>
+    <entry code="842" name="WardrobeSpace_57"/>
+    <entry code="843" name="WardrobeSpace_58"/>
+    <entry code="844" name="WardrobeSpace_59"/>
+    <entry code="845" name="WardrobeSpace_60"/>
+    <entry code="846" name="WardrobeSpace_61"/>
+    <entry code="847" name="WardrobeSpace_62"/>
+    <entry code="848" name="WardrobeSpace_63"/>
+    <entry code="849" name="WardrobeSpace_64"/>
+    <entry code="850" name="WardrobeSpace_65"/>
+    <entry code="851" name="WardrobeSpace_66"/>
+    <entry code="852" name="WardrobeSpace_67"/>
+    <entry code="853" name="WardrobeSpace_68"/>
+    <entry code="854" name="WardrobeSpace_69"/>
+    <entry code="855" name="WardrobeSpace_70"/>
+    <entry code="856" name="WardrobeSpace_71"/>
+    <entry code="857" name="WardrobeSpace_72"/>
+    <entry code="858" name="WardrobeSpace_73"/>
+    <entry code="859" name="WardrobeSpace_74"/>
+    <entry code="860" name="WardrobeSpace_75"/>
+    <entry code="861" name="WardrobeSpace_76"/>
+    <entry code="862" name="WardrobeSpace_77"/>
+    <entry code="863" name="WardrobeSpace_78"/>
+    <entry code="864" name="WardrobeSpace_79"/>
+    <entry code="865" name="MithSands2025Std"/>
+    <entry code="866" name="MithSands2025Mid"/>
+    <entry code="867" name="MithSands2025Full"/>
+    <entry code="868" name="WSRCrownHamat"/>
+    <entry code="869" name="AG_2025_18YEAR"/>
+    <entry code="870" name="AGGranted_2025"/>
+    <entry code="871" name="MithKnight2025Std"/>
+    <entry code="872" name="MithKnight2025Mid"/>
+    <entry code="873" name="MithKnight2025Full"/>
+    <entry code="874" name="WSMP_Rewardtrack02"/>
+    <entry code="875" name="WSMP_Rewardtrack03"/>
+    <entry code="876" name="WSMP_Rewardtrack04"/>
+    <entry code="877" name="WSMP_Rewardtrack05"/>
+    <entry code="878" name="WSRMurGhala"/>
+    <entry code="879" name="DKHaradStd"/>
+    <entry code="880" name="DKHaradColl"/>
+    <entry code="881" name="DKHaradUlt"/>
+    <entry code="882" name="DB_DKHaradStd2Coll"/>
+    <entry code="883" name="DB_DKHaradColl2Ult"/>
+    <entry code="884" name="DB_DKHaradStd2Ult"/>
+    <entry code="885" name="WSOF_7"/>
+    <entry code="886" name="WSOF_8"/>
+    <entry code="887" name="WSOF_9"/>
+    <entry code="888" name="WSOF_10"/>
+    <entry code="889" name="WSOF_11"/>
+    <entry code="890" name="WSOF_12"/>
+    <entry code="891" name="WSOF_13"/>
+    <entry code="892" name="WSOF_14"/>
+    <entry code="893" name="WSOF_15"/>
+    <entry code="894" name="WSOF_16"/>
+    <entry code="895" name="WSOF_17"/>
+    <entry code="896" name="WSOF_18"/>
+    <entry code="897" name="WSOF_19"/>
+    <entry code="898" name="WSOF_20"/>
+    <entry code="899" name="MithMonkey2025Std"/>
+    <entry code="900" name="MithMonkey2025Mid"/>
+    <entry code="901" name="MithMonkey2025Full"/>
+    <entry code="902" name="GotDKHaradStd_150"/>
+    <entry code="903" name="GotDKHaradColl_Supp"/>
+    <entry code="904" name="GotDKHaradUlt_Supp"/>
+    <entry code="905" name="GotDKHaradUlt_Valar"/>
+    <entry code="906" name="OCR_Eyesore"/>
+    <entry code="907" name="OCR_Bullroarer"/>
+    <entry code="908" name="OCR_Animal_Frnd"/>
+    <entry code="909" name="OCR_Colletor"/>
+    <entry code="910" name="MithCaravan2025Std"/>
+    <entry code="911" name="MithCaravan2025Mid"/>
+    <entry code="912" name="MithCaravan2025Full"/>
+    <entry code="913" name="MemDeep2025Std"/>
+    <entry code="914" name="MemDeep2025Mid"/>
+    <entry code="915" name="MemDeep2025Full"/>
+    <entry code="916" name="WSMP_Rewardtrack06"/>
+    <entry code="917" name="key:621012615:7910117"/>
+    <entry code="918" name="WSRGloriousHunt"/>
+    <entry code="919" name="key:621012615:247266689"/>
+    <entry code="920" name="key:621012615:247266690"/>
+    <entry code="921" name="key:621012615:247266691"/>
+    <entry code="922" name="key:621012615:247266692"/>
+    <entry code="923" name="key:621012615:247266693"/>
+    <entry code="924" name="key:621012615:247266694"/>
+    <entry code="925" name="key:621012615:247266695"/>
+    <entry code="926" name="key:621012615:247266696"/>
+    <entry code="927" name="key:621012615:247266697"/>
+    <entry code="928" name="AG_2026_19YEAR"/>
+    <entry code="929" name="AGGranted_2026"/>
+    <entry code="930" name="MithHighElf2026Std"/>
+    <entry code="931" name="MithHighElf2026Mid"/>
+    <entry code="932" name="MithHighElf2026Full"/>
+    <entry code="933" name="WSMP_Rewardtrack07"/>
+    <entry code="934" name="key:621012615:158905077"/>
+    <entry code="935" name="WSMP_Sorc"/>
+    <entry code="936" name="BNDSorcStd"/>
+    <entry code="937" name="BNDSorcMid"/>
+    <entry code="938" name="BNDSorcFull"/>
+    <entry code="939" name="GotBNDSorcMid"/>
+    <entry code="940" name="GotBNDSorcFull"/>
+    <entry code="941" name="WSMP_Rewardtrack08"/>
+    <entry code="942" name="MPRTs8_frame"/>
+    <entry code="943" name="RingwraithEventMounted"/>
+    <entry code="944" name="RingwraithEventCircle"/>
 </enum>

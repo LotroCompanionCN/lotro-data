@@ -1,48 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><colors>
-<color code="1" floatCode="0.0"/>
-<color code="2" floatCode="0.05" name="Violet"/>
-<color code="3" floatCode="0.1" name="Navy"/>
-<color code="4" floatCode="0.15" name="Indigo"/>
-<color code="5" floatCode="0.2" name="Dark Green"/>
-<color code="6" floatCode="0.25" name="Olive"/>
-<color code="7" floatCode="0.3" name="Gold"/>
-<color code="8" floatCode="0.35" name="Rust"/>
-<color code="9" floatCode="0.4" name="Red"/>
-<color code="10" floatCode="0.45" name="Sienna"/>
-<color code="11" floatCode="0.5" name="Umber"/>
-<color code="12" floatCode="0.55" name="Black"/>
-<color code="13" floatCode="0.6" name="White"/>
-<color code="14" floatCode="0.65" name="Burgundy"/>
-<color code="15" floatCode="0.7" name="Grey"/>
-<color code="16" floatCode="0.75" name="Orange"/>
-<color code="17" floatCode="0.8" name="Turquoise"/>
-<color code="28" floatCode="0.12" name="Yellow"/>
-<color code="19" floatCode="0.02" name="Evendim Blue"/>
-<color code="20" floatCode="0.03" name="Sea Blue"/>
-<color code="21" floatCode="0.06" name="Forest Green"/>
-<color code="22" floatCode="0.01" name="Ered Luin Blue"/>
-<color code="23" floatCode="0.09" name="Purple"/>
-<color code="24" floatCode="0.08" name="Rivendell Green"/>
-<color code="25" floatCode="0.11" name="Rose"/>
-<color code="26" floatCode="0.04" name="Crimson"/>
-<color code="27" floatCode="0.07" name="Ranger Green"/>
-<color code="29" floatCode="0.14" name="Walnut Brown"/>
-<color code="30" floatCode="0.13" name="Steel Blue"/>
-<color code="31" floatCode="0.16" name="Dark Purple"/>
-<color code="32" floatCode="0.17" name="Lavender"/>
-<color code="33" floatCode="0.18" name="Shire Peach"/>
-<color code="34" floatCode="0.19" name="Ashenslades Green"/>
-<color code="35" floatCode="0.21" name="Moria Silver"/>
-<color code="36" floatCode="0.22" name="Belegaer Blue"/>
-<color code="37" floatCode="0.23" name="Lórien Gold"/>
-<color code="38" floatCode="0.24" name="Bullroarer's Green"/>
-<color code="39" floatCode="0.26" name="Rohan Green"/>
-<color code="40" floatCode="0.27" name="Dark Mossy Green"/>
-<color code="41" floatCode="0.28" name="Dark Clay"/>
-<color code="42" floatCode="0.29" name="Sunset Orange"/>
-<color code="43" floatCode="0.31" name="Shire-plum"/>
-<color code="44" floatCode="0.32" name="Imladris Fallen Leaf"/>
-<color code="45" floatCode="0.33" name="Autumn Leaf"/>
-<color code="46" floatCode="0.34" name="Twilight Purple"/>
-<color code="18" floatCode="99.0" name="Unique"/>
+    <color code="1" floatCode="0.0"/>
+    <color code="2" floatCode="0.05" name="紫罗兰色"/>
+    <color code="3" floatCode="0.1" name="藏青色"/>
+    <color code="4" floatCode="0.15" name="靛蓝色"/>
+    <color code="5" floatCode="0.2" name="深绿色"/>
+    <color code="6" floatCode="0.25" name="橄榄色"/>
+    <color code="7" floatCode="0.3" name="金色"/>
+    <color code="8" floatCode="0.35" name="铁锈色"/>
+    <color code="9" floatCode="0.4" name="红色"/>
+    <color code="10" floatCode="0.45" name="赭石色"/>
+    <color code="11" floatCode="0.5" name="棕土色"/>
+    <color code="12" floatCode="0.55" name="黑色"/>
+    <color code="13" floatCode="0.6" name="白色"/>
+    <color code="14" floatCode="0.65" name="勃艮第红"/>
+    <color code="15" floatCode="0.7" name="灰色"/>
+    <color code="16" floatCode="0.75" name="橙色"/>
+    <color code="17" floatCode="0.8" name="绿松石色"/>
+    <color code="28" floatCode="0.12" name="黄色"/>
+    <color code="19" floatCode="0.02" name="伊凡丁蓝"/>
+    <color code="20" floatCode="0.03" name="海蓝色"/>
+    <color code="21" floatCode="0.06" name="森林绿"/>
+    <color code="22" floatCode="0.01" name="埃雷德鲁因蓝"/>
+    <color code="23" floatCode="0.09" name="紫色"/>
+    <color code="24" floatCode="0.08" name="瑞文戴尔绿"/>
+    <color code="25" floatCode="0.11" name="玫瑰色"/>
+    <color code="26" floatCode="0.04" name="深红色"/>
+    <color code="27" floatCode="0.07" name="游侠绿"/>
+    <color code="29" floatCode="0.14" name="胡桃棕"/>
+    <color code="30" floatCode="0.13" name="钢蓝色"/>
+    <color code="31" floatCode="0.16" name="深紫色"/>
+    <color code="32" floatCode="0.17" name="薰衣草色"/>
+    <color code="33" floatCode="0.18" name="夏尔桃色"/>
+    <color code="34" floatCode="0.19" name="灰林绿"/>
+    <color code="35" floatCode="0.21" name="莫里亚银"/>
+    <color code="36" floatCode="0.22" name="贝烈盖尔蓝"/>
+    <color code="37" floatCode="0.23" name="洛丝萝林金"/>
+    <color code="38" floatCode="0.24" name="布尔罗尔的绿色"/>
+    <color code="39" floatCode="0.26" name="洛汗绿"/>
+    <color code="40" floatCode="0.27" name="深苔绿色"/>
+    <color code="41" floatCode="0.28" name="深陶土色"/>
+    <color code="42" floatCode="0.29" name="日落橙"/>
+    <color code="43" floatCode="0.31" name="夏尔李色"/>
+    <color code="44" floatCode="0.32" name="伊姆拉缀斯落叶色"/>
+    <color code="45" floatCode="0.33" name="秋叶色"/>
+    <color code="46" floatCode="0.34" name="暮色紫"/>
+    <color code="47" floatCode="0.43" name="黏土红"/>
+    <color code="48" floatCode="0.42" name="沙色"/>
+    <color code="49" floatCode="0.39" name="莎草绿"/>
+    <color code="50" floatCode="0.38" name="海草绿"/>
+    <color code="51" floatCode="0.37" name="深海"/>
+    <color code="52" floatCode="0.36" name="冲浪蓝"/>
+    <color code="54" floatCode="0.41" name="皇家紫"/>
+    <color code="53" floatCode="0.44" name="蓝宝石色"/>
+    <color code="18" floatCode="99.0" name="独特色"/>
 </colors>
