@@ -63006,15 +63006,15 @@
 <marker id="1449993277" label="Ancient Relic of Ikorbân" category="72" did="1879492925" parentZoneId="1879487053" longitude="-59.356853" latitude="-45.25243"/>
 <marker id="1449993278" label="Small Seed Pod" category="72" did="1879492922" parentZoneId="1879487053" longitude="-59.356853" latitude="-45.25243"/>
 <marker id="1449993279" label="Large Seed Pod" category="72" did="1879492921" parentZoneId="1879487053" longitude="-59.356853" latitude="-45.25243"/>
-<marker id="1449996291" label="Sickly Boar" category="71" did="1879488658" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
-<marker id="1449996292" label="Feral Sickly Boar" category="71" did="1879488659" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
-<marker id="1449996293" label="Aggressive Sickly Boar" category="71" did="1879488657" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
-<marker id="1449996294" label="Frenzied Craban" category="71" did="1879488908" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
-<marker id="1449996295" label="Mottled Craban" category="71" did="1879488915" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
-<marker id="1449996296" label="Dusty Creeping Arm" category="71" did="1879488926" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
-<marker id="1449996297" label="Esh-kimâkhi Crypt-guardian" category="71" did="1879488955" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
+<marker id="1449996289" label="Sickly Boar" category="71" did="1879488658" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
+<marker id="1449996290" label="Feral Sickly Boar" category="71" did="1879488659" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
+<marker id="1449996291" label="Aggressive Sickly Boar" category="71" did="1879488657" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
+<marker id="1449996292" label="Frenzied Craban" category="71" did="1879488908" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
+<marker id="1449996293" label="Mottled Craban" category="71" did="1879488915" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
+<marker id="1449996294" label="Dusty Creeping Arm" category="71" did="1879488926" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
+<marker id="1449996295" label="Esh-kimâkhi Crypt-guardian" category="71" did="1879488955" parentZoneId="1879487053" longitude="-59.212715" latitude="-44.79874"/>
+<marker id="1449996297" label="Conspicuous Bootprints" category="73" did="1879503531" parentZoneId="1879487053" longitude="-59.204414" latitude="-45.07217"/>
 <marker id="1449996298" label="Conspicuous Bootprints" category="73" did="1879503533" parentZoneId="1879487053" longitude="-59.013298" latitude="-44.85015"/>
-<marker id="1449996299" label="Conspicuous Bootprints" category="73" did="1879503531" parentZoneId="1879487053" longitude="-59.204414" latitude="-45.068924"/>
 <marker id="1449996300" label="Conspicuous Bootprints" category="73" did="1879503532" parentZoneId="1879487053" longitude="-59.55788" latitude="-44.78887"/>
 <marker id="1449996301" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879487053" longitude="-59.06399" latitude="-44.525684"/>
 <marker id="1449996302" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879487053" longitude="-59.06399" latitude="-44.525684"/>
@@ -83976,21 +83976,21 @@
 <marker id="1450127364" label="Mottled Craban" category="71" did="1879488915" parentZoneId="1879487053" longitude="-57.63215" latitude="-45.012012"/>
 <marker id="1450127365" label="Dusty Creeping Arm" category="71" did="1879488926" parentZoneId="1879487053" longitude="-57.63215" latitude="-45.012012"/>
 <marker id="1450127366" label="Esh-kimâkhi Crypt-guardian" category="71" did="1879488955" parentZoneId="1879487053" longitude="-57.63215" latitude="-45.012012"/>
-<marker id="1450127369" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.61413" latitude="-44.511013"/>
-<marker id="1450127370" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.61413" latitude="-44.511013"/>
+<marker id="1450127369" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.61413" latitude="-44.511013"/>
+<marker id="1450127370" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.61413" latitude="-44.511013"/>
 <marker id="1450127372" label="Luhum-gêna" category="71" did="1879490918" parentZoneId="1879487053" longitude="-57.694717" latitude="-44.470783"/>
 <marker id="1450127373" label="Luhum-gêna" category="71" did="1879490922" parentZoneId="1879487053" longitude="-57.65205" latitude="-44.52529"/>
 <marker id="1450127374" label="Imhûlari Treasure Cache" category="73" did="1879494961" parentZoneId="1879487053" longitude="-57.233067" latitude="-44.408123"/>
-<marker id="1450127375" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.680515" latitude="-44.418266"/>
-<marker id="1450127376" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.680515" latitude="-44.418266"/>
-<marker id="1450127377" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.514843" latitude="-44.434353"/>
-<marker id="1450127378" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.514843" latitude="-44.434353"/>
-<marker id="1450127379" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.582245" latitude="-44.531616"/>
-<marker id="1450127380" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.582245" latitude="-44.531616"/>
-<marker id="1450127381" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.69694" latitude="-44.552494"/>
-<marker id="1450127382" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.69694" latitude="-44.552494"/>
-<marker id="1450127383" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.835125" latitude="-44.54013"/>
-<marker id="1450127384" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.835125" latitude="-44.54013"/>
+<marker id="1450127375" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.680515" latitude="-44.418266"/>
+<marker id="1450127376" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.680515" latitude="-44.418266"/>
+<marker id="1450127377" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.514843" latitude="-44.434353"/>
+<marker id="1450127378" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.514843" latitude="-44.434353"/>
+<marker id="1450127379" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.582245" latitude="-44.531616"/>
+<marker id="1450127380" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.582245" latitude="-44.531616"/>
+<marker id="1450127381" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.69694" latitude="-44.552494"/>
+<marker id="1450127382" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.69694" latitude="-44.552494"/>
+<marker id="1450127383" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.835125" latitude="-44.54013"/>
+<marker id="1450127384" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.835125" latitude="-44.54013"/>
 <marker id="1450127385" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879487053" longitude="-57.923885" latitude="-44.935986"/>
 <marker id="1450127386" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879487053" longitude="-57.923885" latitude="-44.935986"/>
 <marker id="1450127387" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879487053" longitude="-57.923885" latitude="-44.935986"/>
@@ -84224,8 +84224,8 @@
 <marker id="1450127615" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879487053" longitude="-57.21945" latitude="-44.594776"/>
 <marker id="1450131457" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879487053" longitude="-57.656143" latitude="-44.001873"/>
 <marker id="1450131458" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879487053" longitude="-57.656143" latitude="-44.001873"/>
-<marker id="1450131471" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.61413" latitude="-44.02462"/>
-<marker id="1450131472" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.61413" latitude="-44.02462"/>
+<marker id="1450131471" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.61413" latitude="-44.02462"/>
+<marker id="1450131472" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.61413" latitude="-44.02462"/>
 <marker id="1450131478" label="Imhûlari Marsh-binder" category="71" did="1879490923" parentZoneId="1879487053" longitude="-57.514317" latitude="-44.31889"/>
 <marker id="1450131479" label="Imhûlari Marsh-binder" category="71" did="1879490923" parentZoneId="1879487053" longitude="-57.880955" latitude="-43.86445"/>
 <marker id="1450131480" label="Imhûlari Marsh-binder" category="71" did="1879490923" parentZoneId="1879487053" longitude="-57.667976" latitude="-43.77398"/>
@@ -84265,42 +84265,42 @@
 <marker id="1450131532" label="Pack of Urmâkh Supplies" category="73" did="1879490570" parentZoneId="1879487053" longitude="-57.59698" latitude="-44.233196"/>
 <marker id="1450131533" label="Pack of Urmâkh Supplies" category="73" did="1879490570" parentZoneId="1879487053" longitude="-57.42702" latitude="-44.249783"/>
 <marker id="1450131534" label="Zahûmakh" category="43" did="1879491295" parentZoneId="1879487053" longitude="-57.656387" latitude="-44.107265"/>
-<marker id="1450131535" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.288067" latitude="-44.242092"/>
-<marker id="1450131536" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.288067" latitude="-44.242092"/>
-<marker id="1450131537" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.954834" latitude="-44.33148"/>
-<marker id="1450131538" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.954834" latitude="-44.33148"/>
-<marker id="1450131539" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.91869" latitude="-43.809036"/>
-<marker id="1450131540" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.91869" latitude="-43.809036"/>
-<marker id="1450131541" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.83125" latitude="-44.306557"/>
-<marker id="1450131542" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.83125" latitude="-44.306557"/>
-<marker id="1450131543" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.62783" latitude="-44.241493"/>
-<marker id="1450131544" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.62783" latitude="-44.241493"/>
-<marker id="1450131545" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.442352" latitude="-44.26892"/>
-<marker id="1450131546" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.442352" latitude="-44.26892"/>
-<marker id="1450131547" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.30872" latitude="-44.074554"/>
-<marker id="1450131548" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.30872" latitude="-44.074554"/>
-<marker id="1450131549" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.30447" latitude="-43.91776"/>
-<marker id="1450131550" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.30447" latitude="-43.91776"/>
-<marker id="1450131551" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.22381" latitude="-43.72245"/>
-<marker id="1450131552" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.22381" latitude="-43.72245"/>
-<marker id="1450131553" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.37581" latitude="-43.747993"/>
-<marker id="1450131554" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.37581" latitude="-43.747993"/>
-<marker id="1450131555" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.496326" latitude="-43.675137"/>
-<marker id="1450131556" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.496326" latitude="-43.675137"/>
-<marker id="1450131557" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.58122" latitude="-43.83638"/>
-<marker id="1450131558" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.58122" latitude="-43.83638"/>
-<marker id="1450131559" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.51664" latitude="-44.002865"/>
-<marker id="1450131560" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.51664" latitude="-44.002865"/>
-<marker id="1450131561" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.779453" latitude="-43.72266"/>
-<marker id="1450131562" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.779453" latitude="-43.72266"/>
-<marker id="1450131563" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.86034" latitude="-43.88137"/>
-<marker id="1450131564" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.86034" latitude="-43.88137"/>
-<marker id="1450131565" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.78909" latitude="-44.066425"/>
-<marker id="1450131566" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.78909" latitude="-44.066425"/>
-<marker id="1450131567" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.939167" latitude="-44.224937"/>
-<marker id="1450131568" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.939167" latitude="-44.224937"/>
-<marker id="1450131569" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.964737" latitude="-44.013145"/>
-<marker id="1450131570" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.964737" latitude="-44.013145"/>
+<marker id="1450131535" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.288067" latitude="-44.242092"/>
+<marker id="1450131536" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.288067" latitude="-44.242092"/>
+<marker id="1450131537" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.954834" latitude="-44.33148"/>
+<marker id="1450131538" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.954834" latitude="-44.33148"/>
+<marker id="1450131539" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.91869" latitude="-43.809036"/>
+<marker id="1450131540" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.91869" latitude="-43.809036"/>
+<marker id="1450131541" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.83125" latitude="-44.306557"/>
+<marker id="1450131542" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.83125" latitude="-44.306557"/>
+<marker id="1450131543" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.62783" latitude="-44.241493"/>
+<marker id="1450131544" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.62783" latitude="-44.241493"/>
+<marker id="1450131545" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.442352" latitude="-44.26892"/>
+<marker id="1450131546" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.442352" latitude="-44.26892"/>
+<marker id="1450131547" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.30872" latitude="-44.074554"/>
+<marker id="1450131548" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.30872" latitude="-44.074554"/>
+<marker id="1450131549" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.30447" latitude="-43.91776"/>
+<marker id="1450131550" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.30447" latitude="-43.91776"/>
+<marker id="1450131551" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.22381" latitude="-43.72245"/>
+<marker id="1450131552" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.22381" latitude="-43.72245"/>
+<marker id="1450131553" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.37581" latitude="-43.747993"/>
+<marker id="1450131554" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.37581" latitude="-43.747993"/>
+<marker id="1450131555" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.496326" latitude="-43.675137"/>
+<marker id="1450131556" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.496326" latitude="-43.675137"/>
+<marker id="1450131557" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.58122" latitude="-43.83638"/>
+<marker id="1450131558" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.58122" latitude="-43.83638"/>
+<marker id="1450131559" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.51664" latitude="-44.002865"/>
+<marker id="1450131560" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.51664" latitude="-44.002865"/>
+<marker id="1450131561" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.779453" latitude="-43.72266"/>
+<marker id="1450131562" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.779453" latitude="-43.72266"/>
+<marker id="1450131563" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.86034" latitude="-43.88137"/>
+<marker id="1450131564" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.86034" latitude="-43.88137"/>
+<marker id="1450131565" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.78909" latitude="-44.066425"/>
+<marker id="1450131566" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.78909" latitude="-44.066425"/>
+<marker id="1450131567" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.939167" latitude="-44.224937"/>
+<marker id="1450131568" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.939167" latitude="-44.224937"/>
+<marker id="1450131569" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.964737" latitude="-44.013145"/>
+<marker id="1450131570" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.964737" latitude="-44.013145"/>
 <marker id="1450131571" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879487053" longitude="-57.360214" latitude="-44.289787"/>
 <marker id="1450131572" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879487053" longitude="-57.360214" latitude="-44.289787"/>
 <marker id="1450131573" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879487053" longitude="-57.90071" latitude="-44.35941"/>
@@ -84323,8 +84323,8 @@
 <marker id="1450135567" label="Sickly Boar" category="71" did="1879488658" parentZoneId="1879487053" longitude="-57.557774" latitude="-42.9006"/>
 <marker id="1450135568" label="Feral Sickly Boar" category="71" did="1879488659" parentZoneId="1879487053" longitude="-57.557774" latitude="-42.9006"/>
 <marker id="1450135569" label="Aggressive Sickly Boar" category="71" did="1879488657" parentZoneId="1879487053" longitude="-57.557774" latitude="-42.9006"/>
-<marker id="1450135570" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.613758" latitude="-43.340794"/>
-<marker id="1450135571" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.613758" latitude="-43.340794"/>
+<marker id="1450135570" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.613758" latitude="-43.340794"/>
+<marker id="1450135571" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.613758" latitude="-43.340794"/>
 <marker id="1450135572" label="Frenzied Craban" category="71" did="1879488908" parentZoneId="1879487053" longitude="-57.557774" latitude="-42.9006"/>
 <marker id="1450135573" label="Mottled Craban" category="71" did="1879488915" parentZoneId="1879487053" longitude="-57.557774" latitude="-42.9006"/>
 <marker id="1450135574" label="Dusty Creeping Arm" category="71" did="1879488926" parentZoneId="1879487053" longitude="-57.557774" latitude="-42.9006"/>
@@ -84348,20 +84348,20 @@
 <marker id="1450135607" label="Clue" category="73" did="1879502441" parentZoneId="1879487053" longitude="-57.362305" latitude="-43.131607"/>
 <marker id="1450135609" label="Clue" category="73" did="1879501570" parentZoneId="1879487053" longitude="-57.375126" latitude="-43.173687"/>
 <marker id="1450135610" label="Clue" category="73" did="1879501574" parentZoneId="1879487053" longitude="-57.309765" latitude="-43.0478"/>
-<marker id="1450135611" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.482918" latitude="-43.549664"/>
-<marker id="1450135612" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.482918" latitude="-43.549664"/>
-<marker id="1450135613" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.717342" latitude="-43.52285"/>
-<marker id="1450135614" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.717342" latitude="-43.52285"/>
-<marker id="1450135615" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.89586" latitude="-43.46731"/>
-<marker id="1450135616" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.89586" latitude="-43.46731"/>
-<marker id="1450135617" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.730995" latitude="-43.292534"/>
-<marker id="1450135618" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.730995" latitude="-43.292534"/>
-<marker id="1450135619" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.60634" latitude="-43.143684"/>
-<marker id="1450135620" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.60634" latitude="-43.143684"/>
-<marker id="1450135621" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.45536" latitude="-43.06207"/>
-<marker id="1450135622" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.45536" latitude="-43.06207"/>
-<marker id="1450135623" label="Sóthadar the Trickster" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.56909" latitude="-43.39049"/>
-<marker id="1450135624" label="Adagím Fen-ambler" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.56909" latitude="-43.39049"/>
+<marker id="1450135611" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.482918" latitude="-43.549664"/>
+<marker id="1450135612" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.482918" latitude="-43.549664"/>
+<marker id="1450135613" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.717342" latitude="-43.52285"/>
+<marker id="1450135614" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.717342" latitude="-43.52285"/>
+<marker id="1450135615" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.89586" latitude="-43.46731"/>
+<marker id="1450135616" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.89586" latitude="-43.46731"/>
+<marker id="1450135617" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.730995" latitude="-43.292534"/>
+<marker id="1450135618" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.730995" latitude="-43.292534"/>
+<marker id="1450135619" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.60634" latitude="-43.143684"/>
+<marker id="1450135620" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.60634" latitude="-43.143684"/>
+<marker id="1450135621" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.45536" latitude="-43.06207"/>
+<marker id="1450135622" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.45536" latitude="-43.06207"/>
+<marker id="1450135623" label="Imhûlari Marsh-binder" category="71" did="1879488865" parentZoneId="1879487053" longitude="-57.56909" latitude="-43.39049"/>
+<marker id="1450135624" label="Imhûlari Marsh-strider" category="71" did="1879488862" parentZoneId="1879487053" longitude="-57.56909" latitude="-43.39049"/>
 <marker id="1450135625" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879487053" longitude="-57.309666" latitude="-42.91552"/>
 <marker id="1450135626" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879487053" longitude="-57.309666" latitude="-42.91552"/>
 <marker id="1450135627" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879487053" longitude="-57.309666" latitude="-42.91552"/>

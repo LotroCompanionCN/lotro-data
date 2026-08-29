@@ -1914,6 +1914,7 @@
 <label key="1879476033" value="Shantyrufer-Kampfausrüstung des Abgrunds&#10;(Höchststufe: 119)"/>
 <label key="1879476034" value="Größere Kriegstracht der inspirierten Schlagkraft&#10;(Höchststufe: 119)"/>
 <label key="1879476036" value="Größere Kriegstracht des Fassmanns&#10;(Höchststufe: 119)[p]"/>
+<label key="1879476037" value="Rüstung des Hytbold-Shanty-Rufers&#10;(Höchststufe: 94)"/>
 <label key="1879476038" value="Kriegstracht der geschickten Manöver&#10;(Höchststufe: 134)"/>
 <label key="1879476039" value="Große Rüstung der Erebor-Seemanns&#10;(Höchststufe: 94)"/>
 <label key="1879476040" value="Überragende Kriegstracht der inspirierten Schlagkraft&#10;(Höchststufe: 119)"/>
@@ -1928,6 +1929,7 @@
 <label key="1879476049" value="Kriegstracht des Fassmanns&#10;(Höchststufe: 119)[p]"/>
 <label key="1879476050" value="Rüstung des Deckwandlers&#10;(Höchststufe: 74)"/>
 <label key="1879476051" value="Rüstung der Inspiration der Herrin&#10;(Höchststufe: 64)"/>
+<label key="1879476052" value="Rüstung des Hytbold-Duellanten&#10;(Höchststufe: 94)"/>
 <label key="1879476053" value="Überragende Kriegstracht der inspirierten Schlagkraft&#10;(Höchststufe: 119)"/>
 <label key="1879476054" value="Rüstung der Erebor-Klinge&#10;(Höchststufe: 94)"/>
 <label key="1879476056" value="Überragende Kriegstracht des Fassmanns&#10;(Höchststufe: 119)[p]"/>
@@ -1947,6 +1949,7 @@
 <label key="1879476070" value="Rüstung des Seemanns&#10;(Höchststufe: 84)"/>
 <label key="1879476071" value="Große Rüstung der Erebor-Klinge&#10;(Höchststufe: 94)"/>
 <label key="1879476072" value="Rüstung des Entdeckers&#10;(Höchststufe: 84)"/>
+<label key="1879476073" value="Rüstung des Hytbold-Wanderers&#10;(Höchststufe: 94)"/>
 <label key="1879476074" value="Rüstung des Seemannslieds&#10;(Höchststufe: 74)"/>
 <label key="1879476075" value="Rüstung der inspirierten Fußarbeit&#10;(Höchststufe: 84)"/>
 <label key="1879478782" value="Rüstung des Deckwandlers&#10;(Höchststufe: 64)"/>
@@ -2173,6 +2176,40 @@
 <label key="1879525581" value="Kleidung des Scharmützlers&#10;(Höchststufe: 164)"/>
 <label key="1879525589" value="Kleidung des Schnitters&#10;(Höchststufe: 164)"/>
 <label key="1879525600" value="Kleidung des Silberpfeils&#10;(Höchststufe: 164)"/>
+<label key="1879526035" value="Rüstung des Deckmeisters&#10;(Höchststufe: 47)"/>
+<label key="1879528209" value="Gewand des Fährtensuchers - 160"/>
+<label key="1879528210" value="Gewand des zerfetzten Banners - 160"/>
+<label key="1879528211" value="Kleidung der kühlen Wasser - 160"/>
+<label key="1879528212" value="Gewand der sicheren Wette - 160"/>
+<label key="1879528213" value="Rüstung des Berserkers - 160"/>
+<label key="1879528214" value="Kleidung des Lebenssängers - 160"/>
+<label key="1879528215" value="Gewand des Schnitterfeinds - 160"/>
+<label key="1879528217" value="Rüstung des rasenden Bären - 160"/>
+<label key="1879528218" value="Kleidung des Sturmrufers - 160"/>
+<label key="1879528219" value="Kleidung des beißenden Worts - 160"/>
+<label key="1879528220" value="Gewand des Schlachtenlieds - 160"/>
+<label key="1879528222" value="Gewand der Klaue des Raubvogels - 160"/>
+<label key="1879528223" value="Gewand der tanzenden Klinge - 160"/>
+<label key="1879528225" value="Gewand der zerschmetterten Faust - 160"/>
+<label key="1879528229" value="Rüstung der Bruderschaft - 160"/>
+<label key="1879528230" value="Rüstung der edlen Hände - 160"/>
+<label key="1879528231" value="Rüstung der Zungenfertigkeit - 160"/>
+<label key="1879528234" value="Kleidung des grollenden Donners - 160"/>
+<label key="1879528235" value="Rüstung des Lichtbringers - 160"/>
+<label key="1879528238" value="Gewand der fernen Ufer - 160"/>
+<label key="1879528239" value="Kleidung von Nestad - 160"/>
+<label key="1879528240" value="Rüstung des Eifers - 160"/>
+<label key="1879528241" value="Kleidung des Klagesängers - 160"/>
+<label key="1879528243" value="Rüstung des Nordhammers - 160"/>
+<label key="1879528247" value="Kleiung der Natur - 160"/>
+<label key="1879528250" value="Gewand des blutigen Speers - 160"/>
+<label key="1879528252" value="Gewand des Narren - 160"/>
+<label key="1879528254" value="Gewand der versteckten Klinge - 160"/>
+<label key="1879528256" value="Gewand des Unsichtbaren - 160"/>
+<label key="1879528257" value="Gewand der endlosen Wurfpfeile - 160"/>
+<label key="1879528467" value="Grabgelehrter"/>
+<label key="1879528468" value="Grabkrieger"/>
+<label key="1879528469" value="Grabkundschafter"/>
 <label key="1879528508" value="Gewand des gefallenen Beschwörers&#10;(Max. Stufe: 164)"/>
 <label key="1879528509" value="Gewand des gefallenen Weisen&#10;(Max. Stufe: 164)"/>
 <label key="1879528510" value="Gewand des gefallenen Mystikers&#10;(Max. Stufe: 164)"/>
@@ -2182,6 +2219,10 @@
 <label key="1879528518" value="Gewand des gefallenen Wächters&#10;(Max. Stufe: 164)"/>
 <label key="1879528519" value="Gewand des gefallenen Kundschafters&#10;(Max. Stufe: 164)"/>
 <label key="1879528520" value="Gewand des gefallenen Hüters&#10;(Max. Stufe: 164)"/>
+<label key="1879528651" value="Erster-Seefahrer-Geschmeide von Helm Hammerhand&#10;(Max. Stufe: 105)"/>
+<label key="1879528652" value="Vierter-Seefahrer-Geschmeide von Helm Hammerhand&#10;(Max. Stufe: 105)"/>
+<label key="1879528653" value="Zweiter-Seefahrer-Geschmeide von Helm Hammerhand&#10;(Max. Stufe: 105)"/>
+<label key="1879528654" value="Dritter-Seefahrer-Geschmeide von Helm Hammerhand&#10;(Max. Stufe: 105)"/>
 <label key="key:620790390:108054836" value="+5 % auf Heilung"/>
 <label key="key:620790390:54354734" value="Diese edle Rüstung ist mit Beryllen beschlagen, die auch als Elbensteine bekannt sind. Die Elben schmiedeten sie für einen angesehenen Barden."/>
 <label key="key:620790391:108054836" value="-1,5 Sek. Abklingzeit von \qDurchdringender Schuss\q"/>
@@ -2627,19 +2668,19 @@
 <label key="key:620917811:108054834" value="+ ${VALUE} Sekunden Dauer von \qBlendender Blitzstrahl\q"/>
 <label key="key:620917811:108054836" value="Zeichen der Macht: Umsichtigkeit gewährt nun eine Schwächung der kritischen Werte des Ziels."/>
 <label key="key:620917812:108054834" value="Blitzsturm: 20 % Möglichkeit, jedes Ziel 5 Sekunden lang benommen zu machen"/>
-<label key="key:620944858:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620944858:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620944867:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
 <label key="key:620944888:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620944890:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620944957:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
 <label key="key:620944969:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
-<label key="key:620944983:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620944983:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620944992:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
-<label key="key:620945004:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
-<label key="key:620945013:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620945004:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
+<label key="key:620945013:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620945019:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
-<label key="key:620945030:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
-<label key="key:620945033:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620945030:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
+<label key="key:620945033:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620945036:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
 <label key="key:620945047:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
 <label key="key:620945068:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
@@ -2650,12 +2691,12 @@
 <label key="key:620945093:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620945096:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
 <label key="key:620945110:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
-<label key="key:620945124:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620945124:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620945131:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945132:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945151:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
-<label key="key:620945161:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
-<label key="key:620945170:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620945161:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
+<label key="key:620945170:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620945176:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620945177:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
 <label key="key:620945180:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
@@ -2664,7 +2705,7 @@
 <label key="key:620945190:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945192:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945201:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
-<label key="key:620945208:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620945208:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620945215:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
 <label key="key:620945237:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945239:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
@@ -2672,9 +2713,9 @@
 <label key="key:620945250:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945251:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945252:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
-<label key="key:620945305:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620945305:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620945313:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
-<label key="key:620945325:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620945325:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620945331:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
 <label key="key:620945339:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620945341:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
@@ -2684,18 +2725,18 @@
 <label key="key:620945353:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945355:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945396:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
-<label key="key:620945407:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
-<label key="key:620945420:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
-<label key="key:620945430:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620945407:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
+<label key="key:620945420:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
+<label key="key:620945430:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620945445:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620945470:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620945487:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620945501:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620945508:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620945511:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
-<label key="key:620945516:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
-<label key="key:620945525:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
-<label key="key:620945531:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620945516:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
+<label key="key:620945525:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
+<label key="key:620945531:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620945539:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620945545:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620945546:108054834" value="+${PERCENTVALUE} Kraftwiederherstellung durch „Teilung der Macht“"/>
@@ -2725,7 +2766,7 @@
 <label key="key:620946077:108054836" value="10 % Schaden durch „Faust-Gambit“"/>
 <label key="key:620946078:108054836" value="+10 % Feuerschaden"/>
 <label key="key:620946082:108054836" value="\qSpottruf\q senkt empfangene Heilung 10 Sekunden lang um 35 %."/>
-<label key="key:620950050:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620950050:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620950062:108054834" value="+${VALUE} Sekunden Dauer von \qErzwungener Angriff\q"/>
 <label key="key:620950099:108054834" value="+${VALUE} Sekunden Dauer von „Schild der Dúnedain“"/>
 <label key="key:620950168:108054834" value="+${PERCENTVALUE} auf kritischen Schaden für Nahkampf-Fertigkeiten mit Bereichswirkung"/>
@@ -2798,7 +2839,7 @@
 <label key="key:620960110:108054836" value="Bogen-Angriffe, die Fokus verbrauchen, haben die Chance, die Abklingzeit von „Herzsucher“ zurückzusetzen und als sofortigen Angriff zur Verfügung zu stellen."/>
 <label key="key:620960111:108054834" value="+${PERCENTVALUE} Schaden durch Ballade und Coda"/>
 <label key="key:620960111:108054836" value="+25 % auf das kritische Ausmaß von Schreien"/>
-<label key="key:620960112:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Repliken"/>
+<label key="key:620960112:108054834" value="+${VALUE} Sekunden Dauer von Kampfzuständen und Niederlagen-Erwiderung"/>
 <label key="key:620960113:108054834" value="+${VALUE} „Schaden über Zeit“-Impulse des Hüters"/>
 <label key="key:620960113:108054836" value="Blutungsschaden durch \qKraftangriff\q, \qMächtiger Schlag\q und \qZielsicherer Schlag\q um 25 % erhöht"/>
 <label key="key:620960114:108054836" value="Klingenfertigkeiten haben die Chance bei Eurem nächsten Klingensturm keine Leidenschaftspunkte zu verbrauchen."/>
@@ -3457,4 +3498,9 @@
 <label key="key:621122850:108054836" value="+25 % Chance, einen Wirbelwind zu erzeugen."/>
 <label key="key:621122875:108054836" value="\qRitterliche Geste\q erhöht den Schaden von \qSpottruf\q um 10 % pro Stufe."/>
 <label key="key:621122877:108054836" value="Nach der Verbreitung von \qHeilender Vers\q wird eine Rune der Wiederherstellung so vorbereitet, dass sie eine eisige Explosion auslöst, wenn sie zerstört wird."/>
+<label key="key:621123271:54354734" value="Diese erstklassige Rüstung wurde von den edelsten der arnorischen Deckmeister getragen."/>
+<label key="key:621125118:108054836" value="\qKontrolliertes Verbrennen\q wird zu \qUnkontrolliertes Verbrennen\q, das noch höheren Schaden bewirkt und Euch immun gegen negative Kampfzustände und Verlangsamungen macht, auf Kosten von Moral und empfangener Heilung."/>
+<label key="key:621125135:108054836" value="Die Heilungseffektivität von Tapferkeit ist verdoppelt.&#10;Nahkampffertigkeiten haben eine 15 % Chance, 5 % der Moral der Gefährtengruppe wiederherzustellen."/>
+<label key="key:621125158:108054836" value="\qTarnung\q wird zu \qDer unsichtbare Jäger\q, das es Euch ermöglicht, im Kampf zu verschwinden, und Eure Ferkampfangriffe für kurze Zeit verstärkt."/>
+<label key="key:621125163:108054836" value="\qSchartige Schneide\q wird zu \qDie Schatten durchbohren\q, durch das Euer Ziel an Euch gebunden wird, Schaden erleidet und geschwächt wirkt."/>
 </labels>

@@ -56,7 +56,7 @@
 <label key="1879420792" value="Marco de Sangre de Azog"/>
 <label key="1879420793" value="Marco del Daño de Durin"/>
 <label key="1879422528" value="Marco del Corazón de la Montaña"/>
-<label key="1879441298" value="Marco del trono de Steepset"/>
+<label key="1879441298" value="Marco del trono de Escarpada"/>
 <label key="1879441299" value="Marco de Lagosombrío"/>
 <label key="1879441300" value="Marco de cazador de geodas"/>
 <label key="1879442829" value="Marco de las Moradas de los Enanos"/>
@@ -110,4 +110,6 @@
 <label key="1879525335" value="Nineteen-year Frame"/>
 <label key="1879526222" value="Season of Destruction Free People Frame"/>
 <label key="1879526223" value="Season of Destruction Monster Frame"/>
+<label key="1879531363" value="Season of Renewed Aggression Free People Frame"/>
+<label key="1879531364" value="Season of Renewed Aggression Monster Frame"/>
 </labels>

@@ -1,1010 +1,1010 @@
 <?xml version="1.0" encoding="UTF-8"?><classes>
-    <monsterClass id="1879073664" code="71" key="Reaver" name="掠夺者" tag="" iconId="1090551241" abbreviation="RVR" description="key:620775379:228830419">
-        <classVirtue id="1879063892" name="伤害" startRank="5" maxRank="5"/>
-        <classVirtue id="1879063893" name="生命值" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063894" name="能量" startRank="2" maxRank="2"/>
-        <classVirtue id="1879063895" name="护甲" startRank="3" maxRank="3"/>
-        <classVirtue id="1879063896" name="闪避" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063897" name="抗性" startRank="2" maxRank="2"/>
-        <classVirtue id="1879136127" name="生命值回复" startRank="0" maxRank="3"/>
-        <classVirtue id="1879136124" name="能量回复" startRank="0" maxRank="4"/>
-        <classVirtue id="1879136125" name="近战暴击" startRank="0" maxRank="5"/>
-        <classVirtue id="1879136120" name="法术暴击" startRank="0" maxRank="2"/>
-        <classVirtue id="1879212225" name="战地晋升" startRank="0" maxRank="15"/>
-        <classVirtue id="1879231342" name="韧性" startRank="1" maxRank="36"/>
-        <classTrait minLevel="95" traitId="1879072425" traitName="能量强化"/>
-        <classTrait minLevel="95" traitId="1879072426" traitName="抗性强化"/>
-        <classTrait minLevel="95" traitId="1879072427" traitName="快速打击"/>
-        <classTrait minLevel="95" traitId="1879072428" traitName="燃烧之刃（Burning Blades）"/>
-        <classTrait minLevel="95" traitId="1879072429" traitName="强化技能：锯齿切割"/>
-        <classTrait minLevel="95" traitId="1879072430" traitName="强化技能：胜利荣光"/>
-        <classTrait minLevel="95" traitId="1879072431" traitName="强化技能：毁灭打击"/>
-        <classTrait minLevel="95" traitId="1879072432" traitName="强化技能：坚韧"/>
-        <classTrait minLevel="95" traitId="1879138051" traitName="强化技能：断筋"/>
-        <classTrait minLevel="95" traitId="1879138052" traitName="强化技能：优势"/>
-        <classTrait minLevel="95" traitId="1879138049" traitName="延伸攻击距离（Extended Reach）"/>
-        <classTrait minLevel="95" traitId="1879072433" traitName="强化技能：逆势而为"/>
-        <classTrait minLevel="95" traitId="1879072434" traitName="强化技能：飞刀（Blade Toss）"/>
-        <classTrait minLevel="95" traitId="1879072505" traitName="伤害换士气（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091351" traitName="伤害换士气（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072506" traitName="伤害换生命（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091352" traitName="伤害换治疗（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072507" traitName="士气换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091353" traitName="士气换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072508" traitName="士气换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091354" traitName="士气换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072509" traitName="生命换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091355" traitName="治疗换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072510" traitName="生命换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091356" traitName="治疗换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072511" traitName="致命防护提升4"/>
-        <classTrait minLevel="95" traitId="1879091359" traitName="暴击防护提升6"/>
-        <classTrait minLevel="95" traitId="1879072512" traitName="法术防御增益 1"/>
-        <classTrait minLevel="95" traitId="1879091360" traitName="法术防御 增益 5"/>
-        <classTrait minLevel="95" traitId="1879072513" traitName="法术防御增益 6"/>
-        <classTrait minLevel="95" traitId="1879091361" traitName="法术防御 增益 4"/>
-        <classTrait minLevel="95" traitId="1879072514" traitName="物理防御提升1"/>
-        <classTrait minLevel="95" traitId="1879091357" traitName="物理防御 提升6"/>
-        <classTrait minLevel="95" traitId="1879072515" traitName="物理防御提升5"/>
-        <classTrait minLevel="95" traitId="1879091358" traitName="暴击防护提升3"/>
-        <classTrait minLevel="95" traitId="1879072516" traitName="物理防御 提升4"/>
-        <classTrait minLevel="95" traitId="1879091362" traitName="精通增益3"/>
-        <classTrait minLevel="95" traitId="1879072517" traitName="抗性强化1"/>
-        <classTrait minLevel="95" traitId="1879091366" traitName="抗性强化2"/>
-        <classTrait minLevel="95" traitId="1879072518" traitName="抗性强化4"/>
-        <classTrait minLevel="95" traitId="1879091363" traitName="抗性强化3"/>
-        <classTrait minLevel="95" traitId="1879072519" traitName="抗性强化5"/>
-        <classTrait minLevel="95" traitId="1879091364" traitName="抗性强化6"/>
-        <classTrait minLevel="95" traitId="1879072520" traitName="精通增益5"/>
-        <classTrait minLevel="95" traitId="1879091365" traitName="精通增益6"/>
-        <classTrait minLevel="95" traitId="1879072521" traitName="腐蚀技能：破盾者"/>
-        <classTrait minLevel="95" traitId="1879097853" traitName="种族技能：火焰之血"/>
-        <classTrait minLevel="95" traitId="1879097854" traitName="种族技能：不灭狂怒"/>
-        <classTrait minLevel="95" traitId="1879097831" traitName="前线 fodder"/>
-        <classTrait minLevel="95" traitId="1879097832" traitName="被遗弃者之怒"/>
-        <classTrait minLevel="95" traitId="1879097833" traitName="对抗深渊的战士"/>
-        <classTrait minLevel="95" traitId="1879097834" traitName="不倦战士"/>
-        <classTrait minLevel="95" traitId="1879097835" traitName="flesh剥皮者"/>
-        <classTrait minLevel="95" traitId="1879072435" traitName="战士外观"/>
-        <classTrait minLevel="95" traitId="1879072436" traitName="白掌战士外观"/>
-        <classTrait minLevel="95" traitId="1879072437" traitName="昂格布兹(Ongbûrz)盔胄士兵外观"/>
-        <classTrait minLevel="95" traitId="1879072438" traitName="盔饰克拉哈恩士兵外观"/>
-        <classTrait minLevel="95" traitId="1879072439" traitName="盔饰克拉哈恩鼓手外观"/>
-        <classTrait minLevel="95" traitId="1879072440" traitName="盔胄士兵外观"/>
-        <classTrait minLevel="95" traitId="1879084080" traitName="白掌士兵外观"/>
-        <classTrait minLevel="95" traitId="1879103420" traitName="塔克里普战士外观"/>
-        <classTrait minLevel="95" traitId="1879103421" traitName="塔克里普士兵外观"/>
-        <classTrait minLevel="95" traitId="1879103414" traitName="盔饰克拉哈恩战士外观"/>
-        <classTrait minLevel="95" traitId="1879103415" traitName="布洛格默士兵外观"/>
-        <classTrait minLevel="95" traitId="1879103416" traitName="昂格布兹(Ongbûrz)战士外观"/>
-        <classTrait minLevel="95" traitId="1879103417" traitName="精英昂格布兹(Ongbûrz)战士外观"/>
-        <classTrait minLevel="95" traitId="1879103418" traitName="昂格布兹(Ongbûrz)军阀外观"/>
-        <classTrait minLevel="95" traitId="1879103419" traitName="精英昂格布兹(Ongbûrz)军阀外观"/>
-        <classTrait minLevel="95" traitId="1879265093" traitName="暴击等级加成1"/>
-        <classTrait minLevel="95" traitId="1879265091" traitName="暴击等级加成2"/>
-        <classTrait minLevel="95" traitId="1879265092" traitName="暴击等级加成3"/>
-        <classTrait minLevel="95" traitId="1879265094" traitName="暴击等级加成4"/>
-        <classTrait minLevel="95" traitId="1879265089" traitName="暴击等级加成5"/>
-        <classTrait minLevel="95" traitId="1879265090" traitName="暴击等级加成6"/>
-        <classTrait minLevel="95" traitId="1879152359" traitName="暴击防护增强1"/>
-        <classTrait minLevel="95" traitId="1879152361" traitName="暴击防护提升2"/>
-        <classTrait minLevel="95" traitId="1879152253" traitName="物理防御 提升2"/>
-        <classTrait minLevel="95" traitId="1879152251" traitName="物理防御 提升3"/>
-        <classTrait minLevel="95" traitId="1879152252" traitName="法术防御 增益 2"/>
-        <classTrait minLevel="95" traitId="1879152250" traitName="法术防御 增益 3"/>
-        <classTrait minLevel="95" traitId="1879143085" traitName="精通增益1"/>
-        <classTrait minLevel="95" traitId="1879143089" traitName="精通增益4"/>
-        <classTrait minLevel="95" traitId="1879143086" traitName="精通增益2"/>
-        <classTrait minLevel="95" traitId="1879143090" traitName="暴击防护提升5"/>
-        <classTrait minLevel="95" traitId="1879326798" traitName="带齿兽人剑外观"/>
-        <classTrait minLevel="95" traitId="1879326809" traitName="兽人尖柄剑外观"/>
-        <classTrait minLevel="95" traitId="1879326803" traitName="兽人长剑外观"/>
-        <classTrait minLevel="95" traitId="1879326814" traitName="腐化剑外观"/>
-        <classTrait minLevel="95" traitId="1879326806" traitName="兽人砍刀外观"/>
-        <classTrait minLevel="95" traitId="1879326822" traitName="装饰兽人剑外观"/>
-        <classTrait minLevel="95" traitId="1879326797" traitName="战损长剑外观"/>
-        <classTrait minLevel="95" traitId="1879326795" traitName="哥布林短斧外观"/>
-        <classTrait minLevel="95" traitId="1879326813" traitName="兽人长斧外观"/>
-        <classTrait minLevel="95" traitId="1879326820" traitName="华丽腐化剑外观"/>
-        <classTrait minLevel="95" traitId="1879326811" traitName="腐化 flare 手斧外观（副手）"/>
-        <classTrait minLevel="95" traitId="1879326817" traitName="腐化之剑外观（副手）"/>
-        <classTrait minLevel="95" traitId="1879326821" traitName="战损之剑外观（副手）"/>
-        <classTrait minLevel="95" traitId="1879326826" traitName="架上最后之剑外观（副手）"/>
-        <classTrait minLevel="95" traitId="1879326794" traitName="腐化手斧外观（副手）"/>
-        <classTrait minLevel="95" traitId="1879358544" traitName="精准加成1"/>
-        <classTrait minLevel="95" traitId="1879358547" traitName="精准加成2"/>
-        <classTrait minLevel="95" traitId="1879358545" traitName="精准加成3"/>
-        <classTrait minLevel="95" traitId="1879358543" traitName="精准加成4"/>
-        <classTrait minLevel="95" traitId="1879358542" traitName="精准加成5"/>
-        <classTrait minLevel="95" traitId="1879358546" traitName="精准加成6"/>
-        <classTrait minLevel="95" traitId="1879451187" traitName="双刃剑"/>
-        <classSkill minLevel="95" skillId="1879073674" skillName="突然连击"/>
-        <classSkill minLevel="95" skillId="1879073675" skillName="锯齿切割"/>
-        <classSkill minLevel="95" skillId="1879073676" skillName="破甲一击"/>
-        <classSkill minLevel="95" skillId="1879073677" skillName="毁灭性打击"/>
-        <classSkill minLevel="95" skillId="1879072530" skillName="断筋"/>
-        <classSkill minLevel="95" skillId="1879072528" skillName="缴械"/>
-        <classSkill minLevel="95" skillId="1879073678" skillName="致盲尘土"/>
-        <classSkill minLevel="95" skillId="1879073679" skillName="未来胜利之荣耀"/>
-        <classSkill minLevel="95" skillId="1879097880" skillName="冲锋！"/>
-        <classSkill minLevel="95" skillId="1879097881" skillName="腹部猛击"/>
-        <classSkill minLevel="95" skillId="1879210595" skillName="强化 gut 拳击"/>
-        <classSkill minLevel="95" skillId="1879136973" skillName="撕裂"/>
-        <classSkill minLevel="95" skillId="1879136968" skillName="锯齿"/>
-        <classSkill minLevel="95" skillId="1879136964" skillName="蹂躏"/>
-        <classSkill minLevel="95" skillId="1879136962" skillName="嗜血"/>
-        <classSkill minLevel="95" skillId="1879136965" skillName="暂停"/>
-        <classSkill minLevel="95" skillId="1879136971" skillName="割裂打击"/>
-        <classSkill minLevel="95" skillId="1879136963" skillName="优势"/>
-        <classSkill minLevel="95" skillId="1879136961" skillName="致残"/>
-        <classSkill minLevel="95" skillId="1879136959" skillName="暴怒"/>
-        <classSkill minLevel="95" skillId="1879136969" skillName="挥击"/>
-        <classSkill minLevel="95" skillId="1879216228" skillName="强化突袭"/>
-        <classSkill minLevel="95" skillId="1879224579" skillName="前进！"/>
-        <classSkill minLevel="95" skillId="1879072525" skillName="坚韧"/>
-        <classSkill minLevel="95" skillId="1879136970" skillName="逆势而为"/>
-        <classSkill minLevel="95" skillId="1879200538" skillName="利刃投掷"/>
-        <classSkill minLevel="95" skillId="1879094735" skillName="巨魔的蛮力（近战）"/>
-        <classSkill minLevel="95" skillId="1879095209" skillName="蜘蛛之毒（近战）"/>
-        <classSkill minLevel="95" skillId="1879095383" skillName="尸妖腐坏（近战）"/>
-        <classSkill minLevel="95" skillId="1879095103" skillName="邪恶灵体的恐惧（远程）"/>
-        <classSkill minLevel="95" skillId="1879246021" skillName="穿刺"/>
-    </monsterClass>
-    <monsterClass id="1879073665" code="128" key="Defiler" name="污染者（Defiler）" tag="" iconId="1091464182" abbreviation="DEF" description="key:620775392:228830419">
-        <classVirtue id="1879063892" name="伤害" startRank="2" maxRank="2"/>
-        <classVirtue id="1879063893" name="生命值" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063894" name="能量" startRank="5" maxRank="5"/>
-        <classVirtue id="1879063895" name="护甲" startRank="3" maxRank="3"/>
-        <classVirtue id="1879063896" name="闪避" startRank="2" maxRank="2"/>
-        <classVirtue id="1879063897" name="抗性" startRank="4" maxRank="4"/>
-        <classVirtue id="1879136127" name="生命值回复" startRank="0" maxRank="3"/>
-        <classVirtue id="1879136124" name="能量回复" startRank="0" maxRank="4"/>
-        <classVirtue id="1879136125" name="近战暴击" startRank="0" maxRank="2"/>
-        <classVirtue id="1879136120" name="法术暴击" startRank="0" maxRank="5"/>
-        <classVirtue id="1879212225" name="战地晋升" startRank="0" maxRank="15"/>
-        <classVirtue id="1879231342" name="韧性" startRank="1" maxRank="36"/>
-        <classTrait minLevel="95" traitId="1879084093" traitName="强化技能：粘脚诅咒"/>
-        <classTrait minLevel="95" traitId="1879084118" traitName="强化技能：Fell Restoration（Enhanced Skill: Fell Restoration）"/>
-        <classTrait minLevel="95" traitId="1879084113" traitName="强化技能：瘟疫 gourd"/>
-        <classTrait minLevel="95" traitId="1879084104" traitName="士气提升"/>
-        <classTrait minLevel="95" traitId="1879084077" traitName="护甲强化"/>
-        <classTrait minLevel="95" traitId="1879084117" traitName="强化技能：真菌孢子"/>
-        <classTrait minLevel="95" traitId="1879084083" traitName="强化技能：黑暗祝福"/>
-        <classTrait minLevel="95" traitId="1879138671" traitName="节俭诅咒"/>
-        <classTrait minLevel="95" traitId="1879138673" traitName="强化技能：苍蝇瘟疫"/>
-        <classTrait minLevel="95" traitId="1879138669" traitName="强化技能：枯萎"/>
-        <classTrait minLevel="95" traitId="1879138664" traitName="强化 slime"/>
-        <classTrait minLevel="95" traitId="1879138672" traitName="快速投掷"/>
-        <classTrait minLevel="95" traitId="1879201534" traitName="强化技能：繁茂"/>
-        <classTrait minLevel="95" traitId="1879448878" traitName="远古增益"/>
-        <classTrait minLevel="95" traitId="1879072505" traitName="伤害换士气（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091351" traitName="伤害换士气（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072506" traitName="伤害换生命（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091352" traitName="伤害换治疗（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072507" traitName="士气换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091353" traitName="士气换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072508" traitName="士气换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091354" traitName="士气换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072509" traitName="生命换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091355" traitName="治疗换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072510" traitName="生命换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091356" traitName="治疗换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072511" traitName="致命防护提升4"/>
-        <classTrait minLevel="95" traitId="1879091359" traitName="暴击防护提升6"/>
-        <classTrait minLevel="95" traitId="1879072512" traitName="法术防御增益 1"/>
-        <classTrait minLevel="95" traitId="1879091360" traitName="法术防御 增益 5"/>
-        <classTrait minLevel="95" traitId="1879072513" traitName="法术防御增益 6"/>
-        <classTrait minLevel="95" traitId="1879091361" traitName="法术防御 增益 4"/>
-        <classTrait minLevel="95" traitId="1879072514" traitName="物理防御提升1"/>
-        <classTrait minLevel="95" traitId="1879091357" traitName="物理防御 提升6"/>
-        <classTrait minLevel="95" traitId="1879072515" traitName="物理防御提升5"/>
-        <classTrait minLevel="95" traitId="1879091358" traitName="暴击防护提升3"/>
-        <classTrait minLevel="95" traitId="1879072516" traitName="物理防御 提升4"/>
-        <classTrait minLevel="95" traitId="1879091362" traitName="精通增益3"/>
-        <classTrait minLevel="95" traitId="1879072517" traitName="抗性强化1"/>
-        <classTrait minLevel="95" traitId="1879091366" traitName="抗性强化2"/>
-        <classTrait minLevel="95" traitId="1879072518" traitName="抗性强化4"/>
-        <classTrait minLevel="95" traitId="1879091363" traitName="抗性强化3"/>
-        <classTrait minLevel="95" traitId="1879072519" traitName="抗性强化5"/>
-        <classTrait minLevel="95" traitId="1879091364" traitName="抗性强化6"/>
-        <classTrait minLevel="95" traitId="1879072520" traitName="精通增益5"/>
-        <classTrait minLevel="95" traitId="1879091365" traitName="精通增益6"/>
-        <classTrait minLevel="95" traitId="1879072521" traitName="腐蚀技能：破盾者"/>
-        <classTrait minLevel="95" traitId="1879097853" traitName="种族技能：火焰之血"/>
-        <classTrait minLevel="95" traitId="1879097854" traitName="种族技能：不灭狂怒"/>
-        <classTrait minLevel="95" traitId="1879097831" traitName="前线 fodder"/>
-        <classTrait minLevel="95" traitId="1879097832" traitName="被遗弃者之怒"/>
-        <classTrait minLevel="95" traitId="1879097833" traitName="对抗深渊的战士"/>
-        <classTrait minLevel="95" traitId="1879097834" traitName="不倦战士"/>
-        <classTrait minLevel="95" traitId="1879097835" traitName="flesh剥皮者"/>
-        <classTrait minLevel="95" traitId="1879084109" traitName="山羊面具塔克里普外观"/>
-        <classTrait minLevel="95" traitId="1879084098" traitName="山羊面具昂格布兹(Ongbûrz)外观"/>
-        <classTrait minLevel="95" traitId="1879084091" traitName="山羊面具布洛格玛外观"/>
-        <classTrait minLevel="95" traitId="1879084085" traitName="山羊面具克拉哈恩外观"/>
-        <classTrait minLevel="95" traitId="1879084079" traitName="熊面具塔克里普外观"/>
-        <classTrait minLevel="95" traitId="1879084107" traitName="熊面具昂格布兹(Ongbûrz)外观"/>
-        <classTrait minLevel="95" traitId="1879084103" traitName="熊面具布洛格玛外观"/>
-        <classTrait minLevel="95" traitId="1879103428" traitName="熊面具克拉哈恩外观"/>
-        <classTrait minLevel="95" traitId="1879103429" traitName="aurochs面具塔克里普外观"/>
-        <classTrait minLevel="95" traitId="1879103422" traitName="aurochs面具昂格布兹(Ongbûrz)外观"/>
-        <classTrait minLevel="95" traitId="1879103423" traitName="aurochs面具布洛格玛外观"/>
-        <classTrait minLevel="95" traitId="1879103424" traitName="aurochs面具克拉哈恩外观"/>
-        <classTrait minLevel="95" traitId="1879103425" traitName="龙兽面具昂格布兹(Ongbûrz)外观"/>
-        <classTrait minLevel="95" traitId="1879103426" traitName="龙兽面具布洛格玛外观"/>
-        <classTrait minLevel="95" traitId="1879103427" traitName="龙兽面具克拉哈恩外观"/>
-        <classTrait minLevel="95" traitId="1879326800" traitName="兽人污染者法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326819" traitName="腐化长法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326818" traitName="腐化尖刺法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326812" traitName="腐化装饰法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326815" traitName="安格玛法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326823" traitName="自然法杖外观"/>
-        <classTrait minLevel="95" traitId="1879265093" traitName="暴击等级加成1"/>
-        <classTrait minLevel="95" traitId="1879265091" traitName="暴击等级加成2"/>
-        <classTrait minLevel="95" traitId="1879265092" traitName="暴击等级加成3"/>
-        <classTrait minLevel="95" traitId="1879265094" traitName="暴击等级加成4"/>
-        <classTrait minLevel="95" traitId="1879265089" traitName="暴击等级加成5"/>
-        <classTrait minLevel="95" traitId="1879265090" traitName="暴击等级加成6"/>
-        <classTrait minLevel="95" traitId="1879152359" traitName="暴击防护增强1"/>
-        <classTrait minLevel="95" traitId="1879152361" traitName="暴击防护提升2"/>
-        <classTrait minLevel="95" traitId="1879152253" traitName="物理防御 提升2"/>
-        <classTrait minLevel="95" traitId="1879152251" traitName="物理防御 提升3"/>
-        <classTrait minLevel="95" traitId="1879152252" traitName="法术防御 增益 2"/>
-        <classTrait minLevel="95" traitId="1879152250" traitName="法术防御 增益 3"/>
-        <classTrait minLevel="95" traitId="1879143085" traitName="精通增益1"/>
-        <classTrait minLevel="95" traitId="1879143089" traitName="精通增益4"/>
-        <classTrait minLevel="95" traitId="1879143086" traitName="精通增益2"/>
-        <classTrait minLevel="95" traitId="1879143090" traitName="暴击防护提升5"/>
-        <classTrait minLevel="95" traitId="1879358544" traitName="精准加成1"/>
-        <classTrait minLevel="95" traitId="1879358547" traitName="精准加成2"/>
-        <classTrait minLevel="95" traitId="1879358545" traitName="精准加成3"/>
-        <classTrait minLevel="95" traitId="1879358543" traitName="精准加成4"/>
-        <classTrait minLevel="95" traitId="1879358542" traitName="精准加成5"/>
-        <classTrait minLevel="95" traitId="1879358546" traitName="精准加成6"/>
-        <classSkill minLevel="95" skillId="1879104844" skillName="肥沃黏液"/>
-        <classSkill minLevel="95" skillId="1879104842" skillName="真菌绽放"/>
-        <classSkill minLevel="95" skillId="1879104846" skillName="邪恶恢复"/>
-        <classSkill minLevel="95" skillId="1879104845" skillName="邪恶献祭"/>
-        <classSkill minLevel="95" skillId="1879492176" skillName="刺鼻 salts"/>
-        <classSkill minLevel="95" skillId="1879104843" skillName="倦怠之心诅咒"/>
-        <classSkill minLevel="95" skillId="1879104841" skillName="黏足诅咒"/>
-        <classSkill minLevel="95" skillId="1879104838" skillName="懦夫之魂的诅咒"/>
-        <classSkill minLevel="95" skillId="1879104840" skillName="致命哀伤诅咒"/>
-        <classSkill minLevel="95" skillId="1879104847" skillName="火焰 gourd"/>
-        <classSkill minLevel="95" skillId="1879104848" skillName="瘟疫葫芦"/>
-        <classSkill minLevel="95" skillId="1879104837" skillName="碎颅者"/>
-        <classSkill minLevel="95" skillId="1879516459" skillName="嗅盐（Smelling Salts）"/>
-        <classSkill minLevel="95" skillId="1879138629" skillName="软化"/>
-        <classSkill minLevel="95" skillId="1879138638" skillName="滑腻血肉的涂油礼"/>
-        <classSkill minLevel="95" skillId="1879138640" skillName="苍蝇瘟疫"/>
-        <classSkill minLevel="95" skillId="1879138645" skillName="繁花绽放"/>
-        <classSkill minLevel="95" skillId="1879138633" skillName="腐肉诅咒"/>
-        <classSkill minLevel="95" skillId="1879138641" skillName="爆炸葫芦"/>
-        <classSkill minLevel="95" skillId="1879138637" skillName="忧郁之心的诅咒"/>
-        <classSkill minLevel="95" skillId="1879138631" skillName="黏糊糊的 gourd"/>
-        <classSkill minLevel="95" skillId="1879138644" skillName="枯萎病"/>
-        <classSkill minLevel="95" skillId="1879224579" skillName="前进！"/>
-        <classSkill minLevel="95" skillId="1879243707" skillName="持续痛苦"/>
-        <classSkill minLevel="95" skillId="1879104839" skillName="真菌孢子"/>
-        <classSkill minLevel="95" skillId="1879138634" skillName="黑暗祝福"/>
-        <classSkill minLevel="95" skillId="1879094735" skillName="巨魔的蛮力（近战）"/>
-        <classSkill minLevel="95" skillId="1879095209" skillName="蜘蛛之毒（近战）"/>
-        <classSkill minLevel="95" skillId="1879095383" skillName="尸妖腐坏（近战）"/>
-        <classSkill minLevel="95" skillId="1879095103" skillName="邪恶灵体的恐惧（远程）"/>
-        <classSkill minLevel="95" skillId="1879451337" skillName="咒喊姿态"/>
-        <classSkill minLevel="95" skillId="1879451330" skillName="草药看护姿态"/>
-    </monsterClass>
-    <monsterClass id="1879073666" code="179" key="Blackarrow" name="黑箭(Blackarrow)" tag="" iconId="1090551243" abbreviation="BLA" description="key:620775395:228830419">
-        <classVirtue id="1879063892" name="伤害" startRank="5" maxRank="5"/>
-        <classVirtue id="1879063893" name="生命值" startRank="3" maxRank="3"/>
-        <classVirtue id="1879063894" name="能量" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063895" name="护甲" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063896" name="闪避" startRank="2" maxRank="2"/>
-        <classVirtue id="1879063897" name="抗性" startRank="2" maxRank="2"/>
-        <classVirtue id="1879136127" name="生命值回复" startRank="0" maxRank="3"/>
-        <classVirtue id="1879136124" name="能量回复" startRank="0" maxRank="4"/>
-        <classVirtue id="1879136125" name="近战暴击" startRank="0" maxRank="2"/>
-        <classVirtue id="1879136121" name="远程暴击" startRank="0" maxRank="5"/>
-        <classVirtue id="1879212225" name="战地晋升" startRank="0" maxRank="15"/>
-        <classVirtue id="1879231342" name="韧性" startRank="1" maxRank="36"/>
-        <classTrait minLevel="95" traitId="1879072457" traitName="avoidance强化"/>
-        <classTrait minLevel="95" traitId="1879072458" traitName="抗性强化"/>
-        <classTrait minLevel="95" traitId="1879072459" traitName="致命瞄准"/>
-        <classTrait minLevel="95" traitId="1879072460" traitName="不可思议的反应"/>
-        <classTrait minLevel="95" traitId="1879072461" traitName="强化技能：阻碍射击"/>
-        <classTrait minLevel="95" traitId="1879072462" traitName="穿透箭矢"/>
-        <classTrait minLevel="95" traitId="1879072463" traitName="快速拔枪"/>
-        <classTrait minLevel="95" traitId="1879072464" traitName="强化技能：布置陷阱"/>
-        <classTrait minLevel="95" traitId="1879221753" traitName="感受灼烧（Feel the Burn）"/>
-        <classTrait minLevel="95" traitId="1879136833" traitName="强化技能：撕裂"/>
-        <classTrait minLevel="95" traitId="1879136835" traitName="强化技能：爆头"/>
-        <classTrait minLevel="95" traitId="1879136830" traitName="强化技能：死亡绽放"/>
-        <classTrait minLevel="95" traitId="1879072465" traitName="强化技能：坚定箭幕"/>
-        <classTrait minLevel="95" traitId="1879072466" traitName="强化技能：陷阱"/>
-        <classTrait minLevel="95" traitId="1879072505" traitName="伤害换士气（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091351" traitName="伤害换士气（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072506" traitName="伤害换生命（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091352" traitName="伤害换治疗（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072507" traitName="士气换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091353" traitName="士气换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072508" traitName="士气换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091354" traitName="士气换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072509" traitName="生命换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091355" traitName="治疗换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072510" traitName="生命换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091356" traitName="治疗换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072511" traitName="致命防护提升4"/>
-        <classTrait minLevel="95" traitId="1879091359" traitName="暴击防护提升6"/>
-        <classTrait minLevel="95" traitId="1879072512" traitName="法术防御增益 1"/>
-        <classTrait minLevel="95" traitId="1879091360" traitName="法术防御 增益 5"/>
-        <classTrait minLevel="95" traitId="1879072513" traitName="法术防御增益 6"/>
-        <classTrait minLevel="95" traitId="1879091361" traitName="法术防御 增益 4"/>
-        <classTrait minLevel="95" traitId="1879072514" traitName="物理防御提升1"/>
-        <classTrait minLevel="95" traitId="1879091357" traitName="物理防御 提升6"/>
-        <classTrait minLevel="95" traitId="1879072515" traitName="物理防御提升5"/>
-        <classTrait minLevel="95" traitId="1879091358" traitName="暴击防护提升3"/>
-        <classTrait minLevel="95" traitId="1879072516" traitName="物理防御 提升4"/>
-        <classTrait minLevel="95" traitId="1879091362" traitName="精通增益3"/>
-        <classTrait minLevel="95" traitId="1879072517" traitName="抗性强化1"/>
-        <classTrait minLevel="95" traitId="1879091366" traitName="抗性强化2"/>
-        <classTrait minLevel="95" traitId="1879072518" traitName="抗性强化4"/>
-        <classTrait minLevel="95" traitId="1879091363" traitName="抗性强化3"/>
-        <classTrait minLevel="95" traitId="1879072519" traitName="抗性强化5"/>
-        <classTrait minLevel="95" traitId="1879091364" traitName="抗性强化6"/>
-        <classTrait minLevel="95" traitId="1879072520" traitName="精通增益5"/>
-        <classTrait minLevel="95" traitId="1879091365" traitName="精通增益6"/>
-        <classTrait minLevel="95" traitId="1879072521" traitName="腐蚀技能：破盾者"/>
-        <classTrait minLevel="95" traitId="1879097841" traitName="新 breed"/>
-        <classTrait minLevel="95" traitId="1879097842" traitName="orc领袖"/>
-        <classTrait minLevel="95" traitId="1879097843" traitName="黑暗的宠儿"/>
-        <classTrait minLevel="95" traitId="1879097844" traitName="不倦战士"/>
-        <classTrait minLevel="95" traitId="1879097845" traitName="brutal persuasion"/>
-        <classTrait minLevel="95" traitId="1879097857" traitName="种族技能：威严 Presence"/>
-        <classTrait minLevel="95" traitId="1879097858" traitName="种族技能：振作起来！"/>
-        <classTrait minLevel="95" traitId="1879072467" traitName="白掌斥候外观"/>
-        <classTrait minLevel="95" traitId="1879072468" traitName="强兽人哨兵外观"/>
-        <classTrait minLevel="95" traitId="1879072469" traitName="白掌哨兵外观"/>
-        <classTrait minLevel="95" traitId="1879072470" traitName="黑箭斥候外观"/>
-        <classTrait minLevel="95" traitId="1879072471" traitName="凶箭斥候外观"/>
-        <classTrait minLevel="95" traitId="1879072472" traitName="黑弓斥候外观"/>
-        <classTrait minLevel="95" traitId="1879084112" traitName="幽魂弓斥候外观"/>
-        <classTrait minLevel="95" traitId="1879103444" traitName="黑箭哨兵外观"/>
-        <classTrait minLevel="95" traitId="1879103445" traitName="强兽人斥候外观"/>
-        <classTrait minLevel="95" traitId="1879103438" traitName="黑弓哨兵外观"/>
-        <classTrait minLevel="95" traitId="1879103439" traitName="幽魂弓哨兵外观"/>
-        <classTrait minLevel="95" traitId="1879103440" traitName="黑箭精英外观"/>
-        <classTrait minLevel="95" traitId="1879103441" traitName="凶箭精英外观"/>
-        <classTrait minLevel="95" traitId="1879103442" traitName="黑弓精英外观"/>
-        <classTrait minLevel="95" traitId="1879103443" traitName="幽魂弓精英外观"/>
-        <classTrait minLevel="95" traitId="1879326799" traitName="腐化喇叭手斧外观"/>
-        <classTrait minLevel="95" traitId="1879326797" traitName="战损长剑外观"/>
-        <classTrait minLevel="95" traitId="1879326820" traitName="华丽腐化剑外观"/>
-        <classTrait minLevel="95" traitId="1879326801" traitName="生锈长剑外观"/>
-        <classTrait minLevel="95" traitId="1879326808" traitName="腐化手斧外观"/>
-        <classTrait minLevel="95" traitId="1879326805" traitName="腐化长弓外观"/>
-        <classTrait minLevel="95" traitId="1879326804" traitName="棱角短弓外观"/>
-        <classTrait minLevel="95" traitId="1879326807" traitName="腐化短弓外观"/>
-        <classTrait minLevel="95" traitId="1879326802" traitName="鹿角长弓外观"/>
-        <classTrait minLevel="95" traitId="1879326793" traitName="鹿角短弓外观"/>
-        <classTrait minLevel="95" traitId="1879265093" traitName="暴击等级加成1"/>
-        <classTrait minLevel="95" traitId="1879265091" traitName="暴击等级加成2"/>
-        <classTrait minLevel="95" traitId="1879265092" traitName="暴击等级加成3"/>
-        <classTrait minLevel="95" traitId="1879265094" traitName="暴击等级加成4"/>
-        <classTrait minLevel="95" traitId="1879265089" traitName="暴击等级加成5"/>
-        <classTrait minLevel="95" traitId="1879265090" traitName="暴击等级加成6"/>
-        <classTrait minLevel="95" traitId="1879152359" traitName="暴击防护增强1"/>
-        <classTrait minLevel="95" traitId="1879152361" traitName="暴击防护提升2"/>
-        <classTrait minLevel="95" traitId="1879152253" traitName="物理防御 提升2"/>
-        <classTrait minLevel="95" traitId="1879152251" traitName="物理防御 提升3"/>
-        <classTrait minLevel="95" traitId="1879152252" traitName="法术防御 增益 2"/>
-        <classTrait minLevel="95" traitId="1879152250" traitName="法术防御 增益 3"/>
-        <classTrait minLevel="95" traitId="1879143085" traitName="精通增益1"/>
-        <classTrait minLevel="95" traitId="1879143089" traitName="精通增益4"/>
-        <classTrait minLevel="95" traitId="1879143086" traitName="精通增益2"/>
-        <classTrait minLevel="95" traitId="1879143090" traitName="暴击防护提升5"/>
-        <classTrait minLevel="95" traitId="1879358544" traitName="精准加成1"/>
-        <classTrait minLevel="95" traitId="1879358547" traitName="精准加成2"/>
-        <classTrait minLevel="95" traitId="1879358545" traitName="精准加成3"/>
-        <classTrait minLevel="95" traitId="1879358543" traitName="精准加成4"/>
-        <classTrait minLevel="95" traitId="1879358542" traitName="精准加成5"/>
-        <classTrait minLevel="95" traitId="1879358546" traitName="精准加成6"/>
-        <classSkill minLevel="95" skillId="1879073697" skillName="强效拉弦"/>
-        <classSkill minLevel="95" skillId="1879073698" skillName="呼啸箭杆"/>
-        <classSkill minLevel="95" skillId="1879073699" skillName="被穿刺的目标"/>
-        <classSkill minLevel="95" skillId="1879072548" skillName="燃烧之箭"/>
-        <classSkill minLevel="95" skillId="1879073700" skillName="阻碍射击"/>
-        <classSkill minLevel="95" skillId="1879072545" skillName="死亡绽放"/>
-        <classSkill minLevel="95" skillId="1879073701" skillName="挥砍"/>
-        <classSkill minLevel="95" skillId="1879073702" skillName="移动目标"/>
-        <classSkill minLevel="95" skillId="1879097883" skillName="生命目标"/>
-        <classSkill minLevel="95" skillId="1879097884" skillName="我看见你了！"/>
-        <classSkill minLevel="95" skillId="1879097885" skillName="不，你不需要（No You Don't）"/>
-        <classSkill minLevel="95" skillId="1879210775" skillName="强化要害目标"/>
-        <classSkill minLevel="95" skillId="1879136793" skillName="砍伤"/>
-        <classSkill minLevel="95" skillId="1879136796" skillName="当面攻击"/>
-        <classSkill minLevel="95" skillId="1879136787" skillName="爆头"/>
-        <classSkill minLevel="95" skillId="1879136788" skillName="冲突者姿态"/>
-        <classSkill minLevel="95" skillId="1879136795" skillName="敏锐之眼"/>
-        <classSkill minLevel="95" skillId="1879136780" skillName="火焰陷阱"/>
-        <classSkill minLevel="95" skillId="1879136790" skillName="集中精力"/>
-        <classSkill minLevel="95" skillId="1879136783" skillName="纠缠射击（Tangleshot）"/>
-        <classSkill minLevel="95" skillId="1879136794" skillName="复仇"/>
-        <classSkill minLevel="95" skillId="1879216158" skillName="强化穿刺目标"/>
-        <classSkill minLevel="95" skillId="1879224579" skillName="前进！"/>
-        <classSkill minLevel="95" skillId="1879072543" skillName="布置陷阱"/>
-        <classSkill minLevel="95" skillId="1879136786" skillName="坚定箭幕"/>
-        <classSkill minLevel="95" skillId="1879201690" skillName="罗网"/>
-        <classSkill minLevel="95" skillId="1879095215" skillName="troll 的野蛮之力（远程）"/>
-        <classSkill minLevel="95" skillId="1879095257" skillName="蜘蛛之毒（远程）"/>
-        <classSkill minLevel="95" skillId="1879095392" skillName="尸妖腐坏（远程）"/>
-        <classSkill minLevel="95" skillId="1879095103" skillName="邪恶灵体的恐惧（远程）"/>
-        <classSkill minLevel="95" skillId="1879244376" skillName="爆炸箭"/>
-        <classSkill minLevel="95" skillId="1879516458" skillName="专注（Focus）"/>
-    </monsterClass>
-    <monsterClass id="1879073667" code="52" key="Warleader" name="战争领袖" tag="" iconId="1090551244" abbreviation="战争" description="key:620775405:228830419">
-        <classVirtue id="1879063892" name="伤害" startRank="2" maxRank="2"/>
-        <classVirtue id="1879063893" name="生命值" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063894" name="能量" startRank="3" maxRank="3"/>
-        <classVirtue id="1879063895" name="护甲" startRank="5" maxRank="5"/>
-        <classVirtue id="1879063896" name="闪避" startRank="2" maxRank="2"/>
-        <classVirtue id="1879063897" name="抗性" startRank="4" maxRank="4"/>
-        <classVirtue id="1879136127" name="生命值回复" startRank="0" maxRank="5"/>
-        <classVirtue id="1879136124" name="能量回复" startRank="0" maxRank="3"/>
-        <classVirtue id="1879136125" name="近战暴击" startRank="0" maxRank="2"/>
-        <classVirtue id="1879136120" name="法术暴击" startRank="0" maxRank="4"/>
-        <classVirtue id="1879212225" name="战地晋升" startRank="0" maxRank="15"/>
-        <classVirtue id="1879231342" name="韧性" startRank="1" maxRank="36"/>
-        <classTrait minLevel="95" traitId="1879072473" traitName="伤害强化"/>
-        <classTrait minLevel="95" traitId="1879072474" traitName="avoidance强化"/>
-        <classTrait minLevel="95" traitId="1879072475" traitName="赋能"/>
-        <classTrait minLevel="95" traitId="1879072476" traitName="盾牌掌握"/>
-        <classTrait minLevel="95" traitId="1879072477" traitName="强化技能：站起来！"/>
-        <classTrait minLevel="95" traitId="1879072478" traitName="刻薄言语"/>
-        <classTrait minLevel="95" traitId="1879072479" traitName="强化技能：战地晋升"/>
-        <classTrait minLevel="95" traitId="1879072480" traitName="强化技能：净化"/>
-        <classTrait minLevel="95" traitId="1879211599" traitName="恐惧之力"/>
-        <classTrait minLevel="95" traitId="1879136671" traitName="强化技能：黑暗语"/>
-        <classTrait minLevel="95" traitId="1879136705" traitName="强化技能：Menacing Roar（Enhanced Skill: Menacing Roar）"/>
-        <classTrait minLevel="95" traitId="1879136704" traitName="强化技能：Quitters Never Win（Enhanced Skill: Quitters Never Win）"/>
-        <classTrait minLevel="95" traitId="1879072481" traitName="强化技能：摆脱控制！"/>
-        <classTrait minLevel="95" traitId="1879201575" traitName="冲锋在前！（Lead the Charge!）"/>
-        <classTrait minLevel="95" traitId="1879492696" traitName="萦绕之惧"/>
-        <classTrait minLevel="95" traitId="1879072505" traitName="伤害换士气（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091351" traitName="伤害换士气（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072506" traitName="伤害换生命（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091352" traitName="伤害换治疗（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072507" traitName="士气换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091353" traitName="士气换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072508" traitName="士气换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091354" traitName="士气换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072509" traitName="生命换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091355" traitName="治疗换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072510" traitName="生命换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091356" traitName="治疗换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072511" traitName="致命防护提升4"/>
-        <classTrait minLevel="95" traitId="1879091359" traitName="暴击防护提升6"/>
-        <classTrait minLevel="95" traitId="1879072512" traitName="法术防御增益 1"/>
-        <classTrait minLevel="95" traitId="1879091360" traitName="法术防御 增益 5"/>
-        <classTrait minLevel="95" traitId="1879072513" traitName="法术防御增益 6"/>
-        <classTrait minLevel="95" traitId="1879091361" traitName="法术防御 增益 4"/>
-        <classTrait minLevel="95" traitId="1879072514" traitName="物理防御提升1"/>
-        <classTrait minLevel="95" traitId="1879091357" traitName="物理防御 提升6"/>
-        <classTrait minLevel="95" traitId="1879072515" traitName="物理防御提升5"/>
-        <classTrait minLevel="95" traitId="1879091358" traitName="暴击防护提升3"/>
-        <classTrait minLevel="95" traitId="1879072516" traitName="物理防御 提升4"/>
-        <classTrait minLevel="95" traitId="1879091362" traitName="精通增益3"/>
-        <classTrait minLevel="95" traitId="1879072517" traitName="抗性强化1"/>
-        <classTrait minLevel="95" traitId="1879091366" traitName="抗性强化2"/>
-        <classTrait minLevel="95" traitId="1879072518" traitName="抗性强化4"/>
-        <classTrait minLevel="95" traitId="1879091363" traitName="抗性强化3"/>
-        <classTrait minLevel="95" traitId="1879072519" traitName="抗性强化5"/>
-        <classTrait minLevel="95" traitId="1879091364" traitName="抗性强化6"/>
-        <classTrait minLevel="95" traitId="1879072520" traitName="精通增益5"/>
-        <classTrait minLevel="95" traitId="1879091365" traitName="精通增益6"/>
-        <classTrait minLevel="95" traitId="1879072521" traitName="腐蚀技能：破盾者"/>
-        <classTrait minLevel="95" traitId="1879097841" traitName="新 breed"/>
-        <classTrait minLevel="95" traitId="1879097842" traitName="orc领袖"/>
-        <classTrait minLevel="95" traitId="1879097843" traitName="黑暗的宠儿"/>
-        <classTrait minLevel="95" traitId="1879097844" traitName="不倦战士"/>
-        <classTrait minLevel="95" traitId="1879097845" traitName="brutal persuasion"/>
-        <classTrait minLevel="95" traitId="1879097857" traitName="种族技能：威严 Presence"/>
-        <classTrait minLevel="95" traitId="1879097858" traitName="种族技能：振作起来！"/>
-        <classTrait minLevel="95" traitId="1879072483" traitName="乌鲁克海士兵外观"/>
-        <classTrait minLevel="95" traitId="1879072484" traitName="乌鲁克海中尉外观"/>
-        <classTrait minLevel="95" traitId="1879072485" traitName="乌鲁克海旗手外观"/>
-        <classTrait minLevel="95" traitId="1879072486" traitName="乌鲁克海战暴君外观"/>
-        <classTrait minLevel="95" traitId="1879072487" traitName="邪恶乌鲁克海中尉外观"/>
-        <classTrait minLevel="95" traitId="1879072488" traitName="邪恶乌鲁克海旗手外观"/>
-        <classTrait minLevel="95" traitId="1879084115" traitName="乌鲁克海监工外观"/>
-        <classTrait minLevel="95" traitId="1879103452" traitName="塔克里普中尉外观"/>
-        <classTrait minLevel="95" traitId="1879103453" traitName="塔克里普旗手外观"/>
-        <classTrait minLevel="95" traitId="1879103446" traitName="塔克里普暴君外观"/>
-        <classTrait minLevel="95" traitId="1879103447" traitName="布洛格默 中尉外观"/>
-        <classTrait minLevel="95" traitId="1879103448" traitName="布洛格默 旗手外观"/>
-        <classTrait minLevel="95" traitId="1879103449" traitName="布洛格默 暴君外观"/>
-        <classTrait minLevel="95" traitId="1879103450" traitName="邪恶乌鲁克海战暴君外观"/>
-        <classTrait minLevel="95" traitId="1879103451" traitName="乌鲁克海战暴君外观"/>
-        <classTrait minLevel="95" traitId="1879326799" traitName="腐化喇叭手斧外观"/>
-        <classTrait minLevel="95" traitId="1879326797" traitName="战损长剑外观"/>
-        <classTrait minLevel="95" traitId="1879326820" traitName="华丽腐化剑外观"/>
-        <classTrait minLevel="95" traitId="1879326801" traitName="生锈长剑外观"/>
-        <classTrait minLevel="95" traitId="1879326808" traitName="腐化手斧外观"/>
-        <classTrait minLevel="95" traitId="1879326796" traitName="腐化镶钉盾牌外观"/>
-        <classTrait minLevel="95" traitId="1879326810" traitName="腐化板甲盾牌外观"/>
-        <classTrait minLevel="95" traitId="1879326816" traitName="腐化龙纹盾牌外观"/>
-        <classTrait minLevel="95" traitId="1879326824" traitName="腐化蜘蛛盾牌外观"/>
-        <classTrait minLevel="95" traitId="1879326825" traitName="黑暗木盾外观"/>
-        <classTrait minLevel="95" traitId="1879265093" traitName="暴击等级加成1"/>
-        <classTrait minLevel="95" traitId="1879265091" traitName="暴击等级加成2"/>
-        <classTrait minLevel="95" traitId="1879265092" traitName="暴击等级加成3"/>
-        <classTrait minLevel="95" traitId="1879265094" traitName="暴击等级加成4"/>
-        <classTrait minLevel="95" traitId="1879265089" traitName="暴击等级加成5"/>
-        <classTrait minLevel="95" traitId="1879265090" traitName="暴击等级加成6"/>
-        <classTrait minLevel="95" traitId="1879152359" traitName="暴击防护增强1"/>
-        <classTrait minLevel="95" traitId="1879152361" traitName="暴击防护提升2"/>
-        <classTrait minLevel="95" traitId="1879152253" traitName="物理防御 提升2"/>
-        <classTrait minLevel="95" traitId="1879152251" traitName="物理防御 提升3"/>
-        <classTrait minLevel="95" traitId="1879152252" traitName="法术防御 增益 2"/>
-        <classTrait minLevel="95" traitId="1879152250" traitName="法术防御 增益 3"/>
-        <classTrait minLevel="95" traitId="1879143085" traitName="精通增益1"/>
-        <classTrait minLevel="95" traitId="1879143089" traitName="精通增益4"/>
-        <classTrait minLevel="95" traitId="1879143086" traitName="精通增益2"/>
-        <classTrait minLevel="95" traitId="1879143090" traitName="暴击防护提升5"/>
-        <classTrait minLevel="95" traitId="1879358544" traitName="精准加成1"/>
-        <classTrait minLevel="95" traitId="1879358547" traitName="精准加成2"/>
-        <classTrait minLevel="95" traitId="1879358545" traitName="精准加成3"/>
-        <classTrait minLevel="95" traitId="1879358543" traitName="精准加成4"/>
-        <classTrait minLevel="95" traitId="1879358542" traitName="精准加成5"/>
-        <classTrait minLevel="95" traitId="1879358546" traitName="精准加成6"/>
-        <classSkill minLevel="95" skillId="1879073710" skillName="威吓怒吼"/>
-        <classSkill minLevel="95" skillId="1879073711" skillName="顺势劈"/>
-        <classSkill minLevel="95" skillId="1879073712" skillName="挥鞭号令"/>
-        <classSkill minLevel="95" skillId="1879072554" skillName="别再抱怨，战斗吧！"/>
-        <classSkill minLevel="95" skillId="1879073713" skillName="站起来！"/>
-        <classSkill minLevel="95" skillId="1879073714" skillName="战地晋升"/>
-        <classSkill minLevel="95" skillId="1879072550" skillName="动员"/>
-        <classSkill minLevel="95" skillId="1879073715" skillName="指挥光环"/>
-        <classSkill minLevel="95" skillId="1879097887" skillName="terror旗帜"/>
-        <classSkill minLevel="95" skillId="1879097888" skillName="黑暗语"/>
-        <classSkill minLevel="95" skillId="1879097889" skillName="指挥哨站"/>
-        <classSkill minLevel="95" skillId="1879136204" skillName="碎裂"/>
-        <classSkill minLevel="95" skillId="1879136205" skillName="防护光环"/>
-        <classSkill minLevel="95" skillId="1879136213" skillName="召唤暗影"/>
-        <classSkill minLevel="95" skillId="1879136206" skillName="格斗姿态"/>
-        <classSkill minLevel="95" skillId="1879136209" skillName="指挥官姿态"/>
-        <classSkill minLevel="95" skillId="1879136242" skillName="威胁性咆哮"/>
-        <classSkill minLevel="95" skillId="1879136248" skillName="退缩者永无胜算"/>
-        <classSkill minLevel="95" skillId="1879136251" skillName="点防御"/>
-        <classSkill minLevel="95" skillId="1879136245" skillName="恐怖旗帜"/>
-        <classSkill minLevel="95" skillId="1879224579" skillName="前进！"/>
-        <classSkill minLevel="95" skillId="1879243697" skillName="盾牌猛击"/>
-        <classSkill minLevel="95" skillId="1879072549" skillName="振作起来！"/>
-        <classSkill minLevel="95" skillId="1879136736" skillName="净化"/>
-        <classSkill minLevel="95" skillId="1879492178" skillName="琐碎指责"/>
-        <classSkill minLevel="95" skillId="1879492181" skillName="咆哮之盾"/>
-        <classSkill minLevel="95" skillId="1879492169" skillName="轻蔑"/>
-        <classSkill minLevel="95" skillId="1879492160" skillName="行进指令"/>
-        <classSkill minLevel="95" skillId="1879492173" skillName="战争铸就乌鲁克（War-forged Uruk）"/>
-        <classSkill minLevel="95" skillId="1879492157" skillName="斥责懒汉"/>
-        <classSkill minLevel="95" skillId="1879094735" skillName="巨魔的蛮力（近战）"/>
-        <classSkill minLevel="95" skillId="1879095209" skillName="蜘蛛之毒（近战）"/>
-        <classSkill minLevel="95" skillId="1879095383" skillName="尸妖腐坏（近战）"/>
-        <classSkill minLevel="95" skillId="1879095103" skillName="邪恶灵体的恐惧（远程）"/>
-    </monsterClass>
-    <monsterClass id="1879073668" code="127" key="Weaver" name="编织者" tag="" iconId="1090551242" abbreviation="WVR" description="key:620775416:228830419">
-        <classVirtue id="1879063892" name="伤害" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063893" name="生命值" startRank="2" maxRank="2"/>
-        <classVirtue id="1879063894" name="能量" startRank="5" maxRank="5"/>
-        <classVirtue id="1879063895" name="护甲" startRank="2" maxRank="2"/>
-        <classVirtue id="1879063896" name="闪避" startRank="3" maxRank="3"/>
-        <classVirtue id="1879063897" name="抗性" startRank="4" maxRank="4"/>
-        <classVirtue id="1879136127" name="生命值回复" startRank="0" maxRank="2"/>
-        <classVirtue id="1879136124" name="能量回复" startRank="0" maxRank="5"/>
-        <classVirtue id="1879136125" name="近战暴击" startRank="0" maxRank="3"/>
-        <classVirtue id="1879136121" name="远程暴击" startRank="0" maxRank="4"/>
-        <classVirtue id="1879212225" name="战地晋升" startRank="0" maxRank="15"/>
-        <classVirtue id="1879231342" name="韧性" startRank="1" maxRank="36"/>
-        <classTrait minLevel="95" traitId="1879072441" traitName="士气提升"/>
-        <classTrait minLevel="95" traitId="1879072442" traitName="护甲强化"/>
-        <classTrait minLevel="95" traitId="1879072443" traitName="再生"/>
-        <classTrait minLevel="95" traitId="1879072444" traitName="迅捷编织"/>
-        <classTrait minLevel="95" traitId="1879072445" traitName="强化技能：穿刺攻击（Piercing Attack）"/>
-        <classTrait minLevel="95" traitId="1879072446" traitName="强化技能：污秽之吻（Tainted Kiss）"/>
-        <classTrait minLevel="95" traitId="1879072447" traitName="钢织之网"/>
-        <classTrait minLevel="95" traitId="1879072448" traitName="强化技能：缠绕之网"/>
-        <classTrait minLevel="95" traitId="1879140031" traitName="强化技能：Latent Poison（Enhanced Skill: Latent Poison）"/>
-        <classTrait minLevel="95" traitId="1879140030" traitName="强化技能：活板门圣所（Trapdoor Sanctuary）"/>
-        <classTrait minLevel="95" traitId="1879140037" traitName="强化技能：麻痹毒液"/>
-        <classTrait minLevel="95" traitId="1879072449" traitName="经验丰富的掠食者"/>
-        <classTrait minLevel="95" traitId="1879072505" traitName="伤害换士气（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091351" traitName="伤害换士气（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072506" traitName="伤害换生命（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091352" traitName="伤害换治疗（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072507" traitName="士气换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091353" traitName="士气换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072508" traitName="士气换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091354" traitName="士气换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072509" traitName="生命换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091355" traitName="治疗换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072510" traitName="生命换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091356" traitName="治疗换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072511" traitName="致命防护提升4"/>
-        <classTrait minLevel="95" traitId="1879091359" traitName="暴击防护提升6"/>
-        <classTrait minLevel="95" traitId="1879072512" traitName="法术防御增益 1"/>
-        <classTrait minLevel="95" traitId="1879091360" traitName="法术防御 增益 5"/>
-        <classTrait minLevel="95" traitId="1879072513" traitName="法术防御增益 6"/>
-        <classTrait minLevel="95" traitId="1879091361" traitName="法术防御 增益 4"/>
-        <classTrait minLevel="95" traitId="1879072514" traitName="物理防御提升1"/>
-        <classTrait minLevel="95" traitId="1879091357" traitName="物理防御 提升6"/>
-        <classTrait minLevel="95" traitId="1879072515" traitName="物理防御提升5"/>
-        <classTrait minLevel="95" traitId="1879091358" traitName="暴击防护提升3"/>
-        <classTrait minLevel="95" traitId="1879072516" traitName="物理防御 提升4"/>
-        <classTrait minLevel="95" traitId="1879091362" traitName="精通增益3"/>
-        <classTrait minLevel="95" traitId="1879072517" traitName="抗性强化1"/>
-        <classTrait minLevel="95" traitId="1879091366" traitName="抗性强化2"/>
-        <classTrait minLevel="95" traitId="1879072518" traitName="抗性强化4"/>
-        <classTrait minLevel="95" traitId="1879091363" traitName="抗性强化3"/>
-        <classTrait minLevel="95" traitId="1879072519" traitName="抗性强化5"/>
-        <classTrait minLevel="95" traitId="1879091364" traitName="抗性强化6"/>
-        <classTrait minLevel="95" traitId="1879072520" traitName="精通增益5"/>
-        <classTrait minLevel="95" traitId="1879091365" traitName="精通增益6"/>
-        <classTrait minLevel="95" traitId="1879072521" traitName="腐蚀技能：破盾者"/>
-        <classTrait minLevel="95" traitId="1879097836" traitName="八足敌人"/>
-        <classTrait minLevel="95" traitId="1879097837" traitName="光明吞噬者"/>
-        <classTrait minLevel="95" traitId="1879097838" traitName="如星辰般古老"/>
-        <classTrait minLevel="95" traitId="1879097839" traitName="first children的敌人"/>
-        <classTrait minLevel="95" traitId="1879097840" traitName="饮血者"/>
-        <classTrait minLevel="95" traitId="1879097855" traitName="种族技能：暗影之裔"/>
-        <classTrait minLevel="95" traitId="1879097856" traitName="种族技能：希洛布的馈赠（Shelob's Gift）"/>
-        <classTrait minLevel="95" traitId="1879072451" traitName="暗影监视者外观"/>
-        <classTrait minLevel="95" traitId="1879072452" traitName="林间爬行蛛外观"/>
-        <classTrait minLevel="95" traitId="1879072453" traitName="森林噬咬者外观"/>
-        <classTrait minLevel="95" traitId="1879072454" traitName="古墓伏击者外观"/>
-        <classTrait minLevel="95" traitId="1879072455" traitName="沼地纺丝蛛外观"/>
-        <classTrait minLevel="95" traitId="1879072456" traitName="崖石女王外观"/>
-        <classTrait minLevel="95" traitId="1879084121" traitName="暗影女王外观"/>
-        <classTrait minLevel="95" traitId="1879103436" traitName="灰烬织网蛛外观"/>
-        <classTrait minLevel="95" traitId="1879103437" traitName="王殒爬行蛛外观"/>
-        <classTrait minLevel="95" traitId="1879103430" traitName="裂隙爬行蛛女王外观"/>
-        <classTrait minLevel="95" traitId="1879103431" traitName="vile Moor-web Appearance"/>
-        <classTrait minLevel="95" traitId="1879103432" traitName="古墓女王外观"/>
-        <classTrait minLevel="95" traitId="1879103433" traitName="博格伯雷斯纺丝蛛外观"/>
-        <classTrait minLevel="95" traitId="1879103434" traitName="博格伯雷斯母蛛外观"/>
-        <classTrait minLevel="95" traitId="1879103435" traitName="狞笑伏击者外观"/>
-        <classTrait minLevel="95" traitId="1879201159" traitName="强壮幼崽"/>
-        <classTrait minLevel="95" traitId="1879210653" traitName="希托德巢群"/>
-        <classTrait minLevel="95" traitId="1879265093" traitName="暴击等级加成1"/>
-        <classTrait minLevel="95" traitId="1879265091" traitName="暴击等级加成2"/>
-        <classTrait minLevel="95" traitId="1879265092" traitName="暴击等级加成3"/>
-        <classTrait minLevel="95" traitId="1879265094" traitName="暴击等级加成4"/>
-        <classTrait minLevel="95" traitId="1879265089" traitName="暴击等级加成5"/>
-        <classTrait minLevel="95" traitId="1879265090" traitName="暴击等级加成6"/>
-        <classTrait minLevel="95" traitId="1879152359" traitName="暴击防护增强1"/>
-        <classTrait minLevel="95" traitId="1879152361" traitName="暴击防护提升2"/>
-        <classTrait minLevel="95" traitId="1879152253" traitName="物理防御 提升2"/>
-        <classTrait minLevel="95" traitId="1879152251" traitName="物理防御 提升3"/>
-        <classTrait minLevel="95" traitId="1879152252" traitName="法术防御 增益 2"/>
-        <classTrait minLevel="95" traitId="1879152250" traitName="法术防御 增益 3"/>
-        <classTrait minLevel="95" traitId="1879143085" traitName="精通增益1"/>
-        <classTrait minLevel="95" traitId="1879143089" traitName="精通增益4"/>
-        <classTrait minLevel="95" traitId="1879143086" traitName="精通增益2"/>
-        <classTrait minLevel="95" traitId="1879143090" traitName="暴击防护提升5"/>
-        <classTrait minLevel="95" traitId="1879358544" traitName="精准加成1"/>
-        <classTrait minLevel="95" traitId="1879358547" traitName="精准加成2"/>
-        <classTrait minLevel="95" traitId="1879358545" traitName="精准加成3"/>
-        <classTrait minLevel="95" traitId="1879358543" traitName="精准加成4"/>
-        <classTrait minLevel="95" traitId="1879358542" traitName="精准加成5"/>
-        <classTrait minLevel="95" traitId="1879358546" traitName="精准加成6"/>
-        <classSkill minLevel="95" skillId="1879073737" skillName="穿刺攻击"/>
-        <classSkill minLevel="95" skillId="1879073738" skillName="受污染的亲吻"/>
-        <classSkill minLevel="95" skillId="1879073739" skillName="潜伏之毒"/>
-        <classSkill minLevel="95" skillId="1879073740" skillName="束缚蛛网"/>
-        <classSkill minLevel="95" skillId="1879073741" skillName="缠绕之网"/>
-        <classSkill minLevel="95" skillId="1879073742" skillName="毒雾喷射"/>
-        <classSkill minLevel="95" skillId="1879073743" skillName="活板门庇护所"/>
-        <classSkill minLevel="95" skillId="1879072536" skillName="潜伏"/>
-        <classSkill minLevel="95" skillId="1879097894" skillName="织网缚地"/>
-        <classSkill minLevel="95" skillId="1879097895" skillName="窒息之网"/>
-        <classSkill minLevel="95" skillId="1879097896" skillName="幼崽"/>
-        <classSkill minLevel="95" skillId="1879229234" skillName="淬毒"/>
-        <classSkill minLevel="95" skillId="1879139737" skillName="致命之吻"/>
-        <classSkill minLevel="95" skillId="1879139735" skillName="恶臭之吻（Mephitic Kiss）"/>
-        <classSkill minLevel="95" skillId="1879139740" skillName="麻痹毒液"/>
-        <classSkill minLevel="95" skillId="1879139734" skillName="毒素"/>
-        <classSkill minLevel="95" skillId="1879139749" skillName="暗影之咬"/>
-        <classSkill minLevel="95" skillId="1879139746" skillName="坏死"/>
-        <classSkill minLevel="95" skillId="1879139747" skillName="攫握蛛网"/>
-        <classSkill minLevel="95" skillId="1879139736" skillName="捕捉猎物"/>
-        <classSkill minLevel="95" skillId="1879149601" skillName="毒雾"/>
-        <classSkill minLevel="95" skillId="1879224579" skillName="前进！"/>
-        <classSkill minLevel="95" skillId="1879228582" skillName="痛饮"/>
-        <classSkill minLevel="95" skillId="1879228612" skillName="剧毒毒药"/>
-        <classSkill minLevel="95" skillId="1879072533" skillName="黏附蛛网"/>
-        <classSkill minLevel="95" skillId="1879139744" skillName="盛宴"/>
-        <classSkill minLevel="95" skillId="1879095215" skillName="troll 的野蛮之力（远程）"/>
-        <classSkill minLevel="95" skillId="1879095257" skillName="蜘蛛之毒（远程）"/>
-        <classSkill minLevel="95" skillId="1879095392" skillName="尸妖腐坏（远程）"/>
-        <classSkill minLevel="95" skillId="1879095103" skillName="邪恶灵体的恐惧（远程）"/>
-        <classSkill minLevel="95" skillId="1879245368" skillName="剧毒甲壳"/>
-        <classSkill minLevel="95" skillId="1879451154" skillName="净化暗影"/>
-        <classSkill minLevel="95" skillId="1879516454" skillName="吞噬光明"/>
-    </monsterClass>
-    <monsterClass id="1879073669" code="126" key="Stalker" name="潜行者（Stalker）" tag="" iconId="1090551245" abbreviation="固定标识" description="key:620775426:228830419">
-        <classVirtue id="1879063892" name="伤害" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063893" name="生命值" startRank="3" maxRank="3"/>
-        <classVirtue id="1879063894" name="能量" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063895" name="护甲" startRank="2" maxRank="2"/>
-        <classVirtue id="1879063896" name="闪避" startRank="5" maxRank="5"/>
-        <classVirtue id="1879063897" name="抗性" startRank="2" maxRank="2"/>
-        <classVirtue id="1879136127" name="生命值回复" startRank="0" maxRank="4"/>
-        <classVirtue id="1879136124" name="能量回复" startRank="0" maxRank="3"/>
-        <classVirtue id="1879136125" name="近战暴击" startRank="0" maxRank="5"/>
-        <classVirtue id="1879136120" name="法术暴击" startRank="0" maxRank="2"/>
-        <classVirtue id="1879212225" name="战地晋升" startRank="0" maxRank="15"/>
-        <classVirtue id="1879231342" name="韧性" startRank="1" maxRank="36"/>
-        <classTrait minLevel="95" traitId="1879072489" traitName="护甲强化"/>
-        <classTrait minLevel="95" traitId="1879072490" traitName="恐惧猎手"/>
-        <classTrait minLevel="95" traitId="1879072491" traitName="大步流星"/>
-        <classTrait minLevel="95" traitId="1879072492" traitName="暗影之牙（Shadow Fang）"/>
-        <classTrait minLevel="95" traitId="1879072493" traitName="强化技能：潜行"/>
-        <classTrait minLevel="95" traitId="1879072494" traitName="强化技能：奔袭（Enhanced Skill: Sprint）"/>
-        <classTrait minLevel="95" traitId="1879072495" traitName="出其不意"/>
-        <classTrait minLevel="95" traitId="1879072496" traitName="强化技能：集结咆哮"/>
-        <classTrait minLevel="95" traitId="1879139367" traitName="强化技能：狂暴撕咬"/>
-        <classTrait minLevel="95" traitId="1879139369" traitName="强化技能：Eye Rake（Enhanced Skill: Eye Rake）"/>
-        <classTrait minLevel="95" traitId="1879072497" traitName="强化技能：剥皮者"/>
-        <classTrait minLevel="95" traitId="1879139372" traitName="强化技能：感知猎物"/>
-        <classTrait minLevel="95" traitId="1879211910" traitName="强化技能：Disappear（Enhanced Skill: Disappear）"/>
-        <classTrait minLevel="95" traitId="1879072505" traitName="伤害换士气（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091351" traitName="伤害换士气（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072506" traitName="伤害换生命（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091352" traitName="伤害换治疗（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072507" traitName="士气换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091353" traitName="士气换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072508" traitName="士气换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091354" traitName="士气换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072509" traitName="生命换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091355" traitName="治疗换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072510" traitName="生命换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091356" traitName="治疗换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072511" traitName="致命防护提升4"/>
-        <classTrait minLevel="95" traitId="1879091359" traitName="暴击防护提升6"/>
-        <classTrait minLevel="95" traitId="1879072512" traitName="法术防御增益 1"/>
-        <classTrait minLevel="95" traitId="1879091360" traitName="法术防御 增益 5"/>
-        <classTrait minLevel="95" traitId="1879072513" traitName="法术防御增益 6"/>
-        <classTrait minLevel="95" traitId="1879091361" traitName="法术防御 增益 4"/>
-        <classTrait minLevel="95" traitId="1879072514" traitName="物理防御提升1"/>
-        <classTrait minLevel="95" traitId="1879091357" traitName="物理防御 提升6"/>
-        <classTrait minLevel="95" traitId="1879072515" traitName="物理防御提升5"/>
-        <classTrait minLevel="95" traitId="1879091358" traitName="暴击防护提升3"/>
-        <classTrait minLevel="95" traitId="1879072516" traitName="物理防御 提升4"/>
-        <classTrait minLevel="95" traitId="1879091362" traitName="精通增益3"/>
-        <classTrait minLevel="95" traitId="1879072517" traitName="抗性强化1"/>
-        <classTrait minLevel="95" traitId="1879091366" traitName="抗性强化2"/>
-        <classTrait minLevel="95" traitId="1879072518" traitName="抗性强化4"/>
-        <classTrait minLevel="95" traitId="1879091363" traitName="抗性强化3"/>
-        <classTrait minLevel="95" traitId="1879072519" traitName="抗性强化5"/>
-        <classTrait minLevel="95" traitId="1879091364" traitName="抗性强化6"/>
-        <classTrait minLevel="95" traitId="1879072520" traitName="精通增益5"/>
-        <classTrait minLevel="95" traitId="1879091365" traitName="精通增益6"/>
-        <classTrait minLevel="95" traitId="1879072521" traitName="腐蚀技能：破盾者"/>
-        <classTrait minLevel="95" traitId="1879097846" traitName="四足仇敌"/>
-        <classTrait minLevel="95" traitId="1879097847" traitName="pack mentality"/>
-        <classTrait minLevel="95" traitId="1879097848" traitName="pack elder"/>
-        <classTrait minLevel="95" traitId="1879097849" traitName="光明之敌"/>
-        <classTrait minLevel="95" traitId="1879097850" traitName="pack leader"/>
-        <classTrait minLevel="95" traitId="1879097859" traitName="种族技能：群体猎手"/>
-        <classTrait minLevel="95" traitId="1879097860" traitName="种族技能：不安嚎叫"/>
-        <classTrait minLevel="95" traitId="1879072499" traitName="废墟咆哮者外观"/>
-        <classTrait minLevel="95" traitId="1879072500" traitName="啃骨者外观"/>
-        <classTrait minLevel="95" traitId="1879072501" traitName="尸体掠夺者外观"/>
-        <classTrait minLevel="95" traitId="1879072502" traitName="战兽外观"/>
-        <classTrait minLevel="95" traitId="1879072503" traitName="巢穴首领外观"/>
-        <classTrait minLevel="95" traitId="1879072504" traitName="潜行猎手外观"/>
-        <classTrait minLevel="95" traitId="1879084097" traitName="寻血者外观"/>
-        <classTrait minLevel="95" traitId="1879103460" traitName="红牙外观"/>
-        <classTrait minLevel="95" traitId="1879103461" traitName="拾荒者外观"/>
-        <classTrait minLevel="95" traitId="1879103454" traitName="恐狼外观"/>
-        <classTrait minLevel="95" traitId="1879103455" traitName="暮色咆哮者外观"/>
-        <classTrait minLevel="95" traitId="1879103456" traitName="族群领主外观"/>
-        <classTrait minLevel="95" traitId="1879103457" traitName="人类猎杀者外观"/>
-        <classTrait minLevel="95" traitId="1879103458" traitName="山地潜行猎手外观"/>
-        <classTrait minLevel="95" traitId="1879103459" traitName="狂怒恐狼外观"/>
-        <classTrait minLevel="95" traitId="1879265093" traitName="暴击等级加成1"/>
-        <classTrait minLevel="95" traitId="1879265091" traitName="暴击等级加成2"/>
-        <classTrait minLevel="95" traitId="1879265092" traitName="暴击等级加成3"/>
-        <classTrait minLevel="95" traitId="1879265094" traitName="暴击等级加成4"/>
-        <classTrait minLevel="95" traitId="1879265089" traitName="暴击等级加成5"/>
-        <classTrait minLevel="95" traitId="1879265090" traitName="暴击等级加成6"/>
-        <classTrait minLevel="95" traitId="1879152359" traitName="暴击防护增强1"/>
-        <classTrait minLevel="95" traitId="1879152361" traitName="暴击防护提升2"/>
-        <classTrait minLevel="95" traitId="1879152253" traitName="物理防御 提升2"/>
-        <classTrait minLevel="95" traitId="1879152251" traitName="物理防御 提升3"/>
-        <classTrait minLevel="95" traitId="1879152252" traitName="法术防御 增益 2"/>
-        <classTrait minLevel="95" traitId="1879152250" traitName="法术防御 增益 3"/>
-        <classTrait minLevel="95" traitId="1879143085" traitName="精通增益1"/>
-        <classTrait minLevel="95" traitId="1879143089" traitName="精通增益4"/>
-        <classTrait minLevel="95" traitId="1879143086" traitName="精通增益2"/>
-        <classTrait minLevel="95" traitId="1879143090" traitName="暴击防护提升5"/>
-        <classTrait minLevel="95" traitId="1879358544" traitName="精准加成1"/>
-        <classTrait minLevel="95" traitId="1879358547" traitName="精准加成2"/>
-        <classTrait minLevel="95" traitId="1879358545" traitName="精准加成3"/>
-        <classTrait minLevel="95" traitId="1879358543" traitName="精准加成4"/>
-        <classTrait minLevel="95" traitId="1879358542" traitName="精准加成5"/>
-        <classTrait minLevel="95" traitId="1879358546" traitName="精准加成6"/>
-        <classSkill minLevel="95" skillId="1879230252" skillName="暗影"/>
-        <classSkill minLevel="95" skillId="1879072565" skillName="潜行"/>
-        <classSkill minLevel="95" skillId="1879073750" skillName="利爪"/>
-        <classSkill minLevel="95" skillId="1879073751" skillName="猛扑"/>
-        <classSkill minLevel="95" skillId="1879073752" skillName="野蛮之牙"/>
-        <classSkill minLevel="95" skillId="1879073753" skillName="致残撕咬"/>
-        <classSkill minLevel="95" skillId="1879073754" skillName="撕喉"/>
-        <classSkill minLevel="95" skillId="1879073755" skillName="冲刺"/>
-        <classSkill minLevel="95" skillId="1879072563" skillName="消失"/>
-        <classSkill minLevel="95" skillId="1879097878" skillName="肌腱撕裂"/>
-        <classSkill minLevel="95" skillId="1879097879" skillName="眼部抓挠"/>
-        <classSkill minLevel="95" skillId="1879139043" skillName="战锤"/>
-        <classSkill minLevel="95" skillId="1879139051" skillName="挥击"/>
-        <classSkill minLevel="95" skillId="1879139040" skillName="撕裂血肉"/>
-        <classSkill minLevel="95" skillId="1879139047" skillName="狂暴撕咬"/>
-        <classSkill minLevel="95" skillId="1879139038" skillName="狂怒"/>
-        <classSkill minLevel="95" skillId="1879139053" skillName="抓挠撕咬"/>
-        <classSkill minLevel="95" skillId="1879139048" skillName="生跳蚤的"/>
-        <classSkill minLevel="95" skillId="1879139035" skillName="感知猎物"/>
-        <classSkill minLevel="95" skillId="1879139049" skillName="猛咬"/>
-        <classSkill minLevel="95" skillId="1879139050" skillName="恐怖嚎叫（Dire Howl）"/>
-        <classSkill minLevel="95" skillId="1879224579" skillName="前进！"/>
-        <classSkill minLevel="95" skillId="1879243696" skillName="穿刺爪"/>
-        <classSkill minLevel="95" skillId="1879072557" skillName="集结咆哮"/>
-        <classSkill minLevel="95" skillId="1879139039" skillName="剥皮者"/>
-        <classSkill minLevel="95" skillId="1879516451" skillName="悄然遁走"/>
-        <classSkill minLevel="95" skillId="1879094735" skillName="巨魔的蛮力（近战）"/>
-        <classSkill minLevel="95" skillId="1879095209" skillName="蜘蛛之毒（近战）"/>
-        <classSkill minLevel="95" skillId="1879095383" skillName="尸妖腐坏（近战）"/>
-        <classSkill minLevel="95" skillId="1879095103" skillName="邪恶灵体的恐惧（远程）"/>
-        <classSkill minLevel="95" skillId="1879516451" skillName="悄然遁走"/>
-    </monsterClass>
-    <monsterClass id="1879506835" code="217" key="Sorceress" name="女巫" tag="" iconId="1093032115" abbreviation="法拉斯燕鸥 [e]" description="key:621107447:228830419">
-        <classVirtue id="1879063892" name="伤害" startRank="3" maxRank="3"/>
-        <classVirtue id="1879063893" name="生命值" startRank="3" maxRank="3"/>
-        <classVirtue id="1879063894" name="能量" startRank="5" maxRank="5"/>
-        <classVirtue id="1879063895" name="护甲" startRank="4" maxRank="4"/>
-        <classVirtue id="1879063896" name="闪避" startRank="1" maxRank="2"/>
-        <classVirtue id="1879063897" name="抗性" startRank="3" maxRank="3"/>
-        <classVirtue id="1879136127" name="生命值回复" startRank="0" maxRank="3"/>
-        <classVirtue id="1879136124" name="能量回复" startRank="0" maxRank="4"/>
-        <classVirtue id="1879136125" name="近战暴击" startRank="0" maxRank="2"/>
-        <classVirtue id="1879136120" name="法术暴击" startRank="0" maxRank="5"/>
-        <classVirtue id="1879212225" name="战地晋升" startRank="0" maxRank="15"/>
-        <classVirtue id="1879231342" name="韧性" startRank="1" maxRank="36"/>
-        <classTrait minLevel="95" traitId="1879506763" traitName="安格玛坚甲"/>
-        <classTrait minLevel="95" traitId="1879506770" traitName="元素通晓"/>
-        <classTrait minLevel="95" traitId="1879506764" traitName="漫长战争老兵"/>
-        <classTrait minLevel="95" traitId="1879506767" traitName="纷争遗产"/>
-        <classTrait minLevel="95" traitId="1879506768" traitName="酸蚀专精一阶"/>
-        <classTrait minLevel="95" traitId="1879506775" traitName="惧灵召唤"/>
-        <classTrait minLevel="95" traitId="1879506774" traitName="邪思冥念"/>
-        <classTrait minLevel="95" traitId="1879506773" traitName="狂怒之巅"/>
-        <classTrait minLevel="95" traitId="1879506772" traitName="秽毒之舌"/>
-        <classTrait minLevel="95" traitId="1879506771" traitName="烈焰专精一阶"/>
-        <classTrait minLevel="95" traitId="1879506766" traitName="寒霜专精一阶"/>
-        <classTrait minLevel="95" traitId="1879506769" traitName="凛冬防御"/>
-        <classTrait minLevel="95" traitId="1879506761" traitName="暗影专精一阶"/>
-        <classTrait minLevel="95" traitId="1879072505" traitName="伤害换士气（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091351" traitName="伤害换士气（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072506" traitName="伤害换生命（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091352" traitName="伤害换治疗（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072507" traitName="士气换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091353" traitName="士气换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072508" traitName="士气换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091354" traitName="士气换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072509" traitName="生命换伤害（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091355" traitName="治疗换伤害（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072510" traitName="生命换能量（等级 1）"/>
-        <classTrait minLevel="95" traitId="1879091356" traitName="治疗换能量（等级 2）"/>
-        <classTrait minLevel="95" traitId="1879072511" traitName="致命防护提升4"/>
-        <classTrait minLevel="95" traitId="1879091359" traitName="暴击防护提升6"/>
-        <classTrait minLevel="95" traitId="1879072512" traitName="法术防御增益 1"/>
-        <classTrait minLevel="95" traitId="1879091360" traitName="法术防御 增益 5"/>
-        <classTrait minLevel="95" traitId="1879072513" traitName="法术防御增益 6"/>
-        <classTrait minLevel="95" traitId="1879091361" traitName="法术防御 增益 4"/>
-        <classTrait minLevel="95" traitId="1879072514" traitName="物理防御提升1"/>
-        <classTrait minLevel="95" traitId="1879091357" traitName="物理防御 提升6"/>
-        <classTrait minLevel="95" traitId="1879072515" traitName="物理防御提升5"/>
-        <classTrait minLevel="95" traitId="1879091358" traitName="暴击防护提升3"/>
-        <classTrait minLevel="95" traitId="1879072516" traitName="物理防御 提升4"/>
-        <classTrait minLevel="95" traitId="1879091362" traitName="精通增益3"/>
-        <classTrait minLevel="95" traitId="1879072517" traitName="抗性强化1"/>
-        <classTrait minLevel="95" traitId="1879091366" traitName="抗性强化2"/>
-        <classTrait minLevel="95" traitId="1879072518" traitName="抗性强化4"/>
-        <classTrait minLevel="95" traitId="1879091363" traitName="抗性强化3"/>
-        <classTrait minLevel="95" traitId="1879072519" traitName="抗性强化5"/>
-        <classTrait minLevel="95" traitId="1879091364" traitName="抗性强化6"/>
-        <classTrait minLevel="95" traitId="1879072520" traitName="精通增益5"/>
-        <classTrait minLevel="95" traitId="1879091365" traitName="精通增益6"/>
-        <classTrait minLevel="95" traitId="1879072521" traitName="腐蚀技能：破盾者"/>
-        <classTrait minLevel="95" traitId="1879506836" traitName="种族技能：钢铁之躯"/>
-        <classTrait minLevel="95" traitId="1879506837" traitName="种族技能：巫王的遗产"/>
-        <classTrait minLevel="95" traitId="1879506765" traitName="邪恶化身"/>
-        <classTrait minLevel="95" traitId="1879506762" traitName="iron的遗产"/>
-        <classTrait minLevel="95" traitId="1879506778" traitName="最年长的战士"/>
-        <classTrait minLevel="95" traitId="1879506777" traitName="真正的仆人"/>
-        <classTrait minLevel="95" traitId="1879506776" traitName="万中无一"/>
-        <classTrait minLevel="95" traitId="1879506994" traitName="灰色女巫外观"/>
-        <classTrait minLevel="95" traitId="1879506997" traitName="蓝色女巫外观"/>
-        <classTrait minLevel="95" traitId="1879506998" traitName="黄色女巫外观"/>
-        <classTrait minLevel="95" traitId="1879506999" traitName="绿色女巫外观"/>
-        <classTrait minLevel="95" traitId="1879507014" traitName="诱惑者女巫外观"/>
-        <classTrait minLevel="95" traitId="1879507013" traitName="先知女巫外观"/>
-        <classTrait minLevel="95" traitId="1879507010" traitName="风暴织网者女巫外观"/>
-        <classTrait minLevel="95" traitId="1879506977" traitName="低阶变形者巫师外观"/>
-        <classTrait minLevel="95" traitId="1879507018" traitName="白衣低阶变形者巫师外观"/>
-        <classTrait minLevel="95" traitId="1879507016" traitName="黑衣低阶变形者巫师外观"/>
-        <classTrait minLevel="95" traitId="1879506973" traitName="重甲高阶变形者巫师外观"/>
-        <classTrait minLevel="95" traitId="1879506983" traitName="黑衣高阶变形者巫师外观"/>
-        <classTrait minLevel="95" traitId="1879507020" traitName="白衣高阶变形者巫师外观"/>
-        <classTrait minLevel="95" traitId="1879506993" traitName="高阶教徒外观"/>
-        <classTrait minLevel="95" traitId="1879506991" traitName="白色外观的高阶教徒"/>
-        <classTrait minLevel="95" traitId="1879265093" traitName="暴击等级加成1"/>
-        <classTrait minLevel="95" traitId="1879265091" traitName="暴击等级加成2"/>
-        <classTrait minLevel="95" traitId="1879265092" traitName="暴击等级加成3"/>
-        <classTrait minLevel="95" traitId="1879265094" traitName="暴击等级加成4"/>
-        <classTrait minLevel="95" traitId="1879265089" traitName="暴击等级加成5"/>
-        <classTrait minLevel="95" traitId="1879265090" traitName="暴击等级加成6"/>
-        <classTrait minLevel="95" traitId="1879152359" traitName="暴击防护增强1"/>
-        <classTrait minLevel="95" traitId="1879152361" traitName="暴击防护提升2"/>
-        <classTrait minLevel="95" traitId="1879152253" traitName="物理防御 提升2"/>
-        <classTrait minLevel="95" traitId="1879152251" traitName="物理防御 提升3"/>
-        <classTrait minLevel="95" traitId="1879152252" traitName="法术防御 增益 2"/>
-        <classTrait minLevel="95" traitId="1879152250" traitName="法术防御 增益 3"/>
-        <classTrait minLevel="95" traitId="1879143085" traitName="精通增益1"/>
-        <classTrait minLevel="95" traitId="1879143089" traitName="精通增益4"/>
-        <classTrait minLevel="95" traitId="1879143086" traitName="精通增益2"/>
-        <classTrait minLevel="95" traitId="1879143090" traitName="暴击防护提升5"/>
-        <classTrait minLevel="95" traitId="1879326800" traitName="兽人污染者法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326819" traitName="腐化长法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326818" traitName="腐化尖刺法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326812" traitName="腐化装饰法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326815" traitName="安格玛法杖外观"/>
-        <classTrait minLevel="95" traitId="1879326823" traitName="自然法杖外观"/>
-        <classTrait minLevel="95" traitId="1879528714" traitName="酸液精通 II"/>
-        <classTrait minLevel="95" traitId="1879528712" traitName="火焰精通 II"/>
-        <classTrait minLevel="95" traitId="1879528702" traitName="冰霜精通 II"/>
-        <classTrait minLevel="95" traitId="1879528700" traitName="暗影精通 II"/>
-        <classTrait minLevel="95" traitId="1879358544" traitName="精准加成1"/>
-        <classTrait minLevel="95" traitId="1879358547" traitName="精准加成2"/>
-        <classTrait minLevel="95" traitId="1879358545" traitName="精准加成3"/>
-        <classTrait minLevel="95" traitId="1879358543" traitName="精准加成4"/>
-        <classTrait minLevel="95" traitId="1879358542" traitName="精准加成5"/>
-        <classTrait minLevel="95" traitId="1879358546" traitName="精准加成6"/>
-        <classSkill minLevel="95" skillId="1879507792" skillName="信仰专精：酸腐疫瘴"/>
-        <classSkill minLevel="95" skillId="1879506654" skillName="奉献：邪火"/>
-        <classSkill minLevel="95" skillId="1879506535" skillName="奉献：凛冽寒风"/>
-        <classSkill minLevel="95" skillId="1879506664" skillName="奉献：暗影帷幕"/>
-        <classSkill minLevel="95" skillId="1879506598" skillName="巫术研习I"/>
-        <classSkill minLevel="95" skillId="1879506627" skillName="巫术研习II"/>
-        <classSkill minLevel="95" skillId="1879506556" skillName="巫术研习III"/>
-        <classSkill minLevel="95" skillId="1879506618" skillName="酸雾缕"/>
-        <classSkill minLevel="95" skillId="1879506536" skillName="酸液 spike"/>
-        <classSkill minLevel="95" skillId="1879506589" skillName="酸息术"/>
-        <classSkill minLevel="95" skillId="1879506580" skillName="酸蚀喷涌"/>
-        <classSkill minLevel="95" skillId="1879509912" skillName="酸蚀护膜"/>
-        <classSkill minLevel="95" skillId="1879506532" skillName="溶解"/>
-        <classSkill minLevel="95" skillId="1879506663" skillName="钢铁洞察"/>
-        <classSkill minLevel="95" skillId="1879506552" skillName="受诅咒的知识"/>
-        <classSkill minLevel="95" skillId="1879224579" skillName="前进！"/>
-        <classSkill minLevel="95" skillId="1879526910" skillName="窃取呼吸"/>
-        <classSkill minLevel="95" skillId="1879528568" skillName="酸液协同"/>
-        <classSkill minLevel="95" skillId="1879506742" skillName="不屈决心"/>
-        <classSkill minLevel="95" skillId="1879506642" skillName="烈焰洪流"/>
-        <classSkill minLevel="95" skillId="1879506653" skillName="蠕虫引导"/>
-        <classSkill minLevel="95" skillId="1879506646" skillName="白霜之礼"/>
-        <classSkill minLevel="95" skillId="1879506639" skillName="寒冰之墓"/>
-        <classSkill minLevel="95" skillId="1879506635" skillName="放逐光明"/>
-        <classSkill minLevel="95" skillId="1879506569" skillName="暗影拟像"/>
-        <classSkill minLevel="95" skillId="1879528398" skillName="清明术"/>
-        <classSkill minLevel="95" skillId="1879094735" skillName="巨魔的蛮力（近战）"/>
-        <classSkill minLevel="95" skillId="1879095209" skillName="蜘蛛之毒（近战）"/>
-        <classSkill minLevel="95" skillId="1879095383" skillName="尸妖腐坏（近战）"/>
-        <classSkill minLevel="95" skillId="1879095103" skillName="邪恶灵体的恐惧（远程）"/>
-    </monsterClass>
+<monsterClass id="1879073664" code="71" key="Reaver" name="Reaver" tag="" iconId="1090551241" abbreviation="RVR" description="key:620775379:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="5" maxRank="5"/>
+<classVirtue id="1879063893" name="Health" startRank="4" maxRank="4"/>
+<classVirtue id="1879063894" name="Power" startRank="2" maxRank="2"/>
+<classVirtue id="1879063895" name="Armour" startRank="3" maxRank="3"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="4" maxRank="4"/>
+<classVirtue id="1879063897" name="Resistance" startRank="2" maxRank="2"/>
+<classVirtue id="1879136127" name="Health Regeneration" startRank="0" maxRank="3"/>
+<classVirtue id="1879136124" name="Power Regeneration" startRank="0" maxRank="4"/>
+<classVirtue id="1879136125" name="Melee Criticals" startRank="0" maxRank="5"/>
+<classVirtue id="1879136120" name="Tactical Criticals" startRank="0" maxRank="2"/>
+<classVirtue id="1879212225" name="Battlefield Promotion" startRank="0" maxRank="15"/>
+<classVirtue id="1879231342" name="Audacity" startRank="1" maxRank="36"/>
+<classTrait minLevel="95" traitId="1879072425" traitName="Power Boost"/>
+<classTrait minLevel="95" traitId="1879072426" traitName="Resistance Boost"/>
+<classTrait minLevel="95" traitId="1879072427" traitName="Quick Strikes"/>
+<classTrait minLevel="95" traitId="1879072428" traitName="Burning Blades"/>
+<classTrait minLevel="95" traitId="1879072429" traitName="Enhanced Skill: Jagged Cut"/>
+<classTrait minLevel="95" traitId="1879072430" traitName="Enhanced Skill: Glory in Victory"/>
+<classTrait minLevel="95" traitId="1879072431" traitName="Enhanced Skill: Devastating Strike"/>
+<classTrait minLevel="95" traitId="1879072432" traitName="Enhanced Skill: Resilience"/>
+<classTrait minLevel="95" traitId="1879138051" traitName="Enhanced Skill: Hamstring"/>
+<classTrait minLevel="95" traitId="1879138052" traitName="Enhanced Skill: Upper Hand"/>
+<classTrait minLevel="95" traitId="1879138049" traitName="Extended Reach"/>
+<classTrait minLevel="95" traitId="1879072433" traitName="Enhanced Skill: Against the Odds"/>
+<classTrait minLevel="95" traitId="1879072434" traitName="Enhanced Skill: Blade Toss"/>
+<classTrait minLevel="95" traitId="1879072505" traitName="Damage for Morale (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091351" traitName="Damage for Morale (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072506" traitName="Damage for Healing (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091352" traitName="Damage for Healing (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072507" traitName="Morale for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091353" traitName="Morale for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072508" traitName="Morale for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091354" traitName="Morale for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072509" traitName="Healing for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091355" traitName="Healing for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072510" traitName="Healing for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091356" traitName="Healing for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072511" traitName="Critical Protection Boost 4"/>
+<classTrait minLevel="95" traitId="1879091359" traitName="Critical Protection Boost 6"/>
+<classTrait minLevel="95" traitId="1879072512" traitName="Tactical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091360" traitName="Tactical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879072513" traitName="Tactical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879091361" traitName="Tactical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879072514" traitName="Physical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091357" traitName="Physical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879072515" traitName="Physical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879091358" traitName="Critical Protection Boost 3"/>
+<classTrait minLevel="95" traitId="1879072516" traitName="Physical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879091362" traitName="Mastery Boost 3"/>
+<classTrait minLevel="95" traitId="1879072517" traitName="Resistance Boost 1"/>
+<classTrait minLevel="95" traitId="1879091366" traitName="Resistance Boost 2"/>
+<classTrait minLevel="95" traitId="1879072518" traitName="Resistance Boost 4"/>
+<classTrait minLevel="95" traitId="1879091363" traitName="Resistance Boost 3"/>
+<classTrait minLevel="95" traitId="1879072519" traitName="Resistance Boost 5"/>
+<classTrait minLevel="95" traitId="1879091364" traitName="Resistance Boost 6"/>
+<classTrait minLevel="95" traitId="1879072520" traitName="Mastery Boost 5"/>
+<classTrait minLevel="95" traitId="1879091365" traitName="Mastery Boost 6"/>
+<classTrait minLevel="95" traitId="1879072521" traitName="Corruption Skill: Shield-breaker"/>
+<classTrait minLevel="95" traitId="1879097853" traitName="Racial Skill: Blood of Fire"/>
+<classTrait minLevel="95" traitId="1879097854" traitName="Racial Skill: Undying Rage"/>
+<classTrait minLevel="95" traitId="1879097831" traitName="Front-line Fodder"/>
+<classTrait minLevel="95" traitId="1879097832" traitName="Rage of the Misbegotten"/>
+<classTrait minLevel="95" traitId="1879097833" traitName="Warrior Against the Deep"/>
+<classTrait minLevel="95" traitId="1879097834" traitName="Tireless Warrior"/>
+<classTrait minLevel="95" traitId="1879097835" traitName="Flayer of Flesh"/>
+<classTrait minLevel="95" traitId="1879072435" traitName="Fighter Appearance"/>
+<classTrait minLevel="95" traitId="1879072436" traitName="White Hand Fighter Appearance"/>
+<classTrait minLevel="95" traitId="1879072437" traitName="Helmed Ongbúrz Soldier Appearance"/>
+<classTrait minLevel="95" traitId="1879072438" traitName="Helmed Krahjarn Soldier Appearance"/>
+<classTrait minLevel="95" traitId="1879072439" traitName="Helmed Krahjarn Drummer Appearance"/>
+<classTrait minLevel="95" traitId="1879072440" traitName="Helmed Soldier Appearance"/>
+<classTrait minLevel="95" traitId="1879084080" traitName="White Hand Soldier Appearance"/>
+<classTrait minLevel="95" traitId="1879103420" traitName="Tarkrîp Fighter Appearance"/>
+<classTrait minLevel="95" traitId="1879103421" traitName="Tarkrîp Soldier Appearance"/>
+<classTrait minLevel="95" traitId="1879103414" traitName="Helmed Krahjarn Warrior Appearance"/>
+<classTrait minLevel="95" traitId="1879103415" traitName="Blogmal Soldier Appearance"/>
+<classTrait minLevel="95" traitId="1879103416" traitName="Ongbúrz Warrior Appearance"/>
+<classTrait minLevel="95" traitId="1879103417" traitName="Elite Ongbúrz Warrior Appearance"/>
+<classTrait minLevel="95" traitId="1879103418" traitName="Ongbúrz Warlord Appearance"/>
+<classTrait minLevel="95" traitId="1879103419" traitName="Elite Ongbúrz Warlord Appearance"/>
+<classTrait minLevel="95" traitId="1879265093" traitName="Critical Rating Boost 1"/>
+<classTrait minLevel="95" traitId="1879265091" traitName="Critical Rating Boost 2"/>
+<classTrait minLevel="95" traitId="1879265092" traitName="Critical Rating Boost 3"/>
+<classTrait minLevel="95" traitId="1879265094" traitName="Critical Rating Boost 4"/>
+<classTrait minLevel="95" traitId="1879265089" traitName="Critical Rating Boost 5"/>
+<classTrait minLevel="95" traitId="1879265090" traitName="Critical Rating Boost 6"/>
+<classTrait minLevel="95" traitId="1879152359" traitName="Critical Protection Boost 1"/>
+<classTrait minLevel="95" traitId="1879152361" traitName="Critical Protection Boost 2"/>
+<classTrait minLevel="95" traitId="1879152253" traitName="Physical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152251" traitName="Physical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879152252" traitName="Tactical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152250" traitName="Tactical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879143085" traitName="Mastery Boost 1"/>
+<classTrait minLevel="95" traitId="1879143089" traitName="Mastery Boost 4"/>
+<classTrait minLevel="95" traitId="1879143086" traitName="Mastery Boost 2"/>
+<classTrait minLevel="95" traitId="1879143090" traitName="Critical Protection Boost 5"/>
+<classTrait minLevel="95" traitId="1879326798" traitName="Toothed Orc Sword Appearance"/>
+<classTrait minLevel="95" traitId="1879326809" traitName="Orc Spiked Hilt Sword Appearance"/>
+<classTrait minLevel="95" traitId="1879326803" traitName="Orc Longsword Appearance"/>
+<classTrait minLevel="95" traitId="1879326814" traitName="Corrupt Sword Appearance"/>
+<classTrait minLevel="95" traitId="1879326806" traitName="Orc Cleaver Appearance"/>
+<classTrait minLevel="95" traitId="1879326822" traitName="Adorned Orc Sword Appearance"/>
+<classTrait minLevel="95" traitId="1879326797" traitName="Battle-Worn Longsword Appearance"/>
+<classTrait minLevel="95" traitId="1879326795" traitName="Goblin Hatchet Appearance"/>
+<classTrait minLevel="95" traitId="1879326813" traitName="Orc Longaxe Appearance"/>
+<classTrait minLevel="95" traitId="1879326820" traitName="Ornate Corrupt Sword Appearance"/>
+<classTrait minLevel="95" traitId="1879326811" traitName="Corrupt Flared Hand Axe Appearance (Off-hand)"/>
+<classTrait minLevel="95" traitId="1879326817" traitName="Corrupt Sword Appearance (Off-hand)"/>
+<classTrait minLevel="95" traitId="1879326821" traitName="Battle-Worn Sword Appearance (Off-hand)"/>
+<classTrait minLevel="95" traitId="1879326826" traitName="Last Sword on the Rack Appearance (Off-hand)"/>
+<classTrait minLevel="95" traitId="1879326794" traitName="Corrupt Hand Axe Appearance (Off-hand)"/>
+<classTrait minLevel="95" traitId="1879358544" traitName="Finesse Boost 1"/>
+<classTrait minLevel="95" traitId="1879358547" traitName="Finesse Boost 2"/>
+<classTrait minLevel="95" traitId="1879358545" traitName="Finesse Boost 3"/>
+<classTrait minLevel="95" traitId="1879358543" traitName="Finesse Boost 4"/>
+<classTrait minLevel="95" traitId="1879358542" traitName="Finesse Boost 5"/>
+<classTrait minLevel="95" traitId="1879358546" traitName="Finesse Boost 6"/>
+<classTrait minLevel="95" traitId="1879451187" traitName="Double-edged Blades"/>
+<classSkill minLevel="95" skillId="1879073674" skillName="Sudden Strikes"/>
+<classSkill minLevel="95" skillId="1879073675" skillName="Jagged Cut"/>
+<classSkill minLevel="95" skillId="1879073676" skillName="Sundering Blow"/>
+<classSkill minLevel="95" skillId="1879073677" skillName="Devastating Strike"/>
+<classSkill minLevel="95" skillId="1879072530" skillName="Hamstring"/>
+<classSkill minLevel="95" skillId="1879072528" skillName="Disarm"/>
+<classSkill minLevel="95" skillId="1879073678" skillName="Blinding Dust"/>
+<classSkill minLevel="95" skillId="1879073679" skillName="Glory in Future Victory"/>
+<classSkill minLevel="95" skillId="1879097880" skillName="Charge!"/>
+<classSkill minLevel="95" skillId="1879097881" skillName="Gut Punch"/>
+<classSkill minLevel="95" skillId="1879210595" skillName="Improved Gut Punch"/>
+<classSkill minLevel="95" skillId="1879136973" skillName="Lacerate"/>
+<classSkill minLevel="95" skillId="1879136968" skillName="Serration"/>
+<classSkill minLevel="95" skillId="1879136964" skillName="Ravage"/>
+<classSkill minLevel="95" skillId="1879136962" skillName="Blood Lust"/>
+<classSkill minLevel="95" skillId="1879136965" skillName="Time-Out"/>
+<classSkill minLevel="95" skillId="1879136971" skillName="Severing Strike"/>
+<classSkill minLevel="95" skillId="1879136963" skillName="Upper Hand"/>
+<classSkill minLevel="95" skillId="1879136961" skillName="Mutilation"/>
+<classSkill minLevel="95" skillId="1879136959" skillName="Wrath"/>
+<classSkill minLevel="95" skillId="1879136969" skillName="Thrash"/>
+<classSkill minLevel="95" skillId="1879216228" skillName="Improved Sudden Strikes"/>
+<classSkill minLevel="95" skillId="1879224579" skillName="March!"/>
+<classSkill minLevel="95" skillId="1879072525" skillName="Resilience"/>
+<classSkill minLevel="95" skillId="1879136970" skillName="Against The Odds"/>
+<classSkill minLevel="95" skillId="1879200538" skillName="Blade Toss"/>
+<classSkill minLevel="95" skillId="1879094735" skillName="Troll's Brutality (Melee)"/>
+<classSkill minLevel="95" skillId="1879095209" skillName="Spider's Venom (Melee)"/>
+<classSkill minLevel="95" skillId="1879095383" skillName="Wight's Rot (Melee)"/>
+<classSkill minLevel="95" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+<classSkill minLevel="95" skillId="1879246021" skillName="Impale"/>
+</monsterClass>
+<monsterClass id="1879073665" code="128" key="Defiler" name="Defiler" tag="" iconId="1091464182" abbreviation="DEF" description="key:620775392:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="2" maxRank="2"/>
+<classVirtue id="1879063893" name="Health" startRank="4" maxRank="4"/>
+<classVirtue id="1879063894" name="Power" startRank="5" maxRank="5"/>
+<classVirtue id="1879063895" name="Armour" startRank="3" maxRank="3"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="2" maxRank="2"/>
+<classVirtue id="1879063897" name="Resistance" startRank="4" maxRank="4"/>
+<classVirtue id="1879136127" name="Health Regeneration" startRank="0" maxRank="3"/>
+<classVirtue id="1879136124" name="Power Regeneration" startRank="0" maxRank="4"/>
+<classVirtue id="1879136125" name="Melee Criticals" startRank="0" maxRank="2"/>
+<classVirtue id="1879136120" name="Tactical Criticals" startRank="0" maxRank="5"/>
+<classVirtue id="1879212225" name="Battlefield Promotion" startRank="0" maxRank="15"/>
+<classVirtue id="1879231342" name="Audacity" startRank="1" maxRank="36"/>
+<classTrait minLevel="95" traitId="1879084093" traitName="Enhanced Skill: Curse of Sticky Feet"/>
+<classTrait minLevel="95" traitId="1879084118" traitName="Enhanced Skill: Fell Restoration"/>
+<classTrait minLevel="95" traitId="1879084113" traitName="Enhanced Skill: Plague Gourd"/>
+<classTrait minLevel="95" traitId="1879084104" traitName="Morale Boost"/>
+<classTrait minLevel="95" traitId="1879084077" traitName="Armour Boost"/>
+<classTrait minLevel="95" traitId="1879084117" traitName="Enhanced Skill: Fungal Spores"/>
+<classTrait minLevel="95" traitId="1879084083" traitName="Enhanced Skill: Blessing of Darkness"/>
+<classTrait minLevel="95" traitId="1879138671" traitName="Frugal Cursing"/>
+<classTrait minLevel="95" traitId="1879138673" traitName="Enhanced Skill: Plague of Flies"/>
+<classTrait minLevel="95" traitId="1879138669" traitName="Enhanced Skill: Blight"/>
+<classTrait minLevel="95" traitId="1879138664" traitName="Enhanced Slime"/>
+<classTrait minLevel="95" traitId="1879138672" traitName="Fast Lob"/>
+<classTrait minLevel="95" traitId="1879201534" traitName="Enhanced Skill: Efflorescence"/>
+<classTrait minLevel="95" traitId="1879448878" traitName="Ancient Boons"/>
+<classTrait minLevel="95" traitId="1879072505" traitName="Damage for Morale (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091351" traitName="Damage for Morale (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072506" traitName="Damage for Healing (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091352" traitName="Damage for Healing (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072507" traitName="Morale for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091353" traitName="Morale for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072508" traitName="Morale for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091354" traitName="Morale for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072509" traitName="Healing for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091355" traitName="Healing for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072510" traitName="Healing for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091356" traitName="Healing for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072511" traitName="Critical Protection Boost 4"/>
+<classTrait minLevel="95" traitId="1879091359" traitName="Critical Protection Boost 6"/>
+<classTrait minLevel="95" traitId="1879072512" traitName="Tactical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091360" traitName="Tactical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879072513" traitName="Tactical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879091361" traitName="Tactical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879072514" traitName="Physical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091357" traitName="Physical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879072515" traitName="Physical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879091358" traitName="Critical Protection Boost 3"/>
+<classTrait minLevel="95" traitId="1879072516" traitName="Physical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879091362" traitName="Mastery Boost 3"/>
+<classTrait minLevel="95" traitId="1879072517" traitName="Resistance Boost 1"/>
+<classTrait minLevel="95" traitId="1879091366" traitName="Resistance Boost 2"/>
+<classTrait minLevel="95" traitId="1879072518" traitName="Resistance Boost 4"/>
+<classTrait minLevel="95" traitId="1879091363" traitName="Resistance Boost 3"/>
+<classTrait minLevel="95" traitId="1879072519" traitName="Resistance Boost 5"/>
+<classTrait minLevel="95" traitId="1879091364" traitName="Resistance Boost 6"/>
+<classTrait minLevel="95" traitId="1879072520" traitName="Mastery Boost 5"/>
+<classTrait minLevel="95" traitId="1879091365" traitName="Mastery Boost 6"/>
+<classTrait minLevel="95" traitId="1879072521" traitName="Corruption Skill: Shield-breaker"/>
+<classTrait minLevel="95" traitId="1879097853" traitName="Racial Skill: Blood of Fire"/>
+<classTrait minLevel="95" traitId="1879097854" traitName="Racial Skill: Undying Rage"/>
+<classTrait minLevel="95" traitId="1879097831" traitName="Front-line Fodder"/>
+<classTrait minLevel="95" traitId="1879097832" traitName="Rage of the Misbegotten"/>
+<classTrait minLevel="95" traitId="1879097833" traitName="Warrior Against the Deep"/>
+<classTrait minLevel="95" traitId="1879097834" traitName="Tireless Warrior"/>
+<classTrait minLevel="95" traitId="1879097835" traitName="Flayer of Flesh"/>
+<classTrait minLevel="95" traitId="1879084109" traitName="Goat-masked Tarkrîp Appearance"/>
+<classTrait minLevel="95" traitId="1879084098" traitName="Goat-masked Ongbúrz Appearance"/>
+<classTrait minLevel="95" traitId="1879084091" traitName="Goat-masked Blogmal Appearance"/>
+<classTrait minLevel="95" traitId="1879084085" traitName="Goat-masked Krahjarn Appearance"/>
+<classTrait minLevel="95" traitId="1879084079" traitName="Bear-masked Tarkrîp Appearance"/>
+<classTrait minLevel="95" traitId="1879084107" traitName="Bear-masked Ongbúrz Appearance"/>
+<classTrait minLevel="95" traitId="1879084103" traitName="Bear-masked Blogmal Appearance"/>
+<classTrait minLevel="95" traitId="1879103428" traitName="Bear-masked Krahjarn Appearance"/>
+<classTrait minLevel="95" traitId="1879103429" traitName="Aurochs-masked Tarkrîp Appearance"/>
+<classTrait minLevel="95" traitId="1879103422" traitName="Aurochs-masked Ongbúrz Appearance"/>
+<classTrait minLevel="95" traitId="1879103423" traitName="Aurochs-masked Blogmal Appearance"/>
+<classTrait minLevel="95" traitId="1879103424" traitName="Aurochs-masked Krahjarn Appearance"/>
+<classTrait minLevel="95" traitId="1879103425" traitName="Drake-masked Ongbúrz Appearance"/>
+<classTrait minLevel="95" traitId="1879103426" traitName="Drake-masked Blogmal Appearance"/>
+<classTrait minLevel="95" traitId="1879103427" traitName="Drake-masked Krahjarn Appearance"/>
+<classTrait minLevel="95" traitId="1879326800" traitName="Orc Defiler Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326819" traitName="Corrupt Long Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326818" traitName="Corrupt Spiked Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326812" traitName="Corrupt Adorned Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326815" traitName="Angmarim Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326823" traitName="Natural Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879265093" traitName="Critical Rating Boost 1"/>
+<classTrait minLevel="95" traitId="1879265091" traitName="Critical Rating Boost 2"/>
+<classTrait minLevel="95" traitId="1879265092" traitName="Critical Rating Boost 3"/>
+<classTrait minLevel="95" traitId="1879265094" traitName="Critical Rating Boost 4"/>
+<classTrait minLevel="95" traitId="1879265089" traitName="Critical Rating Boost 5"/>
+<classTrait minLevel="95" traitId="1879265090" traitName="Critical Rating Boost 6"/>
+<classTrait minLevel="95" traitId="1879152359" traitName="Critical Protection Boost 1"/>
+<classTrait minLevel="95" traitId="1879152361" traitName="Critical Protection Boost 2"/>
+<classTrait minLevel="95" traitId="1879152253" traitName="Physical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152251" traitName="Physical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879152252" traitName="Tactical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152250" traitName="Tactical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879143085" traitName="Mastery Boost 1"/>
+<classTrait minLevel="95" traitId="1879143089" traitName="Mastery Boost 4"/>
+<classTrait minLevel="95" traitId="1879143086" traitName="Mastery Boost 2"/>
+<classTrait minLevel="95" traitId="1879143090" traitName="Critical Protection Boost 5"/>
+<classTrait minLevel="95" traitId="1879358544" traitName="Finesse Boost 1"/>
+<classTrait minLevel="95" traitId="1879358547" traitName="Finesse Boost 2"/>
+<classTrait minLevel="95" traitId="1879358545" traitName="Finesse Boost 3"/>
+<classTrait minLevel="95" traitId="1879358543" traitName="Finesse Boost 4"/>
+<classTrait minLevel="95" traitId="1879358542" traitName="Finesse Boost 5"/>
+<classTrait minLevel="95" traitId="1879358546" traitName="Finesse Boost 6"/>
+<classSkill minLevel="95" skillId="1879104844" skillName="Fertile Slime"/>
+<classSkill minLevel="95" skillId="1879104842" skillName="Fungal Bloom"/>
+<classSkill minLevel="95" skillId="1879104846" skillName="Fell Restoration"/>
+<classSkill minLevel="95" skillId="1879104845" skillName="Fell Sacrifice"/>
+<classSkill minLevel="95" skillId="1879492176" skillName="Acrid Salts"/>
+<classSkill minLevel="95" skillId="1879104843" skillName="Curse of the Lethargic Heart"/>
+<classSkill minLevel="95" skillId="1879104841" skillName="Curse of Sticky Feet"/>
+<classSkill minLevel="95" skillId="1879104838" skillName="Curse of the Coward's Soul"/>
+<classSkill minLevel="95" skillId="1879104840" skillName="Curse of Deadly Sorrows"/>
+<classSkill minLevel="95" skillId="1879104847" skillName="Fire Gourd"/>
+<classSkill minLevel="95" skillId="1879104848" skillName="Plague Gourd"/>
+<classSkill minLevel="95" skillId="1879104837" skillName="Headbreaker"/>
+<classSkill minLevel="95" skillId="1879516459" skillName="Smelling Salts"/>
+<classSkill minLevel="95" skillId="1879138629" skillName="Tenderize"/>
+<classSkill minLevel="95" skillId="1879138638" skillName="Anointing of the Slick Flesh"/>
+<classSkill minLevel="95" skillId="1879138640" skillName="Plague of Flies"/>
+<classSkill minLevel="95" skillId="1879138645" skillName="Efflorescence"/>
+<classSkill minLevel="95" skillId="1879138633" skillName="Curse of Rotten Flesh"/>
+<classSkill minLevel="95" skillId="1879138641" skillName="Explosive Gourd"/>
+<classSkill minLevel="95" skillId="1879138637" skillName="Curse of the Melancholic Heart"/>
+<classSkill minLevel="95" skillId="1879138631" skillName="Gooey Gourd"/>
+<classSkill minLevel="95" skillId="1879138644" skillName="Blight"/>
+<classSkill minLevel="95" skillId="1879224579" skillName="March!"/>
+<classSkill minLevel="95" skillId="1879243707" skillName="Constant Pain"/>
+<classSkill minLevel="95" skillId="1879104839" skillName="Fungal Spores"/>
+<classSkill minLevel="95" skillId="1879138634" skillName="Blessing of Darkness"/>
+<classSkill minLevel="95" skillId="1879094735" skillName="Troll's Brutality (Melee)"/>
+<classSkill minLevel="95" skillId="1879095209" skillName="Spider's Venom (Melee)"/>
+<classSkill minLevel="95" skillId="1879095383" skillName="Wight's Rot (Melee)"/>
+<classSkill minLevel="95" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+<classSkill minLevel="95" skillId="1879451337" skillName="Curse-shouter Stance"/>
+<classSkill minLevel="95" skillId="1879451330" skillName="Herb-tender Stance"/>
+</monsterClass>
+<monsterClass id="1879073666" code="179" key="Blackarrow" name="Blackarrow" tag="" iconId="1090551243" abbreviation="BLA" description="key:620775395:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="5" maxRank="5"/>
+<classVirtue id="1879063893" name="Health" startRank="3" maxRank="3"/>
+<classVirtue id="1879063894" name="Power" startRank="4" maxRank="4"/>
+<classVirtue id="1879063895" name="Armour" startRank="4" maxRank="4"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="2" maxRank="2"/>
+<classVirtue id="1879063897" name="Resistance" startRank="2" maxRank="2"/>
+<classVirtue id="1879136127" name="Health Regeneration" startRank="0" maxRank="3"/>
+<classVirtue id="1879136124" name="Power Regeneration" startRank="0" maxRank="4"/>
+<classVirtue id="1879136125" name="Melee Criticals" startRank="0" maxRank="2"/>
+<classVirtue id="1879136121" name="Ranged Criticals" startRank="0" maxRank="5"/>
+<classVirtue id="1879212225" name="Battlefield Promotion" startRank="0" maxRank="15"/>
+<classVirtue id="1879231342" name="Audacity" startRank="1" maxRank="36"/>
+<classTrait minLevel="95" traitId="1879072457" traitName="Avoidance Boost"/>
+<classTrait minLevel="95" traitId="1879072458" traitName="Resistance Boost"/>
+<classTrait minLevel="95" traitId="1879072459" traitName="Deadly Aim"/>
+<classTrait minLevel="95" traitId="1879072460" traitName="Uncanny Reactions"/>
+<classTrait minLevel="95" traitId="1879072461" traitName="Enhanced Skill: Hindering Shot"/>
+<classTrait minLevel="95" traitId="1879072462" traitName="Penetrating Arrows"/>
+<classTrait minLevel="95" traitId="1879072463" traitName="Swift Draw"/>
+<classTrait minLevel="95" traitId="1879072464" traitName="Enhanced Skill: Set Trap"/>
+<classTrait minLevel="95" traitId="1879221753" traitName="Feel the Burn"/>
+<classTrait minLevel="95" traitId="1879136833" traitName="Enhanced Skill: Gash"/>
+<classTrait minLevel="95" traitId="1879136835" traitName="Enhanced Skill: Headshot"/>
+<classTrait minLevel="95" traitId="1879136830" traitName="Enhanced Skill: Death Blossom"/>
+<classTrait minLevel="95" traitId="1879072465" traitName="Enhanced Skill: Steadfast Barrage"/>
+<classTrait minLevel="95" traitId="1879072466" traitName="Enhanced Skill: Snare"/>
+<classTrait minLevel="95" traitId="1879072505" traitName="Damage for Morale (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091351" traitName="Damage for Morale (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072506" traitName="Damage for Healing (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091352" traitName="Damage for Healing (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072507" traitName="Morale for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091353" traitName="Morale for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072508" traitName="Morale for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091354" traitName="Morale for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072509" traitName="Healing for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091355" traitName="Healing for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072510" traitName="Healing for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091356" traitName="Healing for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072511" traitName="Critical Protection Boost 4"/>
+<classTrait minLevel="95" traitId="1879091359" traitName="Critical Protection Boost 6"/>
+<classTrait minLevel="95" traitId="1879072512" traitName="Tactical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091360" traitName="Tactical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879072513" traitName="Tactical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879091361" traitName="Tactical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879072514" traitName="Physical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091357" traitName="Physical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879072515" traitName="Physical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879091358" traitName="Critical Protection Boost 3"/>
+<classTrait minLevel="95" traitId="1879072516" traitName="Physical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879091362" traitName="Mastery Boost 3"/>
+<classTrait minLevel="95" traitId="1879072517" traitName="Resistance Boost 1"/>
+<classTrait minLevel="95" traitId="1879091366" traitName="Resistance Boost 2"/>
+<classTrait minLevel="95" traitId="1879072518" traitName="Resistance Boost 4"/>
+<classTrait minLevel="95" traitId="1879091363" traitName="Resistance Boost 3"/>
+<classTrait minLevel="95" traitId="1879072519" traitName="Resistance Boost 5"/>
+<classTrait minLevel="95" traitId="1879091364" traitName="Resistance Boost 6"/>
+<classTrait minLevel="95" traitId="1879072520" traitName="Mastery Boost 5"/>
+<classTrait minLevel="95" traitId="1879091365" traitName="Mastery Boost 6"/>
+<classTrait minLevel="95" traitId="1879072521" traitName="Corruption Skill: Shield-breaker"/>
+<classTrait minLevel="95" traitId="1879097841" traitName="New Breed"/>
+<classTrait minLevel="95" traitId="1879097842" traitName="Leaders of the Orcs"/>
+<classTrait minLevel="95" traitId="1879097843" traitName="Favoured Servant of the Dark"/>
+<classTrait minLevel="95" traitId="1879097844" traitName="Tireless Warrior"/>
+<classTrait minLevel="95" traitId="1879097845" traitName="Brutal Persuasion"/>
+<classTrait minLevel="95" traitId="1879097857" traitName="Racial Skill: Imposing Presence"/>
+<classTrait minLevel="95" traitId="1879097858" traitName="Racial Skill: Get a Grip!"/>
+<classTrait minLevel="95" traitId="1879072467" traitName="White Hand Scout Appearance"/>
+<classTrait minLevel="95" traitId="1879072468" traitName="Uruk-hai Sentry Appearance"/>
+<classTrait minLevel="95" traitId="1879072469" traitName="White Hand Sentry Appearance"/>
+<classTrait minLevel="95" traitId="1879072470" traitName="Dark-arrow Scout Appearance"/>
+<classTrait minLevel="95" traitId="1879072471" traitName="Fell-arrow Scout Appearance"/>
+<classTrait minLevel="95" traitId="1879072472" traitName="Black-bow Scout Appearance"/>
+<classTrait minLevel="95" traitId="1879084112" traitName="Ghost-bow Scout Appearance"/>
+<classTrait minLevel="95" traitId="1879103444" traitName="Dark-arrow Sentry Appearance"/>
+<classTrait minLevel="95" traitId="1879103445" traitName="Uruk-hai Scout Appearance"/>
+<classTrait minLevel="95" traitId="1879103438" traitName="Black-bow Sentry Appearance"/>
+<classTrait minLevel="95" traitId="1879103439" traitName="Ghost-bow Sentry Appearance"/>
+<classTrait minLevel="95" traitId="1879103440" traitName="Dark-arrow Elite Appearance"/>
+<classTrait minLevel="95" traitId="1879103441" traitName="Fell-arrow Elite Appearance"/>
+<classTrait minLevel="95" traitId="1879103442" traitName="Black-bow Elite Appearance"/>
+<classTrait minLevel="95" traitId="1879103443" traitName="Ghost-bow Elite Appearance"/>
+<classTrait minLevel="95" traitId="1879326799" traitName="Corrupt Flared Hand Axe Appearance"/>
+<classTrait minLevel="95" traitId="1879326797" traitName="Battle-Worn Longsword Appearance"/>
+<classTrait minLevel="95" traitId="1879326820" traitName="Ornate Corrupt Sword Appearance"/>
+<classTrait minLevel="95" traitId="1879326801" traitName="Rusted Longsword Appearance"/>
+<classTrait minLevel="95" traitId="1879326808" traitName="Corrupt Hand Axe Appearance"/>
+<classTrait minLevel="95" traitId="1879326805" traitName="Corrupt Longbow Appearance"/>
+<classTrait minLevel="95" traitId="1879326804" traitName="Angular Shortbow Appearance"/>
+<classTrait minLevel="95" traitId="1879326807" traitName="Corrupt Shortbow Appearance"/>
+<classTrait minLevel="95" traitId="1879326802" traitName="Antler Longbow Appearance"/>
+<classTrait minLevel="95" traitId="1879326793" traitName="Antler Shortbow Appearance"/>
+<classTrait minLevel="95" traitId="1879265093" traitName="Critical Rating Boost 1"/>
+<classTrait minLevel="95" traitId="1879265091" traitName="Critical Rating Boost 2"/>
+<classTrait minLevel="95" traitId="1879265092" traitName="Critical Rating Boost 3"/>
+<classTrait minLevel="95" traitId="1879265094" traitName="Critical Rating Boost 4"/>
+<classTrait minLevel="95" traitId="1879265089" traitName="Critical Rating Boost 5"/>
+<classTrait minLevel="95" traitId="1879265090" traitName="Critical Rating Boost 6"/>
+<classTrait minLevel="95" traitId="1879152359" traitName="Critical Protection Boost 1"/>
+<classTrait minLevel="95" traitId="1879152361" traitName="Critical Protection Boost 2"/>
+<classTrait minLevel="95" traitId="1879152253" traitName="Physical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152251" traitName="Physical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879152252" traitName="Tactical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152250" traitName="Tactical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879143085" traitName="Mastery Boost 1"/>
+<classTrait minLevel="95" traitId="1879143089" traitName="Mastery Boost 4"/>
+<classTrait minLevel="95" traitId="1879143086" traitName="Mastery Boost 2"/>
+<classTrait minLevel="95" traitId="1879143090" traitName="Critical Protection Boost 5"/>
+<classTrait minLevel="95" traitId="1879358544" traitName="Finesse Boost 1"/>
+<classTrait minLevel="95" traitId="1879358547" traitName="Finesse Boost 2"/>
+<classTrait minLevel="95" traitId="1879358545" traitName="Finesse Boost 3"/>
+<classTrait minLevel="95" traitId="1879358543" traitName="Finesse Boost 4"/>
+<classTrait minLevel="95" traitId="1879358542" traitName="Finesse Boost 5"/>
+<classTrait minLevel="95" traitId="1879358546" traitName="Finesse Boost 6"/>
+<classSkill minLevel="95" skillId="1879073697" skillName="Strong Pull"/>
+<classSkill minLevel="95" skillId="1879073698" skillName="Screaming Shafts"/>
+<classSkill minLevel="95" skillId="1879073699" skillName="Punctured Target"/>
+<classSkill minLevel="95" skillId="1879072548" skillName="Flaming Arrow"/>
+<classSkill minLevel="95" skillId="1879073700" skillName="Hindering Shot"/>
+<classSkill minLevel="95" skillId="1879072545" skillName="Death Blossom"/>
+<classSkill minLevel="95" skillId="1879073701" skillName="Cut"/>
+<classSkill minLevel="95" skillId="1879073702" skillName="Moving Target"/>
+<classSkill minLevel="95" skillId="1879097883" skillName="Vital Target"/>
+<classSkill minLevel="95" skillId="1879097884" skillName="I See You!"/>
+<classSkill minLevel="95" skillId="1879097885" skillName="No You Don't"/>
+<classSkill minLevel="95" skillId="1879210775" skillName="Improved Vital Target"/>
+<classSkill minLevel="95" skillId="1879136793" skillName="Gash"/>
+<classSkill minLevel="95" skillId="1879136796" skillName="In Your Face"/>
+<classSkill minLevel="95" skillId="1879136787" skillName="Headshot"/>
+<classSkill minLevel="95" skillId="1879136788" skillName="Skirmisher Stance"/>
+<classSkill minLevel="95" skillId="1879136795" skillName="Keen Eye"/>
+<classSkill minLevel="95" skillId="1879136780" skillName="Fire Trap"/>
+<classSkill minLevel="95" skillId="1879136790" skillName="Centre"/>
+<classSkill minLevel="95" skillId="1879136783" skillName="Tangleshot"/>
+<classSkill minLevel="95" skillId="1879136794" skillName="Revenge"/>
+<classSkill minLevel="95" skillId="1879216158" skillName="Improved Punctured Target"/>
+<classSkill minLevel="95" skillId="1879224579" skillName="March!"/>
+<classSkill minLevel="95" skillId="1879072543" skillName="Set Trap"/>
+<classSkill minLevel="95" skillId="1879136786" skillName="Steadfast Barrage"/>
+<classSkill minLevel="95" skillId="1879201690" skillName="Snare"/>
+<classSkill minLevel="95" skillId="1879095215" skillName="Troll's Brutality (Ranged)"/>
+<classSkill minLevel="95" skillId="1879095257" skillName="Spider's Venom (Ranged)"/>
+<classSkill minLevel="95" skillId="1879095392" skillName="Wight's Rot (Ranged)"/>
+<classSkill minLevel="95" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+<classSkill minLevel="95" skillId="1879244376" skillName="Explosive Arrow"/>
+<classSkill minLevel="95" skillId="1879516458" skillName="Focus"/>
+</monsterClass>
+<monsterClass id="1879073667" code="52" key="Warleader" name="Warleader" tag="" iconId="1090551244" abbreviation="WAR" description="key:620775405:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="2" maxRank="2"/>
+<classVirtue id="1879063893" name="Health" startRank="4" maxRank="4"/>
+<classVirtue id="1879063894" name="Power" startRank="3" maxRank="3"/>
+<classVirtue id="1879063895" name="Armour" startRank="5" maxRank="5"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="2" maxRank="2"/>
+<classVirtue id="1879063897" name="Resistance" startRank="4" maxRank="4"/>
+<classVirtue id="1879136127" name="Health Regeneration" startRank="0" maxRank="5"/>
+<classVirtue id="1879136124" name="Power Regeneration" startRank="0" maxRank="3"/>
+<classVirtue id="1879136125" name="Melee Criticals" startRank="0" maxRank="2"/>
+<classVirtue id="1879136120" name="Tactical Criticals" startRank="0" maxRank="4"/>
+<classVirtue id="1879212225" name="Battlefield Promotion" startRank="0" maxRank="15"/>
+<classVirtue id="1879231342" name="Audacity" startRank="1" maxRank="36"/>
+<classTrait minLevel="95" traitId="1879072473" traitName="Damage Boost"/>
+<classTrait minLevel="95" traitId="1879072474" traitName="Avoidance Boost"/>
+<classTrait minLevel="95" traitId="1879072475" traitName="Empowering"/>
+<classTrait minLevel="95" traitId="1879072476" traitName="Shield Mastery"/>
+<classTrait minLevel="95" traitId="1879072477" traitName="Enhanced Skill: On Your Feet!"/>
+<classTrait minLevel="95" traitId="1879072478" traitName="Harsh Language"/>
+<classTrait minLevel="95" traitId="1879072479" traitName="Enhanced Skill: Field Promotion"/>
+<classTrait minLevel="95" traitId="1879072480" traitName="Enhanced Skill: Purge"/>
+<classTrait minLevel="95" traitId="1879211599" traitName="Power of Fear"/>
+<classTrait minLevel="95" traitId="1879136671" traitName="Enhanced Skill: Black Speech"/>
+<classTrait minLevel="95" traitId="1879136705" traitName="Enhanced Skill: Menacing Roar"/>
+<classTrait minLevel="95" traitId="1879136704" traitName="Enhanced Skill: Quitters Never Win"/>
+<classTrait minLevel="95" traitId="1879072481" traitName="Enhanced Skill: Snap Out of It!"/>
+<classTrait minLevel="95" traitId="1879201575" traitName="Lead the Charge!"/>
+<classTrait minLevel="95" traitId="1879492696" traitName="Clinging Fear"/>
+<classTrait minLevel="95" traitId="1879072505" traitName="Damage for Morale (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091351" traitName="Damage for Morale (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072506" traitName="Damage for Healing (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091352" traitName="Damage for Healing (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072507" traitName="Morale for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091353" traitName="Morale for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072508" traitName="Morale for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091354" traitName="Morale for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072509" traitName="Healing for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091355" traitName="Healing for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072510" traitName="Healing for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091356" traitName="Healing for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072511" traitName="Critical Protection Boost 4"/>
+<classTrait minLevel="95" traitId="1879091359" traitName="Critical Protection Boost 6"/>
+<classTrait minLevel="95" traitId="1879072512" traitName="Tactical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091360" traitName="Tactical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879072513" traitName="Tactical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879091361" traitName="Tactical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879072514" traitName="Physical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091357" traitName="Physical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879072515" traitName="Physical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879091358" traitName="Critical Protection Boost 3"/>
+<classTrait minLevel="95" traitId="1879072516" traitName="Physical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879091362" traitName="Mastery Boost 3"/>
+<classTrait minLevel="95" traitId="1879072517" traitName="Resistance Boost 1"/>
+<classTrait minLevel="95" traitId="1879091366" traitName="Resistance Boost 2"/>
+<classTrait minLevel="95" traitId="1879072518" traitName="Resistance Boost 4"/>
+<classTrait minLevel="95" traitId="1879091363" traitName="Resistance Boost 3"/>
+<classTrait minLevel="95" traitId="1879072519" traitName="Resistance Boost 5"/>
+<classTrait minLevel="95" traitId="1879091364" traitName="Resistance Boost 6"/>
+<classTrait minLevel="95" traitId="1879072520" traitName="Mastery Boost 5"/>
+<classTrait minLevel="95" traitId="1879091365" traitName="Mastery Boost 6"/>
+<classTrait minLevel="95" traitId="1879072521" traitName="Corruption Skill: Shield-breaker"/>
+<classTrait minLevel="95" traitId="1879097841" traitName="New Breed"/>
+<classTrait minLevel="95" traitId="1879097842" traitName="Leaders of the Orcs"/>
+<classTrait minLevel="95" traitId="1879097843" traitName="Favoured Servant of the Dark"/>
+<classTrait minLevel="95" traitId="1879097844" traitName="Tireless Warrior"/>
+<classTrait minLevel="95" traitId="1879097845" traitName="Brutal Persuasion"/>
+<classTrait minLevel="95" traitId="1879097857" traitName="Racial Skill: Imposing Presence"/>
+<classTrait minLevel="95" traitId="1879097858" traitName="Racial Skill: Get a Grip!"/>
+<classTrait minLevel="95" traitId="1879072483" traitName="Uruk-hai Soldier Appearance"/>
+<classTrait minLevel="95" traitId="1879072484" traitName="Uruk-hai Lieutenant Appearance"/>
+<classTrait minLevel="95" traitId="1879072485" traitName="Uruk-hai Captain Appearance"/>
+<classTrait minLevel="95" traitId="1879072486" traitName="Uruk-hai Tyrant Appearance"/>
+<classTrait minLevel="95" traitId="1879072487" traitName="Wicked Uruk-hai Lieutenant Appearance"/>
+<classTrait minLevel="95" traitId="1879072488" traitName="Wicked Uruk-hai Captain Appearance"/>
+<classTrait minLevel="95" traitId="1879084115" traitName="Uruk-hai Overseer Appearance"/>
+<classTrait minLevel="95" traitId="1879103452" traitName="Tarkrîp Lieutenant Appearance"/>
+<classTrait minLevel="95" traitId="1879103453" traitName="Tarkrîp Captain Appearance"/>
+<classTrait minLevel="95" traitId="1879103446" traitName="Tarkrîp Tyrant Appearance"/>
+<classTrait minLevel="95" traitId="1879103447" traitName="Blogmal Lieutenant Appearance"/>
+<classTrait minLevel="95" traitId="1879103448" traitName="Blogmal Captain Appearance"/>
+<classTrait minLevel="95" traitId="1879103449" traitName="Blogmal Tyrant Appearance"/>
+<classTrait minLevel="95" traitId="1879103450" traitName="Wicked Uruk-hai Tyrant Appearance"/>
+<classTrait minLevel="95" traitId="1879103451" traitName="Uruk-hai War-Tyrant Appearance"/>
+<classTrait minLevel="95" traitId="1879326799" traitName="Corrupt Flared Hand Axe Appearance"/>
+<classTrait minLevel="95" traitId="1879326797" traitName="Battle-Worn Longsword Appearance"/>
+<classTrait minLevel="95" traitId="1879326820" traitName="Ornate Corrupt Sword Appearance"/>
+<classTrait minLevel="95" traitId="1879326801" traitName="Rusted Longsword Appearance"/>
+<classTrait minLevel="95" traitId="1879326808" traitName="Corrupt Hand Axe Appearance"/>
+<classTrait minLevel="95" traitId="1879326796" traitName="Corrupt Studded Shield Appearance"/>
+<classTrait minLevel="95" traitId="1879326810" traitName="Corrupt Plated Shield Appearance"/>
+<classTrait minLevel="95" traitId="1879326816" traitName="Corrupt Dragon Shield Appearance"/>
+<classTrait minLevel="95" traitId="1879326824" traitName="Corrupt Spider Shield Appearance"/>
+<classTrait minLevel="95" traitId="1879326825" traitName="Dark Wooden Shield Appearance"/>
+<classTrait minLevel="95" traitId="1879265093" traitName="Critical Rating Boost 1"/>
+<classTrait minLevel="95" traitId="1879265091" traitName="Critical Rating Boost 2"/>
+<classTrait minLevel="95" traitId="1879265092" traitName="Critical Rating Boost 3"/>
+<classTrait minLevel="95" traitId="1879265094" traitName="Critical Rating Boost 4"/>
+<classTrait minLevel="95" traitId="1879265089" traitName="Critical Rating Boost 5"/>
+<classTrait minLevel="95" traitId="1879265090" traitName="Critical Rating Boost 6"/>
+<classTrait minLevel="95" traitId="1879152359" traitName="Critical Protection Boost 1"/>
+<classTrait minLevel="95" traitId="1879152361" traitName="Critical Protection Boost 2"/>
+<classTrait minLevel="95" traitId="1879152253" traitName="Physical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152251" traitName="Physical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879152252" traitName="Tactical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152250" traitName="Tactical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879143085" traitName="Mastery Boost 1"/>
+<classTrait minLevel="95" traitId="1879143089" traitName="Mastery Boost 4"/>
+<classTrait minLevel="95" traitId="1879143086" traitName="Mastery Boost 2"/>
+<classTrait minLevel="95" traitId="1879143090" traitName="Critical Protection Boost 5"/>
+<classTrait minLevel="95" traitId="1879358544" traitName="Finesse Boost 1"/>
+<classTrait minLevel="95" traitId="1879358547" traitName="Finesse Boost 2"/>
+<classTrait minLevel="95" traitId="1879358545" traitName="Finesse Boost 3"/>
+<classTrait minLevel="95" traitId="1879358543" traitName="Finesse Boost 4"/>
+<classTrait minLevel="95" traitId="1879358542" traitName="Finesse Boost 5"/>
+<classTrait minLevel="95" traitId="1879358546" traitName="Finesse Boost 6"/>
+<classSkill minLevel="95" skillId="1879073710" skillName="Intimidating Shout"/>
+<classSkill minLevel="95" skillId="1879073711" skillName="Cleave"/>
+<classSkill minLevel="95" skillId="1879073712" skillName="Crack The Whip"/>
+<classSkill minLevel="95" skillId="1879072554" skillName="Quit Whining and Fight!"/>
+<classSkill minLevel="95" skillId="1879073713" skillName="On Your Feet!"/>
+<classSkill minLevel="95" skillId="1879073714" skillName="Field Promotion"/>
+<classSkill minLevel="95" skillId="1879072550" skillName="Mobilise"/>
+<classSkill minLevel="95" skillId="1879073715" skillName="Aura of Command"/>
+<classSkill minLevel="95" skillId="1879097887" skillName="Banner of Terror"/>
+<classSkill minLevel="95" skillId="1879097888" skillName="Black Speech"/>
+<classSkill minLevel="95" skillId="1879097889" skillName="Command Post"/>
+<classSkill minLevel="95" skillId="1879136204" skillName="Fracture"/>
+<classSkill minLevel="95" skillId="1879136205" skillName="Aura of Protection"/>
+<classSkill minLevel="95" skillId="1879136213" skillName="Call the Shadow"/>
+<classSkill minLevel="95" skillId="1879136206" skillName="Brawler's Stance"/>
+<classSkill minLevel="95" skillId="1879136209" skillName="Commander's Stance"/>
+<classSkill minLevel="95" skillId="1879136242" skillName="Menacing Roar"/>
+<classSkill minLevel="95" skillId="1879136248" skillName="Quitters Never Win"/>
+<classSkill minLevel="95" skillId="1879136251" skillName="Point-defence"/>
+<classSkill minLevel="95" skillId="1879136245" skillName="Banner of Horror"/>
+<classSkill minLevel="95" skillId="1879224579" skillName="March!"/>
+<classSkill minLevel="95" skillId="1879243697" skillName="Shield Bash"/>
+<classSkill minLevel="95" skillId="1879072549" skillName="Snap Out of It!"/>
+<classSkill minLevel="95" skillId="1879136736" skillName="Purge"/>
+<classSkill minLevel="95" skillId="1879492178" skillName="Petty Criticism"/>
+<classSkill minLevel="95" skillId="1879492181" skillName="Roaring Shield"/>
+<classSkill minLevel="95" skillId="1879492169" skillName="Scorn"/>
+<classSkill minLevel="95" skillId="1879492160" skillName="Marching Orders"/>
+<classSkill minLevel="95" skillId="1879492173" skillName="War-forged Uruk"/>
+<classSkill minLevel="95" skillId="1879492157" skillName="Scold Slackers"/>
+<classSkill minLevel="95" skillId="1879094735" skillName="Troll's Brutality (Melee)"/>
+<classSkill minLevel="95" skillId="1879095209" skillName="Spider's Venom (Melee)"/>
+<classSkill minLevel="95" skillId="1879095383" skillName="Wight's Rot (Melee)"/>
+<classSkill minLevel="95" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+</monsterClass>
+<monsterClass id="1879073668" code="127" key="Weaver" name="Weaver" tag="" iconId="1090551242" abbreviation="WVR" description="key:620775416:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="4" maxRank="4"/>
+<classVirtue id="1879063893" name="Health" startRank="2" maxRank="2"/>
+<classVirtue id="1879063894" name="Power" startRank="5" maxRank="5"/>
+<classVirtue id="1879063895" name="Armour" startRank="2" maxRank="2"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="3" maxRank="3"/>
+<classVirtue id="1879063897" name="Resistance" startRank="4" maxRank="4"/>
+<classVirtue id="1879136127" name="Health Regeneration" startRank="0" maxRank="2"/>
+<classVirtue id="1879136124" name="Power Regeneration" startRank="0" maxRank="5"/>
+<classVirtue id="1879136125" name="Melee Criticals" startRank="0" maxRank="3"/>
+<classVirtue id="1879136121" name="Ranged Criticals" startRank="0" maxRank="4"/>
+<classVirtue id="1879212225" name="Battlefield Promotion" startRank="0" maxRank="15"/>
+<classVirtue id="1879231342" name="Audacity" startRank="1" maxRank="36"/>
+<classTrait minLevel="95" traitId="1879072441" traitName="Morale Boost"/>
+<classTrait minLevel="95" traitId="1879072442" traitName="Armour Boost"/>
+<classTrait minLevel="95" traitId="1879072443" traitName="Regeneration"/>
+<classTrait minLevel="95" traitId="1879072444" traitName="Swift Weave"/>
+<classTrait minLevel="95" traitId="1879072445" traitName="Enhanced Skill: Piercing Attack"/>
+<classTrait minLevel="95" traitId="1879072446" traitName="Enhanced Skill: Tainted Kiss"/>
+<classTrait minLevel="95" traitId="1879072447" traitName="Steelweave Webs"/>
+<classTrait minLevel="95" traitId="1879072448" traitName="Enhanced Skill: Clinging Webs"/>
+<classTrait minLevel="95" traitId="1879140031" traitName="Enhanced Skill: Latent Poison"/>
+<classTrait minLevel="95" traitId="1879140030" traitName="Enhanced Skill: Trapdoor Sanctuary"/>
+<classTrait minLevel="95" traitId="1879140037" traitName="Enhanced Skill: Paralytic Venom"/>
+<classTrait minLevel="95" traitId="1879072449" traitName="Experienced Predator"/>
+<classTrait minLevel="95" traitId="1879072505" traitName="Damage for Morale (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091351" traitName="Damage for Morale (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072506" traitName="Damage for Healing (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091352" traitName="Damage for Healing (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072507" traitName="Morale for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091353" traitName="Morale for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072508" traitName="Morale for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091354" traitName="Morale for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072509" traitName="Healing for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091355" traitName="Healing for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072510" traitName="Healing for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091356" traitName="Healing for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072511" traitName="Critical Protection Boost 4"/>
+<classTrait minLevel="95" traitId="1879091359" traitName="Critical Protection Boost 6"/>
+<classTrait minLevel="95" traitId="1879072512" traitName="Tactical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091360" traitName="Tactical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879072513" traitName="Tactical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879091361" traitName="Tactical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879072514" traitName="Physical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091357" traitName="Physical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879072515" traitName="Physical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879091358" traitName="Critical Protection Boost 3"/>
+<classTrait minLevel="95" traitId="1879072516" traitName="Physical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879091362" traitName="Mastery Boost 3"/>
+<classTrait minLevel="95" traitId="1879072517" traitName="Resistance Boost 1"/>
+<classTrait minLevel="95" traitId="1879091366" traitName="Resistance Boost 2"/>
+<classTrait minLevel="95" traitId="1879072518" traitName="Resistance Boost 4"/>
+<classTrait minLevel="95" traitId="1879091363" traitName="Resistance Boost 3"/>
+<classTrait minLevel="95" traitId="1879072519" traitName="Resistance Boost 5"/>
+<classTrait minLevel="95" traitId="1879091364" traitName="Resistance Boost 6"/>
+<classTrait minLevel="95" traitId="1879072520" traitName="Mastery Boost 5"/>
+<classTrait minLevel="95" traitId="1879091365" traitName="Mastery Boost 6"/>
+<classTrait minLevel="95" traitId="1879072521" traitName="Corruption Skill: Shield-breaker"/>
+<classTrait minLevel="95" traitId="1879097836" traitName="Eight-legged Foe"/>
+<classTrait minLevel="95" traitId="1879097837" traitName="Swallower of Light"/>
+<classTrait minLevel="95" traitId="1879097838" traitName="Ancient as the Stars"/>
+<classTrait minLevel="95" traitId="1879097839" traitName="Enemies of the First Children"/>
+<classTrait minLevel="95" traitId="1879097840" traitName="Drinker of Blood"/>
+<classTrait minLevel="95" traitId="1879097855" traitName="Racial Skill: Born of Shadow"/>
+<classTrait minLevel="95" traitId="1879097856" traitName="Racial Skill: Shelob's Gift"/>
+<classTrait minLevel="95" traitId="1879072451" traitName="Shadow Watcher Appearance"/>
+<classTrait minLevel="95" traitId="1879072452" traitName="Wood Creeper Appearance"/>
+<classTrait minLevel="95" traitId="1879072453" traitName="Forest Biter Appearance"/>
+<classTrait minLevel="95" traitId="1879072454" traitName="Tomb Ambusher Appearance"/>
+<classTrait minLevel="95" traitId="1879072455" traitName="Moor Spinner Appearance"/>
+<classTrait minLevel="95" traitId="1879072456" traitName="Cragstone Queen Appearance"/>
+<classTrait minLevel="95" traitId="1879084121" traitName="Shadow Queen Appearance"/>
+<classTrait minLevel="95" traitId="1879103436" traitName="Ash Weaver Appearance"/>
+<classTrait minLevel="95" traitId="1879103437" traitName="Kingsfell Creeper Appearance"/>
+<classTrait minLevel="95" traitId="1879103430" traitName="Rift-crawler Queen Appearance"/>
+<classTrait minLevel="95" traitId="1879103431" traitName="Vile Moor-web Appearance"/>
+<classTrait minLevel="95" traitId="1879103432" traitName="Barrow Queen Appearance"/>
+<classTrait minLevel="95" traitId="1879103433" traitName="Bogbereth Spinner Appearance"/>
+<classTrait minLevel="95" traitId="1879103434" traitName="Bogbereth Matron Appearance"/>
+<classTrait minLevel="95" traitId="1879103435" traitName="Grimfang Ambusher Appearance"/>
+<classTrait minLevel="95" traitId="1879201159" traitName="Strong Brood"/>
+<classTrait minLevel="95" traitId="1879210653" traitName="Scytode Brood"/>
+<classTrait minLevel="95" traitId="1879265093" traitName="Critical Rating Boost 1"/>
+<classTrait minLevel="95" traitId="1879265091" traitName="Critical Rating Boost 2"/>
+<classTrait minLevel="95" traitId="1879265092" traitName="Critical Rating Boost 3"/>
+<classTrait minLevel="95" traitId="1879265094" traitName="Critical Rating Boost 4"/>
+<classTrait minLevel="95" traitId="1879265089" traitName="Critical Rating Boost 5"/>
+<classTrait minLevel="95" traitId="1879265090" traitName="Critical Rating Boost 6"/>
+<classTrait minLevel="95" traitId="1879152359" traitName="Critical Protection Boost 1"/>
+<classTrait minLevel="95" traitId="1879152361" traitName="Critical Protection Boost 2"/>
+<classTrait minLevel="95" traitId="1879152253" traitName="Physical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152251" traitName="Physical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879152252" traitName="Tactical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152250" traitName="Tactical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879143085" traitName="Mastery Boost 1"/>
+<classTrait minLevel="95" traitId="1879143089" traitName="Mastery Boost 4"/>
+<classTrait minLevel="95" traitId="1879143086" traitName="Mastery Boost 2"/>
+<classTrait minLevel="95" traitId="1879143090" traitName="Critical Protection Boost 5"/>
+<classTrait minLevel="95" traitId="1879358544" traitName="Finesse Boost 1"/>
+<classTrait minLevel="95" traitId="1879358547" traitName="Finesse Boost 2"/>
+<classTrait minLevel="95" traitId="1879358545" traitName="Finesse Boost 3"/>
+<classTrait minLevel="95" traitId="1879358543" traitName="Finesse Boost 4"/>
+<classTrait minLevel="95" traitId="1879358542" traitName="Finesse Boost 5"/>
+<classTrait minLevel="95" traitId="1879358546" traitName="Finesse Boost 6"/>
+<classSkill minLevel="95" skillId="1879073737" skillName="Piercing Attack"/>
+<classSkill minLevel="95" skillId="1879073738" skillName="Tainted Kiss"/>
+<classSkill minLevel="95" skillId="1879073739" skillName="Latent Poison"/>
+<classSkill minLevel="95" skillId="1879073740" skillName="Snaring Web"/>
+<classSkill minLevel="95" skillId="1879073741" skillName="Entangling Web"/>
+<classSkill minLevel="95" skillId="1879073742" skillName="Poison Spray"/>
+<classSkill minLevel="95" skillId="1879073743" skillName="Trapdoor Sanctuary"/>
+<classSkill minLevel="95" skillId="1879072536" skillName="Lie In Wait"/>
+<classSkill minLevel="95" skillId="1879097894" skillName="Web the Earth"/>
+<classSkill minLevel="95" skillId="1879097895" skillName="Smothering Web"/>
+<classSkill minLevel="95" skillId="1879097896" skillName="Hatchlings"/>
+<classSkill minLevel="95" skillId="1879229234" skillName="Envenom"/>
+<classSkill minLevel="95" skillId="1879139737" skillName="Lethal Kiss"/>
+<classSkill minLevel="95" skillId="1879139735" skillName="Mephitic Kiss"/>
+<classSkill minLevel="95" skillId="1879139740" skillName="Paralytic Venom"/>
+<classSkill minLevel="95" skillId="1879139734" skillName="Toxin"/>
+<classSkill minLevel="95" skillId="1879139749" skillName="Shadow's Bite"/>
+<classSkill minLevel="95" skillId="1879139746" skillName="Necrosis"/>
+<classSkill minLevel="95" skillId="1879139747" skillName="Grasping Web"/>
+<classSkill minLevel="95" skillId="1879139736" skillName="Catch Prey"/>
+<classSkill minLevel="95" skillId="1879149601" skillName="Venomous Haze"/>
+<classSkill minLevel="95" skillId="1879224579" skillName="March!"/>
+<classSkill minLevel="95" skillId="1879228582" skillName="Drink Deep"/>
+<classSkill minLevel="95" skillId="1879228612" skillName="Virulent Poison"/>
+<classSkill minLevel="95" skillId="1879072533" skillName="Clinging Webs"/>
+<classSkill minLevel="95" skillId="1879139744" skillName="Feast"/>
+<classSkill minLevel="95" skillId="1879095215" skillName="Troll's Brutality (Ranged)"/>
+<classSkill minLevel="95" skillId="1879095257" skillName="Spider's Venom (Ranged)"/>
+<classSkill minLevel="95" skillId="1879095392" skillName="Wight's Rot (Ranged)"/>
+<classSkill minLevel="95" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+<classSkill minLevel="95" skillId="1879245368" skillName="Toxic Carapace"/>
+<classSkill minLevel="95" skillId="1879451154" skillName="Cleansing Shadows"/>
+<classSkill minLevel="95" skillId="1879516454" skillName="Swallow Light"/>
+</monsterClass>
+<monsterClass id="1879073669" code="126" key="Stalker" name="Stalker" tag="" iconId="1090551245" abbreviation="STK" description="key:620775426:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="4" maxRank="4"/>
+<classVirtue id="1879063893" name="Health" startRank="3" maxRank="3"/>
+<classVirtue id="1879063894" name="Power" startRank="4" maxRank="4"/>
+<classVirtue id="1879063895" name="Armour" startRank="2" maxRank="2"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="5" maxRank="5"/>
+<classVirtue id="1879063897" name="Resistance" startRank="2" maxRank="2"/>
+<classVirtue id="1879136127" name="Health Regeneration" startRank="0" maxRank="4"/>
+<classVirtue id="1879136124" name="Power Regeneration" startRank="0" maxRank="3"/>
+<classVirtue id="1879136125" name="Melee Criticals" startRank="0" maxRank="5"/>
+<classVirtue id="1879136120" name="Tactical Criticals" startRank="0" maxRank="2"/>
+<classVirtue id="1879212225" name="Battlefield Promotion" startRank="0" maxRank="15"/>
+<classVirtue id="1879231342" name="Audacity" startRank="1" maxRank="36"/>
+<classTrait minLevel="95" traitId="1879072489" traitName="Armour Boost"/>
+<classTrait minLevel="95" traitId="1879072490" traitName="Dread Hunter"/>
+<classTrait minLevel="95" traitId="1879072491" traitName="Long Strides"/>
+<classTrait minLevel="95" traitId="1879072492" traitName="Shadow Fang"/>
+<classTrait minLevel="95" traitId="1879072493" traitName="Enhanced Skill: Stealth"/>
+<classTrait minLevel="95" traitId="1879072494" traitName="Enhanced Skill: Sprint"/>
+<classTrait minLevel="95" traitId="1879072495" traitName="The Element of Surprise"/>
+<classTrait minLevel="95" traitId="1879072496" traitName="Enhanced Skill: Rallying Howl"/>
+<classTrait minLevel="95" traitId="1879139367" traitName="Enhanced Skill: Rabid Bite"/>
+<classTrait minLevel="95" traitId="1879139369" traitName="Enhanced Skill: Eye Rake"/>
+<classTrait minLevel="95" traitId="1879072497" traitName="Enhanced Skill: Flayer"/>
+<classTrait minLevel="95" traitId="1879139372" traitName="Enhanced Skill: Sense Prey"/>
+<classTrait minLevel="95" traitId="1879211910" traitName="Enhanced Skill: Disappear"/>
+<classTrait minLevel="95" traitId="1879072505" traitName="Damage for Morale (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091351" traitName="Damage for Morale (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072506" traitName="Damage for Healing (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091352" traitName="Damage for Healing (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072507" traitName="Morale for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091353" traitName="Morale for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072508" traitName="Morale for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091354" traitName="Morale for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072509" traitName="Healing for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091355" traitName="Healing for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072510" traitName="Healing for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091356" traitName="Healing for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072511" traitName="Critical Protection Boost 4"/>
+<classTrait minLevel="95" traitId="1879091359" traitName="Critical Protection Boost 6"/>
+<classTrait minLevel="95" traitId="1879072512" traitName="Tactical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091360" traitName="Tactical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879072513" traitName="Tactical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879091361" traitName="Tactical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879072514" traitName="Physical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091357" traitName="Physical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879072515" traitName="Physical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879091358" traitName="Critical Protection Boost 3"/>
+<classTrait minLevel="95" traitId="1879072516" traitName="Physical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879091362" traitName="Mastery Boost 3"/>
+<classTrait minLevel="95" traitId="1879072517" traitName="Resistance Boost 1"/>
+<classTrait minLevel="95" traitId="1879091366" traitName="Resistance Boost 2"/>
+<classTrait minLevel="95" traitId="1879072518" traitName="Resistance Boost 4"/>
+<classTrait minLevel="95" traitId="1879091363" traitName="Resistance Boost 3"/>
+<classTrait minLevel="95" traitId="1879072519" traitName="Resistance Boost 5"/>
+<classTrait minLevel="95" traitId="1879091364" traitName="Resistance Boost 6"/>
+<classTrait minLevel="95" traitId="1879072520" traitName="Mastery Boost 5"/>
+<classTrait minLevel="95" traitId="1879091365" traitName="Mastery Boost 6"/>
+<classTrait minLevel="95" traitId="1879072521" traitName="Corruption Skill: Shield-breaker"/>
+<classTrait minLevel="95" traitId="1879097846" traitName="Four-legged Foe"/>
+<classTrait minLevel="95" traitId="1879097847" traitName="Pack Mentality"/>
+<classTrait minLevel="95" traitId="1879097848" traitName="Pack Elder"/>
+<classTrait minLevel="95" traitId="1879097849" traitName="Foe of the Light"/>
+<classTrait minLevel="95" traitId="1879097850" traitName="Pack Leader"/>
+<classTrait minLevel="95" traitId="1879097859" traitName="Racial Skill: Pack Hunters"/>
+<classTrait minLevel="95" traitId="1879097860" traitName="Racial Skill: Howl of Unnerving"/>
+<classTrait minLevel="95" traitId="1879072499" traitName="Ruins-howler Appearance"/>
+<classTrait minLevel="95" traitId="1879072500" traitName="Bone-chewer Appearance"/>
+<classTrait minLevel="95" traitId="1879072501" traitName="Corpse-ravager Appearance"/>
+<classTrait minLevel="95" traitId="1879072502" traitName="War-beast Appearance"/>
+<classTrait minLevel="95" traitId="1879072503" traitName="Den-leader Appearance"/>
+<classTrait minLevel="95" traitId="1879072504" traitName="Prowler Appearance"/>
+<classTrait minLevel="95" traitId="1879084097" traitName="Blood-seeker Appearance"/>
+<classTrait minLevel="95" traitId="1879103460" traitName="Red-fang Appearance"/>
+<classTrait minLevel="95" traitId="1879103461" traitName="Scavenger Appearance"/>
+<classTrait minLevel="95" traitId="1879103454" traitName="Dire Warg Appearance"/>
+<classTrait minLevel="95" traitId="1879103455" traitName="Twilight-howler Appearance"/>
+<classTrait minLevel="95" traitId="1879103456" traitName="Pack-lord Appearance"/>
+<classTrait minLevel="95" traitId="1879103457" traitName="Man-flayer Appearance"/>
+<classTrait minLevel="95" traitId="1879103458" traitName="Mountain-prowler Appearance"/>
+<classTrait minLevel="95" traitId="1879103459" traitName="Raging Dire Warg Appearance"/>
+<classTrait minLevel="95" traitId="1879265093" traitName="Critical Rating Boost 1"/>
+<classTrait minLevel="95" traitId="1879265091" traitName="Critical Rating Boost 2"/>
+<classTrait minLevel="95" traitId="1879265092" traitName="Critical Rating Boost 3"/>
+<classTrait minLevel="95" traitId="1879265094" traitName="Critical Rating Boost 4"/>
+<classTrait minLevel="95" traitId="1879265089" traitName="Critical Rating Boost 5"/>
+<classTrait minLevel="95" traitId="1879265090" traitName="Critical Rating Boost 6"/>
+<classTrait minLevel="95" traitId="1879152359" traitName="Critical Protection Boost 1"/>
+<classTrait minLevel="95" traitId="1879152361" traitName="Critical Protection Boost 2"/>
+<classTrait minLevel="95" traitId="1879152253" traitName="Physical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152251" traitName="Physical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879152252" traitName="Tactical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152250" traitName="Tactical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879143085" traitName="Mastery Boost 1"/>
+<classTrait minLevel="95" traitId="1879143089" traitName="Mastery Boost 4"/>
+<classTrait minLevel="95" traitId="1879143086" traitName="Mastery Boost 2"/>
+<classTrait minLevel="95" traitId="1879143090" traitName="Critical Protection Boost 5"/>
+<classTrait minLevel="95" traitId="1879358544" traitName="Finesse Boost 1"/>
+<classTrait minLevel="95" traitId="1879358547" traitName="Finesse Boost 2"/>
+<classTrait minLevel="95" traitId="1879358545" traitName="Finesse Boost 3"/>
+<classTrait minLevel="95" traitId="1879358543" traitName="Finesse Boost 4"/>
+<classTrait minLevel="95" traitId="1879358542" traitName="Finesse Boost 5"/>
+<classTrait minLevel="95" traitId="1879358546" traitName="Finesse Boost 6"/>
+<classSkill minLevel="95" skillId="1879230252" skillName="Shadow"/>
+<classSkill minLevel="95" skillId="1879072565" skillName="Stealth"/>
+<classSkill minLevel="95" skillId="1879073750" skillName="Claws"/>
+<classSkill minLevel="95" skillId="1879073751" skillName="Pounce"/>
+<classSkill minLevel="95" skillId="1879073752" skillName="Savage Fangs"/>
+<classSkill minLevel="95" skillId="1879073753" skillName="Crippling Bite"/>
+<classSkill minLevel="95" skillId="1879073754" skillName="Throat Rip"/>
+<classSkill minLevel="95" skillId="1879073755" skillName="Sprint"/>
+<classSkill minLevel="95" skillId="1879072563" skillName="Disappear"/>
+<classSkill minLevel="95" skillId="1879097878" skillName="Tendon Shred"/>
+<classSkill minLevel="95" skillId="1879097879" skillName="Eye Rake"/>
+<classSkill minLevel="95" skillId="1879139043" skillName="Maul"/>
+<classSkill minLevel="95" skillId="1879139051" skillName="Swipe"/>
+<classSkill minLevel="95" skillId="1879139040" skillName="Rend Flesh"/>
+<classSkill minLevel="95" skillId="1879139047" skillName="Rabid Bite"/>
+<classSkill minLevel="95" skillId="1879139038" skillName="Frenzy"/>
+<classSkill minLevel="95" skillId="1879139053" skillName="Scratch and Snip"/>
+<classSkill minLevel="95" skillId="1879139048" skillName="Flea Bitten"/>
+<classSkill minLevel="95" skillId="1879139035" skillName="Sense Prey"/>
+<classSkill minLevel="95" skillId="1879139049" skillName="Snap"/>
+<classSkill minLevel="95" skillId="1879139050" skillName="Dire Howl"/>
+<classSkill minLevel="95" skillId="1879224579" skillName="March!"/>
+<classSkill minLevel="95" skillId="1879243696" skillName="Piercing Claws"/>
+<classSkill minLevel="95" skillId="1879072557" skillName="Rallying Howl"/>
+<classSkill minLevel="95" skillId="1879139039" skillName="Flayer"/>
+<classSkill minLevel="95" skillId="1879516451" skillName="Slink Away"/>
+<classSkill minLevel="95" skillId="1879094735" skillName="Troll's Brutality (Melee)"/>
+<classSkill minLevel="95" skillId="1879095209" skillName="Spider's Venom (Melee)"/>
+<classSkill minLevel="95" skillId="1879095383" skillName="Wight's Rot (Melee)"/>
+<classSkill minLevel="95" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+<classSkill minLevel="95" skillId="1879516451" skillName="Slink Away"/>
+</monsterClass>
+<monsterClass id="1879506835" code="217" key="Sorceress" name="Sorceress" tag="" iconId="1093032115" abbreviation="SOR" description="key:621107447:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="3" maxRank="3"/>
+<classVirtue id="1879063893" name="Health" startRank="3" maxRank="3"/>
+<classVirtue id="1879063894" name="Power" startRank="5" maxRank="5"/>
+<classVirtue id="1879063895" name="Armour" startRank="4" maxRank="4"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="1" maxRank="2"/>
+<classVirtue id="1879063897" name="Resistance" startRank="3" maxRank="3"/>
+<classVirtue id="1879136127" name="Health Regeneration" startRank="0" maxRank="3"/>
+<classVirtue id="1879136124" name="Power Regeneration" startRank="0" maxRank="4"/>
+<classVirtue id="1879136125" name="Melee Criticals" startRank="0" maxRank="2"/>
+<classVirtue id="1879136120" name="Tactical Criticals" startRank="0" maxRank="5"/>
+<classVirtue id="1879212225" name="Battlefield Promotion" startRank="0" maxRank="15"/>
+<classVirtue id="1879231342" name="Audacity" startRank="1" maxRank="36"/>
+<classTrait minLevel="95" traitId="1879506763" traitName="Durability of Angmar"/>
+<classTrait minLevel="95" traitId="1879506770" traitName="Knowledge of the Elements"/>
+<classTrait minLevel="95" traitId="1879506764" traitName="Veteran of the Long War"/>
+<classTrait minLevel="95" traitId="1879506767" traitName="Legacy of Discord"/>
+<classTrait minLevel="95" traitId="1879506768" traitName="Acid Mastery I"/>
+<classTrait minLevel="95" traitId="1879506775" traitName="Dread Summons"/>
+<classTrait minLevel="95" traitId="1879506774" traitName="Wicked Mind"/>
+<classTrait minLevel="95" traitId="1879506773" traitName="Pinnacle of Wrath"/>
+<classTrait minLevel="95" traitId="1879506772" traitName="Vile Tongue"/>
+<classTrait minLevel="95" traitId="1879506771" traitName="Fire Mastery I"/>
+<classTrait minLevel="95" traitId="1879506766" traitName="Frost Mastery I"/>
+<classTrait minLevel="95" traitId="1879506769" traitName="Chilling Defence"/>
+<classTrait minLevel="95" traitId="1879506761" traitName="Shadow Mastery I"/>
+<classTrait minLevel="95" traitId="1879072505" traitName="Damage for Morale (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091351" traitName="Damage for Morale (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072506" traitName="Damage for Healing (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091352" traitName="Damage for Healing (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072507" traitName="Morale for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091353" traitName="Morale for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072508" traitName="Morale for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091354" traitName="Morale for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072509" traitName="Healing for Damage (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091355" traitName="Healing for Damage (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072510" traitName="Healing for Power (Rank 1)"/>
+<classTrait minLevel="95" traitId="1879091356" traitName="Healing for Power (Rank 2)"/>
+<classTrait minLevel="95" traitId="1879072511" traitName="Critical Protection Boost 4"/>
+<classTrait minLevel="95" traitId="1879091359" traitName="Critical Protection Boost 6"/>
+<classTrait minLevel="95" traitId="1879072512" traitName="Tactical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091360" traitName="Tactical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879072513" traitName="Tactical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879091361" traitName="Tactical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879072514" traitName="Physical Mitigation Boost 1"/>
+<classTrait minLevel="95" traitId="1879091357" traitName="Physical Mitigation Boost 6"/>
+<classTrait minLevel="95" traitId="1879072515" traitName="Physical Mitigation Boost 5"/>
+<classTrait minLevel="95" traitId="1879091358" traitName="Critical Protection Boost 3"/>
+<classTrait minLevel="95" traitId="1879072516" traitName="Physical Mitigation Boost 4"/>
+<classTrait minLevel="95" traitId="1879091362" traitName="Mastery Boost 3"/>
+<classTrait minLevel="95" traitId="1879072517" traitName="Resistance Boost 1"/>
+<classTrait minLevel="95" traitId="1879091366" traitName="Resistance Boost 2"/>
+<classTrait minLevel="95" traitId="1879072518" traitName="Resistance Boost 4"/>
+<classTrait minLevel="95" traitId="1879091363" traitName="Resistance Boost 3"/>
+<classTrait minLevel="95" traitId="1879072519" traitName="Resistance Boost 5"/>
+<classTrait minLevel="95" traitId="1879091364" traitName="Resistance Boost 6"/>
+<classTrait minLevel="95" traitId="1879072520" traitName="Mastery Boost 5"/>
+<classTrait minLevel="95" traitId="1879091365" traitName="Mastery Boost 6"/>
+<classTrait minLevel="95" traitId="1879072521" traitName="Corruption Skill: Shield-breaker"/>
+<classTrait minLevel="95" traitId="1879506836" traitName="Racial Skill: Body of Iron"/>
+<classTrait minLevel="95" traitId="1879506837" traitName="Racial Skill: Legacy of the Witch-king"/>
+<classTrait minLevel="95" traitId="1879506765" traitName="Wickedness Incarnate"/>
+<classTrait minLevel="95" traitId="1879506762" traitName="Iron's Legacy"/>
+<classTrait minLevel="95" traitId="1879506778" traitName="Eldest Warriors"/>
+<classTrait minLevel="95" traitId="1879506777" traitName="True Servants"/>
+<classTrait minLevel="95" traitId="1879506776" traitName="First Among All"/>
+<classTrait minLevel="95" traitId="1879506994" traitName="Grey Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879506997" traitName="Blue Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879506998" traitName="Yellow Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879506999" traitName="Green Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879507014" traitName="The Temptress Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879507013" traitName="The Soothsayer Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879507010" traitName="The Wind-weaver Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879506977" traitName="Lesser Shape-changer Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879507018" traitName="Lesser Shape-changer in White Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879507016" traitName="Lesser Shape-changer in Black Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879506973" traitName="Greater Shape-changer Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879506983" traitName="Greater Shape-changer in Black Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879507020" traitName="Greater Shape-changer in White Sorceress Appearance"/>
+<classTrait minLevel="95" traitId="1879506993" traitName="High Cultist Appearance"/>
+<classTrait minLevel="95" traitId="1879506991" traitName="High Cultist in White Appearance"/>
+<classTrait minLevel="95" traitId="1879265093" traitName="Critical Rating Boost 1"/>
+<classTrait minLevel="95" traitId="1879265091" traitName="Critical Rating Boost 2"/>
+<classTrait minLevel="95" traitId="1879265092" traitName="Critical Rating Boost 3"/>
+<classTrait minLevel="95" traitId="1879265094" traitName="Critical Rating Boost 4"/>
+<classTrait minLevel="95" traitId="1879265089" traitName="Critical Rating Boost 5"/>
+<classTrait minLevel="95" traitId="1879265090" traitName="Critical Rating Boost 6"/>
+<classTrait minLevel="95" traitId="1879152359" traitName="Critical Protection Boost 1"/>
+<classTrait minLevel="95" traitId="1879152361" traitName="Critical Protection Boost 2"/>
+<classTrait minLevel="95" traitId="1879152253" traitName="Physical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152251" traitName="Physical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879152252" traitName="Tactical Mitigation Boost 2"/>
+<classTrait minLevel="95" traitId="1879152250" traitName="Tactical Mitigation Boost 3"/>
+<classTrait minLevel="95" traitId="1879143085" traitName="Mastery Boost 1"/>
+<classTrait minLevel="95" traitId="1879143089" traitName="Mastery Boost 4"/>
+<classTrait minLevel="95" traitId="1879143086" traitName="Mastery Boost 2"/>
+<classTrait minLevel="95" traitId="1879143090" traitName="Critical Protection Boost 5"/>
+<classTrait minLevel="95" traitId="1879326800" traitName="Orc Defiler Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326819" traitName="Corrupt Long Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326818" traitName="Corrupt Spiked Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326812" traitName="Corrupt Adorned Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326815" traitName="Angmarim Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879326823" traitName="Natural Staff Appearance"/>
+<classTrait minLevel="95" traitId="1879528714" traitName="Acid Mastery II"/>
+<classTrait minLevel="95" traitId="1879528712" traitName="Fire Mastery II"/>
+<classTrait minLevel="95" traitId="1879528702" traitName="Frost Mastery II"/>
+<classTrait minLevel="95" traitId="1879528700" traitName="Shadow Mastery II"/>
+<classTrait minLevel="95" traitId="1879358544" traitName="Finesse Boost 1"/>
+<classTrait minLevel="95" traitId="1879358547" traitName="Finesse Boost 2"/>
+<classTrait minLevel="95" traitId="1879358545" traitName="Finesse Boost 3"/>
+<classTrait minLevel="95" traitId="1879358543" traitName="Finesse Boost 4"/>
+<classTrait minLevel="95" traitId="1879358542" traitName="Finesse Boost 5"/>
+<classTrait minLevel="95" traitId="1879358546" traitName="Finesse Boost 6"/>
+<classSkill minLevel="95" skillId="1879507792" skillName="Devotion: Acid Pestilence"/>
+<classSkill minLevel="95" skillId="1879506654" skillName="Devotion: Balefire"/>
+<classSkill minLevel="95" skillId="1879506535" skillName="Devotion: Gelid Wind"/>
+<classSkill minLevel="95" skillId="1879506664" skillName="Devotion: Umbral Pall"/>
+<classSkill minLevel="95" skillId="1879506598" skillName="Sorcerous Study I"/>
+<classSkill minLevel="95" skillId="1879506627" skillName="Sorcerous Study II"/>
+<classSkill minLevel="95" skillId="1879506556" skillName="Sorcerous Study III"/>
+<classSkill minLevel="95" skillId="1879506618" skillName="Wisp of Acid"/>
+<classSkill minLevel="95" skillId="1879506536" skillName="Acid-spike"/>
+<classSkill minLevel="95" skillId="1879506589" skillName="Acid Breath"/>
+<classSkill minLevel="95" skillId="1879506580" skillName="Acid Spout"/>
+<classSkill minLevel="95" skillId="1879509912" skillName="Acidic Sheath"/>
+<classSkill minLevel="95" skillId="1879506532" skillName="Dissolve"/>
+<classSkill minLevel="95" skillId="1879506663" skillName="Insight of Iron"/>
+<classSkill minLevel="95" skillId="1879506552" skillName="Accursed Knowledge"/>
+<classSkill minLevel="95" skillId="1879224579" skillName="March!"/>
+<classSkill minLevel="95" skillId="1879526910" skillName="Steal Breath"/>
+<classSkill minLevel="95" skillId="1879528568" skillName="Acid Synergy"/>
+<classSkill minLevel="95" skillId="1879506742" skillName="Unyielding Resolve"/>
+<classSkill minLevel="95" skillId="1879506642" skillName="Torrent of Flame"/>
+<classSkill minLevel="95" skillId="1879506653" skillName="Channel the Worm"/>
+<classSkill minLevel="95" skillId="1879506646" skillName="Gift of the Rime"/>
+<classSkill minLevel="95" skillId="1879506639" skillName="Ice Tomb"/>
+<classSkill minLevel="95" skillId="1879506635" skillName="Banish the Light"/>
+<classSkill minLevel="95" skillId="1879506569" skillName="Shadowy Simulacrum"/>
+<classSkill minLevel="95" skillId="1879528398" skillName="Clear Mind"/>
+<classSkill minLevel="95" skillId="1879094735" skillName="Troll's Brutality (Melee)"/>
+<classSkill minLevel="95" skillId="1879095209" skillName="Spider's Venom (Melee)"/>
+<classSkill minLevel="95" skillId="1879095383" skillName="Wight's Rot (Melee)"/>
+<classSkill minLevel="95" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+</monsterClass>
 </classes>

@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202647" name="TraitNature">
-    <entry code="1" name="key:620757023:27096051"/>
-    <entry code="2" name="key:620757023:100591897"/>
-    <entry code="3" name="key:620757023:171643123"/>
-    <entry code="4" name="key:620757023:94680085"/>
-    <entry code="5" name="key:620757023:62375934"/>
-    <entry code="8" name="key:620757023:50102373"/>
-    <entry code="9" name="key:620757023:264813580"/>
-    <entry code="10" name="key:620757023:115128572"/>
-    <entry code="11" name="key:620757023:37663767"/>
-    <entry code="13" name="key:620757023:94653088"/>
-    <entry code="14" name="key:620757023:164771956"/>
-    <entry code="16" name="key:620757023:119242611"/>
-    <entry code="17" name="key:620757023:39595365"/>
-    <entry code="19" name="key:620757023:47722882"/>
-    <entry code="20" name="key:620757023:84479298"/>
-    <entry code="21" name="key:620757023:4937202"/>
-    <entry code="22" name="key:620757023:257263932"/>
-    <entry code="23" name="key:620757023:260792446"/>
-    <entry code="24" name="key:620757023:86830466"/>
-    <entry code="25" name="key:620757023:124355982"/>
-    <entry code="26" name="key:620757023:43472126"/>
-    <entry code="27" name="key:620757023:176660270"/>
-    <entry code="28" name="key:620757023:146698014"/>
-    <entry code="29" name="BigBattles"/>
-    <entry code="30" name="key:620757023:252641635"/>
-    <entry code="31" name="key:620757023:191398007"/>
-    <entry code="32" name="key:620757023:43528642"/>
-    <entry code="33" name="key:620757023:58287362"/>
-    <entry code="34" name="key:620757023:172537813"/>
-    <entry code="36" name="key:620757023:264999458"/>
-    <entry code="37" name="key:620757023:265699602"/>
-    <entry code="38" name="key:620757023:187615762"/>
-    <entry code="39" name="key:620757023:229063346"/>
+<entry code="1" name="key:620757023:27096051"/>
+<entry code="2" name="key:620757023:100591897"/>
+<entry code="3" name="key:620757023:171643123"/>
+<entry code="4" name="key:620757023:94680085"/>
+<entry code="5" name="key:620757023:62375934"/>
+<entry code="8" name="key:620757023:50102373"/>
+<entry code="9" name="key:620757023:264813580"/>
+<entry code="10" name="key:620757023:115128572"/>
+<entry code="11" name="key:620757023:37663767"/>
+<entry code="13" name="key:620757023:94653088"/>
+<entry code="14" name="key:620757023:164771956"/>
+<entry code="16" name="key:620757023:119242611"/>
+<entry code="17" name="key:620757023:39595365"/>
+<entry code="19" name="key:620757023:47722882"/>
+<entry code="20" name="key:620757023:84479298"/>
+<entry code="21" name="key:620757023:4937202"/>
+<entry code="22" name="key:620757023:257263932"/>
+<entry code="23" name="key:620757023:260792446"/>
+<entry code="24" name="key:620757023:86830466"/>
+<entry code="25" name="key:620757023:124355982"/>
+<entry code="26" name="key:620757023:43472126"/>
+<entry code="27" name="key:620757023:176660270"/>
+<entry code="28" name="key:620757023:146698014"/>
+<entry code="29" name="BigBattles"/>
+<entry code="30" name="key:620757023:252641635"/>
+<entry code="31" name="key:620757023:191398007"/>
+<entry code="32" name="key:620757023:43528642"/>
+<entry code="33" name="key:620757023:58287362"/>
+<entry code="34" name="key:620757023:172537813"/>
+<entry code="36" name="key:620757023:264999458"/>
+<entry code="37" name="key:620757023:265699602"/>
+<entry code="38" name="key:620757023:187615762"/>
+<entry code="39" name="key:620757023:229063346"/>
 </enum>

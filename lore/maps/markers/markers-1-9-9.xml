@@ -4010,10 +4010,10 @@
 <marker id="429035556" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.523613" latitude="-1.5494726"/>
 <marker id="429035557" label="Duvárdain Blood-sworn" category="71" did="1879112937" parentZoneId="1879063964" longitude="-29.533573" latitude="-1.5486035"/>
 <marker id="429035558" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.533573" latitude="-1.5486035"/>
-<marker id="429035559" label="Ongbûrz Warrior" category="71" did="1879112939" parentZoneId="1879063964" longitude="-29.543535" latitude="-1.5477344"/>
-<marker id="429035560" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.543535" latitude="-1.5477344"/>
-<marker id="429035561" label="Ongbûrz Defiler" category="71" did="1879112941" parentZoneId="1879063964" longitude="-29.543535" latitude="-1.5477344"/>
-<marker id="429035562" label="Ongbûrz Skirmisher" category="71" did="1879112942" parentZoneId="1879063964" longitude="-29.543535" latitude="-1.5477344"/>
+<marker id="429035559" label="Ongbúrz Warrior" category="71" did="1879112939" parentZoneId="1879063964" longitude="-29.543535" latitude="-1.5477344"/>
+<marker id="429035560" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.543535" latitude="-1.5477344"/>
+<marker id="429035561" label="Ongbúrz Defiler" category="71" did="1879112941" parentZoneId="1879063964" longitude="-29.543535" latitude="-1.5477344"/>
+<marker id="429035562" label="Ongbúrz Skirmisher" category="71" did="1879112942" parentZoneId="1879063964" longitude="-29.543535" latitude="-1.5477344"/>
 <marker id="429035563" label="Bogbereth Egg-tender" category="71" did="1879112944" parentZoneId="1879063964" longitude="-29.542665" latitude="-1.5377734"/>
 <marker id="429035564" label="Bogbereth Broodling" category="71" did="1879112945" parentZoneId="1879063964" longitude="-29.542665" latitude="-1.5377734"/>
 <marker id="429035565" label="Enslaved Troll" category="71" did="1879112946" parentZoneId="1879063964" longitude="-29.541796" latitude="-1.5278125"/>
@@ -4075,7 +4075,7 @@
 <marker id="429035621" label="Bloated Brimstone-leech" category="71" did="1879082027" parentZoneId="1879063964" longitude="-29.263046" latitude="-1.6438378"/>
 <marker id="429035622" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.650291" latitude="-1.5155761"/>
 <marker id="429035623" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.650291" latitude="-1.5155761"/>
-<marker id="429035624" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.650291" latitude="-1.5155761"/>
+<marker id="429035624" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.650291" latitude="-1.5155761"/>
 <marker id="429035625" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.650291" latitude="-1.5155761"/>
 <marker id="429035626" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.650291" latitude="-1.5155761"/>
 <marker id="429035627" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.650291" latitude="-1.5155761"/>
@@ -4086,35 +4086,35 @@
 <marker id="429035632" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.649559" latitude="-1.4722265"/>
 <marker id="429035633" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.649559" latitude="-1.4722265"/>
 <marker id="429035634" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.649559" latitude="-1.4722265"/>
-<marker id="429035635" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.649559" latitude="-1.4722265"/>
+<marker id="429035635" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.649559" latitude="-1.4722265"/>
 <marker id="429035636" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.647617" latitude="-1.4938085"/>
 <marker id="429035637" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.647617" latitude="-1.4938085"/>
 <marker id="429035638" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.647617" latitude="-1.4938085"/>
 <marker id="429035639" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.647617" latitude="-1.4938085"/>
 <marker id="429035640" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.647617" latitude="-1.4938085"/>
 <marker id="429035641" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.647617" latitude="-1.4938085"/>
-<marker id="429035642" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.647617" latitude="-1.4938085"/>
+<marker id="429035642" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.647617" latitude="-1.4938085"/>
 <marker id="429035643" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.518192" latitude="-1.7858398"/>
 <marker id="429035644" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.518192" latitude="-1.7858398"/>
 <marker id="429035645" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.518192" latitude="-1.7858398"/>
 <marker id="429035646" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.518192" latitude="-1.7858398"/>
 <marker id="429035647" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.518192" latitude="-1.7858398"/>
 <marker id="429035648" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.518192" latitude="-1.7858398"/>
-<marker id="429035649" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.518192" latitude="-1.7858398"/>
+<marker id="429035649" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.518192" latitude="-1.7858398"/>
 <marker id="429035650" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.518349" latitude="-1.8021581"/>
 <marker id="429035651" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.518349" latitude="-1.8021581"/>
 <marker id="429035652" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.518349" latitude="-1.8021581"/>
 <marker id="429035653" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.518349" latitude="-1.8021581"/>
 <marker id="429035654" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.518349" latitude="-1.8021581"/>
 <marker id="429035655" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.518349" latitude="-1.8021581"/>
-<marker id="429035656" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.518349" latitude="-1.8021581"/>
+<marker id="429035656" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.518349" latitude="-1.8021581"/>
 <marker id="429035657" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.518017" latitude="-1.821582"/>
 <marker id="429035658" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.518017" latitude="-1.821582"/>
 <marker id="429035659" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.518017" latitude="-1.821582"/>
 <marker id="429035660" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.518017" latitude="-1.821582"/>
 <marker id="429035661" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.518017" latitude="-1.821582"/>
 <marker id="429035662" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.518017" latitude="-1.821582"/>
-<marker id="429035663" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.518017" latitude="-1.821582"/>
+<marker id="429035663" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.518017" latitude="-1.821582"/>
 <marker id="429039616" label="Rammas Deluon" category="43" did="1879063716" parentZoneId="1879063964" longitude="-29.773817" latitude="-0.6364746"/>
 <marker id="429039618" label="Sorceress of Doubt" category="43" did="1879112737" parentZoneId="1879063964" longitude="-29.767363" latitude="-0.9725879"/>
 <marker id="429039622" label="Rammas Deluon" category="74" did="1879063716" parentZoneId="1879063964" longitude="-29.710234" latitude="-1.1250196"/>
@@ -4162,10 +4162,10 @@
 <marker id="429039667" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.546083" latitude="-0.8668262"/>
 <marker id="429039668" label="Duvárdain Blood-sworn" category="71" did="1879112937" parentZoneId="1879063964" longitude="-29.556044" latitude="-0.865957"/>
 <marker id="429039669" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.556044" latitude="-0.865957"/>
-<marker id="429039670" label="Ongbûrz Warrior" category="71" did="1879112939" parentZoneId="1879063964" longitude="-29.566006" latitude="-0.86508787"/>
-<marker id="429039671" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.566006" latitude="-0.86508787"/>
-<marker id="429039672" label="Ongbûrz Defiler" category="71" did="1879112941" parentZoneId="1879063964" longitude="-29.566006" latitude="-0.86508787"/>
-<marker id="429039673" label="Ongbûrz Skirmisher" category="71" did="1879112942" parentZoneId="1879063964" longitude="-29.566006" latitude="-0.86508787"/>
+<marker id="429039670" label="Ongbúrz Warrior" category="71" did="1879112939" parentZoneId="1879063964" longitude="-29.566006" latitude="-0.86508787"/>
+<marker id="429039671" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.566006" latitude="-0.86508787"/>
+<marker id="429039672" label="Ongbúrz Defiler" category="71" did="1879112941" parentZoneId="1879063964" longitude="-29.566006" latitude="-0.86508787"/>
+<marker id="429039673" label="Ongbúrz Skirmisher" category="71" did="1879112942" parentZoneId="1879063964" longitude="-29.566006" latitude="-0.86508787"/>
 <marker id="429039674" label="Bogbereth Egg-tender" category="71" did="1879112944" parentZoneId="1879063964" longitude="-29.565136" latitude="-0.8551269"/>
 <marker id="429039675" label="Bogbereth Broodling" category="71" did="1879112945" parentZoneId="1879063964" longitude="-29.565136" latitude="-0.8551269"/>
 <marker id="429039676" label="Enslaved Troll" category="71" did="1879112946" parentZoneId="1879063964" longitude="-29.564266" latitude="-0.84516597"/>
@@ -4211,7 +4211,7 @@
 <marker id="429039716" label="Bloated Brimstone-leech" category="71" did="1879082027" parentZoneId="1879063964" longitude="-29.831844" latitude="-1.019121"/>
 <marker id="429039717" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.767275" latitude="-0.7838574"/>
 <marker id="429039718" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.767275" latitude="-0.7838574"/>
-<marker id="429039719" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.767275" latitude="-0.7838574"/>
+<marker id="429039719" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.767275" latitude="-0.7838574"/>
 <marker id="429039720" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.767275" latitude="-0.7838574"/>
 <marker id="429039721" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.767275" latitude="-0.7838574"/>
 <marker id="429039722" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.767275" latitude="-0.7838574"/>
@@ -4222,35 +4222,35 @@
 <marker id="429039727" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.68832" latitude="-1.0262207"/>
 <marker id="429039728" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.68832" latitude="-1.0262207"/>
 <marker id="429039729" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.68832" latitude="-1.0262207"/>
-<marker id="429039730" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.68832" latitude="-1.0262207"/>
+<marker id="429039730" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.68832" latitude="-1.0262207"/>
 <marker id="429039731" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.684355" latitude="-1.0821093"/>
 <marker id="429039732" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.684355" latitude="-1.0821093"/>
 <marker id="429039733" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.684355" latitude="-1.0821093"/>
 <marker id="429039734" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.684355" latitude="-1.0821093"/>
 <marker id="429039735" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.684355" latitude="-1.0821093"/>
 <marker id="429039736" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.684355" latitude="-1.0821093"/>
-<marker id="429039737" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.684355" latitude="-1.0821093"/>
+<marker id="429039737" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.684355" latitude="-1.0821093"/>
 <marker id="429039738" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.770205" latitude="-0.7311035"/>
 <marker id="429039739" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.770205" latitude="-0.7311035"/>
 <marker id="429039740" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.770205" latitude="-0.7311035"/>
 <marker id="429039741" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.770205" latitude="-0.7311035"/>
 <marker id="429039742" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.770205" latitude="-0.7311035"/>
 <marker id="429039743" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.770205" latitude="-0.7311035"/>
-<marker id="429039744" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.770205" latitude="-0.7311035"/>
+<marker id="429039744" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.770205" latitude="-0.7311035"/>
 <marker id="429039745" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.687597" latitude="-1.0519922"/>
 <marker id="429039746" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.687597" latitude="-1.0519922"/>
 <marker id="429039747" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.687597" latitude="-1.0519922"/>
 <marker id="429039748" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.687597" latitude="-1.0519922"/>
 <marker id="429039749" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.687597" latitude="-1.0519922"/>
 <marker id="429039750" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.687597" latitude="-1.0519922"/>
-<marker id="429039751" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.687597" latitude="-1.0519922"/>
+<marker id="429039751" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.687597" latitude="-1.0519922"/>
 <marker id="429039752" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.766045" latitude="-0.7604297"/>
 <marker id="429039753" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.766045" latitude="-0.7604297"/>
 <marker id="429039754" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.766045" latitude="-0.7604297"/>
 <marker id="429039755" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.766045" latitude="-0.7604297"/>
 <marker id="429039756" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.766045" latitude="-0.7604297"/>
 <marker id="429039757" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.766045" latitude="-0.7604297"/>
-<marker id="429039758" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.766045" latitude="-0.7604297"/>
+<marker id="429039758" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.766045" latitude="-0.7604297"/>
 <marker id="429043712" label="Sorceress of Terror" category="43" did="1879112739" parentZoneId="1879063964" longitude="-29.620605" latitude="0.19661133"/>
 <marker id="429043714" label="Rammas Deluon" category="74" did="1879063716" parentZoneId="1879063964" longitude="-29.708916" latitude="-0.14384766"/>
 <marker id="429043715" label="Rammas Deluon" category="74" did="1879063716" parentZoneId="1879063964" longitude="-29.441795" latitude="0.32331055"/>
@@ -4285,10 +4285,10 @@
 <marker id="429043746" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.65247" latitude="-0.030986328"/>
 <marker id="429043747" label="Duvárdain Blood-sworn" category="71" did="1879112937" parentZoneId="1879063964" longitude="-29.662432" latitude="-0.030117188"/>
 <marker id="429043748" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.662432" latitude="-0.030117188"/>
-<marker id="429043749" label="Ongbûrz Warrior" category="71" did="1879112939" parentZoneId="1879063964" longitude="-29.672392" latitude="-0.02923828"/>
-<marker id="429043750" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.672392" latitude="-0.02923828"/>
-<marker id="429043751" label="Ongbûrz Defiler" category="71" did="1879112941" parentZoneId="1879063964" longitude="-29.672392" latitude="-0.02923828"/>
-<marker id="429043752" label="Ongbûrz Skirmisher" category="71" did="1879112942" parentZoneId="1879063964" longitude="-29.672392" latitude="-0.02923828"/>
+<marker id="429043749" label="Ongbúrz Warrior" category="71" did="1879112939" parentZoneId="1879063964" longitude="-29.672392" latitude="-0.02923828"/>
+<marker id="429043750" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.672392" latitude="-0.02923828"/>
+<marker id="429043751" label="Ongbúrz Defiler" category="71" did="1879112941" parentZoneId="1879063964" longitude="-29.672392" latitude="-0.02923828"/>
+<marker id="429043752" label="Ongbúrz Skirmisher" category="71" did="1879112942" parentZoneId="1879063964" longitude="-29.672392" latitude="-0.02923828"/>
 <marker id="429043753" label="Bogbereth Egg-tender" category="71" did="1879112944" parentZoneId="1879063964" longitude="-29.671522" latitude="-0.019277344"/>
 <marker id="429043754" label="Bogbereth Broodling" category="71" did="1879112945" parentZoneId="1879063964" longitude="-29.671522" latitude="-0.019277344"/>
 <marker id="429043755" label="Enslaved Troll" category="71" did="1879112946" parentZoneId="1879063964" longitude="-29.670654" latitude="-0.009316406"/>
@@ -4346,38 +4346,38 @@
 <marker id="429043807" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.77833" latitude="0.077958986"/>
 <marker id="429043808" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.77833" latitude="0.077958986"/>
 <marker id="429043809" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.77833" latitude="0.077958986"/>
-<marker id="429043810" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.77833" latitude="0.077958986"/>
+<marker id="429043810" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.77833" latitude="0.077958986"/>
 <marker id="429043811" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.635" latitude="-0.26507813"/>
 <marker id="429043812" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.635" latitude="-0.26507813"/>
 <marker id="429043813" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.635" latitude="-0.26507813"/>
 <marker id="429043814" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.635" latitude="-0.26507813"/>
 <marker id="429043815" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.635" latitude="-0.26507813"/>
 <marker id="429043816" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.635" latitude="-0.26507813"/>
-<marker id="429043817" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.635" latitude="-0.26507813"/>
+<marker id="429043817" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.635" latitude="-0.26507813"/>
 <marker id="429043818" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.772333" latitude="0.108486325"/>
 <marker id="429043819" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.772333" latitude="0.108486325"/>
 <marker id="429043820" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.772333" latitude="0.108486325"/>
 <marker id="429043821" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.772333" latitude="0.108486325"/>
 <marker id="429043822" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.772333" latitude="0.108486325"/>
 <marker id="429043823" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.772333" latitude="0.108486325"/>
-<marker id="429043824" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.772333" latitude="0.108486325"/>
+<marker id="429043824" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.772333" latitude="0.108486325"/>
 <marker id="429043825" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.634325" latitude="-0.29377928"/>
 <marker id="429043826" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.634325" latitude="-0.29377928"/>
 <marker id="429043827" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.634325" latitude="-0.29377928"/>
 <marker id="429043828" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.634325" latitude="-0.29377928"/>
 <marker id="429043829" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.634325" latitude="-0.29377928"/>
 <marker id="429043830" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.634325" latitude="-0.29377928"/>
-<marker id="429043831" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.634325" latitude="-0.29377928"/>
+<marker id="429043831" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.634325" latitude="-0.29377928"/>
 <marker id="429043832" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.639198" latitude="-0.23469727"/>
 <marker id="429043833" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.639198" latitude="-0.23469727"/>
 <marker id="429043834" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.639198" latitude="-0.23469727"/>
 <marker id="429043835" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.639198" latitude="-0.23469727"/>
 <marker id="429043836" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.639198" latitude="-0.23469727"/>
 <marker id="429043837" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.639198" latitude="-0.23469727"/>
-<marker id="429043838" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.639198" latitude="-0.23469727"/>
+<marker id="429043838" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.639198" latitude="-0.23469727"/>
 <marker id="429043839" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.766611" latitude="0.042304687"/>
 <marker id="429043840" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.766611" latitude="0.042304687"/>
-<marker id="429043841" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.766611" latitude="0.042304687"/>
+<marker id="429043841" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.766611" latitude="0.042304687"/>
 <marker id="429043842" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.766611" latitude="0.042304687"/>
 <marker id="429043843" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.766611" latitude="0.042304687"/>
 <marker id="429043844" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.766611" latitude="0.042304687"/>
@@ -4414,10 +4414,10 @@
 <marker id="429047840" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.592508" latitude="0.7187012"/>
 <marker id="429047841" label="Duvárdain Blood-sworn" category="71" did="1879112937" parentZoneId="1879063964" longitude="-29.60247" latitude="0.7195703"/>
 <marker id="429047842" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.60247" latitude="0.7195703"/>
-<marker id="429047843" label="Ongbûrz Warrior" category="71" did="1879112939" parentZoneId="1879063964" longitude="-29.61243" latitude="0.72043943"/>
-<marker id="429047844" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.61243" latitude="0.72043943"/>
-<marker id="429047845" label="Ongbûrz Defiler" category="71" did="1879112941" parentZoneId="1879063964" longitude="-29.61243" latitude="0.72043943"/>
-<marker id="429047846" label="Ongbûrz Skirmisher" category="71" did="1879112942" parentZoneId="1879063964" longitude="-29.61243" latitude="0.72043943"/>
+<marker id="429047843" label="Ongbúrz Warrior" category="71" did="1879112939" parentZoneId="1879063964" longitude="-29.61243" latitude="0.72043943"/>
+<marker id="429047844" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.61243" latitude="0.72043943"/>
+<marker id="429047845" label="Ongbúrz Defiler" category="71" did="1879112941" parentZoneId="1879063964" longitude="-29.61243" latitude="0.72043943"/>
+<marker id="429047846" label="Ongbúrz Skirmisher" category="71" did="1879112942" parentZoneId="1879063964" longitude="-29.61243" latitude="0.72043943"/>
 <marker id="429047847" label="Bogbereth Egg-tender" category="71" did="1879112944" parentZoneId="1879063964" longitude="-29.611563" latitude="0.73041016"/>
 <marker id="429047848" label="Bogbereth Broodling" category="71" did="1879112945" parentZoneId="1879063964" longitude="-29.611563" latitude="0.73041016"/>
 <marker id="429047849" label="Enslaved Troll" category="71" did="1879112946" parentZoneId="1879063964" longitude="-29.610693" latitude="0.74037105"/>
@@ -4471,10 +4471,10 @@
 <marker id="429047897" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.657616" latitude="0.49829102"/>
 <marker id="429047898" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.657616" latitude="0.49829102"/>
 <marker id="429047899" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.657616" latitude="0.49829102"/>
-<marker id="429047900" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.657616" latitude="0.49829102"/>
+<marker id="429047900" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.657616" latitude="0.49829102"/>
 <marker id="429047901" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.7945" latitude="0.75784177"/>
 <marker id="429047902" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.7945" latitude="0.75784177"/>
-<marker id="429047903" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.7945" latitude="0.75784177"/>
+<marker id="429047903" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.7945" latitude="0.75784177"/>
 <marker id="429047904" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.7945" latitude="0.75784177"/>
 <marker id="429047905" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.7945" latitude="0.75784177"/>
 <marker id="429047906" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.7945" latitude="0.75784177"/>
@@ -4485,28 +4485,28 @@
 <marker id="429047911" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.823095" latitude="0.8197363"/>
 <marker id="429047912" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.823095" latitude="0.8197363"/>
 <marker id="429047913" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.823095" latitude="0.8197363"/>
-<marker id="429047914" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.823095" latitude="0.8197363"/>
+<marker id="429047914" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.823095" latitude="0.8197363"/>
 <marker id="429047915" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.659834" latitude="0.44660154"/>
 <marker id="429047916" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.659834" latitude="0.44660154"/>
 <marker id="429047917" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.659834" latitude="0.44660154"/>
 <marker id="429047918" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.659834" latitude="0.44660154"/>
 <marker id="429047919" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.659834" latitude="0.44660154"/>
 <marker id="429047920" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.659834" latitude="0.44660154"/>
-<marker id="429047921" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.659834" latitude="0.44660154"/>
+<marker id="429047921" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.659834" latitude="0.44660154"/>
 <marker id="429047922" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.660166" latitude="0.46921873"/>
 <marker id="429047923" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.660166" latitude="0.46921873"/>
 <marker id="429047924" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.660166" latitude="0.46921873"/>
 <marker id="429047925" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.660166" latitude="0.46921873"/>
 <marker id="429047926" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.660166" latitude="0.46921873"/>
 <marker id="429047927" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.660166" latitude="0.46921873"/>
-<marker id="429047928" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.660166" latitude="0.46921873"/>
+<marker id="429047928" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.660166" latitude="0.46921873"/>
 <marker id="429047929" label="Angmarim High Sorcerer" category="71" did="1879112901" parentZoneId="1879063964" longitude="-29.803202" latitude="0.79032224"/>
 <marker id="429047930" label="Angmarim Spider-master" category="71" did="1879112903" parentZoneId="1879063964" longitude="-29.803202" latitude="0.79032224"/>
 <marker id="429047931" label="Tarkrîp Chief" category="71" did="1879112923" parentZoneId="1879063964" longitude="-29.803202" latitude="0.79032224"/>
 <marker id="429047932" label="Krahjarn Captain" category="71" did="1879112948" parentZoneId="1879063964" longitude="-29.803202" latitude="0.79032224"/>
 <marker id="429047933" label="Morroval Blood-mistress" category="71" did="1879112936" parentZoneId="1879063964" longitude="-29.803202" latitude="0.79032224"/>
 <marker id="429047934" label="Duvárdain Blood-dancer" category="71" did="1879112938" parentZoneId="1879063964" longitude="-29.803202" latitude="0.79032224"/>
-<marker id="429047935" label="Ongbûrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.803202" latitude="0.79032224"/>
+<marker id="429047935" label="Ongbúrz Chief" category="71" did="1879112940" parentZoneId="1879063964" longitude="-29.803202" latitude="0.79032224"/>
 <marker id="429056000" label="Tarkrîp Basher" category="71" did="1879082029" parentZoneId="1879063959" longitude="-29.875" latitude="2.7082813"/>
 <marker id="429056001" label="Iron Crown Fighter" category="71" did="1879082031" parentZoneId="1879063959" longitude="-29.875" latitude="2.7082813"/>
 <marker id="429056002" label="Iron Crown Bowman" category="71" did="1879082032" parentZoneId="1879063959" longitude="-29.875" latitude="2.7082813"/>

@@ -34529,7 +34529,7 @@
 <marker id="443412586" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063938" longitude="-7.6200976" latitude="-34.930664"/>
 <marker id="443412587" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063938" longitude="-7.6200976" latitude="-34.930664"/>
 <marker id="443412588" label="Forgotten Text" category="50" did="1879080159" parentZoneId="1879063938" longitude="-7.6200976" latitude="-34.930664"/>
-<marker id="443416576" label="Ongbûrz Tracker" category="71" did="1879138457" parentZoneId="1879106667" longitude="-7.0573826" latitude="-47.4823"/>
+<marker id="443416576" label="Ongbúrz Tracker" category="71" did="1879138457" parentZoneId="1879106667" longitude="-7.0573826" latitude="-47.4823"/>
 <marker id="443416578" label="Saethoniel" category="70" did="1879098015" parentZoneId="1879106667" longitude="-6.917422" latitude="-47.19622"/>
 <marker id="443416579" label="Pâshnar" category="70" did="1879098017" parentZoneId="1879106667" longitude="-6.888076" latitude="-47.411747"/>
 <marker id="443416580" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-7.113877" latitude="-47.369823"/>
@@ -34537,7 +34537,7 @@
 <marker id="443416582" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-7.113877" latitude="-47.369823"/>
 <marker id="443416583" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-7.113877" latitude="-47.369823"/>
 <marker id="443416584" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-7.113877" latitude="-47.369823"/>
-<marker id="443416585" label="Ongbûrz Iron-troll" category="71" did="1879083102" parentZoneId="1879106667" longitude="-7.0961423" latitude="-47.35492"/>
+<marker id="443416585" label="Ongbúrz Iron-troll" category="71" did="1879083102" parentZoneId="1879106667" longitude="-7.0961423" latitude="-47.35492"/>
 <marker id="443416611" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-7.0928707" latitude="-47.36993"/>
 <marker id="443416612" label="Black Ash Branches" category="50" did="1879080458" parentZoneId="1879106667" longitude="-7.1227927" latitude="-47.210064"/>
 <marker id="443416613" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879106667" longitude="-7.1227927" latitude="-47.210064"/>
@@ -36068,7 +36068,7 @@
 <marker id="443482124" label="Ongbúrz Defiler" category="70" did="1879094878" parentZoneId="1879106667" longitude="-6.5755954" latitude="-47.417343"/>
 <marker id="443482125" label="Tarkrip Quartermaster" category="70" did="1879063239" parentZoneId="1879106667" longitude="-6.510791" latitude="-47.3204"/>
 <marker id="443482127" label="Malavin" category="70" did="1879063763" parentZoneId="1879106667" longitude="-6.593613" latitude="-47.42666"/>
-<marker id="443482129" label="Ongbûrz Iron-troll" category="71" did="1879083102" parentZoneId="1879106667" longitude="-6.7473826" latitude="-47.225513"/>
+<marker id="443482129" label="Ongbúrz Iron-troll" category="71" did="1879083102" parentZoneId="1879106667" longitude="-6.7473826" latitude="-47.225513"/>
 <marker id="443482144" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.481572" latitude="-47.026936"/>
 <marker id="443482145" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.481572" latitude="-47.026936"/>
 <marker id="443482146" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.481572" latitude="-47.026936"/>
@@ -36079,125 +36079,125 @@
 <marker id="443482155" label="Sovairlë" category="70" did="1879085620" parentZoneId="1879106667" longitude="-6.5762305" latitude="-47.408794"/>
 <marker id="443482156" label="Nâdar" category="70" did="1879098013" parentZoneId="1879106667" longitude="-6.5333395" latitude="-47.345848"/>
 <marker id="443482159" label="Cinaid" category="70" did="1879063762" parentZoneId="1879106667" longitude="-6.583349" latitude="-47.425453"/>
-<marker id="443482173" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
-<marker id="443482174" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
-<marker id="443482175" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
-<marker id="443482176" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
-<marker id="443482177" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
-<marker id="443482178" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
-<marker id="443482179" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
-<marker id="443482180" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
-<marker id="443482181" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
-<marker id="443482182" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
-<marker id="443482183" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
-<marker id="443482184" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
-<marker id="443482185" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
-<marker id="443482186" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
-<marker id="443482187" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
-<marker id="443482188" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
-<marker id="443482189" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
-<marker id="443482190" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
-<marker id="443482191" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
-<marker id="443482192" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
-<marker id="443482193" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
-<marker id="443482194" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
-<marker id="443482195" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
-<marker id="443482196" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
-<marker id="443482197" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
-<marker id="443482198" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
-<marker id="443482199" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
-<marker id="443482200" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
-<marker id="443482201" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
-<marker id="443482202" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
-<marker id="443482203" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
-<marker id="443482204" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
-<marker id="443482205" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
-<marker id="443482206" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
-<marker id="443482207" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
-<marker id="443482208" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
-<marker id="443482209" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
-<marker id="443482210" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
-<marker id="443482211" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
-<marker id="443482212" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
-<marker id="443482213" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
-<marker id="443482214" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
-<marker id="443482215" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
-<marker id="443482216" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
-<marker id="443482217" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
-<marker id="443482218" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
-<marker id="443482219" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
-<marker id="443482220" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
-<marker id="443482221" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
-<marker id="443482222" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
-<marker id="443482223" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
-<marker id="443482224" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
-<marker id="443482225" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
-<marker id="443482226" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
-<marker id="443482227" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
-<marker id="443482228" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
-<marker id="443482229" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
-<marker id="443482230" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
-<marker id="443482231" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
-<marker id="443482232" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
-<marker id="443482233" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
-<marker id="443482234" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
-<marker id="443482235" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
-<marker id="443482236" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
-<marker id="443482237" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
-<marker id="443482238" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
-<marker id="443482239" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
-<marker id="443482240" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
-<marker id="443482241" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
-<marker id="443482242" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
-<marker id="443482243" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
-<marker id="443482244" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
-<marker id="443482245" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
-<marker id="443482246" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
-<marker id="443482247" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
-<marker id="443482248" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
-<marker id="443482249" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
-<marker id="443482250" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
-<marker id="443482251" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
-<marker id="443482252" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
-<marker id="443482253" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
-<marker id="443482254" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
-<marker id="443482255" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
-<marker id="443482256" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
-<marker id="443482257" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
-<marker id="443482258" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
-<marker id="443482259" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
-<marker id="443482260" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
-<marker id="443482261" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
-<marker id="443482262" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
-<marker id="443482263" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
-<marker id="443482264" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
-<marker id="443482265" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
-<marker id="443482266" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
-<marker id="443482267" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
-<marker id="443482268" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
-<marker id="443482269" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
-<marker id="443482270" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
-<marker id="443482271" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
-<marker id="443482272" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
-<marker id="443482273" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
-<marker id="443482274" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
-<marker id="443482275" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
-<marker id="443482276" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
-<marker id="443482277" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
-<marker id="443482278" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
-<marker id="443482279" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
-<marker id="443482280" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
-<marker id="443482281" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
-<marker id="443482282" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
-<marker id="443482283" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
-<marker id="443482284" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
-<marker id="443482285" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
-<marker id="443482286" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
-<marker id="443482287" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
-<marker id="443482288" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
-<marker id="443482289" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
-<marker id="443482290" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
-<marker id="443482291" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
+<marker id="443482176" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
+<marker id="443482177" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
+<marker id="443482178" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
+<marker id="443482179" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
+<marker id="443482180" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
+<marker id="443482181" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
+<marker id="443482182" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.0150585" latitude="-47.10406"/>
+<marker id="443482183" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
+<marker id="443482184" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
+<marker id="443482185" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
+<marker id="443482186" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
+<marker id="443482187" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
+<marker id="443482188" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
+<marker id="443482189" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.6865916" latitude="-47.217937"/>
+<marker id="443482190" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
+<marker id="443482191" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
+<marker id="443482192" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
+<marker id="443482193" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
+<marker id="443482194" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
+<marker id="443482195" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
+<marker id="443482196" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.3783298" latitude="-47.314053"/>
+<marker id="443482197" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
+<marker id="443482198" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
+<marker id="443482199" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
+<marker id="443482200" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
+<marker id="443482201" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
+<marker id="443482202" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
+<marker id="443482203" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.6994433" latitude="-47.1351"/>
+<marker id="443482204" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
+<marker id="443482205" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
+<marker id="443482206" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
+<marker id="443482207" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
+<marker id="443482208" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
+<marker id="443482209" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
+<marker id="443482210" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.4511814" latitude="-47.438183"/>
+<marker id="443482211" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
+<marker id="443482212" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
+<marker id="443482213" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
+<marker id="443482214" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
+<marker id="443482215" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
+<marker id="443482216" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
+<marker id="443482217" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.6536913" latitude="-46.82623"/>
+<marker id="443482218" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
+<marker id="443482219" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
+<marker id="443482220" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
+<marker id="443482221" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
+<marker id="443482222" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
+<marker id="443482223" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
+<marker id="443482224" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.3393555" latitude="-46.831463"/>
+<marker id="443482225" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
+<marker id="443482226" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
+<marker id="443482227" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
+<marker id="443482228" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
+<marker id="443482229" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
+<marker id="443482230" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
+<marker id="443482231" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.1971874" latitude="-46.941643"/>
+<marker id="443482232" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
+<marker id="443482233" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
+<marker id="443482234" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
+<marker id="443482235" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
+<marker id="443482236" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
+<marker id="443482237" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
+<marker id="443482238" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.7536716" latitude="-47.036243"/>
+<marker id="443482239" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
+<marker id="443482240" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
+<marker id="443482241" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
+<marker id="443482242" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
+<marker id="443482243" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
+<marker id="443482244" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
+<marker id="443482245" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.3007617" latitude="-47.25857"/>
+<marker id="443482246" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
+<marker id="443482247" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
+<marker id="443482248" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
+<marker id="443482249" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
+<marker id="443482250" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
+<marker id="443482251" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
+<marker id="443482252" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.7190723" latitude="-47.33496"/>
+<marker id="443482253" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
+<marker id="443482254" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
+<marker id="443482255" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
+<marker id="443482256" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
+<marker id="443482257" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
+<marker id="443482258" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
+<marker id="443482259" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.541084" latitude="-47.093952"/>
+<marker id="443482260" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
+<marker id="443482261" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
+<marker id="443482262" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
+<marker id="443482263" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
+<marker id="443482264" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
+<marker id="443482265" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
+<marker id="443482266" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.037168" latitude="-47.502655"/>
+<marker id="443482267" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
+<marker id="443482268" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
+<marker id="443482269" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
+<marker id="443482270" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
+<marker id="443482271" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
+<marker id="443482272" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
+<marker id="443482273" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.0704103" latitude="-47.28033"/>
+<marker id="443482274" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
+<marker id="443482275" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
+<marker id="443482276" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
+<marker id="443482277" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
+<marker id="443482278" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
+<marker id="443482279" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
+<marker id="443482280" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.252529" latitude="-47.036083"/>
+<marker id="443482281" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
+<marker id="443482282" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
+<marker id="443482283" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
+<marker id="443482284" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
+<marker id="443482285" label="Tater" category="77" did="1879061257" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
+<marker id="443482286" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
+<marker id="443482287" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879106667" longitude="-6.4971776" latitude="-46.861187"/>
+<marker id="443482288" label="Fanged-stalker" category="71" did="1879127601" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
+<marker id="443482289" label="Half-orc Warg-keeper" category="71" did="1879127595" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
+<marker id="443482290" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
+<marker id="443482291" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
+<marker id="443482292" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
+<marker id="443482293" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
+<marker id="443482294" label="Redhorn Goat" category="71" did="1879127598" parentZoneId="1879106667" longitude="-6.0505857" latitude="-46.8699"/>
 <marker id="443486209" label="Half-orc Scrapper" category="71" did="1879127594" parentZoneId="1879106667" longitude="-6.3422947" latitude="-46.30432"/>
 <marker id="443486210" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-6.3422947" latitude="-46.30432"/>
 <marker id="443486211" label="Dark-wing Spy" category="71" did="1879127599" parentZoneId="1879106667" longitude="-6.3422947" latitude="-46.30432"/>
