@@ -1,329 +1,329 @@
 <?xml version="1.0" encoding="UTF-8"?><passives>
-    <passive id="1879147270">
-        <stat name="MIGHT" scaling="1879211547"/>
-    </passive>
-    <passive id="1879147276">
-        <stat name="MORALE" scaling="1879211565"/>
-    </passive>
-    <passive id="1879147279">
-        <stat name="MORALE" scaling="1879211574"/>
-    </passive>
-    <passive id="1879147286">
-        <stat name="ICPR" scaling="1879212038"/>
-    </passive>
-    <passive id="1879147290">
-        <stat name="TACTICAL_MITIGATION" scaling="1879215075"/>
-    </passive>
-    <passive id="1879147291">
-        <stat name="POWER" scaling="1879211539"/>
-    </passive>
-    <passive id="1879147292">
-        <stat name="WILL" scaling="1879211576"/>
-    </passive>
-    <passive id="1879147296">
-        <stat name="ICPR" scaling="1879212031"/>
-    </passive>
-    <passive id="1879147297">
-        <stat name="CRITICAL_RATING" scaling="1879211601"/>
-    </passive>
-    <passive id="1879147301">
-        <stat name="POWER" scaling="1879211534"/>
-    </passive>
-    <passive id="1879147307">
-        <stat name="PARRY" scaling="1879211655"/>
-    </passive>
-    <passive id="1879147308">
-        <stat name="MORALE" scaling="1879211579"/>
-    </passive>
-    <passive id="1879147310">
-        <stat name="CRITICAL_RATING" scaling="1879211601"/>
-    </passive>
-    <passive id="1879147312">
-        <stat name="TACTICAL_MITIGATION" scaling="1879215079"/>
-    </passive>
-    <passive id="1879147318">
-        <stat name="VITALITY" scaling="1879211533"/>
-    </passive>
-    <passive id="1879147320">
-        <stat name="FATE" scaling="1879211541"/>
-    </passive>
-    <passive id="1879147322">
-        <stat name="ICPR" scaling="1879212036"/>
-    </passive>
-    <passive id="1879147323">
-        <stat name="POWER" scaling="1879211542"/>
-    </passive>
-    <passive id="1879148252">
-        <stat name="PERCEIVED_THREAT" scaling="1879148190"/>
-    </passive>
-    <passive id="1879148253">
-        <stat name="PERCEIVED_THREAT" scaling="1879148137"/>
-    </passive>
-    <passive id="1879148254">
-        <stat name="PERCEIVED_THREAT" scaling="1879148150"/>
-    </passive>
-    <passive id="1879148255">
-        <stat name="PERCEIVED_THREAT" scaling="1879148152"/>
-    </passive>
-    <passive id="1879148256">
-        <stat name="PERCEIVED_THREAT" scaling="1879148148"/>
-    </passive>
-    <passive id="1879148257">
-        <stat name="PERCEIVED_THREAT" scaling="1879148125"/>
-    </passive>
-    <passive id="1879148258">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148144"/>
-    </passive>
-    <passive id="1879148259">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148143"/>
-    </passive>
-    <passive id="1879148260">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148160"/>
-    </passive>
-    <passive id="1879148261">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148175"/>
-    </passive>
-    <passive id="1879148262">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148134"/>
-    </passive>
-    <passive id="1879148263">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148105"/>
-    </passive>
-    <passive id="1879148264">
-        <stat name="PERCEIVED_THREAT" scaling="1879148123"/>
-    </passive>
-    <passive id="1879148265">
-        <stat name="PERCEIVED_THREAT" scaling="1879148119"/>
-    </passive>
-    <passive id="1879148266">
-        <stat name="PERCEIVED_THREAT" scaling="1879148129"/>
-    </passive>
-    <passive id="1879148267">
-        <stat name="PERCEIVED_THREAT" scaling="1879148182"/>
-    </passive>
-    <passive id="1879148268">
-        <stat name="PERCEIVED_THREAT" scaling="1879148110"/>
-    </passive>
-    <passive id="1879148269">
-        <stat name="PERCEIVED_THREAT" scaling="1879148124"/>
-    </passive>
-    <passive id="1879148270">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148155"/>
-    </passive>
-    <passive id="1879148271">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148171"/>
-    </passive>
-    <passive id="1879148272">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148169"/>
-    </passive>
-    <passive id="1879148273">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148198"/>
-    </passive>
-    <passive id="1879148274">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148162"/>
-    </passive>
-    <passive id="1879148275">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148195"/>
-    </passive>
-    <passive id="1879148276">
-        <stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148189"/>
-    </passive>
-    <passive id="1879148277">
-        <stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148135"/>
-    </passive>
-    <passive id="1879148278">
-        <stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148121"/>
-    </passive>
-    <passive id="1879148279">
-        <stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148107"/>
-    </passive>
-    <passive id="1879148280">
-        <stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148196"/>
-    </passive>
-    <passive id="1879148281">
-        <stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148122"/>
-    </passive>
-    <passive id="1879148282">
-        <stat name="Skill_VitalCost_MeleeMod" scaling="1879148101"/>
-    </passive>
-    <passive id="1879148283">
-        <stat name="Skill_VitalCost_MeleeMod" scaling="1879148156"/>
-    </passive>
-    <passive id="1879148284">
-        <stat name="Skill_VitalCost_MeleeMod" scaling="1879148197"/>
-    </passive>
-    <passive id="1879148285">
-        <stat name="Skill_VitalCost_Heals" scaling="1879148165"/>
-    </passive>
-    <passive id="1879148286">
-        <stat name="Skill_VitalCost_Heals" scaling="1879148112"/>
-    </passive>
-    <passive id="1879148287">
-        <stat name="Skill_VitalCost_Heals" scaling="1879148154"/>
-    </passive>
-    <passive id="1879148288">
-        <stat name="Skill_VitalCost_Heals" scaling="1879148193"/>
-    </passive>
-    <passive id="1879148289">
-        <stat name="Skill_VitalCost_Heals" scaling="1879148145"/>
-    </passive>
-    <passive id="1879148290">
-        <stat name="Skill_VitalCost_Heals" scaling="1879148166"/>
-    </passive>
-    <passive id="1879148291">
-        <stat name="CRITICAL_DEFENCE" scaling="1879211640"/>
-    </passive>
-    <passive id="1879148292">
-        <stat name="CRITICAL_DEFENCE" scaling="1879259280"/>
-    </passive>
-    <passive id="1879148293">
-        <stat name="CRITICAL_DEFENCE" scaling="1879259279"/>
-    </passive>
-    <passive id="1879148294">
-        <stat name="CRITICAL_DEFENCE" scaling="1879259278"/>
-    </passive>
-    <passive id="1879148295">
-        <stat name="CRITICAL_DEFENCE" scaling="1879259277"/>
-    </passive>
-    <passive id="1879148296">
-        <stat name="CRITICAL_DEFENCE" scaling="1879211643"/>
-    </passive>
-    <passive id="1879148297">
-        <stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148151"/>
-    </passive>
-    <passive id="1879148298">
-        <stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148133"/>
-    </passive>
-    <passive id="1879148299">
-        <stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148202"/>
-    </passive>
-    <passive id="1879148300">
-        <stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148188"/>
-    </passive>
-    <passive id="1879148301">
-        <stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148174"/>
-    </passive>
-    <passive id="1879148302">
-        <stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148199"/>
-    </passive>
-    <passive id="1879148303">
-        <stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148103"/>
-    </passive>
-    <passive id="1879148304">
-        <stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148132"/>
-    </passive>
-    <passive id="1879148305">
-        <stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148130"/>
-    </passive>
-    <passive id="1879148306">
-        <stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148179"/>
-    </passive>
-    <passive id="1879148307">
-        <stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148186"/>
-    </passive>
-    <passive id="1879148308">
-        <stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148184"/>
-    </passive>
-    <passive id="1879148309">
-        <stat name="PERCEIVED_THREAT" scaling="1879148117"/>
-    </passive>
-    <passive id="1879148310">
-        <stat name="PERCEIVED_THREAT" scaling="1879148191"/>
-    </passive>
-    <passive id="1879148311">
-        <stat name="PERCEIVED_THREAT" scaling="1879148201"/>
-    </passive>
-    <passive id="1879148312">
-        <stat name="PERCEIVED_THREAT" scaling="1879148104"/>
-    </passive>
-    <passive id="1879148313">
-        <stat name="PERCEIVED_THREAT" scaling="1879148164"/>
-    </passive>
-    <passive id="1879148314">
-        <stat name="PERCEIVED_THREAT" scaling="1879148115"/>
-    </passive>
-    <passive id="1879148315">
-        <stat name="ThreatInputModifier_Taunt" scaling="1879148136"/>
-    </passive>
-    <passive id="1879148316">
-        <stat name="ThreatInputModifier_Taunt" scaling="1879148102"/>
-    </passive>
-    <passive id="1879148317">
-        <stat name="ThreatInputModifier_Taunt" scaling="1879148158"/>
-    </passive>
-    <passive id="1879148318">
-        <stat name="ThreatInputModifier_Taunt" scaling="1879148114"/>
-    </passive>
-    <passive id="1879148319">
-        <stat name="ThreatInputModifier_Taunt" scaling="1879148141"/>
-    </passive>
-    <passive id="1879148320">
-        <stat name="ThreatInputModifier_Taunt" scaling="1879148168"/>
-    </passive>
-    <passive id="1879148321">
-        <stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148173"/>
-    </passive>
-    <passive id="1879148322">
-        <stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148149"/>
-    </passive>
-    <passive id="1879148323">
-        <stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148140"/>
-    </passive>
-    <passive id="1879148324">
-        <stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148161"/>
-    </passive>
-    <passive id="1879148325">
-        <stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148185"/>
-    </passive>
-    <passive id="1879148326">
-        <stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148113"/>
-    </passive>
-    <passive id="1879148327">
-        <stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148146"/>
-    </passive>
-    <passive id="1879148328">
-        <stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148167"/>
-    </passive>
-    <passive id="1879148329">
-        <stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148180"/>
-    </passive>
-    <passive id="1879148330">
-        <stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879148192"/>
-    </passive>
-    <passive id="1879148331">
-        <stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879148109"/>
-    </passive>
-    <passive id="1879148332">
-        <stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879148118"/>
-    </passive>
-    <passive id="1879148333">
-        <stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879148120"/>
-    </passive>
-    <passive id="1879318643">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148143"/>
-    </passive>
-    <passive id="1879318644">
-        <stat name="CRITICAL_DEFENCE" scaling="1879211640"/>
-    </passive>
-    <passive id="1879318646">
-        <stat name="CRITICAL_DEFENCE" scaling="1879259280"/>
-    </passive>
-    <passive id="1879318647">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148160"/>
-    </passive>
-    <passive id="1879318648">
-        <stat name="CRITICAL_DEFENCE" scaling="1879259279"/>
-    </passive>
-    <passive id="1879318649">
-        <stat name="CRITICAL_DEFENCE" scaling="1879259278"/>
-    </passive>
-    <passive id="1879318650">
-        <stat name="ThreatInputModifier_Healing" scaling="1879148144"/>
-    </passive>
-    <passive id="1879318651">
-        <stat name="CRITICAL_DEFENCE" scaling="1879259277"/>
-    </passive>
-    <passive id="1879318652">
-        <stat name="CRITICAL_DEFENCE" scaling="1879211643"/>
-    </passive>
+<passive id="1879147270">
+<stat name="MIGHT" scaling="1879211547"/>
+</passive>
+<passive id="1879147276">
+<stat name="MORALE" scaling="1879211565"/>
+</passive>
+<passive id="1879147279">
+<stat name="MORALE" scaling="1879211574"/>
+</passive>
+<passive id="1879147286">
+<stat name="ICPR" scaling="1879212038"/>
+</passive>
+<passive id="1879147290">
+<stat name="TACTICAL_MITIGATION" scaling="1879215075"/>
+</passive>
+<passive id="1879147291">
+<stat name="POWER" scaling="1879211539"/>
+</passive>
+<passive id="1879147292">
+<stat name="WILL" scaling="1879211576"/>
+</passive>
+<passive id="1879147296">
+<stat name="ICPR" scaling="1879212031"/>
+</passive>
+<passive id="1879147297">
+<stat name="CRITICAL_RATING" scaling="1879211601"/>
+</passive>
+<passive id="1879147301">
+<stat name="POWER" scaling="1879211534"/>
+</passive>
+<passive id="1879147307">
+<stat name="PARRY" scaling="1879211655"/>
+</passive>
+<passive id="1879147308">
+<stat name="MORALE" scaling="1879211579"/>
+</passive>
+<passive id="1879147310">
+<stat name="CRITICAL_RATING" scaling="1879211601"/>
+</passive>
+<passive id="1879147312">
+<stat name="TACTICAL_MITIGATION" scaling="1879215079"/>
+</passive>
+<passive id="1879147318">
+<stat name="VITALITY" scaling="1879211533"/>
+</passive>
+<passive id="1879147320">
+<stat name="FATE" scaling="1879211541"/>
+</passive>
+<passive id="1879147322">
+<stat name="ICPR" scaling="1879212036"/>
+</passive>
+<passive id="1879147323">
+<stat name="POWER" scaling="1879211542"/>
+</passive>
+<passive id="1879148252">
+<stat name="PERCEIVED_THREAT" scaling="1879148190"/>
+</passive>
+<passive id="1879148253">
+<stat name="PERCEIVED_THREAT" scaling="1879148137"/>
+</passive>
+<passive id="1879148254">
+<stat name="PERCEIVED_THREAT" scaling="1879148150"/>
+</passive>
+<passive id="1879148255">
+<stat name="PERCEIVED_THREAT" scaling="1879148152"/>
+</passive>
+<passive id="1879148256">
+<stat name="PERCEIVED_THREAT" scaling="1879148148"/>
+</passive>
+<passive id="1879148257">
+<stat name="PERCEIVED_THREAT" scaling="1879148125"/>
+</passive>
+<passive id="1879148258">
+<stat name="ThreatInputModifier_Healing" scaling="1879148144"/>
+</passive>
+<passive id="1879148259">
+<stat name="ThreatInputModifier_Healing" scaling="1879148143"/>
+</passive>
+<passive id="1879148260">
+<stat name="ThreatInputModifier_Healing" scaling="1879148160"/>
+</passive>
+<passive id="1879148261">
+<stat name="ThreatInputModifier_Healing" scaling="1879148175"/>
+</passive>
+<passive id="1879148262">
+<stat name="ThreatInputModifier_Healing" scaling="1879148134"/>
+</passive>
+<passive id="1879148263">
+<stat name="ThreatInputModifier_Healing" scaling="1879148105"/>
+</passive>
+<passive id="1879148264">
+<stat name="PERCEIVED_THREAT" scaling="1879148123"/>
+</passive>
+<passive id="1879148265">
+<stat name="PERCEIVED_THREAT" scaling="1879148119"/>
+</passive>
+<passive id="1879148266">
+<stat name="PERCEIVED_THREAT" scaling="1879148129"/>
+</passive>
+<passive id="1879148267">
+<stat name="PERCEIVED_THREAT" scaling="1879148182"/>
+</passive>
+<passive id="1879148268">
+<stat name="PERCEIVED_THREAT" scaling="1879148110"/>
+</passive>
+<passive id="1879148269">
+<stat name="PERCEIVED_THREAT" scaling="1879148124"/>
+</passive>
+<passive id="1879148270">
+<stat name="ThreatInputModifier_Healing" scaling="1879148155"/>
+</passive>
+<passive id="1879148271">
+<stat name="ThreatInputModifier_Healing" scaling="1879148171"/>
+</passive>
+<passive id="1879148272">
+<stat name="ThreatInputModifier_Healing" scaling="1879148169"/>
+</passive>
+<passive id="1879148273">
+<stat name="ThreatInputModifier_Healing" scaling="1879148198"/>
+</passive>
+<passive id="1879148274">
+<stat name="ThreatInputModifier_Healing" scaling="1879148162"/>
+</passive>
+<passive id="1879148275">
+<stat name="ThreatInputModifier_Healing" scaling="1879148195"/>
+</passive>
+<passive id="1879148276">
+<stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148189"/>
+</passive>
+<passive id="1879148277">
+<stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148135"/>
+</passive>
+<passive id="1879148278">
+<stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148121"/>
+</passive>
+<passive id="1879148279">
+<stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148107"/>
+</passive>
+<passive id="1879148280">
+<stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148196"/>
+</passive>
+<passive id="1879148281">
+<stat name="TRICKS_POWER_COST_PERCENTAGE" scaling="1879148122"/>
+</passive>
+<passive id="1879148282">
+<stat name="Skill_VitalCost_MeleeMod" scaling="1879148101"/>
+</passive>
+<passive id="1879148283">
+<stat name="Skill_VitalCost_MeleeMod" scaling="1879148156"/>
+</passive>
+<passive id="1879148284">
+<stat name="Skill_VitalCost_MeleeMod" scaling="1879148197"/>
+</passive>
+<passive id="1879148285">
+<stat name="Skill_VitalCost_Heals" scaling="1879148165"/>
+</passive>
+<passive id="1879148286">
+<stat name="Skill_VitalCost_Heals" scaling="1879148112"/>
+</passive>
+<passive id="1879148287">
+<stat name="Skill_VitalCost_Heals" scaling="1879148154"/>
+</passive>
+<passive id="1879148288">
+<stat name="Skill_VitalCost_Heals" scaling="1879148193"/>
+</passive>
+<passive id="1879148289">
+<stat name="Skill_VitalCost_Heals" scaling="1879148145"/>
+</passive>
+<passive id="1879148290">
+<stat name="Skill_VitalCost_Heals" scaling="1879148166"/>
+</passive>
+<passive id="1879148291">
+<stat name="CRITICAL_DEFENCE" scaling="1879211640"/>
+</passive>
+<passive id="1879148292">
+<stat name="CRITICAL_DEFENCE" scaling="1879259280"/>
+</passive>
+<passive id="1879148293">
+<stat name="CRITICAL_DEFENCE" scaling="1879259279"/>
+</passive>
+<passive id="1879148294">
+<stat name="CRITICAL_DEFENCE" scaling="1879259278"/>
+</passive>
+<passive id="1879148295">
+<stat name="CRITICAL_DEFENCE" scaling="1879259277"/>
+</passive>
+<passive id="1879148296">
+<stat name="CRITICAL_DEFENCE" scaling="1879211643"/>
+</passive>
+<passive id="1879148297">
+<stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148151"/>
+</passive>
+<passive id="1879148298">
+<stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148133"/>
+</passive>
+<passive id="1879148299">
+<stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148202"/>
+</passive>
+<passive id="1879148300">
+<stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148188"/>
+</passive>
+<passive id="1879148301">
+<stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148174"/>
+</passive>
+<passive id="1879148302">
+<stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" scaling="1879148199"/>
+</passive>
+<passive id="1879148303">
+<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148103"/>
+</passive>
+<passive id="1879148304">
+<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148132"/>
+</passive>
+<passive id="1879148305">
+<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148130"/>
+</passive>
+<passive id="1879148306">
+<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148179"/>
+</passive>
+<passive id="1879148307">
+<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148186"/>
+</passive>
+<passive id="1879148308">
+<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" scaling="1879148184"/>
+</passive>
+<passive id="1879148309">
+<stat name="PERCEIVED_THREAT" scaling="1879148117"/>
+</passive>
+<passive id="1879148310">
+<stat name="PERCEIVED_THREAT" scaling="1879148191"/>
+</passive>
+<passive id="1879148311">
+<stat name="PERCEIVED_THREAT" scaling="1879148201"/>
+</passive>
+<passive id="1879148312">
+<stat name="PERCEIVED_THREAT" scaling="1879148104"/>
+</passive>
+<passive id="1879148313">
+<stat name="PERCEIVED_THREAT" scaling="1879148164"/>
+</passive>
+<passive id="1879148314">
+<stat name="PERCEIVED_THREAT" scaling="1879148115"/>
+</passive>
+<passive id="1879148315">
+<stat name="ThreatInputModifier_Taunt" scaling="1879148136"/>
+</passive>
+<passive id="1879148316">
+<stat name="ThreatInputModifier_Taunt" scaling="1879148102"/>
+</passive>
+<passive id="1879148317">
+<stat name="ThreatInputModifier_Taunt" scaling="1879148158"/>
+</passive>
+<passive id="1879148318">
+<stat name="ThreatInputModifier_Taunt" scaling="1879148114"/>
+</passive>
+<passive id="1879148319">
+<stat name="ThreatInputModifier_Taunt" scaling="1879148141"/>
+</passive>
+<passive id="1879148320">
+<stat name="ThreatInputModifier_Taunt" scaling="1879148168"/>
+</passive>
+<passive id="1879148321">
+<stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148173"/>
+</passive>
+<passive id="1879148322">
+<stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148149"/>
+</passive>
+<passive id="1879148323">
+<stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148140"/>
+</passive>
+<passive id="1879148324">
+<stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148161"/>
+</passive>
+<passive id="1879148325">
+<stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148185"/>
+</passive>
+<passive id="1879148326">
+<stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148113"/>
+</passive>
+<passive id="1879148327">
+<stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148146"/>
+</passive>
+<passive id="1879148328">
+<stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148167"/>
+</passive>
+<passive id="1879148329">
+<stat name="Skill_VitalCost_Book_CallNatureMod" scaling="1879148180"/>
+</passive>
+<passive id="1879148330">
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879148192"/>
+</passive>
+<passive id="1879148331">
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879148109"/>
+</passive>
+<passive id="1879148332">
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879148118"/>
+</passive>
+<passive id="1879148333">
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879148120"/>
+</passive>
+<passive id="1879318643">
+<stat name="ThreatInputModifier_Healing" scaling="1879148143"/>
+</passive>
+<passive id="1879318644">
+<stat name="CRITICAL_DEFENCE" scaling="1879211640"/>
+</passive>
+<passive id="1879318646">
+<stat name="CRITICAL_DEFENCE" scaling="1879259280"/>
+</passive>
+<passive id="1879318647">
+<stat name="ThreatInputModifier_Healing" scaling="1879148160"/>
+</passive>
+<passive id="1879318648">
+<stat name="CRITICAL_DEFENCE" scaling="1879259279"/>
+</passive>
+<passive id="1879318649">
+<stat name="CRITICAL_DEFENCE" scaling="1879259278"/>
+</passive>
+<passive id="1879318650">
+<stat name="ThreatInputModifier_Healing" scaling="1879148144"/>
+</passive>
+<passive id="1879318651">
+<stat name="CRITICAL_DEFENCE" scaling="1879259277"/>
+</passive>
+<passive id="1879318652">
+<stat name="CRITICAL_DEFENCE" scaling="1879211643"/>
+</passive>
 </passives>

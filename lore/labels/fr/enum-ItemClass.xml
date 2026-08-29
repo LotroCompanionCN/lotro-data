@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
-    <label key="BoxOfEssences" value="Boîte d'essences"/>
-    <label key="EnhancementRune" value="Rune d'amélioration"/>
-    <label key="HeraldricTracery" value="Gravure héraldique"/>
-    <label key="WoCraft" value="Gravure d'artisanat"/>
-    <label key="WoMastery" value="Gravure de maîtrise"/>
-    <label key="WoPower" value="Gravure de pouvoir"/>
+<label key="BoxOfEssences" value="Boîte d'essences"/>
+<label key="EnhancementRune" value="Rune d'amélioration"/>
+<label key="HeraldricTracery" value="Gravure héraldique"/>
+<label key="WoCraft" value="Gravure d'artisanat"/>
+<label key="WoMastery" value="Gravure de maîtrise"/>
+<label key="WoPower" value="Gravure de pouvoir"/>
 </labels>

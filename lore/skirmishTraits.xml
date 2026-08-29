@@ -1,238 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?><skirmishTraits>
-    <trait identifier="1879156209" name="角色：守护者"/>
-    <trait identifier="1879156207" name="角色：弓箭手"/>
-    <trait identifier="1879156206" name="角色：战士"/>
-    <trait identifier="1879156204" name="角色：旗卫"/>
-    <trait identifier="1879156205" name="角色：草药师"/>
-    <trait identifier="1879156208" name="角色：智者"/>
-    <trait identifier="1879154339" name="轻型护甲训练"/>
-    <trait identifier="1879154340" name="中型护甲训练"/>
-    <trait identifier="1879154338" name="重型护甲训练"/>
-    <trait identifier="1879154341" name="盾牌训练"/>
-    <trait identifier="1879154343" name="招架训练"/>
-    <trait identifier="1879154342" name="闪避训练"/>
-    <trait identifier="1879156199" name="防御训练"/>
-    <trait identifier="1879156203" name="决心之力"/>
-    <trait identifier="1879154345" name="熟练暴击"/>
-    <trait identifier="1879154352" name="复苏士气"/>
-    <trait identifier="1879154353" name="复苏力量"/>
-    <trait identifier="1879154358" name="无尽士气"/>
-    <trait identifier="1879154359" name="无尽力量"/>
-    <trait identifier="1879156240" name="无尽决心"/>
-    <trait identifier="1879156227" name="嘲讽打击"/>
-    <trait identifier="1879156226" name="自力更生"/>
-    <trait identifier="1879156225" name="威胁反击"/>
-    <trait identifier="1879156217" name="快速横扫"/>
-    <trait identifier="1879156216" name="强力横扫"/>
-    <trait identifier="1879156218" name="强力打击"/>
-    <trait identifier="1879156221" name="精准射击"/>
-    <trait identifier="1879156219" name="致命射击"/>
-    <trait identifier="1879156212" name="鼓舞反击"/>
-    <trait identifier="1879156211" name="持久呐喊"/>
-    <trait identifier="1879156224" name="战斗之语"/>
-    <trait identifier="1879156222" name="寒风"/>
-    <trait identifier="1879156214" name="提神草药"/>
-    <trait identifier="1879156213" name="自然治愈"/>
-    <trait identifier="1879156215" name="自然之力"/>
-    <trait identifier="1879156238" name="终极技能：万物守护者"/>
-    <trait identifier="1879156239" name="终极技能：孤胆守护者"/>
-    <trait identifier="1879156233" name="终极技能：狂战士"/>
-    <trait identifier="1879156232" name="终极技能：嗜血者"/>
-    <trait identifier="1879156235" name="终极技能：精准箭术"/>
-    <trait identifier="1879156234" name="终极技能：觅伤箭"/>
-    <trait identifier="1879156229" name="终极技能：精准战旗"/>
-    <trait identifier="1879156228" name="终极技能：防护战旗"/>
-    <trait identifier="1879156236" name="终极技能：火焰之语"/>
-    <trait identifier="1879156237" name="终极技能：冰霜之语"/>
-    <trait identifier="1879156230" name="终极技能：治疗之语"/>
-    <trait identifier="1879156231" name="终极技能：力量之语"/>
-    <trait identifier="1879162936" name="召唤敌人"/>
-    <trait identifier="1879162937" name="强力打击"/>
-    <trait identifier="1879162938" name="鼓舞呐喊"/>
-    <trait identifier="1879162939" name="英勇打击"/>
-    <trait identifier="1879162940" name="决心药膏"/>
-    <trait identifier="1879162941" name="无尽耐力草药"/>
-    <trait identifier="1879162942" name="强化药剂"/>
-    <trait identifier="1879162943" name="缴械打击"/>
-    <trait identifier="1879162944" name="旋风创伤"/>
-    <trait identifier="1879162945" name="切割打击"/>
-    <trait identifier="1879162946" name="干扰射击"/>
-    <trait identifier="1879162947" name="标记箭"/>
-    <trait identifier="1879162948" name="重新聚能"/>
-    <trait identifier="1879162949" name="创伤箭"/>
-    <trait identifier="1879162950" name="龙怒油"/>
-    <trait identifier="1879162951" name="虚弱药剂"/>
-    <trait identifier="1879162952" name="智者之火"/>
-    <trait identifier="1879162953" name="缠足"/>
-    <trait identifier="1879162954" name="威胁怒吼"/>
-    <trait identifier="1879162955" name="狂怒旋风"/>
-    <trait identifier="1879162956" name="防御者之击"/>
-    <trait identifier="1879162928" name="坚韧体魄"/>
-    <trait identifier="1879162929" name="物理 potency"/>
-    <trait identifier="1879162930" name="物理韧性"/>
-    <trait identifier="1879174646" name="破甲"/>
-    <trait identifier="1879162931" name="战场技巧"/>
-    <trait identifier="1879162957" name="战术 potency"/>
-    <trait identifier="1879162958" name="战术韧性"/>
-    <trait identifier="1879174521" name="装甲突袭"/>
-    <trait identifier="1879174522" name="强力格挡"/>
-    <trait identifier="1879174523" name="防御战"/>
-    <trait identifier="1879174524" name="战斗大师"/>
-    <trait identifier="1879174527" name="闪避"/>
-    <trait identifier="1879174528" name="鼓舞"/>
-    <trait identifier="1879174530" name="引领前路"/>
-    <trait identifier="1879174532" name="战术技艺"/>
-    <trait identifier="1879174533" name="快速招架"/>
-    <trait identifier="1879174548" name="穿透之力"/>
-    <trait identifier="1879174534" name="守护者克星"/>
-    <trait identifier="1879174537" name="强大抗性"/>
-    <trait identifier="1879174539" name="灵巧步法"/>
-    <trait identifier="1879174541" name="意志坚定"/>
-    <trait identifier="1879179476" name="种族：矮人一族"/>
-    <trait identifier="1879179473" name="种族：精灵少女"/>
-    <trait identifier="1879179472" name="种族：精灵男性"/>
-    <trait identifier="1879179475" name="种族：此字段比特少女"/>
-    <trait identifier="1879179474" name="种族：此字段比特少年"/>
-    <trait identifier="1879179471" name="种族：人类女性"/>
-    <trait identifier="1879179470" name="种族：人类男性"/>
-    <trait identifier="1879239341" name="种族：男性洛汗人"/>
-    <trait identifier="1879239340" name="种族：女性洛汗人"/>
-    <trait identifier="1879173800" name="发色：红色"/>
-    <trait identifier="1879173738" name="发色：白色"/>
-    <trait identifier="1879173762" name="发色：黑色"/>
-    <trait identifier="1879173866" name="发色：金色"/>
-    <trait identifier="1879173929" name="发色：白色"/>
-    <trait identifier="1879173869" name="发色：金色"/>
-    <trait identifier="1879173735" name="发色：红色"/>
-    <trait identifier="1879173893" name="发色：黑色"/>
-    <trait identifier="1879173884" name="发色：白色"/>
-    <trait identifier="1879173821" name="发色：金色"/>
-    <trait identifier="1879173864" name="发色：红色"/>
-    <trait identifier="1879173793" name="发色：黑色"/>
-    <trait identifier="1879173750" name="发色：白色"/>
-    <trait identifier="1879173763" name="发色：金色"/>
-    <trait identifier="1879173754" name="发色：红色"/>
-    <trait identifier="1879173725" name="发色：黑色"/>
-    <trait identifier="1879173924" name="发色：白色"/>
-    <trait identifier="1879173774" name="发色：金色"/>
-    <trait identifier="1879173769" name="发色：红色"/>
-    <trait identifier="1879173764" name="发色：黑色"/>
-    <trait identifier="1879173820" name="发色：白色"/>
-    <trait identifier="1879173870" name="发色：金色"/>
-    <trait identifier="1879173716" name="发色：红色"/>
-    <trait identifier="1879173848" name="发色：黑色"/>
-    <trait identifier="1879173868" name="发色：白色"/>
-    <trait identifier="1879173804" name="发色：金色"/>
-    <trait identifier="1879173904" name="发色：红色"/>
-    <trait identifier="1879173916" name="发色：黑色"/>
-    <trait identifier="1879173858" name="短发 - 细胡须"/>
-    <trait identifier="1879173926" name="稀疏头发 - 满脸胡须"/>
-    <trait identifier="1879173812" name="短发 - 带绳胡须"/>
-    <trait identifier="1879173726" name="长发-浓密胡须"/>
-    <trait identifier="1879173813" name="短发 - 山羊胡"/>
-    <trait identifier="1879173833" name="长发 - 胡须"/>
-    <trait identifier="1879173784" name="长发-刮净胡须"/>
-    <trait identifier="1879173879" name="短发 - 翘胡子"/>
-    <trait identifier="1879173780" name="中长发-紧致发髻"/>
-    <trait identifier="1879173876" name="中长发-精致发辫"/>
-    <trait identifier="1879173881" name="中长发 - 刘海"/>
-    <trait identifier="1879173781" name="短发 - 碗盖头"/>
-    <trait identifier="1879173747" name="中长发 - 翻翘头"/>
-    <trait identifier="1879173761" name="短发 - 刘海"/>
-    <trait identifier="1879173810" name="中长发-紧致发髻"/>
-    <trait identifier="1879173877" name="长发 - 向后梳"/>
-    <trait identifier="1879173901" name="中长发 - 辫子"/>
-    <trait identifier="1879173834" name="长发 - 洛丝萝林战士风格"/>
-    <trait identifier="1879173920" name="长发-直切"/>
-    <trait identifier="1879173787" name="长发 - 刘海遮眼"/>
-    <trait identifier="1879173909" name="长发-马尾辫"/>
-    <trait identifier="1879173894" name="长发-左分"/>
-    <trait identifier="1879173832" name="长发-右分"/>
-    <trait identifier="1879173849" name="短发 - 左分"/>
-    <trait identifier="1879173891" name="短发 - 刘海"/>
-    <trait identifier="1879176775" name="精致绿色平民套装"/>
-    <trait identifier="1879176779" name="红色平民套装"/>
-    <trait identifier="1879176780" name="精致蓝色套装"/>
-    <trait identifier="1879176783" name="链甲守卫套装"/>
-    <trait identifier="1879176784" name="皮甲守卫套装"/>
-    <trait identifier="1879176786" name="鳞甲守卫套装"/>
-    <trait identifier="1879176788" name="长裙与外套"/>
-    <trait identifier="1879176789" name="矮人无袖外袍"/>
-    <trait identifier="1879176807" name="精灵无袖外袍"/>
-    <trait identifier="1879176825" name="霍比特人无袖外袍"/>
-    <trait identifier="1879176843" name="人类无袖外袍"/>
-    <trait identifier="1879176862" name="黑红骑行套装"/>
-    <trait identifier="1879176865" name="金色吸烟者套装"/>
-    <trait identifier="1879176867" name="米色正装"/>
-    <trait identifier="1879176871" name="蓝色工人套装"/>
-    <trait identifier="1879176873" name="藏青色镇长套装"/>
-    <trait identifier="1879176878" name="紫色镇长套装"/>
-    <trait identifier="1879176879" name="绿色西装外套"/>
-    <trait identifier="1879176881" name="链甲守卫套装"/>
-    <trait identifier="1879176882" name="皮甲守卫套装"/>
-    <trait identifier="1879176884" name="鳞甲守卫套装"/>
-    <trait identifier="1879176887" name="矮人无袖外袍"/>
-    <trait identifier="1879176905" name="精灵无袖外袍"/>
-    <trait identifier="1879176923" name="霍比特人无袖外袍"/>
-    <trait identifier="1879176960" name="米色农夫套装"/>
-    <trait identifier="1879176964" name="黄金赞助人套装"/>
-    <trait identifier="1879176726" name="红色正装"/>
-    <trait identifier="1879176967" name="深色乞丐装束"/>
-    <trait identifier="1879176731" name="红色刺客装束"/>
-    <trait identifier="1879176969" name="链甲守卫套装"/>
-    <trait identifier="1879176970" name="皮甲守卫套装"/>
-    <trait identifier="1879176972" name="鳞甲守卫套装"/>
-    <trait identifier="1879176975" name="矮人无袖外袍"/>
-    <trait identifier="1879176993" name="精灵无袖外袍"/>
-    <trait identifier="1879177011" name="霍比特人无袖外袍"/>
-    <trait identifier="1879177029" name="人类无袖外袍"/>
-    <trait identifier="1879177033" name="蓝色正装"/>
-    <trait identifier="1879177037" name="绿色商人套装"/>
-    <trait identifier="1879177039" name="蓝色主妇套装"/>
-    <trait identifier="1879177044" name="红色长裙"/>
-    <trait identifier="1879177047" name="红色刺客装束"/>
-    <trait identifier="1879177048" name="链甲守卫套装"/>
-    <trait identifier="1879177049" name="皮甲守卫套装"/>
-    <trait identifier="1879177051" name="鳞甲守卫套装"/>
-    <trait identifier="1879177053" name="矮人无袖外袍"/>
-    <trait identifier="1879177071" name="精灵无袖外袍"/>
-    <trait identifier="1879177089" name="霍比特人无袖外袍"/>
-    <trait identifier="1879177107" name="人类无袖外袍"/>
-    <trait identifier="1879177125" name="少女长裙"/>
-    <trait identifier="1879177126" name="主妇长裙"/>
-    <trait identifier="1879177128" name="绿色长袍"/>
-    <trait identifier="1879177129" name="红色长袍"/>
-    <trait identifier="1879177131" name="链甲守卫套装"/>
-    <trait identifier="1879177132" name="皮甲守卫套装"/>
-    <trait identifier="1879177134" name="鳞甲守卫套装"/>
-    <trait identifier="1879177154" name="精灵无袖外袍"/>
-    <trait identifier="1879177172" name="霍比特人无袖外袍"/>
-    <trait identifier="1879177190" name="人类无袖外袍"/>
-    <trait identifier="1879177288" name="平民套装"/>
-    <trait identifier="1879177289" name="蓝色贵族装束"/>
-    <trait identifier="1879177291" name="红色贵族装束"/>
-    <trait identifier="1879177293" name="链甲守卫套装"/>
-    <trait identifier="1879177294" name="皮甲守卫套装"/>
-    <trait identifier="1879177296" name="鳞甲守卫套装"/>
-    <trait identifier="1879177299" name="矮人无袖外袍"/>
-    <trait identifier="1879177317" name="精灵无袖外袍"/>
-    <trait identifier="1879177335" name="霍比特人无袖外袍"/>
-    <trait identifier="1879177353" name="人类无袖外袍"/>
-    <trait identifier="1879177371" name="平民套装"/>
-    <trait identifier="1879177374" name="商人套装"/>
-    <trait identifier="1879177378" name="贵族套装"/>
-    <trait identifier="1879177381" name="工人套装"/>
-    <trait identifier="1879177384" name="链甲守卫套装"/>
-    <trait identifier="1879177385" name="皮甲守卫套装"/>
-    <trait identifier="1879177387" name="鳞甲守卫套装"/>
-    <trait identifier="1879177390" name="矮人无袖外袍"/>
-    <trait identifier="1879177408" name="精灵无袖外袍"/>
-    <trait identifier="1879177426" name="霍比特人无袖外袍"/>
-    <trait identifier="1879177444" name="人类无袖外袍"/>
-    <trait identifier="1879239044" name="外观 - 男性洛汗战士"/>
-    <trait identifier="1879239042" name="外观 - 女性洛汗战士"/>
-    <trait identifier="1879455576" name="带头盔的米尔丹战士"/>
-    <trait identifier="1879455573" name="米尔丹战士套装"/>
-    <trait identifier="1879455575" name="带头盔的米尔丹战士"/>
-    <trait identifier="1879455574" name="米尔丹战士套装"/>
+<trait identifier="1879156209" name="角色：守护者"/>
+<trait identifier="1879156207" name="角色：弓箭手"/>
+<trait identifier="1879156206" name="角色：战士"/>
+<trait identifier="1879156204" name="角色：旗卫"/>
+<trait identifier="1879156205" name="角色：草药师"/>
+<trait identifier="1879156208" name="角色：智者"/>
+<trait identifier="1879154339" name="轻型护甲训练"/>
+<trait identifier="1879154340" name="中型护甲训练"/>
+<trait identifier="1879154338" name="重型护甲训练"/>
+<trait identifier="1879154341" name="盾牌训练"/>
+<trait identifier="1879154343" name="招架训练"/>
+<trait identifier="1879154342" name="闪避训练"/>
+<trait identifier="1879156199" name="防御训练"/>
+<trait identifier="1879156203" name="决心之力"/>
+<trait identifier="1879154345" name="熟练暴击"/>
+<trait identifier="1879154352" name="复苏士气"/>
+<trait identifier="1879154353" name="复苏力量"/>
+<trait identifier="1879154358" name="无尽士气"/>
+<trait identifier="1879154359" name="无尽力量"/>
+<trait identifier="1879156240" name="无尽决心"/>
+<trait identifier="1879156227" name="嘲讽打击"/>
+<trait identifier="1879156226" name="自力更生"/>
+<trait identifier="1879156225" name="威胁反击"/>
+<trait identifier="1879156217" name="快速横扫"/>
+<trait identifier="1879156216" name="强力横扫"/>
+<trait identifier="1879156218" name="强力打击"/>
+<trait identifier="1879156221" name="精准射击"/>
+<trait identifier="1879156219" name="致命射击"/>
+<trait identifier="1879156212" name="鼓舞反击"/>
+<trait identifier="1879156211" name="持久呐喊"/>
+<trait identifier="1879156224" name="战斗之语"/>
+<trait identifier="1879156222" name="寒风"/>
+<trait identifier="1879156214" name="提神草药"/>
+<trait identifier="1879156213" name="自然治愈"/>
+<trait identifier="1879156215" name="自然之力"/>
+<trait identifier="1879156238" name="终极技能：万物守护者"/>
+<trait identifier="1879156239" name="终极技能：孤胆守护者"/>
+<trait identifier="1879156233" name="终极技能：狂战士"/>
+<trait identifier="1879156232" name="终极技能：嗜血者"/>
+<trait identifier="1879156235" name="终极技能：精准箭术"/>
+<trait identifier="1879156234" name="终极技能：觅伤箭"/>
+<trait identifier="1879156229" name="终极技能：精准战旗"/>
+<trait identifier="1879156228" name="终极技能：防护战旗"/>
+<trait identifier="1879156236" name="终极技能：火焰之语"/>
+<trait identifier="1879156237" name="终极技能：冰霜之语"/>
+<trait identifier="1879156230" name="终极技能：治疗之语"/>
+<trait identifier="1879156231" name="终极技能：力量之语"/>
+<trait identifier="1879162936" name="召唤敌人"/>
+<trait identifier="1879162937" name="强力打击"/>
+<trait identifier="1879162938" name="鼓舞呐喊"/>
+<trait identifier="1879162939" name="英勇打击"/>
+<trait identifier="1879162940" name="决心药膏"/>
+<trait identifier="1879162941" name="无尽耐力草药"/>
+<trait identifier="1879162942" name="强化药剂"/>
+<trait identifier="1879162943" name="缴械打击"/>
+<trait identifier="1879162944" name="旋风创伤"/>
+<trait identifier="1879162945" name="切割打击"/>
+<trait identifier="1879162946" name="干扰射击"/>
+<trait identifier="1879162947" name="标记箭"/>
+<trait identifier="1879162948" name="重新聚能"/>
+<trait identifier="1879162949" name="创伤箭"/>
+<trait identifier="1879162950" name="龙怒油"/>
+<trait identifier="1879162951" name="虚弱药剂"/>
+<trait identifier="1879162952" name="智者之火"/>
+<trait identifier="1879162953" name="缠足"/>
+<trait identifier="1879162954" name="威胁怒吼"/>
+<trait identifier="1879162955" name="狂怒旋风"/>
+<trait identifier="1879162956" name="防御者之击"/>
+<trait identifier="1879162928" name="坚韧体魄"/>
+<trait identifier="1879162929" name="物理 potency"/>
+<trait identifier="1879162930" name="物理韧性"/>
+<trait identifier="1879174646" name="破甲"/>
+<trait identifier="1879162931" name="战场技巧"/>
+<trait identifier="1879162957" name="战术 potency"/>
+<trait identifier="1879162958" name="战术韧性"/>
+<trait identifier="1879174521" name="装甲突袭"/>
+<trait identifier="1879174522" name="强力格挡"/>
+<trait identifier="1879174523" name="防御战"/>
+<trait identifier="1879174524" name="战斗大师"/>
+<trait identifier="1879174527" name="闪避"/>
+<trait identifier="1879174528" name="鼓舞"/>
+<trait identifier="1879174530" name="引领前路"/>
+<trait identifier="1879174532" name="战术技艺"/>
+<trait identifier="1879174533" name="快速招架"/>
+<trait identifier="1879174548" name="穿透之力"/>
+<trait identifier="1879174534" name="守护者克星"/>
+<trait identifier="1879174537" name="强大抗性"/>
+<trait identifier="1879174539" name="灵巧步法"/>
+<trait identifier="1879174541" name="意志坚定"/>
+<trait identifier="1879179476" name="种族：矮人一族"/>
+<trait identifier="1879179473" name="种族：精灵少女"/>
+<trait identifier="1879179472" name="种族：精灵男性"/>
+<trait identifier="1879179475" name="种族：此字段比特少女"/>
+<trait identifier="1879179474" name="种族：此字段比特少年"/>
+<trait identifier="1879179471" name="种族：人类女性"/>
+<trait identifier="1879179470" name="种族：人类男性"/>
+<trait identifier="1879239341" name="种族：男性洛汗人"/>
+<trait identifier="1879239340" name="种族：女性洛汗人"/>
+<trait identifier="1879173800" name="发色：红色"/>
+<trait identifier="1879173738" name="发色：白色"/>
+<trait identifier="1879173762" name="发色：黑色"/>
+<trait identifier="1879173866" name="发色：金色"/>
+<trait identifier="1879173929" name="发色：白色"/>
+<trait identifier="1879173869" name="发色：金色"/>
+<trait identifier="1879173735" name="发色：红色"/>
+<trait identifier="1879173893" name="发色：黑色"/>
+<trait identifier="1879173884" name="发色：白色"/>
+<trait identifier="1879173821" name="发色：金色"/>
+<trait identifier="1879173864" name="发色：红色"/>
+<trait identifier="1879173793" name="发色：黑色"/>
+<trait identifier="1879173750" name="发色：白色"/>
+<trait identifier="1879173763" name="发色：金色"/>
+<trait identifier="1879173754" name="发色：红色"/>
+<trait identifier="1879173725" name="发色：黑色"/>
+<trait identifier="1879173924" name="发色：白色"/>
+<trait identifier="1879173774" name="发色：金色"/>
+<trait identifier="1879173769" name="发色：红色"/>
+<trait identifier="1879173764" name="发色：黑色"/>
+<trait identifier="1879173820" name="发色：白色"/>
+<trait identifier="1879173870" name="发色：金色"/>
+<trait identifier="1879173716" name="发色：红色"/>
+<trait identifier="1879173848" name="发色：黑色"/>
+<trait identifier="1879173868" name="发色：白色"/>
+<trait identifier="1879173804" name="发色：金色"/>
+<trait identifier="1879173904" name="发色：红色"/>
+<trait identifier="1879173916" name="发色：黑色"/>
+<trait identifier="1879173858" name="短发 - 细胡须"/>
+<trait identifier="1879173926" name="稀疏头发 - 满脸胡须"/>
+<trait identifier="1879173812" name="短发 - 带绳胡须"/>
+<trait identifier="1879173726" name="长发-浓密胡须"/>
+<trait identifier="1879173813" name="短发 - 山羊胡"/>
+<trait identifier="1879173833" name="长发 - 胡须"/>
+<trait identifier="1879173784" name="长发-刮净胡须"/>
+<trait identifier="1879173879" name="短发 - 翘胡子"/>
+<trait identifier="1879173780" name="中长发-紧致发髻"/>
+<trait identifier="1879173876" name="中长发-精致发辫"/>
+<trait identifier="1879173881" name="中长发 - 刘海"/>
+<trait identifier="1879173781" name="短发 - 碗盖头"/>
+<trait identifier="1879173747" name="中长发 - 翻翘头"/>
+<trait identifier="1879173761" name="短发 - 刘海"/>
+<trait identifier="1879173810" name="中长发-紧致发髻"/>
+<trait identifier="1879173877" name="长发 - 向后梳"/>
+<trait identifier="1879173901" name="中长发 - 辫子"/>
+<trait identifier="1879173834" name="长发 - 洛丝萝林战士风格"/>
+<trait identifier="1879173920" name="长发-直切"/>
+<trait identifier="1879173787" name="长发 - 刘海遮眼"/>
+<trait identifier="1879173909" name="长发-马尾辫"/>
+<trait identifier="1879173894" name="长发-左分"/>
+<trait identifier="1879173832" name="长发-右分"/>
+<trait identifier="1879173849" name="短发 - 左分"/>
+<trait identifier="1879173891" name="短发 - 刘海"/>
+<trait identifier="1879176775" name="精致绿色平民套装"/>
+<trait identifier="1879176779" name="红色平民套装"/>
+<trait identifier="1879176780" name="精致蓝色套装"/>
+<trait identifier="1879176783" name="链甲守卫套装"/>
+<trait identifier="1879176784" name="皮甲守卫套装"/>
+<trait identifier="1879176786" name="鳞甲守卫套装"/>
+<trait identifier="1879176788" name="长裙与外套"/>
+<trait identifier="1879176789" name="矮人无袖外袍"/>
+<trait identifier="1879176807" name="精灵无袖外袍"/>
+<trait identifier="1879176825" name="霍比特人无袖外袍"/>
+<trait identifier="1879176843" name="人类无袖外袍"/>
+<trait identifier="1879176862" name="黑红骑行套装"/>
+<trait identifier="1879176865" name="金色吸烟者套装"/>
+<trait identifier="1879176867" name="米色正装"/>
+<trait identifier="1879176871" name="蓝色工人套装"/>
+<trait identifier="1879176873" name="藏青色镇长套装"/>
+<trait identifier="1879176878" name="紫色镇长套装"/>
+<trait identifier="1879176879" name="绿色西装外套"/>
+<trait identifier="1879176881" name="链甲守卫套装"/>
+<trait identifier="1879176882" name="皮甲守卫套装"/>
+<trait identifier="1879176884" name="鳞甲守卫套装"/>
+<trait identifier="1879176887" name="矮人无袖外袍"/>
+<trait identifier="1879176905" name="精灵无袖外袍"/>
+<trait identifier="1879176923" name="霍比特人无袖外袍"/>
+<trait identifier="1879176960" name="米色农夫套装"/>
+<trait identifier="1879176964" name="黄金赞助人套装"/>
+<trait identifier="1879176726" name="红色正装"/>
+<trait identifier="1879176967" name="深色乞丐装束"/>
+<trait identifier="1879176731" name="红色刺客装束"/>
+<trait identifier="1879176969" name="链甲守卫套装"/>
+<trait identifier="1879176970" name="皮甲守卫套装"/>
+<trait identifier="1879176972" name="鳞甲守卫套装"/>
+<trait identifier="1879176975" name="矮人无袖外袍"/>
+<trait identifier="1879176993" name="精灵无袖外袍"/>
+<trait identifier="1879177011" name="霍比特人无袖外袍"/>
+<trait identifier="1879177029" name="人类无袖外袍"/>
+<trait identifier="1879177033" name="蓝色正装"/>
+<trait identifier="1879177037" name="绿色商人套装"/>
+<trait identifier="1879177039" name="蓝色主妇套装"/>
+<trait identifier="1879177044" name="红色长裙"/>
+<trait identifier="1879177047" name="红色刺客装束"/>
+<trait identifier="1879177048" name="链甲守卫套装"/>
+<trait identifier="1879177049" name="皮甲守卫套装"/>
+<trait identifier="1879177051" name="鳞甲守卫套装"/>
+<trait identifier="1879177053" name="矮人无袖外袍"/>
+<trait identifier="1879177071" name="精灵无袖外袍"/>
+<trait identifier="1879177089" name="霍比特人无袖外袍"/>
+<trait identifier="1879177107" name="人类无袖外袍"/>
+<trait identifier="1879177125" name="少女长裙"/>
+<trait identifier="1879177126" name="主妇长裙"/>
+<trait identifier="1879177128" name="绿色长袍"/>
+<trait identifier="1879177129" name="红色长袍"/>
+<trait identifier="1879177131" name="链甲守卫套装"/>
+<trait identifier="1879177132" name="皮甲守卫套装"/>
+<trait identifier="1879177134" name="鳞甲守卫套装"/>
+<trait identifier="1879177154" name="精灵无袖外袍"/>
+<trait identifier="1879177172" name="霍比特人无袖外袍"/>
+<trait identifier="1879177190" name="人类无袖外袍"/>
+<trait identifier="1879177288" name="平民套装"/>
+<trait identifier="1879177289" name="蓝色贵族装束"/>
+<trait identifier="1879177291" name="红色贵族装束"/>
+<trait identifier="1879177293" name="链甲守卫套装"/>
+<trait identifier="1879177294" name="皮甲守卫套装"/>
+<trait identifier="1879177296" name="鳞甲守卫套装"/>
+<trait identifier="1879177299" name="矮人无袖外袍"/>
+<trait identifier="1879177317" name="精灵无袖外袍"/>
+<trait identifier="1879177335" name="霍比特人无袖外袍"/>
+<trait identifier="1879177353" name="人类无袖外袍"/>
+<trait identifier="1879177371" name="平民套装"/>
+<trait identifier="1879177374" name="商人套装"/>
+<trait identifier="1879177378" name="贵族套装"/>
+<trait identifier="1879177381" name="工人套装"/>
+<trait identifier="1879177384" name="链甲守卫套装"/>
+<trait identifier="1879177385" name="皮甲守卫套装"/>
+<trait identifier="1879177387" name="鳞甲守卫套装"/>
+<trait identifier="1879177390" name="矮人无袖外袍"/>
+<trait identifier="1879177408" name="精灵无袖外袍"/>
+<trait identifier="1879177426" name="霍比特人无袖外袍"/>
+<trait identifier="1879177444" name="人类无袖外袍"/>
+<trait identifier="1879239044" name="外观 - 男性洛汗战士"/>
+<trait identifier="1879239042" name="外观 - 女性洛汗战士"/>
+<trait identifier="1879455576" name="带头盔的米尔丹战士"/>
+<trait identifier="1879455573" name="米尔丹战士套装"/>
+<trait identifier="1879455575" name="带头盔的米尔丹战士"/>
+<trait identifier="1879455574" name="米尔丹战士套装"/>
 </skirmishTraits>

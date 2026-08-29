@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="en">
-<label key="1879073664" value="Reaver"/>
-<label key="1879073665" value="Defiler"/>
-<label key="1879073666" value="Blackarrow"/>
-<label key="1879073667" value="Warleader"/>
-<label key="1879073668" value="Weaver"/>
-<label key="1879073669" value="Stalker"/>
-<label key="1879506835" value="Sorceress"/>
-<label key="key:620775379:228830419" value="Reavers are masters of martial combat.  Fearlessly charging into the enemy and unleashing their unrelenting rage.  Reavers are melee warriors that excel at single and multi-target damage."/>
-<label key="key:620775392:228830419" value="The Orc defiler has learned of plagues and venoms, and can put them to use restoring the forces of the dark lord or bring low the free people."/>
-<label key="key:620775395:228830419" value="A deadly shot with his massive bow, the Uruk Blackarrow uses his considerable strength to send his quiver of foul, feathered arrows deep into his targets."/>
-<label key="key:620775405:228830419" value="An impressive specimen of Orc, the Uruk Warleader commands and directs forces in battle."/>
-<label key="key:620775416:228830419" value="Using poisons and clinging webs, the weaver can manipulate and control her prey."/>
-<label key="key:620775426:228830419" value="Silent and stealthy, the stalker strikes suddenly and does not offer escape for his foe."/>
-<label key="key:621107447:228830419" value="Sworn to dark elemental forces, the Sorceress uses her granted power to cripple the enemy, rend their flesh, and reinforce her allies."/>
+<label key="1879073664" value="掠夺者"/>
+<label key="1879073665" value="污染者（Defiler）"/>
+<label key="1879073666" value="黑箭(Blackarrow)"/>
+<label key="1879073667" value="战争领袖"/>
+<label key="1879073668" value="编织者"/>
+<label key="1879073669" value="潜行者（Stalker）"/>
+<label key="1879506835" value="女巫"/>
+<label key="key:620775379:228830419" value="掠夺者是近战格斗的大师。他们无畏地冲入敌阵，释放出无尽的怒火。掠夺者是擅长单体和多目标伤害的近战战士。"/>
+<label key="key:620775392:228830419" value="兽人污染者掌握了瘟疫与毒液的知识，既能用它们恢复黑暗魔君的军队，也能用来削弱自由人民。"/>
+<label key="key:620775395:228830419" value="强兽人(Uruk)黑箭用他的巨弓射出致命一箭，凭借强大的力量将箭袋中污秽的羽箭深深射入目标体内。"/>
+<label key="key:620775405:228830419" value="乌鲁克战争领袖是兽人中有目共睹的强者，在战斗中指挥和调度部队。"/>
+<label key="key:620775416:228830419" value="编织者会使用毒药和粘性蛛网来操控并控制猎物。"/>
+<label key="key:620775426:228830419" value="潜行者沉默而隐秘，会突然发动攻击，不给敌人逃脱的机会。"/>
+<label key="key:621107447:228830419" value="巫师宣誓效忠黑暗元素之力，借由赐下的力量重创敌军、撕裂血肉，同时强化己方盟友。"/>
 </labels>

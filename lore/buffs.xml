@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><buffs>
-    <buff key="IN_DEFENCE_OF_MIDDLE_EARTH" effectId="1879053032" effectName="保卫中洲（In Defence of Middle-earth）"/>
-    <buff effectId="1879060192" effectName="盾卫守护"/>
-    <buff effectId="1879060866" effectName="礼赞II - 战争"/>
-    <buff key="MOTIVATED" effectId="1879073072" effectName="以中土之名"/>
-    <buff effectId="1879073120" effectName="礼赞III - 英勇"/>
-    <buff effectId="1879073122" effectName="礼赞III - 镇定"/>
-    <buff effectId="1879073616" effectName="矮人耐力"/>
-    <buff effectId="1879077245" effectName="老兵坚韧"/>
-    <buff effectId="1879084065" effectName="责无旁贷"/>
-    <buff effectId="1879095617" effectName="不谐"/>
-    <buff effectId="1879139404" effectName="精英决心"/>
-    <buff effectId="1879145414" effectName="静谧安宁"/>
-    <buff effectId="1879145605" effectName="强化能力"/>
-    <buff effectId="1879205019" effectName="礼赞I - 共鸣"/>
-    <buff effectId="1879205020" effectName="礼赞II - 不谐"/>
-    <buff effectId="1879216017" effectName="灵巧之卷"/>
-    <buff effectId="1879216259" effectName="精准：快速射击"/>
-    <buff effectId="1879217087" effectName="共鸣"/>
-    <buff effectId="1879217358" effectName="第三纪元圣歌 - 旋律"/>
-    <buff effectId="1879239303" effectName="静谧安宁"/>
+<buff key="IN_DEFENCE_OF_MIDDLE_EARTH" effectId="1879053032" effectName="保卫中洲（In Defence of Middle-earth）"/>
+<buff effectId="1879060192" effectName="盾卫守护"/>
+<buff effectId="1879060866" effectName="礼赞II - 战争"/>
+<buff key="MOTIVATED" effectId="1879073072" effectName="以中土之名"/>
+<buff effectId="1879073120" effectName="礼赞III - 英勇"/>
+<buff effectId="1879073122" effectName="礼赞III - 镇定"/>
+<buff effectId="1879073616" effectName="矮人耐力"/>
+<buff effectId="1879077245" effectName="老兵坚韧"/>
+<buff effectId="1879084065" effectName="责无旁贷"/>
+<buff effectId="1879095617" effectName="不谐"/>
+<buff effectId="1879139404" effectName="精英决心"/>
+<buff effectId="1879145414" effectName="静谧安宁"/>
+<buff effectId="1879145605" effectName="强化能力"/>
+<buff effectId="1879205019" effectName="礼赞I - 共鸣"/>
+<buff effectId="1879205020" effectName="礼赞II - 不谐"/>
+<buff effectId="1879216017" effectName="灵巧之卷"/>
+<buff effectId="1879216259" effectName="精准：快速射击"/>
+<buff effectId="1879217087" effectName="共鸣"/>
+<buff effectId="1879217358" effectName="第三纪元圣歌 - 旋律"/>
+<buff effectId="1879239303" effectName="静谧安宁"/>
 </buffs>

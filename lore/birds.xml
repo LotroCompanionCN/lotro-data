@@ -1,472 +1,472 @@
 <?xml version="1.0" encoding="UTF-8"?><birds>
-    <bird identifier="1879487540" name="寒鸦" callSoundID="704702735" typeCode="106" elvishName="key:621093895:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879487542" name="云雀" callSoundID="704702670" typeCode="107" elvishName="key:621093916:67141605" iconID="1092960285" largeIconID="1092961423"/>
-    <bird identifier="1879487548" name="切特啄木鸟" callSoundID="704702744" typeCode="117" elvishName="key:621093900:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879487549" name="斯密尔燕" callSoundID="704702679" typeCode="95" elvishName="key:621093901:67141605" iconID="1092960294" largeIconID="1092961412"/>
-    <bird identifier="1879487552" name="黄鹀" callSoundID="704702733" typeCode="136" elvishName="key:621093898:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879487553" name="绿头鸭" callSoundID="704702763" typeCode="113" elvishName="key:621093923:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879487555" name="水鸭" callSoundID="704702763" typeCode="92" elvishName="key:621093925:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879487556" name="雨燕" callSoundID="704702757" typeCode="105" elvishName="key:621093911:67141605" iconID="1092960284" largeIconID="1092961422"/>
-    <bird identifier="1879487557" name="金翅雀" callSoundID="704702760" typeCode="109" elvishName="key:621093906:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879487560" name="绿雀" callSoundID="704702760" typeCode="96" elvishName="key:621093914:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879487561" name="朱顶雀" callSoundID="704702760" typeCode="5" elvishName="key:621093919:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879487563" name="燕雀" callSoundID="704702760" typeCode="1" elvishName="key:621093905:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879487564" name="林鸽" callSoundID="704702664" typeCode="94" elvishName="key:621093913:67141605" iconID="1092960289" largeIconID="1092961418"/>
-    <bird identifier="1879487565" name="红翼鸫" callSoundID="704702753" typeCode="108" elvishName="key:621093918:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879487567" name="麻雀鹰" callSoundID="704702699" typeCode="116" elvishName="key:621093912:67141605" iconID="1092960277" largeIconID="1092961417"/>
-    <bird identifier="1879487568" name="黑水鸡" callSoundID="704702689" typeCode="110" elvishName="key:621093920:67141605" iconID="1092960295" largeIconID="1092961430"/>
-    <bird identifier="1879487569" name="苍头燕雀" callSoundID="704702760" typeCode="2" elvishName="key:621093897:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489378" name="歌鸫" callSoundID="704702753" typeCode="64" elvishName="key:621095476:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489379" name="黑背鸥" callSoundID="704702774" typeCode="8" elvishName="key:621095415:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879489380" name="林云雀" callSoundID="704702670" typeCode="137" elvishName="key:621095481:67141605" iconID="1092960285" largeIconID="1092961423"/>
-    <bird identifier="1879489381" name="埃德海尔天鹅" callSoundID="704702738" typeCode="163" elvishName="key:621095478:67141605" iconID="1092960282" largeIconID="1092961433"/>
-    <bird identifier="1879489382" name="Oranoril的鸣禽" callSoundID="704702722" typeCode="185" elvishName="key:621095524:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489383" name="游隼" callSoundID="704702727" typeCode="89" elvishName="key:621095545:67141605" iconID="1092960277" largeIconID="1092961417"/>
-    <bird identifier="1879489384" name="红雀" callSoundID="704702760" typeCode="56" elvishName="key:621095590:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489385" name="屠夫伯劳鸟" callSoundID="704702690" typeCode="199" elvishName="key:621095575:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489386" name="肃穆山雀" callSoundID="704702739" typeCode="128" elvishName="key:621095450:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489387" name="领主鹭" callSoundID="704702775" typeCode="174" elvishName="key:621095594:67141605" iconID="1092960293" largeIconID="1092961431"/>
-    <bird identifier="1879489388" name="草地鹨" callSoundID="704702700" typeCode="98" elvishName="key:621095584:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489389" name="迅鹬" callSoundID="704702672" typeCode="172" elvishName="key:621095420:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489390" name="崖燕" callSoundID="704702679" typeCode="39" elvishName="key:621095485:67141605" iconID="1092960294" largeIconID="1092961412"/>
-    <bird identifier="1879489391" name="琵嘴鸭" callSoundID="704702763" typeCode="123" elvishName="key:621095513:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489392" name="猎龙鹰" callSoundID="704702766" typeCode="216" elvishName="key:621095560:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489393" name="石南鸡" callSoundID="704702687" typeCode="34" elvishName="key:621095460:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879489394" name="雕木交喙鸟" callSoundID="704702760" typeCode="206" elvishName="key:621095471:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489395" name="内索恩鹀" callSoundID="704702733" typeCode="171" elvishName="key:621095573:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489396" name="绒鸭" callSoundID="704702763" typeCode="48" elvishName="key:621095468:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489397" name="石南地滚鸟" callSoundID="704702676" typeCode="214" elvishName="key:621095494:67141605" iconID="1092960278" largeIconID="1092961421"/>
-    <bird identifier="1879489399" name="红嘴山鸦" callSoundID="704702735" typeCode="59" elvishName="key:621095568:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879489400" name="斑尾塍鹬" callSoundID="704702741" typeCode="17" elvishName="key:621095571:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489401" name="埃里阿多尔松鸦" callSoundID="704702684" typeCode="126" elvishName="key:621095523:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489402" name="白眼鸭" callSoundID="704702763" typeCode="175" elvishName="key:621095492:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489404" name="悬巢山雀" callSoundID="704702739" typeCode="184" elvishName="key:621095447:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489405" name="暮色歌鸫" callSoundID="704702762" typeCode="180" elvishName="key:621095591:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489406" name="薹莺" callSoundID="704702722" typeCode="151" elvishName="key:621095457:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489407" name="叽咋柳莺" callSoundID="704702722" typeCode="69" elvishName="key:621095406:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489408" name="苔藓鹨" callSoundID="704702700" typeCode="186" elvishName="key:621095434:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489409" name="黑海番鸭" callSoundID="704702763" typeCode="16" elvishName="key:621095417:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489412" name="邓氏秧鸡" callSoundID="704702689" typeCode="211" elvishName="key:621095472:67141605" iconID="1092960295" largeIconID="1092961430"/>
-    <bird identifier="1879489413" name="希斯艾格利尔山鸦" callSoundID="704702735" typeCode="84" elvishName="key:621095483:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879489414" name="阿诺瑞恩猎鹰" callSoundID="704702727" typeCode="60" elvishName="key:621095470:67141605" iconID="1092960277" largeIconID="1092961417"/>
-    <bird identifier="1879489416" name="岩燕" callSoundID="704702679" typeCode="215" elvishName="key:621095418:67141605" iconID="1092960294" largeIconID="1092961412"/>
-    <bird identifier="1879489417" name="瓦拉迪斯的天鹅" callSoundID="704702738" typeCode="63" elvishName="key:621095549:67141605" iconID="1092960282" largeIconID="1092961433"/>
-    <bird identifier="1879489418" name="鲁道尔雁" callSoundID="704702778" typeCode="139" elvishName="key:621095516:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489419" name="金冠戴菊鸟" callSoundID="704702776" typeCode="65" elvishName="key:621095430:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489421" name="白喉林莺" callSoundID="704702722" typeCode="68" elvishName="key:621095505:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489422" name="灰鹡鸰" callSoundID="704702743" typeCode="62" elvishName="key:621095442:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489423" name="气候鸭" callSoundID="704702763" typeCode="122" elvishName="key:621095537:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489424" name="悲鸣爬树藤" callSoundID="704702747" typeCode="140" elvishName="key:621095519:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489425" name="迷雾猫头鹰" callSoundID="704702693" typeCode="88" elvishName="key:621095461:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879489426" name="针尾鸭" callSoundID="704702763" typeCode="26" elvishName="key:621095593:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489427" name="芦鹀" callSoundID="704702733" typeCode="102" elvishName="key:621095536:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489428" name="青脚鹬" callSoundID="704702672" typeCode="13" elvishName="key:621095413:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489429" name="银鸥" callSoundID="704702774" typeCode="15" elvishName="key:621095449:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879489430" name="松鹀" callSoundID="704702733" typeCode="79" elvishName="key:621095561:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489431" name="蓝椋鸟" callSoundID="704702698" typeCode="36" elvishName="key:621095563:67141605" iconID="1092960285" largeIconID="1092961423"/>
-    <bird identifier="1879489432" name="五子雀" callSoundID="704702770" typeCode="85" elvishName="key:621095469:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489433" name="斑点红脚鹬" callSoundID="704702672" typeCode="76" elvishName="key:621095533:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489434" name="鹪鹩" callSoundID="704702707" typeCode="75" elvishName="key:621095504:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489435" name="鹤" callSoundID="704702779" typeCode="166" elvishName="key:621095544:67141605" iconID="1092960292" largeIconID="1092961429"/>
-    <bird identifier="1879489437" name="斯图尔秧鸡" callSoundID="704702689" typeCode="173" elvishName="key:621095486:67141605" iconID="1092960295" largeIconID="1092961430"/>
-    <bird identifier="1879489438" name="黑顶鸥" callSoundID="704702774" typeCode="38" elvishName="key:621095547:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879489439" name="矮人雁" callSoundID="704702736" typeCode="87" elvishName="key:621095579:67141605" iconID="1092960298" largeIconID="1092961437"/>
-    <bird identifier="1879489440" name="凯勒布莉安鹀" callSoundID="704702733" typeCode="148" elvishName="key:621095514:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489441" name="埃特兰的唤风者" callSoundID="704702706" typeCode="18" elvishName="key:621095487:67141605" iconID="1092960291" largeIconID="1092961413"/>
-    <bird identifier="1879489442" name="肖水鸡" callSoundID="704702689" typeCode="133" elvishName="key:621095587:67141605" iconID="1092960295" largeIconID="1092961430"/>
-    <bird identifier="1879489443" name="锡嘴雀" callSoundID="704702760" typeCode="121" elvishName="key:621095467:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489444" name="灰泛河燕鸥" callSoundID="704702708" typeCode="155" elvishName="key:621095534:67141605" iconID="1092960291" largeIconID="1092961413"/>
-    <bird identifier="1879489445" name="浅 cloak 猎鹰" callSoundID="704702671" typeCode="197" elvishName="key:621095443:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489448" name="沼泽莺" callSoundID="704702722" typeCode="164" elvishName="key:621095433:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489449" name="灰雁" callSoundID="704702736" typeCode="112" elvishName="key:621095411:67141605" iconID="1092960298" largeIconID="1092961437"/>
-    <bird identifier="1879489451" name="镰形杓鹬" callSoundID="704702758" typeCode="52" elvishName="key:621095484:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489452" name="冬青雀" callSoundID="704702716" typeCode="177" elvishName="key:621095580:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489453" name="金斑鸻" callSoundID="704702723" typeCode="119" elvishName="key:621095479:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879489454" name="艾森雁" callSoundID="704702736" typeCode="212" elvishName="key:621095511:67141605" iconID="1092960298" largeIconID="1092961437"/>
-    <bird identifier="1879489455" name="红冠鸭" callSoundID="704702763" typeCode="205" elvishName="key:621095554:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489456" name="灰林鸮" callSoundID="704702693" typeCode="46" elvishName="key:621095576:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879489457" name="斯塔克高沼猫头鹰" callSoundID="704702693" typeCode="208" elvishName="key:621095438:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879489458" name="蠓水沼泽 Lapwing" callSoundID="704702701" typeCode="114" elvishName="key:621095454:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879489459" name="苍鹭" callSoundID="704702775" typeCode="134" elvishName="key:621095552:67141605" iconID="1092960293" largeIconID="1092961431"/>
-    <bird identifier="1879489460" name="布雷鸫" callSoundID="704702753" typeCode="111" elvishName="key:621095403:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489462" name="莱格林莺" callSoundID="704702722" typeCode="200" elvishName="key:621095401:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489463" name="大麦鸟" callSoundID="704702760" typeCode="41" elvishName="key:621095489:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489464" name="白鹬" callSoundID="704702672" typeCode="54" elvishName="key:621095408:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489465" name="粉脚雁" callSoundID="704702736" typeCode="43" elvishName="key:621095509:67141605" iconID="1092960298" largeIconID="1092961437"/>
-    <bird identifier="1879489466" name="林迪翁的莺" callSoundID="704702722" typeCode="144" elvishName="key:621095548:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489467" name="灯芯草沙锥" callSoundID="704702717" typeCode="97" elvishName="key:621095583:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489468" name="北燕鸥" callSoundID="704702708" typeCode="10" elvishName="key:621095462:67141605" iconID="1092960291" largeIconID="1092961413"/>
-    <bird identifier="1879489469" name="红鸢" callSoundID="704702759" typeCode="99" elvishName="key:621095595:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489470" name="环颈黑鸟" callSoundID="704702753" typeCode="154" elvishName="key:621095440:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489471" name="银鹳" callSoundID="704702765" typeCode="168" elvishName="key:621095526:67141605" iconID="1092960292" largeIconID="1092961429"/>
-    <bird identifier="1879489472" name="喜鹊" callSoundID="704702735" typeCode="71" elvishName="key:621095506:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879489473" name="Ereglad啄木鸟" callSoundID="704702744" typeCode="183" elvishName="key:621095565:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879489474" name="迷雾山脉跳鹀" callSoundID="704702733" typeCode="91" elvishName="key:621095538:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489475" name="杜鹃" callSoundID="704702769" typeCode="152" elvishName="key:621095480:67141605" iconID="1092960279" largeIconID="1092961435"/>
-    <bird identifier="1879489476" name="红脚鹬" callSoundID="704702672" typeCode="40" elvishName="key:621095497:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489477" name="水鹨" callSoundID="704702700" typeCode="150" elvishName="key:621095589:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489478" name="捕蚊鸟" callSoundID="704702691" typeCode="25" elvishName="key:621095588:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489479" name="冷杉雁" callSoundID="704702736" typeCode="20" elvishName="key:621095482:67141605" iconID="1092960298" largeIconID="1092961437"/>
-    <bird identifier="1879489481" name="田鹪鹩" callSoundID="704702722" typeCode="204" elvishName="key:621095459:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489482" name="高山朱顶雀" callSoundID="704702760" typeCode="176" elvishName="key:621095502:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489483" name="红角猎鹰" callSoundID="704702727" typeCode="182" elvishName="key:621095559:67141605" iconID="1092960277" largeIconID="1092961417"/>
-    <bird identifier="1879489484" name="白兰地林莺" callSoundID="704702722" typeCode="118" elvishName="key:621095429:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489485" name="卡拉诺云雀" callSoundID="704702670" typeCode="178" elvishName="key:621095466:67141605" iconID="1092960285" largeIconID="1092961423"/>
-    <bird identifier="1879489487" name="北丘傻锤鸟" callSoundID="704702733" typeCode="104" elvishName="key:621095456:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489488" name="暗鸦" callSoundID="704702735" typeCode="189" elvishName="key:621095570:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879489489" name="黑顶林莺" callSoundID="704702722" typeCode="81" elvishName="key:621095500:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489490" name="普通秧鸡" callSoundID="704702689" typeCode="61" elvishName="key:621095557:67141605" iconID="1092960295" largeIconID="1092961430"/>
-    <bird identifier="1879489491" name="欢悦麦鸡" callSoundID="704702701" typeCode="201" elvishName="key:621095423:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879489492" name="丰收鹀" callSoundID="704702733" typeCode="125" elvishName="key:621095510:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489493" name="风落猫头鹰" callSoundID="704702693" typeCode="194" elvishName="key:621095541:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879489494" name="石鸫" callSoundID="704702762" typeCode="131" elvishName="key:621095525:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489495" name="红腹滨鹬" callSoundID="704702672" typeCode="9" elvishName="key:621095428:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489496" name="Falathlorn啄木鸟" callSoundID="704702744" typeCode="49" elvishName="key:621095405:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879489497" name="长尾鸭" callSoundID="704702763" typeCode="51" elvishName="key:621095542:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489498" name="灰烬秃鹫" callSoundID="704702685" typeCode="32" elvishName="key:621095521:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489499" name="伊西尔卡云雀" callSoundID="704702670" typeCode="161" elvishName="key:621095496:67141605" iconID="1092960285" largeIconID="1092961423"/>
-    <bird identifier="1879489500" name="林沙锥" callSoundID="704702717" typeCode="157" elvishName="key:621095402:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489501" name="小猎鹰" callSoundID="704702727" typeCode="158" elvishName="key:621095499:67141605" iconID="1092960277" largeIconID="1092961417"/>
-    <bird identifier="1879489502" name="布鲁南雀" callSoundID="704702760" typeCode="141" elvishName="key:621095475:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489503" name="长尾山雀" callSoundID="704702739" typeCode="14" elvishName="key:621095555:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489504" name="丘陵鹀" callSoundID="704702733" typeCode="74" elvishName="key:621095495:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489505" name="蓝山雀" callSoundID="704702739" typeCode="78" elvishName="key:621095577:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489506" name="暮鸽" callSoundID="704702664" typeCode="55" elvishName="key:621095574:67141605" iconID="1092960289" largeIconID="1092961418"/>
-    <bird identifier="1879489507" name="纳尔方岸行者" callSoundID="704702749" typeCode="37" elvishName="key:621095517:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489508" name="悲叹猫头鹰" callSoundID="704702693" typeCode="187" elvishName="key:621095528:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879489509" name="佩里安猫头鹰" callSoundID="704702693" typeCode="147" elvishName="key:621095550:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879489510" name="白喉河乌" callSoundID="704702767" typeCode="58" elvishName="key:621095416:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489511" name="金雀花鸫" callSoundID="704702762" typeCode="83" elvishName="key:621095426:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489512" name="玫瑰莺" callSoundID="704702722" typeCode="159" elvishName="key:621095592:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489513" name="昏暗猎鹰" callSoundID="704702671" typeCode="31" elvishName="key:621095578:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489514" name="火冠戴菊鸟" callSoundID="704702776" typeCode="179" elvishName="key:621095529:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489515" name="Orth龙鸭" callSoundID="704702763" typeCode="7" elvishName="key:621095409:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489516" name="雪风筝" callSoundID="704702759" typeCode="12" elvishName="key:621095455:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489517" name="秋沙鸭" callSoundID="704702763" typeCode="149" elvishName="key:621095435:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489518" name="麦翁鸟" callSoundID="704702691" typeCode="45" elvishName="key:621095491:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489519" name="shrouded drake" callSoundID="704702763" typeCode="30" elvishName="key:621095488:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489520" name="黑鸢" callSoundID="704702759" typeCode="135" elvishName="key:621095586:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489521" name="红胸鸫" callSoundID="704702753" typeCode="93" elvishName="key:621095551:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489522" name="德鲁恩鹀" callSoundID="704702733" typeCode="213" elvishName="key:621095512:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489523" name="铁蜡翅" callSoundID="704702668" typeCode="28" elvishName="key:621095582:67141605" iconID="1092960285" largeIconID="1092961423"/>
-    <bird identifier="1879489526" name="斑鸠" callSoundID="704702664" typeCode="153" elvishName="key:621095473:67141605" iconID="1092960289" largeIconID="1092961418"/>
-    <bird identifier="1879489527" name="蓝尾鸲" callSoundID="704702762" typeCode="202" elvishName="key:621095410:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489528" name="黑雁" callSoundID="704702736" typeCode="217" elvishName="key:621095458:67141605" iconID="1092960298" largeIconID="1092961437"/>
-    <bird identifier="1879489529" name="沼泽沙锥" callSoundID="704702717" typeCode="207" elvishName="key:621095546:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489532" name="崖壁蔓生植物" callSoundID="704702747" typeCode="90" elvishName="key:621095564:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489533" name="Mournshaw蜂虎" callSoundID="704702676" typeCode="193" elvishName="key:621095407:67141605" iconID="1092960278" largeIconID="1092961421"/>
-    <bird identifier="1879489534" name="沼泽山雀" callSoundID="704702739" typeCode="167" elvishName="key:621095527:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489538" name="古墓鸻" callSoundID="704702723" typeCode="162" elvishName="key:621095431:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879489539" name="红燕" callSoundID="704702679" typeCode="198" elvishName="key:621095452:67141605" iconID="1092960294" largeIconID="1092961412"/>
-    <bird identifier="1879489540" name="努诺亚尔燕鸥" callSoundID="704702708" typeCode="53" elvishName="key:621095446:67141605" iconID="1092960291" largeIconID="1092961413"/>
-    <bird identifier="1879489541" name="石鸻" callSoundID="704702758" typeCode="130" elvishName="key:621095501:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879489543" name="瑞文戴尔啄木鸟" callSoundID="704702744" typeCode="146" elvishName="key:621095474:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879489545" name="埃滕山雀" callSoundID="704702739" typeCode="138" elvishName="key:621095404:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489549" name="原鸽" callSoundID="704702664" typeCode="70" elvishName="key:621095421:67141605" iconID="1092960289" largeIconID="1092961418"/>
-    <bird identifier="1879489550" name="苇雀" callSoundID="704702739" typeCode="191" elvishName="key:621095412:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489551" name="马德尔加德鹡鸰" callSoundID="704702743" typeCode="103" elvishName="key:621095437:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489552" name="秃鼻鸦" callSoundID="704702735" typeCode="42" elvishName="key:621095585:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879489553" name="矮人之麻鳽" callSoundID="704702775" typeCode="165" elvishName="key:621095399:67141605" iconID="1092960293" largeIconID="1092961431"/>
-    <bird identifier="1879489554" name="岩鹀" callSoundID="704702733" typeCode="160" elvishName="key:621095572:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489555" name="银齿峰猎鹰" callSoundID="704702671" typeCode="188" elvishName="key:621095427:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489556" name="燕子" callSoundID="704702679" typeCode="120" elvishName="key:621095518:67141605" iconID="1092960294" largeIconID="1092961412"/>
-    <bird identifier="1879489557" name="石谷苍鹰" callSoundID="704702699" typeCode="209" elvishName="key:621095535:67141605" iconID="1092960277" largeIconID="1092961417"/>
-    <bird identifier="1879489558" name="蛎鹬" callSoundID="704702723" typeCode="72" elvishName="key:621095558:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879489559" name="白尾海雕" callSoundID="704702766" typeCode="44" elvishName="key:621095451:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489560" name="胡桃钳鸦" callSoundID="704702735" typeCode="143" elvishName="key:621095515:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879489561" name="潜鸭" callSoundID="704702763" typeCode="50" elvishName="key:621095422:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489562" name="角跳禽" callSoundID="704702701" typeCode="27" elvishName="key:621095522:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879489563" name="红腹灰雀" callSoundID="704702760" typeCode="82" elvishName="key:621095520:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489564" name="金雕" callSoundID="704702766" typeCode="80" elvishName="key:621095477:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879489567" name="蓝嘴鸭" callSoundID="704702763" typeCode="23" elvishName="key:621095562:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489568" name="哀鸣雀" callSoundID="704702760" typeCode="33" elvishName="key:621095543:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489569" name="鹪鹩" callSoundID="704702681" typeCode="86" elvishName="key:621095464:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489570" name="河莺" callSoundID="704702722" typeCode="192" elvishName="key:621095567:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489571" name="歪颈啄木鸟" callSoundID="704702744" typeCode="195" elvishName="key:621095498:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879489572" name="黄鹡鸰" callSoundID="704702743" typeCode="190" elvishName="key:621095463:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489573" name="冰湾鸻" callSoundID="704702723" typeCode="21" elvishName="key:621095441:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879489574" name="灰捕蚊鸟" callSoundID="704702691" typeCode="196" elvishName="key:621095439:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489575" name="槲鸫" callSoundID="704702753" typeCode="24" elvishName="key:621095569:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489576" name="梅卢因水鸡" callSoundID="704702689" typeCode="67" elvishName="key:621095566:67141605" iconID="1092960295" largeIconID="1092961430"/>
-    <bird identifier="1879489577" name="梅塞德拉夜莺" callSoundID="704702762" typeCode="203" elvishName="key:621095448:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489643" name="红喉潜鸟" callSoundID="704702721" typeCode="19" elvishName="key:621095665:67141605" iconID="1092960272" largeIconID="1092961426"/>
-    <bird identifier="1879489644" name="贝烈格的伯劳鸟" callSoundID="704702690" typeCode="77" elvishName="key:621095674:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489645" name="沼鸡" callSoundID="704702704" typeCode="127" elvishName="key:621095669:67141605" iconID="1092960274" largeIconID="1092961419"/>
-    <bird identifier="1879489646" name="金画眉" callSoundID="704702668" typeCode="142" elvishName="key:621095659:67141605" iconID="1092960285" largeIconID="1092961423"/>
-    <bird identifier="1879489647" name="赤褐田鸡" callSoundID="704702756" typeCode="156" elvishName="key:621095657:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879489648" name="涉水泥鹭" callSoundID="704702663" typeCode="170" elvishName="key:621095666:67141605" iconID="1092960283" largeIconID="1092961415"/>
-    <bird identifier="1879489649" name="国王陨落黑鸟" callSoundID="704702753" typeCode="66" elvishName="key:621095661:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879489650" name="孤鹰" callSoundID="704702703" typeCode="124" elvishName="key:621095651:67141605" iconID="1092960277" largeIconID="1092961417"/>
-    <bird identifier="1879489651" name="佛诺斯特猎鹰" callSoundID="704702703" typeCode="73" elvishName="key:621095673:67141605" iconID="1092960277" largeIconID="1092961417"/>
-    <bird identifier="1879489652" name="迷雾-ruff" callSoundID="704702687" typeCode="181" elvishName="key:621095656:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879489653" name="法德拉赫的沼泽鸟" callSoundID="704702674" typeCode="35" elvishName="key:621095672:67141605" iconID="1092960289" largeIconID="1092961418"/>
-    <bird identifier="1879489654" name="柳鸡" callSoundID="704702687" typeCode="11" elvishName="key:621095664:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879489655" name="黑鸡" callSoundID="704702687" typeCode="210" elvishName="key:621095663:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879489656" name="长脚鹭" callSoundID="704702663" typeCode="129" elvishName="key:621095660:67141605" iconID="1092960283" largeIconID="1092961415"/>
-    <bird identifier="1879489657" name="米塞塞尔达布 chick" callSoundID="704702710" typeCode="169" elvishName="key:621095654:67141605" iconID="1092960272" largeIconID="1092961426"/>
-    <bird identifier="1879489658" name="哭泣苍鹭" callSoundID="704702663" typeCode="57" elvishName="key:621095658:67141605" iconID="1092960283" largeIconID="1092961415"/>
-    <bird identifier="1879489659" name="哭泣潜鸭" callSoundID="704702763" typeCode="29" elvishName="key:621095653:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879489660" name="马里什达布 chick" callSoundID="704702710" typeCode="101" elvishName="key:621095667:67141605" iconID="1092960272" largeIconID="1092961426"/>
-    <bird identifier="1879489661" name="阿兰塔尔燕鸥" callSoundID="704702708" typeCode="132" elvishName="key:621095668:67141605" iconID="1092960291" largeIconID="1092961413"/>
-    <bird identifier="1879489662" name="榛鸡" callSoundID="704702687" typeCode="145" elvishName="key:621095662:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879489663" name="阔步 ruff" callSoundID="704702675" typeCode="115" elvishName="key:621095655:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879489664" name="岩鸽" callSoundID="704702664" typeCode="47" elvishName="key:621095652:67141605" iconID="1092960289" largeIconID="1092961418"/>
-    <bird identifier="1879489665" name="耶鲁雀" callSoundID="704702716" typeCode="100" elvishName="key:621095670:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879489666" name="荒原麻鸭" callSoundID="704702778" typeCode="22" elvishName="key:621095671:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879499532" name="凤头山雀" callSoundID="704702739" typeCode="218" elvishName="key:621102811:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499533" name="赤麻鸭" callSoundID="704702778" typeCode="337" elvishName="key:621102892:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879499534" name="缇努维尔的夜莺" callSoundID="704702762" typeCode="233" elvishName="key:621102857:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499535" name="银东禽" callSoundID="704702711" typeCode="301" elvishName="key:621102914:67141605" iconID="1092960290" largeIconID="1092961432"/>
-    <bird identifier="1879499536" name="颠茄鹀" callSoundID="704702733" typeCode="245" elvishName="key:621102865:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499537" name="小鸬鹚" callSoundID="704702721" typeCode="259" elvishName="key:621102918:67141605" iconID="1092960272" largeIconID="1092961426"/>
-    <bird identifier="1879499538" name="蓝鸫" callSoundID="704702753" typeCode="298" elvishName="key:621102832:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879499539" name="泥潭秧鸡" callSoundID="704702689" typeCode="273" elvishName="key:621102875:67141605" iconID="1092960295" largeIconID="1092961430"/>
-    <bird identifier="1879499540" name="黑尾塍鹬" callSoundID="704702741" typeCode="311" elvishName="key:621102854:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499541" name="石鹨" callSoundID="704702700" typeCode="268" elvishName="key:621102834:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499542" name="暗影红尾鸲" callSoundID="704702762" typeCode="236" elvishName="key:621102908:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499543" name="灰鹨" callSoundID="704702700" typeCode="289" elvishName="key:621102909:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499544" name="古尔都伯劳鸟" callSoundID="704702690" typeCode="242" elvishName="key:621102849:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499545" name="恩特沃什鹨" callSoundID="704702700" typeCode="305" elvishName="key:621102924:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499546" name="Egladil啄木鸟" callSoundID="704702744" typeCode="226" elvishName="key:621102843:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879499547" name="哭泣猫头鹰" callSoundID="704702693" typeCode="231" elvishName="key:621102925:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879499548" name="荒野锤鸟" callSoundID="704702733" typeCode="265" elvishName="key:621102853:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499549" name="白翅燕鸥" callSoundID="704702708" typeCode="312" elvishName="key:621102850:67141605" iconID="1092960291" largeIconID="1092961413"/>
-    <bird identifier="1879499550" name="西谷 Eddish-hen" callSoundID="704702675" typeCode="320" elvishName="key:621102923:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879499551" name="希卡鼠" callSoundID="704702739" typeCode="341" elvishName="key:621102856:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499552" name="暮鹰" callSoundID="704702703" typeCode="239" elvishName="key:621102818:67141605" iconID="1092960277" largeIconID="1092961417"/>
-    <bird identifier="1879499553" name="领圈泽鹬" callSoundID="704702717" typeCode="270" elvishName="key:621102882:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499554" name="翠鸟" callSoundID="704702763" typeCode="221" elvishName="key:621102877:67141605" iconID="1092960278" largeIconID="1092961421"/>
-    <bird identifier="1879499555" name="雾莺" callSoundID="704702722" typeCode="219" elvishName="key:621102922:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499556" name="条纹捕蚊鸟" callSoundID="704702691" typeCode="300" elvishName="key:621102889:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499557" name="亡灵猫头鹰" callSoundID="704702693" typeCode="247" elvishName="key:621102824:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879499558" name="角达布 chick" callSoundID="704702710" typeCode="235" elvishName="key:621102926:67141605" iconID="1092960272" largeIconID="1092961426"/>
-    <bird identifier="1879499559" name="黑天鹅" callSoundID="704702738" typeCode="255" elvishName="key:621102910:67141605" iconID="1092960282" largeIconID="1092961433"/>
-    <bird identifier="1879499560" name="芸香鸽" callSoundID="704702664" typeCode="228" elvishName="key:621102893:67141605" iconID="1092960289" largeIconID="1092961418"/>
-    <bird identifier="1879499561" name="西瑞安燕鸥" callSoundID="704702708" typeCode="251" elvishName="key:621102911:67141605" iconID="1092960291" largeIconID="1092961413"/>
-    <bird identifier="1879499562" name="潜伏爬树藤" callSoundID="704702747" typeCode="237" elvishName="key:621102884:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499563" name="芬布瑞希尔火冠戴菊鸟" callSoundID="704702776" typeCode="286" elvishName="key:621102821:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499564" name="黑头鹀" callSoundID="704702733" typeCode="281" elvishName="key:621102878:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499565" name="浅黄幼鸟" callSoundID="704702758" typeCode="302" elvishName="key:621102873:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499566" name="Ent啄木鸟" callSoundID="704702744" typeCode="283" elvishName="key:621102904:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879499567" name="领圈捕蚊鸟" callSoundID="704702691" typeCode="285" elvishName="key:621102898:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499568" name="锈燕" callSoundID="704702679" typeCode="263" elvishName="key:621102927:67141605" iconID="1092960294" largeIconID="1092961412"/>
-    <bird identifier="1879499569" name="马刺鹨" callSoundID="704702700" typeCode="340" elvishName="key:621102819:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499570" name="幽暗密林啄木鸟" callSoundID="704702744" typeCode="238" elvishName="key:621102870:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879499571" name="伊奥希尔德的鸣禽" callSoundID="704702722" typeCode="336" elvishName="key:621102935:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499572" name="范贡莺" callSoundID="704702722" typeCode="276" elvishName="key:621102871:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499573" name="灯芯草沼麻鳽" callSoundID="704702775" typeCode="253" elvishName="key:621102887:67141605" iconID="1092960293" largeIconID="1092961431"/>
-    <bird identifier="1879499574" name="辉光鹡鸰" callSoundID="704702743" typeCode="262" elvishName="key:621102847:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499575" name="夜冠" callSoundID="704702722" typeCode="222" elvishName="key:621102886:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499576" name="紫鹭" callSoundID="704702775" typeCode="316" elvishName="key:621102921:67141605" iconID="1092960293" largeIconID="1092961431"/>
-    <bird identifier="1879499577" name="赤鹬" callSoundID="704702672" typeCode="266" elvishName="key:621102874:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499578" name="Helm's Erne" callSoundID="704702766" typeCode="329" elvishName="key:621102828:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879499579" name="少女鹤" callSoundID="704702779" typeCode="293" elvishName="key:621102836:67141605" iconID="1092960292" largeIconID="1092961429"/>
-    <bird identifier="1879499580" name="红胸捕蚊鸟" callSoundID="704702691" typeCode="317" elvishName="key:621102826:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499581" name="邪恶乌鸦" callSoundID="704702735" typeCode="234" elvishName="key:621102931:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879499582" name="瑟里赫恩秃鹫" callSoundID="704702685" typeCode="326" elvishName="key:621102846:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879499583" name="石 dean 红雀" callSoundID="704702760" typeCode="323" elvishName="key:621102817:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499584" name="斑点杜鹃" callSoundID="704702769" typeCode="278" elvishName="key:621102822:67141605" iconID="1092960279" largeIconID="1092961435"/>
-    <bird identifier="1879499585" name="埃弗霍尔特乌鸫" callSoundID="704702753" typeCode="343" elvishName="key:621102859:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879499586" name="厄斯克-亨" callSoundID="704702736" typeCode="271" elvishName="key:621102840:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879499587" name="须瓣蹼鸡" callSoundID="704702704" typeCode="294" elvishName="key:621102862:67141605" iconID="1092960274" largeIconID="1092961419"/>
-    <bird identifier="1879499588" name="农舍猫头鹰" callSoundID="704702693" typeCode="290" elvishName="key:621102900:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879499589" name="银雁" callSoundID="704702736" typeCode="327" elvishName="key:621102845:67141605" iconID="1092960298" largeIconID="1092961437"/>
-    <bird identifier="1879499590" name="哈罗猫头鹰" callSoundID="704702693" typeCode="334" elvishName="key:621102851:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879499591" name="艾恩萨加燕鸥" callSoundID="704702708" typeCode="338" elvishName="key:621102917:67141605" iconID="1092960291" largeIconID="1092961413"/>
-    <bird identifier="1879499592" name="瑁珑雀" callSoundID="704702760" typeCode="232" elvishName="key:621102899:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499593" name="距翅麦鸡" callSoundID="704702701" typeCode="274" elvishName="key:621102825:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879499594" name="猎隼" callSoundID="704702727" typeCode="325" elvishName="key:621102869:67141605" iconID="1093003939" largeIconID="1093003943"/>
-    <bird identifier="1879499595" name="黑鹳" callSoundID="704702765" typeCode="241" elvishName="key:621102902:67141605" iconID="1092960292" largeIconID="1092961429"/>
-    <bird identifier="1879499596" name="雕鸮" callSoundID="704702693" typeCode="282" elvishName="key:621102864:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879499597" name="狐隼" callSoundID="704702703" typeCode="313" elvishName="key:621102915:67141605" iconID="1093003939" largeIconID="1093003943"/>
-    <bird identifier="1879499598" name="裂岸鸻" callSoundID="704702723" typeCode="248" elvishName="key:621102863:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879499599" name="带头盔的海鸥" callSoundID="704702774" typeCode="331" elvishName="key:621102932:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879499600" name="masked屠夫鸟" callSoundID="704702690" typeCode="322" elvishName="key:621102895:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499601" name="亩雁" callSoundID="704702736" typeCode="288" elvishName="key:621102929:67141605" iconID="1092960298" largeIconID="1092961437"/>
-    <bird identifier="1879499602" name="色贝兰交喙鸟" callSoundID="704702760" typeCode="252" elvishName="key:621102930:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499603" name="安都因之鹰" callSoundID="704702766" typeCode="330" elvishName="key:621102827:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879499604" name="戴胜鸟" callSoundID="704702736" typeCode="303" elvishName="key:621102842:67141605" iconID="1093003941" largeIconID="1093003944"/>
-    <bird identifier="1879499605" name="灰伯劳鸟" callSoundID="704702690" typeCode="309" elvishName="key:621102881:67141605" iconID="1093003945" largeIconID="1093003942"/>
-    <bird identifier="1879499606" name="灰寒鸦" callSoundID="704702735" typeCode="319" elvishName="key:621102916:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879499607" name="暗云雀" callSoundID="704702670" typeCode="244" elvishName="key:621102913:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879499608" name="农舍燕" callSoundID="704702679" typeCode="318" elvishName="key:621102839:67141605" iconID="1092960294" largeIconID="1092961412"/>
-    <bird identifier="1879499609" name="斑点蓝喉歌鸲" callSoundID="704702762" typeCode="342" elvishName="key:621102829:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499610" name="斑胸林莺" callSoundID="704702722" typeCode="292" elvishName="key:621102934:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499611" name="沼泽行者" callSoundID="704702672" typeCode="257" elvishName="key:621102815:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499612" name="红 hood" callSoundID="704702760" typeCode="279" elvishName="key:621102894:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499613" name="镰喙鸟" callSoundID="704702717" typeCode="314" elvishName="key:621102933:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499614" name="幽魂莺" callSoundID="704702722" typeCode="240" elvishName="key:621102880:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499615" name="迪姆里尔火冠戴菊鸟" callSoundID="704702776" typeCode="225" elvishName="key:621102837:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499616" name="黑喉潜鸟" callSoundID="704702721" typeCode="315" elvishName="key:621102936:67141605" iconID="1092960272" largeIconID="1092961426"/>
-    <bird identifier="1879499617" name="蓝色猎鹰" callSoundID="704702671" typeCode="267" elvishName="key:621102868:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879499618" name="宁若黛尔鹨" callSoundID="704702700" typeCode="224" elvishName="key:621102897:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499619" name="蒙面白喉鸟" callSoundID="704702722" typeCode="254" elvishName="key:621102920:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499620" name="雪溪鹬" callSoundID="704702672" typeCode="295" elvishName="key:621102812:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499621" name="深谷鹪鹩" callSoundID="704702707" typeCode="324" elvishName="key:621102903:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499622" name="莎草剪水鹨" callSoundID="704702689" typeCode="299" elvishName="key:621102820:67141605" iconID="1092960295" largeIconID="1092961430"/>
-    <bird identifier="1879499623" name="矛尾鸡" callSoundID="704702674" typeCode="297" elvishName="key:621102855:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879499624" name="广亩原白尾鸟" callSoundID="704702691" typeCode="310" elvishName="key:621102906:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499625" name="黑喉鹪鹩" callSoundID="704702707" typeCode="277" elvishName="key:621102896:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499626" name="红喉鹨" callSoundID="704702700" typeCode="256" elvishName="key:621102879:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879499627" name="甜 minstrel" callSoundID="704702760" typeCode="229" elvishName="key:621102872:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499628" name="伊奥尔的莺" callSoundID="704702722" typeCode="275" elvishName="key:621102860:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499629" name="铲喙鹭" callSoundID="704702775" typeCode="261" elvishName="key:621102841:67141605" iconID="1092960292" largeIconID="1092961429"/>
-    <bird identifier="1879499630" name="林鹬" callSoundID="704702672" typeCode="308" elvishName="key:621102816:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499631" name="哈尔维斯特鸟" callSoundID="704702723" typeCode="332" elvishName="key:621102901:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879499632" name="月桂鸽" callSoundID="704702664" typeCode="223" elvishName="key:621102919:67141605" iconID="1092960289" largeIconID="1092961418"/>
-    <bird identifier="1879499633" name="金歌鸟" callSoundID="704702760" typeCode="220" elvishName="key:621102876:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499634" name="夜鹭" callSoundID="704702775" typeCode="246" elvishName="key:621102890:67141605" iconID="1092960293" largeIconID="1092961431"/>
-    <bird identifier="1879499635" name="溪鸣莺" callSoundID="704702722" typeCode="249" elvishName="key:621102813:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499636" name="沼泽地鹬" callSoundID="704702672" typeCode="335" elvishName="key:621102844:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499637" name="岩鸫" callSoundID="704702753" typeCode="264" elvishName="key:621102883:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879499638" name="贝尔兰天鹅" callSoundID="704702738" typeCode="230" elvishName="key:621102831:67141605" iconID="1092960282" largeIconID="1092961433"/>
-    <bird identifier="1879499639" name="锤鸣羊" callSoundID="704702717" typeCode="269" elvishName="key:621102928:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499640" name="黄昏歌手" callSoundID="704702722" typeCode="243" elvishName="key:621102888:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499641" name="布雷戈的白尾海雕" callSoundID="704702766" typeCode="296" elvishName="key:621102912:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879499642" name="霍尔比特母鸡" callSoundID="704702689" typeCode="291" elvishName="key:621102885:67141605" iconID="1092960295" largeIconID="1092961430"/>
-    <bird identifier="1879499643" name="芦苇莺" callSoundID="704702722" typeCode="304" elvishName="key:621102823:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499644" name="黄嘴潜鸟" callSoundID="704702721" typeCode="260" elvishName="key:621102891:67141605" iconID="1092960272" largeIconID="1092961426"/>
-    <bird identifier="1879499645" name="红胸长喙鸭" callSoundID="704702763" typeCode="258" elvishName="key:621102814:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879499646" name="黑翅长脚鹬" callSoundID="704702677" typeCode="339" elvishName="key:621102858:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499647" name="红脚雁" callSoundID="704702736" typeCode="250" elvishName="key:621102833:67141605" iconID="1092960298" largeIconID="1092961437"/>
-    <bird identifier="1879499648" name="柳鼠" callSoundID="704702739" typeCode="306" elvishName="key:621102852:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499649" name="费瑞恩雨燕" callSoundID="704702757" typeCode="333" elvishName="key:621102905:67141605" iconID="1092960284" largeIconID="1092961422"/>
-    <bird identifier="1879499650" name="浅滩滨鹬" callSoundID="704702717" typeCode="272" elvishName="key:621102848:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879499651" name="逝途鸣鸟" callSoundID="704702722" typeCode="321" elvishName="key:621102907:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499652" name="银齿峰石鸫" callSoundID="704702762" typeCode="227" elvishName="key:621102867:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499653" name="蓝颊蜂虎" callSoundID="704702676" typeCode="328" elvishName="key:621102835:67141605" iconID="1092960278" largeIconID="1092961421"/>
-    <bird identifier="1879499654" name="弗拉德利夫的伯劳鸟" callSoundID="704702690" typeCode="284" elvishName="key:621102861:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499655" name="柳莺" callSoundID="704702722" typeCode="307" elvishName="key:621102866:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879499656" name="恩特云雀" callSoundID="704702670" typeCode="287" elvishName="key:621102838:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879499657" name="山雨燕" callSoundID="704702757" typeCode="280" elvishName="key:621102830:67141605" iconID="1092960284" largeIconID="1092961422"/>
-    <bird identifier="1879506838" name="阿格拉佐尔的鹰" callSoundID="704702766" typeCode="475" elvishName="key:621107553:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879506839" name="苍捕蚊鸟" callSoundID="704702691" typeCode="362" elvishName="key:621107564:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506840" name="破桅鸦" callSoundID="704702735" typeCode="380" elvishName="key:621107540:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879506841" name="橄榄林莺" callSoundID="704702722" typeCode="361" elvishName="key:621107552:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506842" name="暗色 ruff" callSoundID="704702675" typeCode="360" elvishName="key:621107491:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879506843" name="纹燕" callSoundID="704702679" typeCode="430" elvishName="key:621107562:67141605" iconID="1092960294" largeIconID="1092961412"/>
-    <bird identifier="1879506844" name="玫瑰色椋鸟" callSoundID="704702698" typeCode="376" elvishName="key:621107556:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879506845" name="埃希尔鹬" callSoundID="704702672" typeCode="372" elvishName="key:621107500:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879506846" name="亲王之鸥" callSoundID="704702774" typeCode="402" elvishName="key:621107455:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879506847" name="白腰鸫" callSoundID="704702762" typeCode="394" elvishName="key:621107566:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506848" name="笑鸽" callSoundID="704702664" typeCode="424" elvishName="key:621107494:67141605" iconID="1092960289" largeIconID="1092961418"/>
-    <bird identifier="1879506849" name="埃瑞赫鸡" callSoundID="704702687" typeCode="427" elvishName="key:621107470:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879506850" name="灯心草锤鸟" callSoundID="704702733" typeCode="439" elvishName="key:621107489:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506851" name="铜色山雀" callSoundID="704702739" typeCode="393" elvishName="key:621107496:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506852" name="刽子手之鸦" callSoundID="704702735" typeCode="450" elvishName="key:621107450:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879506853" name="莱雷思的家禽" callSoundID="704702675" typeCode="473" elvishName="key:621107453:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879506854" name="苍雨燕" callSoundID="704702757" typeCode="346" elvishName="key:621107539:67141605" iconID="1092960284" largeIconID="1092961422"/>
-    <bird identifier="1879506855" name="燕鸻" callSoundID="704702679" typeCode="411" elvishName="key:621107449:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879506856" name="阿姆洛斯天鹅" callSoundID="704702738" typeCode="403" elvishName="key:621107498:67141605" iconID="1092960282" largeIconID="1092961433"/>
-    <bird identifier="1879506857" name="Ciril鹪鹩" callSoundID="704702707" typeCode="401" elvishName="key:621107537:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506858" name="锐隼" callSoundID="704702727" typeCode="350" elvishName="key:621107468:67141605" iconID="1093003939" largeIconID="1093003943"/>
-    <bird identifier="1879506859" name="苍羽鹡鸰" callSoundID="704702743" typeCode="469" elvishName="key:621107519:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506860" name="凶猛秃鹫" callSoundID="704702685" typeCode="456" elvishName="key:621107487:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879506861" name="膨胸鸭" callSoundID="704702763" typeCode="400" elvishName="key:621107511:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879506862" name="惨白喉" callSoundID="704702722" typeCode="459" elvishName="key:621107546:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506863" name="莫颂德鹰" callSoundID="704702699" typeCode="418" elvishName="key:621107531:67141605" iconID="1093003939" largeIconID="1093003943"/>
-    <bird identifier="1879506864" name="图姆拉登松鸦" callSoundID="704702684" typeCode="379" elvishName="key:621107466:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506865" name="拉梅顿叽咋柳莺" callSoundID="704702722" typeCode="415" elvishName="key:621107503:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506866" name="黑喉白尾鸟" callSoundID="704702691" typeCode="374" elvishName="key:621107475:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506867" name="沼泽鼠" callSoundID="704702739" typeCode="438" elvishName="key:621107523:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506868" name="斑点猫头鹰" callSoundID="704702693" typeCode="414" elvishName="key:621107462:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879506869" name="红尾莺" callSoundID="704702722" typeCode="378" elvishName="key:621107484:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506870" name="哀嚎莺" callSoundID="704702722" typeCode="449" elvishName="key:621107505:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506871" name="斑鼠" callSoundID="704702739" typeCode="420" elvishName="key:621107448:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506872" name="林罗河雀" callSoundID="704702760" typeCode="474" elvishName="key:621107550:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506873" name="刨石鹨" callSoundID="704702700" typeCode="435" elvishName="key:621107493:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506874" name="兰特瑞尔的鹱" callSoundID="704702774" typeCode="413" elvishName="key:621107555:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879506875" name="带兜帽的鹱" callSoundID="704702774" typeCode="392" elvishName="key:621107541:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879506876" name="霍姆鼠" callSoundID="704702739" typeCode="353" elvishName="key:621107521:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506877" name="昂多赫尔的悲哀" callSoundID="704702722" typeCode="443" elvishName="key:621107469:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506878" name="阿诺尔鸡" callSoundID="704702675" typeCode="348" elvishName="key:621107474:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879506879" name="戴面纱的夜莺" callSoundID="704702722" typeCode="445" elvishName="key:621107456:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506880" name="海角鸡" callSoundID="704702675" typeCode="405" elvishName="key:621107522:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879506881" name="凤头潜鸭" callSoundID="704702763" typeCode="344" elvishName="key:621107451:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879506882" name="法拉斯燕鸥" callSoundID="704702708" typeCode="404" elvishName="key:621107479:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879506883" name="灌丛鸫" callSoundID="704702762" typeCode="462" elvishName="key:621107510:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506884" name="欢乐燕鸥" callSoundID="704702708" typeCode="395" elvishName="key:621107560:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879506885" name="扭曲鹪鹩" callSoundID="704702681" typeCode="457" elvishName="key:621107512:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506886" name="杜尔桑猫头鹰" callSoundID="704702693" typeCode="452" elvishName="key:621107482:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879506887" name="苦苇雀" callSoundID="704702739" typeCode="463" elvishName="key:621107459:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506888" name="中杓鹬" callSoundID="704702758" typeCode="391" elvishName="key:621107571:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879506889" name="卡伦贝尔山鸦" callSoundID="704702735" typeCode="426" elvishName="key:621107467:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879506890" name="尼姆罗德尔的莺" callSoundID="704702722" typeCode="408" elvishName="key:621107570:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506891" name="击风者" callSoundID="704702727" typeCode="390" elvishName="key:621107561:67141605" iconID="1093003939" largeIconID="1093003943"/>
-    <bird identifier="1879506892" name="灰白鹡鸰" callSoundID="704702743" typeCode="417" elvishName="key:621107472:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506893" name="暗影猫头鹰" callSoundID="704702693" typeCode="429" elvishName="key:621107514:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879506894" name="哀鸣渡鸦" callSoundID="704702735" typeCode="365" elvishName="key:621107473:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879506895" name="暗灵锤鸟" callSoundID="704702733" typeCode="467" elvishName="key:621107481:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506896" name="吉利亚星云雀" callSoundID="704702670" typeCode="369" elvishName="key:621107526:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879506897" name="灰鼠" callSoundID="704702739" typeCode="363" elvishName="key:621107515:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506898" name="圣椋鸟" callSoundID="704702698" typeCode="351" elvishName="key:621107575:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879506899" name="苍色河乌" callSoundID="704702767" typeCode="377" elvishName="key:621107524:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506900" name="红润松鸦" callSoundID="704702684" typeCode="422" elvishName="key:621107577:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506902" name="血冠雀" callSoundID="704702739" typeCode="464" elvishName="key:621107463:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506903" name="尸体伯劳鸟" callSoundID="704702690" typeCode="442" elvishName="key:621107573:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506904" name="灰鸡" callSoundID="704702687" typeCode="428" elvishName="key:621107559:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879506905" name="洼鸣莺" callSoundID="704702722" typeCode="461" elvishName="key:621107497:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506906" name="Tarlang的啄木鸟" callSoundID="704702744" typeCode="425" elvishName="key:621107478:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879506907" name="幽暗鸟" callSoundID="704702753" typeCode="446" elvishName="key:621107568:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506908" name="Meneldil的鹪鹩" callSoundID="704702707" typeCode="357" elvishName="key:621107483:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506909" name="达戈拉德珩" callSoundID="704702723" typeCode="434" elvishName="key:621107520:67141605" iconID="1092960276" largeIconID="1092961411"/>
-    <bird identifier="1879506910" name="吉尔雷恩 ruff" callSoundID="704702675" typeCode="398" elvishName="key:621107454:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879506911" name="幽暗锤鸟" callSoundID="704702733" typeCode="451" elvishName="key:621107517:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506912" name="贝尔法拉斯鸬鹚" callSoundID="704702774" typeCode="386" elvishName="key:621107508:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879506913" name="渣滓雀" callSoundID="704702760" typeCode="466" elvishName="key:621107476:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506914" name="浅褐色白喉林莺" callSoundID="704702722" typeCode="437" elvishName="key:621107504:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506915" name="裹 shroud 乌鸦" callSoundID="704702735" typeCode="432" elvishName="key:621107554:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879506916" name="亮背五子雀" callSoundID="704702770" typeCode="367" elvishName="key:621107574:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506917" name="梅卢伊鼠" callSoundID="704702739" typeCode="384" elvishName="key:621107529:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506918" name="红歪颈啄木鸟" callSoundID="704702744" typeCode="355" elvishName="key:621107457:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879506919" name="阴郁隼" callSoundID="704702727" typeCode="440" elvishName="key:621107525:67141605" iconID="1093003939" largeIconID="1093003943"/>
-    <bird identifier="1879506920" name="蜘蛛云雀" callSoundID="704702670" typeCode="447" elvishName="key:621107502:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506921" name="辉光猫头鹰" callSoundID="704702693" typeCode="385" elvishName="key:621107458:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879506922" name="太阳雀" callSoundID="704702760" typeCode="349" elvishName="key:621107572:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506923" name="杀戮鸢" callSoundID="704702759" typeCode="470" elvishName="key:621107535:67141605" iconID="1092960271" largeIconID="1092961438"/>
-    <bird identifier="1879506924" name="灰冠戴菊鸟" callSoundID="704702776" typeCode="436" elvishName="key:621107471:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506925" name="灰色松鸦" callSoundID="704702684" typeCode="431" elvishName="key:621107464:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506926" name="Cormallen啄木鸟" callSoundID="704702744" typeCode="371" elvishName="key:621107488:67141605" iconID="1092960275" largeIconID="1092961428"/>
-    <bird identifier="1879506927" name="树篱歌者" callSoundID="704702707" typeCode="397" elvishName="key:621107534:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506928" name="泣鹤" callSoundID="704702779" typeCode="433" elvishName="key:621107480:67141605" iconID="1092960292" largeIconID="1092961429"/>
-    <bird identifier="1879506929" name="灰山雀" callSoundID="704702739" typeCode="444" elvishName="key:621107490:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506930" name="勒本宁塘鹅" callSoundID="704702774" typeCode="387" elvishName="key:621107507:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879506931" name="银尾鸟" callSoundID="704702691" typeCode="352" elvishName="key:621107499:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506932" name="雪雀" callSoundID="704702716" typeCode="423" elvishName="key:621107460:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506933" name="棘尾鸟" callSoundID="704702757" typeCode="453" elvishName="key:621107518:67141605" iconID="1092960284" largeIconID="1092961422"/>
-    <bird identifier="1879506934" name="黄昏帽" callSoundID="704702722" typeCode="345" elvishName="key:621107558:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506935" name="明多莺" callSoundID="704702722" typeCode="354" elvishName="key:621107567:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506936" name="有斑流苏鹬" callSoundID="704702687" typeCode="468" elvishName="key:621107509:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879506937" name="恶意山鸦" callSoundID="704702735" typeCode="465" elvishName="key:621107547:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879506938" name="守卫猫头鹰" callSoundID="704702693" typeCode="366" elvishName="key:621107495:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879506939" name="黑鸫" callSoundID="704702762" typeCode="448" elvishName="key:621107485:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506940" name="阿尔吉尔鸥" callSoundID="704702774" typeCode="388" elvishName="key:621107501:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879506941" name="血腥达布德雷克" callSoundID="704702710" typeCode="460" elvishName="key:621107543:67141605" iconID="1092960272" largeIconID="1092961426"/>
-    <bird identifier="1879506942" name="蓟雀" callSoundID="704702760" typeCode="358" elvishName="key:621107542:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506943" name="苍色五子雀" callSoundID="704702747" typeCode="419" elvishName="key:621107532:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506944" name="林格瑞思扭喙鸟" callSoundID="704702733" typeCode="455" elvishName="key:621107530:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506945" name="灰叶云雀" callSoundID="704702670" typeCode="407" elvishName="key:621107551:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879506946" name="浅棕雀" callSoundID="704702760" typeCode="421" elvishName="key:621107486:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506948" name="河雨燕" callSoundID="704702757" typeCode="373" elvishName="key:621107576:67141605" iconID="1092960284" largeIconID="1092961422"/>
-    <bird identifier="1879506949" name="布兰杜尔之鸥" callSoundID="704702774" typeCode="382" elvishName="key:621107492:67141605" iconID="1092960286" largeIconID="1092961427"/>
-    <bird identifier="1879506950" name="西里斯滨鹬" callSoundID="704702672" typeCode="389" elvishName="key:621107549:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879506951" name="甜云雀" callSoundID="704702670" typeCode="347" elvishName="key:621107557:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879506952" name="阿尔嫩交喙鸟" callSoundID="704702760" typeCode="370" elvishName="key:621107569:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506953" name="埃rui五子雀" callSoundID="704702770" typeCode="383" elvishName="key:621107538:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506954" name="rattling夜鹰" callSoundID="704702780" typeCode="454" elvishName="key:621107544:67141605" iconID="1092960280" largeIconID="1092961420"/>
-    <bird identifier="1879506955" name="伊熙尔杜的唤风者" callSoundID="704702706" typeCode="396" elvishName="key:621107528:67141605" iconID="1092960273" largeIconID="1092961414"/>
-    <bird identifier="1879506956" name="阿加奈斯扭喙鸟" callSoundID="704702760" typeCode="472" elvishName="key:621107548:67141605" iconID="1093003938" largeIconID="1093003940"/>
-    <bird identifier="1879506957" name="骨尾鹡鸰" callSoundID="704702743" typeCode="441" elvishName="key:621107565:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506958" name="烽火猫头鹰" callSoundID="704702693" typeCode="356" elvishName="key:621107461:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879506959" name="港口渔人" callSoundID="704702763" typeCode="412" elvishName="key:621107477:67141605" iconID="1092960278" largeIconID="1092961421"/>
-    <bird identifier="1879506960" name="巫妖云雀" callSoundID="704702670" typeCode="471" elvishName="key:621107563:67141605" iconID="1092960296" largeIconID="1092961424"/>
-    <bird identifier="1879506961" name="大型潜 deck 者" callSoundID="704702721" typeCode="399" elvishName="key:621107513:67141605" iconID="1092960291" largeIconID="1092961413"/>
-    <bird identifier="1879506962" name="月鹰" callSoundID="704702699" typeCode="368" elvishName="key:621107545:67141605" iconID="1093003939" largeIconID="1093003943"/>
-    <bird identifier="1879506963" name="伊希尔松鸦" callSoundID="704702684" typeCode="364" elvishName="key:621107506:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506964" name="恶魔猫头鹰" callSoundID="704702693" typeCode="458" elvishName="key:621107516:67141605" iconID="1092960287" largeIconID="1092961436"/>
-    <bird identifier="1879506965" name="格拉德里斯鹬" callSoundID="704702672" typeCode="410" elvishName="key:621107536:67141605" iconID="1092960281" largeIconID="1092961416"/>
-    <bird identifier="1879506966" name="大鸣禽" callSoundID="704702722" typeCode="416" elvishName="key:621107527:67141605" iconID="1092960297" largeIconID="1092961434"/>
-    <bird identifier="1879506967" name="蓝鹊" callSoundID="704702735" typeCode="409" elvishName="key:621107533:67141605" iconID="1092960288" largeIconID="1092961425"/>
-    <bird identifier="1879506968" name="尼姆莱丝鹰" callSoundID="704702703" typeCode="375" elvishName="key:621107465:67141605" iconID="1093003939" largeIconID="1093003943"/>
-    <bird identifier="1879506969" name="安德罗斯雀" callSoundID="704702716" typeCode="359" elvishName="key:621107452:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879487540" name="寒鸦" callSoundID="704702735" typeCode="106" elvishName="key:621093895:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879487542" name="云雀" callSoundID="704702670" typeCode="107" elvishName="key:621093916:67141605" iconID="1092960285" largeIconID="1092961423"/>
+<bird identifier="1879487548" name="切特啄木鸟" callSoundID="704702744" typeCode="117" elvishName="key:621093900:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879487549" name="斯密尔燕" callSoundID="704702679" typeCode="95" elvishName="key:621093901:67141605" iconID="1092960294" largeIconID="1092961412"/>
+<bird identifier="1879487552" name="黄鹀" callSoundID="704702733" typeCode="136" elvishName="key:621093898:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879487553" name="绿头鸭" callSoundID="704702763" typeCode="113" elvishName="key:621093923:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879487555" name="水鸭" callSoundID="704702763" typeCode="92" elvishName="key:621093925:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879487556" name="雨燕" callSoundID="704702757" typeCode="105" elvishName="key:621093911:67141605" iconID="1092960284" largeIconID="1092961422"/>
+<bird identifier="1879487557" name="金翅雀" callSoundID="704702760" typeCode="109" elvishName="key:621093906:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879487560" name="绿雀" callSoundID="704702760" typeCode="96" elvishName="key:621093914:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879487561" name="朱顶雀" callSoundID="704702760" typeCode="5" elvishName="key:621093919:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879487563" name="燕雀" callSoundID="704702760" typeCode="1" elvishName="key:621093905:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879487564" name="林鸽" callSoundID="704702664" typeCode="94" elvishName="key:621093913:67141605" iconID="1092960289" largeIconID="1092961418"/>
+<bird identifier="1879487565" name="红翼鸫" callSoundID="704702753" typeCode="108" elvishName="key:621093918:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879487567" name="麻雀鹰" callSoundID="704702699" typeCode="116" elvishName="key:621093912:67141605" iconID="1092960277" largeIconID="1092961417"/>
+<bird identifier="1879487568" name="黑水鸡" callSoundID="704702689" typeCode="110" elvishName="key:621093920:67141605" iconID="1092960295" largeIconID="1092961430"/>
+<bird identifier="1879487569" name="苍头燕雀" callSoundID="704702760" typeCode="2" elvishName="key:621093897:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489378" name="歌鸫" callSoundID="704702753" typeCode="64" elvishName="key:621095476:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489379" name="黑背鸥" callSoundID="704702774" typeCode="8" elvishName="key:621095415:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879489380" name="林云雀" callSoundID="704702670" typeCode="137" elvishName="key:621095481:67141605" iconID="1092960285" largeIconID="1092961423"/>
+<bird identifier="1879489381" name="埃德海尔天鹅" callSoundID="704702738" typeCode="163" elvishName="key:621095478:67141605" iconID="1092960282" largeIconID="1092961433"/>
+<bird identifier="1879489382" name="Oranoril的鸣禽" callSoundID="704702722" typeCode="185" elvishName="key:621095524:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489383" name="游隼" callSoundID="704702727" typeCode="89" elvishName="key:621095545:67141605" iconID="1092960277" largeIconID="1092961417"/>
+<bird identifier="1879489384" name="红雀" callSoundID="704702760" typeCode="56" elvishName="key:621095590:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489385" name="屠夫伯劳鸟" callSoundID="704702690" typeCode="199" elvishName="key:621095575:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489386" name="肃穆山雀" callSoundID="704702739" typeCode="128" elvishName="key:621095450:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489387" name="领主鹭" callSoundID="704702775" typeCode="174" elvishName="key:621095594:67141605" iconID="1092960293" largeIconID="1092961431"/>
+<bird identifier="1879489388" name="草地鹨" callSoundID="704702700" typeCode="98" elvishName="key:621095584:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489389" name="迅鹬" callSoundID="704702672" typeCode="172" elvishName="key:621095420:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489390" name="崖燕" callSoundID="704702679" typeCode="39" elvishName="key:621095485:67141605" iconID="1092960294" largeIconID="1092961412"/>
+<bird identifier="1879489391" name="琵嘴鸭" callSoundID="704702763" typeCode="123" elvishName="key:621095513:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489392" name="猎龙鹰" callSoundID="704702766" typeCode="216" elvishName="key:621095560:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489393" name="石南鸡" callSoundID="704702687" typeCode="34" elvishName="key:621095460:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879489394" name="雕木交喙鸟" callSoundID="704702760" typeCode="206" elvishName="key:621095471:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489395" name="内索恩鹀" callSoundID="704702733" typeCode="171" elvishName="key:621095573:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489396" name="绒鸭" callSoundID="704702763" typeCode="48" elvishName="key:621095468:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489397" name="石南地滚鸟" callSoundID="704702676" typeCode="214" elvishName="key:621095494:67141605" iconID="1092960278" largeIconID="1092961421"/>
+<bird identifier="1879489399" name="红嘴山鸦" callSoundID="704702735" typeCode="59" elvishName="key:621095568:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879489400" name="斑尾塍鹬" callSoundID="704702741" typeCode="17" elvishName="key:621095571:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489401" name="埃里阿多尔松鸦" callSoundID="704702684" typeCode="126" elvishName="key:621095523:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489402" name="白眼鸭" callSoundID="704702763" typeCode="175" elvishName="key:621095492:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489404" name="悬巢山雀" callSoundID="704702739" typeCode="184" elvishName="key:621095447:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489405" name="暮色歌鸫" callSoundID="704702762" typeCode="180" elvishName="key:621095591:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489406" name="薹莺" callSoundID="704702722" typeCode="151" elvishName="key:621095457:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489407" name="叽咋柳莺" callSoundID="704702722" typeCode="69" elvishName="key:621095406:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489408" name="苔藓鹨" callSoundID="704702700" typeCode="186" elvishName="key:621095434:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489409" name="黑海番鸭" callSoundID="704702763" typeCode="16" elvishName="key:621095417:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489412" name="邓氏秧鸡" callSoundID="704702689" typeCode="211" elvishName="key:621095472:67141605" iconID="1092960295" largeIconID="1092961430"/>
+<bird identifier="1879489413" name="希斯艾格利尔山鸦" callSoundID="704702735" typeCode="84" elvishName="key:621095483:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879489414" name="阿诺瑞恩猎鹰" callSoundID="704702727" typeCode="60" elvishName="key:621095470:67141605" iconID="1092960277" largeIconID="1092961417"/>
+<bird identifier="1879489416" name="岩燕" callSoundID="704702679" typeCode="215" elvishName="key:621095418:67141605" iconID="1092960294" largeIconID="1092961412"/>
+<bird identifier="1879489417" name="瓦拉迪斯的天鹅" callSoundID="704702738" typeCode="63" elvishName="key:621095549:67141605" iconID="1092960282" largeIconID="1092961433"/>
+<bird identifier="1879489418" name="鲁道尔雁" callSoundID="704702778" typeCode="139" elvishName="key:621095516:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489419" name="金冠戴菊鸟" callSoundID="704702776" typeCode="65" elvishName="key:621095430:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489421" name="白喉林莺" callSoundID="704702722" typeCode="68" elvishName="key:621095505:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489422" name="灰鹡鸰" callSoundID="704702743" typeCode="62" elvishName="key:621095442:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489423" name="气候鸭" callSoundID="704702763" typeCode="122" elvishName="key:621095537:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489424" name="悲鸣爬树藤" callSoundID="704702747" typeCode="140" elvishName="key:621095519:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489425" name="迷雾猫头鹰" callSoundID="704702693" typeCode="88" elvishName="key:621095461:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879489426" name="针尾鸭" callSoundID="704702763" typeCode="26" elvishName="key:621095593:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489427" name="芦鹀" callSoundID="704702733" typeCode="102" elvishName="key:621095536:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489428" name="青脚鹬" callSoundID="704702672" typeCode="13" elvishName="key:621095413:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489429" name="银鸥" callSoundID="704702774" typeCode="15" elvishName="key:621095449:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879489430" name="松鹀" callSoundID="704702733" typeCode="79" elvishName="key:621095561:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489431" name="蓝椋鸟" callSoundID="704702698" typeCode="36" elvishName="key:621095563:67141605" iconID="1092960285" largeIconID="1092961423"/>
+<bird identifier="1879489432" name="五子雀" callSoundID="704702770" typeCode="85" elvishName="key:621095469:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489433" name="斑点红脚鹬" callSoundID="704702672" typeCode="76" elvishName="key:621095533:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489434" name="鹪鹩" callSoundID="704702707" typeCode="75" elvishName="key:621095504:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489435" name="鹤" callSoundID="704702779" typeCode="166" elvishName="key:621095544:67141605" iconID="1092960292" largeIconID="1092961429"/>
+<bird identifier="1879489437" name="斯图尔秧鸡" callSoundID="704702689" typeCode="173" elvishName="key:621095486:67141605" iconID="1092960295" largeIconID="1092961430"/>
+<bird identifier="1879489438" name="黑顶鸥" callSoundID="704702774" typeCode="38" elvishName="key:621095547:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879489439" name="矮人雁" callSoundID="704702736" typeCode="87" elvishName="key:621095579:67141605" iconID="1092960298" largeIconID="1092961437"/>
+<bird identifier="1879489440" name="凯勒布莉安鹀" callSoundID="704702733" typeCode="148" elvishName="key:621095514:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489441" name="埃特兰的唤风者" callSoundID="704702706" typeCode="18" elvishName="key:621095487:67141605" iconID="1092960291" largeIconID="1092961413"/>
+<bird identifier="1879489442" name="肖水鸡" callSoundID="704702689" typeCode="133" elvishName="key:621095587:67141605" iconID="1092960295" largeIconID="1092961430"/>
+<bird identifier="1879489443" name="锡嘴雀" callSoundID="704702760" typeCode="121" elvishName="key:621095467:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489444" name="灰泛河燕鸥" callSoundID="704702708" typeCode="155" elvishName="key:621095534:67141605" iconID="1092960291" largeIconID="1092961413"/>
+<bird identifier="1879489445" name="浅 cloak 猎鹰" callSoundID="704702671" typeCode="197" elvishName="key:621095443:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489448" name="沼泽莺" callSoundID="704702722" typeCode="164" elvishName="key:621095433:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489449" name="灰雁" callSoundID="704702736" typeCode="112" elvishName="key:621095411:67141605" iconID="1092960298" largeIconID="1092961437"/>
+<bird identifier="1879489451" name="镰形杓鹬" callSoundID="704702758" typeCode="52" elvishName="key:621095484:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489452" name="冬青雀" callSoundID="704702716" typeCode="177" elvishName="key:621095580:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489453" name="金斑鸻" callSoundID="704702723" typeCode="119" elvishName="key:621095479:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879489454" name="艾森雁" callSoundID="704702736" typeCode="212" elvishName="key:621095511:67141605" iconID="1092960298" largeIconID="1092961437"/>
+<bird identifier="1879489455" name="红冠鸭" callSoundID="704702763" typeCode="205" elvishName="key:621095554:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489456" name="灰林鸮" callSoundID="704702693" typeCode="46" elvishName="key:621095576:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879489457" name="斯塔克高沼猫头鹰" callSoundID="704702693" typeCode="208" elvishName="key:621095438:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879489458" name="蠓水沼泽 Lapwing" callSoundID="704702701" typeCode="114" elvishName="key:621095454:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879489459" name="苍鹭" callSoundID="704702775" typeCode="134" elvishName="key:621095552:67141605" iconID="1092960293" largeIconID="1092961431"/>
+<bird identifier="1879489460" name="布雷鸫" callSoundID="704702753" typeCode="111" elvishName="key:621095403:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489462" name="莱格林莺" callSoundID="704702722" typeCode="200" elvishName="key:621095401:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489463" name="大麦鸟" callSoundID="704702760" typeCode="41" elvishName="key:621095489:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489464" name="白鹬" callSoundID="704702672" typeCode="54" elvishName="key:621095408:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489465" name="粉脚雁" callSoundID="704702736" typeCode="43" elvishName="key:621095509:67141605" iconID="1092960298" largeIconID="1092961437"/>
+<bird identifier="1879489466" name="林迪翁的莺" callSoundID="704702722" typeCode="144" elvishName="key:621095548:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489467" name="灯芯草沙锥" callSoundID="704702717" typeCode="97" elvishName="key:621095583:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489468" name="北燕鸥" callSoundID="704702708" typeCode="10" elvishName="key:621095462:67141605" iconID="1092960291" largeIconID="1092961413"/>
+<bird identifier="1879489469" name="红鸢" callSoundID="704702759" typeCode="99" elvishName="key:621095595:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489470" name="环颈黑鸟" callSoundID="704702753" typeCode="154" elvishName="key:621095440:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489471" name="银鹳" callSoundID="704702765" typeCode="168" elvishName="key:621095526:67141605" iconID="1092960292" largeIconID="1092961429"/>
+<bird identifier="1879489472" name="喜鹊" callSoundID="704702735" typeCode="71" elvishName="key:621095506:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879489473" name="Ereglad啄木鸟" callSoundID="704702744" typeCode="183" elvishName="key:621095565:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879489474" name="迷雾山脉跳鹀" callSoundID="704702733" typeCode="91" elvishName="key:621095538:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489475" name="杜鹃" callSoundID="704702769" typeCode="152" elvishName="key:621095480:67141605" iconID="1092960279" largeIconID="1092961435"/>
+<bird identifier="1879489476" name="红脚鹬" callSoundID="704702672" typeCode="40" elvishName="key:621095497:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489477" name="水鹨" callSoundID="704702700" typeCode="150" elvishName="key:621095589:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489478" name="捕蚊鸟" callSoundID="704702691" typeCode="25" elvishName="key:621095588:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489479" name="冷杉雁" callSoundID="704702736" typeCode="20" elvishName="key:621095482:67141605" iconID="1092960298" largeIconID="1092961437"/>
+<bird identifier="1879489481" name="田鹪鹩" callSoundID="704702722" typeCode="204" elvishName="key:621095459:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489482" name="高山朱顶雀" callSoundID="704702760" typeCode="176" elvishName="key:621095502:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489483" name="红角猎鹰" callSoundID="704702727" typeCode="182" elvishName="key:621095559:67141605" iconID="1092960277" largeIconID="1092961417"/>
+<bird identifier="1879489484" name="白兰地林莺" callSoundID="704702722" typeCode="118" elvishName="key:621095429:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489485" name="卡拉诺云雀" callSoundID="704702670" typeCode="178" elvishName="key:621095466:67141605" iconID="1092960285" largeIconID="1092961423"/>
+<bird identifier="1879489487" name="北丘傻锤鸟" callSoundID="704702733" typeCode="104" elvishName="key:621095456:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489488" name="暗鸦" callSoundID="704702735" typeCode="189" elvishName="key:621095570:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879489489" name="黑顶林莺" callSoundID="704702722" typeCode="81" elvishName="key:621095500:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489490" name="普通秧鸡" callSoundID="704702689" typeCode="61" elvishName="key:621095557:67141605" iconID="1092960295" largeIconID="1092961430"/>
+<bird identifier="1879489491" name="欢悦麦鸡" callSoundID="704702701" typeCode="201" elvishName="key:621095423:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879489492" name="丰收鹀" callSoundID="704702733" typeCode="125" elvishName="key:621095510:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489493" name="风落猫头鹰" callSoundID="704702693" typeCode="194" elvishName="key:621095541:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879489494" name="石鸫" callSoundID="704702762" typeCode="131" elvishName="key:621095525:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489495" name="红腹滨鹬" callSoundID="704702672" typeCode="9" elvishName="key:621095428:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489496" name="Falathlorn啄木鸟" callSoundID="704702744" typeCode="49" elvishName="key:621095405:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879489497" name="长尾鸭" callSoundID="704702763" typeCode="51" elvishName="key:621095542:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489498" name="灰烬秃鹫" callSoundID="704702685" typeCode="32" elvishName="key:621095521:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489499" name="伊西尔卡云雀" callSoundID="704702670" typeCode="161" elvishName="key:621095496:67141605" iconID="1092960285" largeIconID="1092961423"/>
+<bird identifier="1879489500" name="林沙锥" callSoundID="704702717" typeCode="157" elvishName="key:621095402:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489501" name="小猎鹰" callSoundID="704702727" typeCode="158" elvishName="key:621095499:67141605" iconID="1092960277" largeIconID="1092961417"/>
+<bird identifier="1879489502" name="布鲁南雀" callSoundID="704702760" typeCode="141" elvishName="key:621095475:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489503" name="长尾山雀" callSoundID="704702739" typeCode="14" elvishName="key:621095555:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489504" name="丘陵鹀" callSoundID="704702733" typeCode="74" elvishName="key:621095495:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489505" name="蓝山雀" callSoundID="704702739" typeCode="78" elvishName="key:621095577:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489506" name="暮鸽" callSoundID="704702664" typeCode="55" elvishName="key:621095574:67141605" iconID="1092960289" largeIconID="1092961418"/>
+<bird identifier="1879489507" name="纳尔方岸行者" callSoundID="704702749" typeCode="37" elvishName="key:621095517:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489508" name="悲叹猫头鹰" callSoundID="704702693" typeCode="187" elvishName="key:621095528:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879489509" name="佩里安猫头鹰" callSoundID="704702693" typeCode="147" elvishName="key:621095550:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879489510" name="白喉河乌" callSoundID="704702767" typeCode="58" elvishName="key:621095416:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489511" name="金雀花鸫" callSoundID="704702762" typeCode="83" elvishName="key:621095426:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489512" name="玫瑰莺" callSoundID="704702722" typeCode="159" elvishName="key:621095592:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489513" name="昏暗猎鹰" callSoundID="704702671" typeCode="31" elvishName="key:621095578:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489514" name="火冠戴菊鸟" callSoundID="704702776" typeCode="179" elvishName="key:621095529:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489515" name="Orth龙鸭" callSoundID="704702763" typeCode="7" elvishName="key:621095409:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489516" name="雪风筝" callSoundID="704702759" typeCode="12" elvishName="key:621095455:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489517" name="秋沙鸭" callSoundID="704702763" typeCode="149" elvishName="key:621095435:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489518" name="麦翁鸟" callSoundID="704702691" typeCode="45" elvishName="key:621095491:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489519" name="shrouded drake" callSoundID="704702763" typeCode="30" elvishName="key:621095488:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489520" name="黑鸢" callSoundID="704702759" typeCode="135" elvishName="key:621095586:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489521" name="红胸鸫" callSoundID="704702753" typeCode="93" elvishName="key:621095551:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489522" name="德鲁恩鹀" callSoundID="704702733" typeCode="213" elvishName="key:621095512:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489523" name="铁蜡翅" callSoundID="704702668" typeCode="28" elvishName="key:621095582:67141605" iconID="1092960285" largeIconID="1092961423"/>
+<bird identifier="1879489526" name="斑鸠" callSoundID="704702664" typeCode="153" elvishName="key:621095473:67141605" iconID="1092960289" largeIconID="1092961418"/>
+<bird identifier="1879489527" name="蓝尾鸲" callSoundID="704702762" typeCode="202" elvishName="key:621095410:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489528" name="黑雁" callSoundID="704702736" typeCode="217" elvishName="key:621095458:67141605" iconID="1092960298" largeIconID="1092961437"/>
+<bird identifier="1879489529" name="沼泽沙锥" callSoundID="704702717" typeCode="207" elvishName="key:621095546:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489532" name="崖壁蔓生植物" callSoundID="704702747" typeCode="90" elvishName="key:621095564:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489533" name="Mournshaw蜂虎" callSoundID="704702676" typeCode="193" elvishName="key:621095407:67141605" iconID="1092960278" largeIconID="1092961421"/>
+<bird identifier="1879489534" name="沼泽山雀" callSoundID="704702739" typeCode="167" elvishName="key:621095527:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489538" name="古墓鸻" callSoundID="704702723" typeCode="162" elvishName="key:621095431:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879489539" name="红燕" callSoundID="704702679" typeCode="198" elvishName="key:621095452:67141605" iconID="1092960294" largeIconID="1092961412"/>
+<bird identifier="1879489540" name="努诺亚尔燕鸥" callSoundID="704702708" typeCode="53" elvishName="key:621095446:67141605" iconID="1092960291" largeIconID="1092961413"/>
+<bird identifier="1879489541" name="石鸻" callSoundID="704702758" typeCode="130" elvishName="key:621095501:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879489543" name="瑞文戴尔啄木鸟" callSoundID="704702744" typeCode="146" elvishName="key:621095474:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879489545" name="埃滕山雀" callSoundID="704702739" typeCode="138" elvishName="key:621095404:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489549" name="原鸽" callSoundID="704702664" typeCode="70" elvishName="key:621095421:67141605" iconID="1092960289" largeIconID="1092961418"/>
+<bird identifier="1879489550" name="苇雀" callSoundID="704702739" typeCode="191" elvishName="key:621095412:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489551" name="马德尔加德鹡鸰" callSoundID="704702743" typeCode="103" elvishName="key:621095437:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489552" name="秃鼻鸦" callSoundID="704702735" typeCode="42" elvishName="key:621095585:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879489553" name="矮人之麻鳽" callSoundID="704702775" typeCode="165" elvishName="key:621095399:67141605" iconID="1092960293" largeIconID="1092961431"/>
+<bird identifier="1879489554" name="岩鹀" callSoundID="704702733" typeCode="160" elvishName="key:621095572:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489555" name="银齿峰猎鹰" callSoundID="704702671" typeCode="188" elvishName="key:621095427:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489556" name="燕子" callSoundID="704702679" typeCode="120" elvishName="key:621095518:67141605" iconID="1092960294" largeIconID="1092961412"/>
+<bird identifier="1879489557" name="石谷苍鹰" callSoundID="704702699" typeCode="209" elvishName="key:621095535:67141605" iconID="1092960277" largeIconID="1092961417"/>
+<bird identifier="1879489558" name="蛎鹬" callSoundID="704702723" typeCode="72" elvishName="key:621095558:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879489559" name="白尾海雕" callSoundID="704702766" typeCode="44" elvishName="key:621095451:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489560" name="胡桃钳鸦" callSoundID="704702735" typeCode="143" elvishName="key:621095515:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879489561" name="潜鸭" callSoundID="704702763" typeCode="50" elvishName="key:621095422:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489562" name="角跳禽" callSoundID="704702701" typeCode="27" elvishName="key:621095522:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879489563" name="红腹灰雀" callSoundID="704702760" typeCode="82" elvishName="key:621095520:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489564" name="金雕" callSoundID="704702766" typeCode="80" elvishName="key:621095477:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879489567" name="蓝嘴鸭" callSoundID="704702763" typeCode="23" elvishName="key:621095562:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489568" name="哀鸣雀" callSoundID="704702760" typeCode="33" elvishName="key:621095543:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489569" name="鹪鹩" callSoundID="704702681" typeCode="86" elvishName="key:621095464:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489570" name="河莺" callSoundID="704702722" typeCode="192" elvishName="key:621095567:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489571" name="歪颈啄木鸟" callSoundID="704702744" typeCode="195" elvishName="key:621095498:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879489572" name="黄鹡鸰" callSoundID="704702743" typeCode="190" elvishName="key:621095463:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489573" name="冰湾鸻" callSoundID="704702723" typeCode="21" elvishName="key:621095441:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879489574" name="灰捕蚊鸟" callSoundID="704702691" typeCode="196" elvishName="key:621095439:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489575" name="槲鸫" callSoundID="704702753" typeCode="24" elvishName="key:621095569:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489576" name="梅卢因水鸡" callSoundID="704702689" typeCode="67" elvishName="key:621095566:67141605" iconID="1092960295" largeIconID="1092961430"/>
+<bird identifier="1879489577" name="梅塞德拉夜莺" callSoundID="704702762" typeCode="203" elvishName="key:621095448:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489643" name="红喉潜鸟" callSoundID="704702721" typeCode="19" elvishName="key:621095665:67141605" iconID="1092960272" largeIconID="1092961426"/>
+<bird identifier="1879489644" name="贝烈格的伯劳鸟" callSoundID="704702690" typeCode="77" elvishName="key:621095674:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489645" name="沼鸡" callSoundID="704702704" typeCode="127" elvishName="key:621095669:67141605" iconID="1092960274" largeIconID="1092961419"/>
+<bird identifier="1879489646" name="金画眉" callSoundID="704702668" typeCode="142" elvishName="key:621095659:67141605" iconID="1092960285" largeIconID="1092961423"/>
+<bird identifier="1879489647" name="赤褐田鸡" callSoundID="704702756" typeCode="156" elvishName="key:621095657:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879489648" name="涉水泥鹭" callSoundID="704702663" typeCode="170" elvishName="key:621095666:67141605" iconID="1092960283" largeIconID="1092961415"/>
+<bird identifier="1879489649" name="国王陨落黑鸟" callSoundID="704702753" typeCode="66" elvishName="key:621095661:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879489650" name="孤鹰" callSoundID="704702703" typeCode="124" elvishName="key:621095651:67141605" iconID="1092960277" largeIconID="1092961417"/>
+<bird identifier="1879489651" name="佛诺斯特猎鹰" callSoundID="704702703" typeCode="73" elvishName="key:621095673:67141605" iconID="1092960277" largeIconID="1092961417"/>
+<bird identifier="1879489652" name="迷雾-ruff" callSoundID="704702687" typeCode="181" elvishName="key:621095656:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879489653" name="法德拉赫的沼泽鸟" callSoundID="704702674" typeCode="35" elvishName="key:621095672:67141605" iconID="1092960289" largeIconID="1092961418"/>
+<bird identifier="1879489654" name="柳鸡" callSoundID="704702687" typeCode="11" elvishName="key:621095664:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879489655" name="黑鸡" callSoundID="704702687" typeCode="210" elvishName="key:621095663:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879489656" name="长脚鹭" callSoundID="704702663" typeCode="129" elvishName="key:621095660:67141605" iconID="1092960283" largeIconID="1092961415"/>
+<bird identifier="1879489657" name="米塞塞尔达布 chick" callSoundID="704702710" typeCode="169" elvishName="key:621095654:67141605" iconID="1092960272" largeIconID="1092961426"/>
+<bird identifier="1879489658" name="哭泣苍鹭" callSoundID="704702663" typeCode="57" elvishName="key:621095658:67141605" iconID="1092960283" largeIconID="1092961415"/>
+<bird identifier="1879489659" name="哭泣潜鸭" callSoundID="704702763" typeCode="29" elvishName="key:621095653:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879489660" name="马里什达布 chick" callSoundID="704702710" typeCode="101" elvishName="key:621095667:67141605" iconID="1092960272" largeIconID="1092961426"/>
+<bird identifier="1879489661" name="阿兰塔尔燕鸥" callSoundID="704702708" typeCode="132" elvishName="key:621095668:67141605" iconID="1092960291" largeIconID="1092961413"/>
+<bird identifier="1879489662" name="榛鸡" callSoundID="704702687" typeCode="145" elvishName="key:621095662:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879489663" name="阔步 ruff" callSoundID="704702675" typeCode="115" elvishName="key:621095655:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879489664" name="岩鸽" callSoundID="704702664" typeCode="47" elvishName="key:621095652:67141605" iconID="1092960289" largeIconID="1092961418"/>
+<bird identifier="1879489665" name="耶鲁雀" callSoundID="704702716" typeCode="100" elvishName="key:621095670:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879489666" name="荒原麻鸭" callSoundID="704702778" typeCode="22" elvishName="key:621095671:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879499532" name="凤头山雀" callSoundID="704702739" typeCode="218" elvishName="key:621102811:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499533" name="赤麻鸭" callSoundID="704702778" typeCode="337" elvishName="key:621102892:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879499534" name="缇努维尔的夜莺" callSoundID="704702762" typeCode="233" elvishName="key:621102857:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499535" name="银东禽" callSoundID="704702711" typeCode="301" elvishName="key:621102914:67141605" iconID="1092960290" largeIconID="1092961432"/>
+<bird identifier="1879499536" name="颠茄鹀" callSoundID="704702733" typeCode="245" elvishName="key:621102865:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499537" name="小鸬鹚" callSoundID="704702721" typeCode="259" elvishName="key:621102918:67141605" iconID="1092960272" largeIconID="1092961426"/>
+<bird identifier="1879499538" name="蓝鸫" callSoundID="704702753" typeCode="298" elvishName="key:621102832:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879499539" name="泥潭秧鸡" callSoundID="704702689" typeCode="273" elvishName="key:621102875:67141605" iconID="1092960295" largeIconID="1092961430"/>
+<bird identifier="1879499540" name="黑尾塍鹬" callSoundID="704702741" typeCode="311" elvishName="key:621102854:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499541" name="石鹨" callSoundID="704702700" typeCode="268" elvishName="key:621102834:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499542" name="暗影红尾鸲" callSoundID="704702762" typeCode="236" elvishName="key:621102908:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499543" name="灰鹨" callSoundID="704702700" typeCode="289" elvishName="key:621102909:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499544" name="古尔都伯劳鸟" callSoundID="704702690" typeCode="242" elvishName="key:621102849:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499545" name="恩特沃什鹨" callSoundID="704702700" typeCode="305" elvishName="key:621102924:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499546" name="Egladil啄木鸟" callSoundID="704702744" typeCode="226" elvishName="key:621102843:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879499547" name="哭泣猫头鹰" callSoundID="704702693" typeCode="231" elvishName="key:621102925:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879499548" name="荒野锤鸟" callSoundID="704702733" typeCode="265" elvishName="key:621102853:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499549" name="白翅燕鸥" callSoundID="704702708" typeCode="312" elvishName="key:621102850:67141605" iconID="1092960291" largeIconID="1092961413"/>
+<bird identifier="1879499550" name="西谷 Eddish-hen" callSoundID="704702675" typeCode="320" elvishName="key:621102923:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879499551" name="希卡鼠" callSoundID="704702739" typeCode="341" elvishName="key:621102856:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499552" name="暮鹰" callSoundID="704702703" typeCode="239" elvishName="key:621102818:67141605" iconID="1092960277" largeIconID="1092961417"/>
+<bird identifier="1879499553" name="领圈泽鹬" callSoundID="704702717" typeCode="270" elvishName="key:621102882:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499554" name="翠鸟" callSoundID="704702763" typeCode="221" elvishName="key:621102877:67141605" iconID="1092960278" largeIconID="1092961421"/>
+<bird identifier="1879499555" name="雾莺" callSoundID="704702722" typeCode="219" elvishName="key:621102922:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499556" name="条纹捕蚊鸟" callSoundID="704702691" typeCode="300" elvishName="key:621102889:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499557" name="亡灵猫头鹰" callSoundID="704702693" typeCode="247" elvishName="key:621102824:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879499558" name="角达布 chick" callSoundID="704702710" typeCode="235" elvishName="key:621102926:67141605" iconID="1092960272" largeIconID="1092961426"/>
+<bird identifier="1879499559" name="黑天鹅" callSoundID="704702738" typeCode="255" elvishName="key:621102910:67141605" iconID="1092960282" largeIconID="1092961433"/>
+<bird identifier="1879499560" name="芸香鸽" callSoundID="704702664" typeCode="228" elvishName="key:621102893:67141605" iconID="1092960289" largeIconID="1092961418"/>
+<bird identifier="1879499561" name="西瑞安燕鸥" callSoundID="704702708" typeCode="251" elvishName="key:621102911:67141605" iconID="1092960291" largeIconID="1092961413"/>
+<bird identifier="1879499562" name="潜伏爬树藤" callSoundID="704702747" typeCode="237" elvishName="key:621102884:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499563" name="芬布瑞希尔火冠戴菊鸟" callSoundID="704702776" typeCode="286" elvishName="key:621102821:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499564" name="黑头鹀" callSoundID="704702733" typeCode="281" elvishName="key:621102878:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499565" name="浅黄幼鸟" callSoundID="704702758" typeCode="302" elvishName="key:621102873:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499566" name="Ent啄木鸟" callSoundID="704702744" typeCode="283" elvishName="key:621102904:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879499567" name="领圈捕蚊鸟" callSoundID="704702691" typeCode="285" elvishName="key:621102898:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499568" name="锈燕" callSoundID="704702679" typeCode="263" elvishName="key:621102927:67141605" iconID="1092960294" largeIconID="1092961412"/>
+<bird identifier="1879499569" name="马刺鹨" callSoundID="704702700" typeCode="340" elvishName="key:621102819:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499570" name="幽暗密林啄木鸟" callSoundID="704702744" typeCode="238" elvishName="key:621102870:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879499571" name="伊奥希尔德的鸣禽" callSoundID="704702722" typeCode="336" elvishName="key:621102935:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499572" name="范贡莺" callSoundID="704702722" typeCode="276" elvishName="key:621102871:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499573" name="灯芯草沼麻鳽" callSoundID="704702775" typeCode="253" elvishName="key:621102887:67141605" iconID="1092960293" largeIconID="1092961431"/>
+<bird identifier="1879499574" name="辉光鹡鸰" callSoundID="704702743" typeCode="262" elvishName="key:621102847:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499575" name="夜冠" callSoundID="704702722" typeCode="222" elvishName="key:621102886:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499576" name="紫鹭" callSoundID="704702775" typeCode="316" elvishName="key:621102921:67141605" iconID="1092960293" largeIconID="1092961431"/>
+<bird identifier="1879499577" name="赤鹬" callSoundID="704702672" typeCode="266" elvishName="key:621102874:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499578" name="Helm's Erne" callSoundID="704702766" typeCode="329" elvishName="key:621102828:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879499579" name="少女鹤" callSoundID="704702779" typeCode="293" elvishName="key:621102836:67141605" iconID="1092960292" largeIconID="1092961429"/>
+<bird identifier="1879499580" name="红胸捕蚊鸟" callSoundID="704702691" typeCode="317" elvishName="key:621102826:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499581" name="邪恶乌鸦" callSoundID="704702735" typeCode="234" elvishName="key:621102931:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879499582" name="瑟里赫恩秃鹫" callSoundID="704702685" typeCode="326" elvishName="key:621102846:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879499583" name="石 dean 红雀" callSoundID="704702760" typeCode="323" elvishName="key:621102817:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499584" name="斑点杜鹃" callSoundID="704702769" typeCode="278" elvishName="key:621102822:67141605" iconID="1092960279" largeIconID="1092961435"/>
+<bird identifier="1879499585" name="埃弗霍尔特乌鸫" callSoundID="704702753" typeCode="343" elvishName="key:621102859:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879499586" name="厄斯克-亨" callSoundID="704702736" typeCode="271" elvishName="key:621102840:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879499587" name="须瓣蹼鸡" callSoundID="704702704" typeCode="294" elvishName="key:621102862:67141605" iconID="1092960274" largeIconID="1092961419"/>
+<bird identifier="1879499588" name="农舍猫头鹰" callSoundID="704702693" typeCode="290" elvishName="key:621102900:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879499589" name="银雁" callSoundID="704702736" typeCode="327" elvishName="key:621102845:67141605" iconID="1092960298" largeIconID="1092961437"/>
+<bird identifier="1879499590" name="哈罗猫头鹰" callSoundID="704702693" typeCode="334" elvishName="key:621102851:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879499591" name="艾恩萨加燕鸥" callSoundID="704702708" typeCode="338" elvishName="key:621102917:67141605" iconID="1092960291" largeIconID="1092961413"/>
+<bird identifier="1879499592" name="瑁珑雀" callSoundID="704702760" typeCode="232" elvishName="key:621102899:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499593" name="距翅麦鸡" callSoundID="704702701" typeCode="274" elvishName="key:621102825:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879499594" name="猎隼" callSoundID="704702727" typeCode="325" elvishName="key:621102869:67141605" iconID="1093003939" largeIconID="1093003943"/>
+<bird identifier="1879499595" name="黑鹳" callSoundID="704702765" typeCode="241" elvishName="key:621102902:67141605" iconID="1092960292" largeIconID="1092961429"/>
+<bird identifier="1879499596" name="雕鸮" callSoundID="704702693" typeCode="282" elvishName="key:621102864:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879499597" name="狐隼" callSoundID="704702703" typeCode="313" elvishName="key:621102915:67141605" iconID="1093003939" largeIconID="1093003943"/>
+<bird identifier="1879499598" name="裂岸鸻" callSoundID="704702723" typeCode="248" elvishName="key:621102863:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879499599" name="带头盔的海鸥" callSoundID="704702774" typeCode="331" elvishName="key:621102932:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879499600" name="masked屠夫鸟" callSoundID="704702690" typeCode="322" elvishName="key:621102895:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499601" name="亩雁" callSoundID="704702736" typeCode="288" elvishName="key:621102929:67141605" iconID="1092960298" largeIconID="1092961437"/>
+<bird identifier="1879499602" name="色贝兰交喙鸟" callSoundID="704702760" typeCode="252" elvishName="key:621102930:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499603" name="安都因之鹰" callSoundID="704702766" typeCode="330" elvishName="key:621102827:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879499604" name="戴胜鸟" callSoundID="704702736" typeCode="303" elvishName="key:621102842:67141605" iconID="1093003941" largeIconID="1093003944"/>
+<bird identifier="1879499605" name="灰伯劳鸟" callSoundID="704702690" typeCode="309" elvishName="key:621102881:67141605" iconID="1093003945" largeIconID="1093003942"/>
+<bird identifier="1879499606" name="灰寒鸦" callSoundID="704702735" typeCode="319" elvishName="key:621102916:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879499607" name="暗云雀" callSoundID="704702670" typeCode="244" elvishName="key:621102913:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879499608" name="农舍燕" callSoundID="704702679" typeCode="318" elvishName="key:621102839:67141605" iconID="1092960294" largeIconID="1092961412"/>
+<bird identifier="1879499609" name="斑点蓝喉歌鸲" callSoundID="704702762" typeCode="342" elvishName="key:621102829:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499610" name="斑胸林莺" callSoundID="704702722" typeCode="292" elvishName="key:621102934:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499611" name="沼泽行者" callSoundID="704702672" typeCode="257" elvishName="key:621102815:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499612" name="红 hood" callSoundID="704702760" typeCode="279" elvishName="key:621102894:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499613" name="镰喙鸟" callSoundID="704702717" typeCode="314" elvishName="key:621102933:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499614" name="幽魂莺" callSoundID="704702722" typeCode="240" elvishName="key:621102880:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499615" name="迪姆里尔火冠戴菊鸟" callSoundID="704702776" typeCode="225" elvishName="key:621102837:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499616" name="黑喉潜鸟" callSoundID="704702721" typeCode="315" elvishName="key:621102936:67141605" iconID="1092960272" largeIconID="1092961426"/>
+<bird identifier="1879499617" name="蓝色猎鹰" callSoundID="704702671" typeCode="267" elvishName="key:621102868:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879499618" name="宁若黛尔鹨" callSoundID="704702700" typeCode="224" elvishName="key:621102897:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499619" name="蒙面白喉鸟" callSoundID="704702722" typeCode="254" elvishName="key:621102920:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499620" name="雪溪鹬" callSoundID="704702672" typeCode="295" elvishName="key:621102812:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499621" name="深谷鹪鹩" callSoundID="704702707" typeCode="324" elvishName="key:621102903:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499622" name="莎草剪水鹨" callSoundID="704702689" typeCode="299" elvishName="key:621102820:67141605" iconID="1092960295" largeIconID="1092961430"/>
+<bird identifier="1879499623" name="矛尾鸡" callSoundID="704702674" typeCode="297" elvishName="key:621102855:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879499624" name="广亩原白尾鸟" callSoundID="704702691" typeCode="310" elvishName="key:621102906:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499625" name="黑喉鹪鹩" callSoundID="704702707" typeCode="277" elvishName="key:621102896:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499626" name="红喉鹨" callSoundID="704702700" typeCode="256" elvishName="key:621102879:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879499627" name="甜 minstrel" callSoundID="704702760" typeCode="229" elvishName="key:621102872:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499628" name="伊奥尔的莺" callSoundID="704702722" typeCode="275" elvishName="key:621102860:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499629" name="铲喙鹭" callSoundID="704702775" typeCode="261" elvishName="key:621102841:67141605" iconID="1092960292" largeIconID="1092961429"/>
+<bird identifier="1879499630" name="林鹬" callSoundID="704702672" typeCode="308" elvishName="key:621102816:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499631" name="哈尔维斯特鸟" callSoundID="704702723" typeCode="332" elvishName="key:621102901:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879499632" name="月桂鸽" callSoundID="704702664" typeCode="223" elvishName="key:621102919:67141605" iconID="1092960289" largeIconID="1092961418"/>
+<bird identifier="1879499633" name="金歌鸟" callSoundID="704702760" typeCode="220" elvishName="key:621102876:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499634" name="夜鹭" callSoundID="704702775" typeCode="246" elvishName="key:621102890:67141605" iconID="1092960293" largeIconID="1092961431"/>
+<bird identifier="1879499635" name="溪鸣莺" callSoundID="704702722" typeCode="249" elvishName="key:621102813:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499636" name="沼泽地鹬" callSoundID="704702672" typeCode="335" elvishName="key:621102844:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499637" name="岩鸫" callSoundID="704702753" typeCode="264" elvishName="key:621102883:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879499638" name="贝尔兰天鹅" callSoundID="704702738" typeCode="230" elvishName="key:621102831:67141605" iconID="1092960282" largeIconID="1092961433"/>
+<bird identifier="1879499639" name="锤鸣羊" callSoundID="704702717" typeCode="269" elvishName="key:621102928:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499640" name="黄昏歌手" callSoundID="704702722" typeCode="243" elvishName="key:621102888:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499641" name="布雷戈的白尾海雕" callSoundID="704702766" typeCode="296" elvishName="key:621102912:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879499642" name="霍尔比特母鸡" callSoundID="704702689" typeCode="291" elvishName="key:621102885:67141605" iconID="1092960295" largeIconID="1092961430"/>
+<bird identifier="1879499643" name="芦苇莺" callSoundID="704702722" typeCode="304" elvishName="key:621102823:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499644" name="黄嘴潜鸟" callSoundID="704702721" typeCode="260" elvishName="key:621102891:67141605" iconID="1092960272" largeIconID="1092961426"/>
+<bird identifier="1879499645" name="红胸长喙鸭" callSoundID="704702763" typeCode="258" elvishName="key:621102814:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879499646" name="黑翅长脚鹬" callSoundID="704702677" typeCode="339" elvishName="key:621102858:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499647" name="红脚雁" callSoundID="704702736" typeCode="250" elvishName="key:621102833:67141605" iconID="1092960298" largeIconID="1092961437"/>
+<bird identifier="1879499648" name="柳鼠" callSoundID="704702739" typeCode="306" elvishName="key:621102852:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499649" name="费瑞恩雨燕" callSoundID="704702757" typeCode="333" elvishName="key:621102905:67141605" iconID="1092960284" largeIconID="1092961422"/>
+<bird identifier="1879499650" name="浅滩滨鹬" callSoundID="704702717" typeCode="272" elvishName="key:621102848:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879499651" name="逝途鸣鸟" callSoundID="704702722" typeCode="321" elvishName="key:621102907:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499652" name="银齿峰石鸫" callSoundID="704702762" typeCode="227" elvishName="key:621102867:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499653" name="蓝颊蜂虎" callSoundID="704702676" typeCode="328" elvishName="key:621102835:67141605" iconID="1092960278" largeIconID="1092961421"/>
+<bird identifier="1879499654" name="弗拉德利夫的伯劳鸟" callSoundID="704702690" typeCode="284" elvishName="key:621102861:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499655" name="柳莺" callSoundID="704702722" typeCode="307" elvishName="key:621102866:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879499656" name="恩特云雀" callSoundID="704702670" typeCode="287" elvishName="key:621102838:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879499657" name="山雨燕" callSoundID="704702757" typeCode="280" elvishName="key:621102830:67141605" iconID="1092960284" largeIconID="1092961422"/>
+<bird identifier="1879506838" name="阿格拉佐尔的鹰" callSoundID="704702766" typeCode="475" elvishName="key:621107553:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879506839" name="苍捕蚊鸟" callSoundID="704702691" typeCode="362" elvishName="key:621107564:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506840" name="破桅鸦" callSoundID="704702735" typeCode="380" elvishName="key:621107540:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879506841" name="橄榄林莺" callSoundID="704702722" typeCode="361" elvishName="key:621107552:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506842" name="暗色 ruff" callSoundID="704702675" typeCode="360" elvishName="key:621107491:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879506843" name="纹燕" callSoundID="704702679" typeCode="430" elvishName="key:621107562:67141605" iconID="1092960294" largeIconID="1092961412"/>
+<bird identifier="1879506844" name="玫瑰色椋鸟" callSoundID="704702698" typeCode="376" elvishName="key:621107556:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879506845" name="埃希尔鹬" callSoundID="704702672" typeCode="372" elvishName="key:621107500:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879506846" name="亲王之鸥" callSoundID="704702774" typeCode="402" elvishName="key:621107455:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879506847" name="白腰鸫" callSoundID="704702762" typeCode="394" elvishName="key:621107566:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506848" name="笑鸽" callSoundID="704702664" typeCode="424" elvishName="key:621107494:67141605" iconID="1092960289" largeIconID="1092961418"/>
+<bird identifier="1879506849" name="埃瑞赫鸡" callSoundID="704702687" typeCode="427" elvishName="key:621107470:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879506850" name="灯心草锤鸟" callSoundID="704702733" typeCode="439" elvishName="key:621107489:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506851" name="铜色山雀" callSoundID="704702739" typeCode="393" elvishName="key:621107496:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506852" name="刽子手之鸦" callSoundID="704702735" typeCode="450" elvishName="key:621107450:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879506853" name="莱雷思的家禽" callSoundID="704702675" typeCode="473" elvishName="key:621107453:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879506854" name="苍雨燕" callSoundID="704702757" typeCode="346" elvishName="key:621107539:67141605" iconID="1092960284" largeIconID="1092961422"/>
+<bird identifier="1879506855" name="燕鸻" callSoundID="704702679" typeCode="411" elvishName="key:621107449:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879506856" name="阿姆洛斯天鹅" callSoundID="704702738" typeCode="403" elvishName="key:621107498:67141605" iconID="1092960282" largeIconID="1092961433"/>
+<bird identifier="1879506857" name="Ciril鹪鹩" callSoundID="704702707" typeCode="401" elvishName="key:621107537:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506858" name="锐隼" callSoundID="704702727" typeCode="350" elvishName="key:621107468:67141605" iconID="1093003939" largeIconID="1093003943"/>
+<bird identifier="1879506859" name="苍羽鹡鸰" callSoundID="704702743" typeCode="469" elvishName="key:621107519:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506860" name="凶猛秃鹫" callSoundID="704702685" typeCode="456" elvishName="key:621107487:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879506861" name="膨胸鸭" callSoundID="704702763" typeCode="400" elvishName="key:621107511:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879506862" name="惨白喉" callSoundID="704702722" typeCode="459" elvishName="key:621107546:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506863" name="莫颂德鹰" callSoundID="704702699" typeCode="418" elvishName="key:621107531:67141605" iconID="1093003939" largeIconID="1093003943"/>
+<bird identifier="1879506864" name="图姆拉登松鸦" callSoundID="704702684" typeCode="379" elvishName="key:621107466:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506865" name="拉梅顿叽咋柳莺" callSoundID="704702722" typeCode="415" elvishName="key:621107503:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506866" name="黑喉白尾鸟" callSoundID="704702691" typeCode="374" elvishName="key:621107475:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506867" name="沼泽鼠" callSoundID="704702739" typeCode="438" elvishName="key:621107523:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506868" name="斑点猫头鹰" callSoundID="704702693" typeCode="414" elvishName="key:621107462:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879506869" name="红尾莺" callSoundID="704702722" typeCode="378" elvishName="key:621107484:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506870" name="哀嚎莺" callSoundID="704702722" typeCode="449" elvishName="key:621107505:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506871" name="斑鼠" callSoundID="704702739" typeCode="420" elvishName="key:621107448:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506872" name="林罗河雀" callSoundID="704702760" typeCode="474" elvishName="key:621107550:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506873" name="刨石鹨" callSoundID="704702700" typeCode="435" elvishName="key:621107493:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506874" name="兰特瑞尔的鹱" callSoundID="704702774" typeCode="413" elvishName="key:621107555:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879506875" name="带兜帽的鹱" callSoundID="704702774" typeCode="392" elvishName="key:621107541:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879506876" name="霍姆鼠" callSoundID="704702739" typeCode="353" elvishName="key:621107521:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506877" name="昂多赫尔的悲哀" callSoundID="704702722" typeCode="443" elvishName="key:621107469:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506878" name="阿诺尔鸡" callSoundID="704702675" typeCode="348" elvishName="key:621107474:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879506879" name="戴面纱的夜莺" callSoundID="704702722" typeCode="445" elvishName="key:621107456:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506880" name="海角鸡" callSoundID="704702675" typeCode="405" elvishName="key:621107522:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879506881" name="凤头潜鸭" callSoundID="704702763" typeCode="344" elvishName="key:621107451:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879506882" name="法拉斯燕鸥" callSoundID="704702708" typeCode="404" elvishName="key:621107479:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879506883" name="灌丛鸫" callSoundID="704702762" typeCode="462" elvishName="key:621107510:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506884" name="欢乐燕鸥" callSoundID="704702708" typeCode="395" elvishName="key:621107560:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879506885" name="扭曲鹪鹩" callSoundID="704702681" typeCode="457" elvishName="key:621107512:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506886" name="杜尔桑猫头鹰" callSoundID="704702693" typeCode="452" elvishName="key:621107482:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879506887" name="苦苇雀" callSoundID="704702739" typeCode="463" elvishName="key:621107459:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506888" name="中杓鹬" callSoundID="704702758" typeCode="391" elvishName="key:621107571:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879506889" name="卡伦贝尔山鸦" callSoundID="704702735" typeCode="426" elvishName="key:621107467:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879506890" name="尼姆罗德尔的莺" callSoundID="704702722" typeCode="408" elvishName="key:621107570:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506891" name="击风者" callSoundID="704702727" typeCode="390" elvishName="key:621107561:67141605" iconID="1093003939" largeIconID="1093003943"/>
+<bird identifier="1879506892" name="灰白鹡鸰" callSoundID="704702743" typeCode="417" elvishName="key:621107472:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506893" name="暗影猫头鹰" callSoundID="704702693" typeCode="429" elvishName="key:621107514:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879506894" name="哀鸣渡鸦" callSoundID="704702735" typeCode="365" elvishName="key:621107473:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879506895" name="暗灵锤鸟" callSoundID="704702733" typeCode="467" elvishName="key:621107481:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506896" name="吉利亚星云雀" callSoundID="704702670" typeCode="369" elvishName="key:621107526:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879506897" name="灰鼠" callSoundID="704702739" typeCode="363" elvishName="key:621107515:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506898" name="圣椋鸟" callSoundID="704702698" typeCode="351" elvishName="key:621107575:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879506899" name="苍色河乌" callSoundID="704702767" typeCode="377" elvishName="key:621107524:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506900" name="红润松鸦" callSoundID="704702684" typeCode="422" elvishName="key:621107577:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506902" name="血冠雀" callSoundID="704702739" typeCode="464" elvishName="key:621107463:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506903" name="尸体伯劳鸟" callSoundID="704702690" typeCode="442" elvishName="key:621107573:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506904" name="灰鸡" callSoundID="704702687" typeCode="428" elvishName="key:621107559:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879506905" name="洼鸣莺" callSoundID="704702722" typeCode="461" elvishName="key:621107497:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506906" name="Tarlang的啄木鸟" callSoundID="704702744" typeCode="425" elvishName="key:621107478:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879506907" name="幽暗鸟" callSoundID="704702753" typeCode="446" elvishName="key:621107568:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506908" name="Meneldil的鹪鹩" callSoundID="704702707" typeCode="357" elvishName="key:621107483:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506909" name="达戈拉德珩" callSoundID="704702723" typeCode="434" elvishName="key:621107520:67141605" iconID="1092960276" largeIconID="1092961411"/>
+<bird identifier="1879506910" name="吉尔雷恩 ruff" callSoundID="704702675" typeCode="398" elvishName="key:621107454:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879506911" name="幽暗锤鸟" callSoundID="704702733" typeCode="451" elvishName="key:621107517:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506912" name="贝尔法拉斯鸬鹚" callSoundID="704702774" typeCode="386" elvishName="key:621107508:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879506913" name="渣滓雀" callSoundID="704702760" typeCode="466" elvishName="key:621107476:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506914" name="浅褐色白喉林莺" callSoundID="704702722" typeCode="437" elvishName="key:621107504:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506915" name="裹 shroud 乌鸦" callSoundID="704702735" typeCode="432" elvishName="key:621107554:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879506916" name="亮背五子雀" callSoundID="704702770" typeCode="367" elvishName="key:621107574:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506917" name="梅卢伊鼠" callSoundID="704702739" typeCode="384" elvishName="key:621107529:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506918" name="红歪颈啄木鸟" callSoundID="704702744" typeCode="355" elvishName="key:621107457:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879506919" name="阴郁隼" callSoundID="704702727" typeCode="440" elvishName="key:621107525:67141605" iconID="1093003939" largeIconID="1093003943"/>
+<bird identifier="1879506920" name="蜘蛛云雀" callSoundID="704702670" typeCode="447" elvishName="key:621107502:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506921" name="辉光猫头鹰" callSoundID="704702693" typeCode="385" elvishName="key:621107458:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879506922" name="太阳雀" callSoundID="704702760" typeCode="349" elvishName="key:621107572:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506923" name="杀戮鸢" callSoundID="704702759" typeCode="470" elvishName="key:621107535:67141605" iconID="1092960271" largeIconID="1092961438"/>
+<bird identifier="1879506924" name="灰冠戴菊鸟" callSoundID="704702776" typeCode="436" elvishName="key:621107471:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506925" name="灰色松鸦" callSoundID="704702684" typeCode="431" elvishName="key:621107464:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506926" name="Cormallen啄木鸟" callSoundID="704702744" typeCode="371" elvishName="key:621107488:67141605" iconID="1092960275" largeIconID="1092961428"/>
+<bird identifier="1879506927" name="树篱歌者" callSoundID="704702707" typeCode="397" elvishName="key:621107534:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506928" name="泣鹤" callSoundID="704702779" typeCode="433" elvishName="key:621107480:67141605" iconID="1092960292" largeIconID="1092961429"/>
+<bird identifier="1879506929" name="灰山雀" callSoundID="704702739" typeCode="444" elvishName="key:621107490:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506930" name="勒本宁塘鹅" callSoundID="704702774" typeCode="387" elvishName="key:621107507:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879506931" name="银尾鸟" callSoundID="704702691" typeCode="352" elvishName="key:621107499:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506932" name="雪雀" callSoundID="704702716" typeCode="423" elvishName="key:621107460:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506933" name="棘尾鸟" callSoundID="704702757" typeCode="453" elvishName="key:621107518:67141605" iconID="1092960284" largeIconID="1092961422"/>
+<bird identifier="1879506934" name="黄昏帽" callSoundID="704702722" typeCode="345" elvishName="key:621107558:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506935" name="明多莺" callSoundID="704702722" typeCode="354" elvishName="key:621107567:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506936" name="有斑流苏鹬" callSoundID="704702687" typeCode="468" elvishName="key:621107509:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879506937" name="恶意山鸦" callSoundID="704702735" typeCode="465" elvishName="key:621107547:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879506938" name="守卫猫头鹰" callSoundID="704702693" typeCode="366" elvishName="key:621107495:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879506939" name="黑鸫" callSoundID="704702762" typeCode="448" elvishName="key:621107485:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506940" name="阿尔吉尔鸥" callSoundID="704702774" typeCode="388" elvishName="key:621107501:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879506941" name="血腥达布德雷克" callSoundID="704702710" typeCode="460" elvishName="key:621107543:67141605" iconID="1092960272" largeIconID="1092961426"/>
+<bird identifier="1879506942" name="蓟雀" callSoundID="704702760" typeCode="358" elvishName="key:621107542:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506943" name="苍色五子雀" callSoundID="704702747" typeCode="419" elvishName="key:621107532:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506944" name="林格瑞思扭喙鸟" callSoundID="704702733" typeCode="455" elvishName="key:621107530:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506945" name="灰叶云雀" callSoundID="704702670" typeCode="407" elvishName="key:621107551:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879506946" name="浅棕雀" callSoundID="704702760" typeCode="421" elvishName="key:621107486:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506948" name="河雨燕" callSoundID="704702757" typeCode="373" elvishName="key:621107576:67141605" iconID="1092960284" largeIconID="1092961422"/>
+<bird identifier="1879506949" name="布兰杜尔之鸥" callSoundID="704702774" typeCode="382" elvishName="key:621107492:67141605" iconID="1092960286" largeIconID="1092961427"/>
+<bird identifier="1879506950" name="西里斯滨鹬" callSoundID="704702672" typeCode="389" elvishName="key:621107549:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879506951" name="甜云雀" callSoundID="704702670" typeCode="347" elvishName="key:621107557:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879506952" name="阿尔嫩交喙鸟" callSoundID="704702760" typeCode="370" elvishName="key:621107569:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506953" name="埃rui五子雀" callSoundID="704702770" typeCode="383" elvishName="key:621107538:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506954" name="rattling夜鹰" callSoundID="704702780" typeCode="454" elvishName="key:621107544:67141605" iconID="1092960280" largeIconID="1092961420"/>
+<bird identifier="1879506955" name="伊熙尔杜的唤风者" callSoundID="704702706" typeCode="396" elvishName="key:621107528:67141605" iconID="1092960273" largeIconID="1092961414"/>
+<bird identifier="1879506956" name="阿加奈斯扭喙鸟" callSoundID="704702760" typeCode="472" elvishName="key:621107548:67141605" iconID="1093003938" largeIconID="1093003940"/>
+<bird identifier="1879506957" name="骨尾鹡鸰" callSoundID="704702743" typeCode="441" elvishName="key:621107565:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506958" name="烽火猫头鹰" callSoundID="704702693" typeCode="356" elvishName="key:621107461:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879506959" name="港口渔人" callSoundID="704702763" typeCode="412" elvishName="key:621107477:67141605" iconID="1092960278" largeIconID="1092961421"/>
+<bird identifier="1879506960" name="巫妖云雀" callSoundID="704702670" typeCode="471" elvishName="key:621107563:67141605" iconID="1092960296" largeIconID="1092961424"/>
+<bird identifier="1879506961" name="大型潜 deck 者" callSoundID="704702721" typeCode="399" elvishName="key:621107513:67141605" iconID="1092960291" largeIconID="1092961413"/>
+<bird identifier="1879506962" name="月鹰" callSoundID="704702699" typeCode="368" elvishName="key:621107545:67141605" iconID="1093003939" largeIconID="1093003943"/>
+<bird identifier="1879506963" name="伊希尔松鸦" callSoundID="704702684" typeCode="364" elvishName="key:621107506:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506964" name="恶魔猫头鹰" callSoundID="704702693" typeCode="458" elvishName="key:621107516:67141605" iconID="1092960287" largeIconID="1092961436"/>
+<bird identifier="1879506965" name="格拉德里斯鹬" callSoundID="704702672" typeCode="410" elvishName="key:621107536:67141605" iconID="1092960281" largeIconID="1092961416"/>
+<bird identifier="1879506966" name="大鸣禽" callSoundID="704702722" typeCode="416" elvishName="key:621107527:67141605" iconID="1092960297" largeIconID="1092961434"/>
+<bird identifier="1879506967" name="蓝鹊" callSoundID="704702735" typeCode="409" elvishName="key:621107533:67141605" iconID="1092960288" largeIconID="1092961425"/>
+<bird identifier="1879506968" name="尼姆莱丝鹰" callSoundID="704702703" typeCode="375" elvishName="key:621107465:67141605" iconID="1093003939" largeIconID="1093003943"/>
+<bird identifier="1879506969" name="安德罗斯雀" callSoundID="704702716" typeCode="359" elvishName="key:621107452:67141605" iconID="1092960297" largeIconID="1092961434"/>
 </birds>

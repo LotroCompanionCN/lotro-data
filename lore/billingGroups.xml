@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?><billingGroups>
 <billingGroup id="1" name="TurbineEmployee">
-<title id="1879117452" name="Moria Expeditionary"/>
-<title id="1879117453" name="Seeker of Khazad-dûm"/>
-<title id="1879117454" name="Mithril-hunter"/>
-<title id="1879210508" name="Guard of the Isen"/>
-<title id="1879381837" name="Rambling Rover"/>
-<title id="1879394518" name="Hero, Past and Present"/>
-<title id="1879394516" name="Heroine, Past and Present"/>
-<title id="1879394517" name="Ablâkhul"/>
-<title id="1879422521" name="Dwarf-friend / Dwarf of Dwarves"/>
-<title id="1879422523" name="Durin's"/>
-<title id="1879442825" name="Seeker of Dragons"/>
-<title id="1879446714" name="Thinks Like a Goblin"/>
-<title id="1879452452" name="From the First Page"/>
-<title id="1879452453" name="Before the Shadow"/>
-<title id="1879457025" name="Charmer"/>
-<title id="1879457027" name="Dashing Charmer"/>
-<title id="1879457026" name="Gallant Charmer"/>
-<title id="1879463966" name="Farmer"/>
-<title id="1879468635" name="River-rafter"/>
-<title id="1879468636" name="River-dancer"/>
-<title id="1879468640" name="River-lord"/>
-<title id="1879468634" name="River-lady"/>
-<title id="1879473778" name="Swashbuckler"/>
-<title id="1879473777" name="Fleet Merchant"/>
-<title id="1879473776" name="Tide-breaker"/>
-<title id="1879479292" name="Sumptuously Sublime"/>
-<title id="1879479291" name="Sublime Stalwart"/>
-<title id="1879479293" name="The Sublime"/>
-<title id="1879485381" name="Whimsical"/>
-<title id="1879485380" name="the Jolly"/>
-<title id="1879485378" name="Hey dol! Merry dol!"/>
-<title id="1879490826" name="Mirkwood Sentinel"/>
-<title id="1879490825" name="the Covert"/>
-<title id="1879490824" name="Resolute"/>
-<title id="1879493481" name="Defier of Morgoth's Legacy"/>
-<title id="1879493479" name="Sand-walker"/>
-<title id="1879493480" name="Treasured"/>
-<title id="1879498106" name="of the Rohirrim"/>
-<title id="1879498107" name="Rohan's Shield"/>
-<title id="1879498108" name="Rides to War"/>
-<title id="1879502768" name="of the Sands"/>
-<title id="1879502769" name="Student of Hamât"/>
-<title id="1879502770" name="the Beauty and the Terror"/>
-<title id="1879507638" name="Loyal Knight"/>
-<title id="1879507636" name="Fountain Guard"/>
-<title id="1879507637" name="Knight"/>
-<title id="1879515009" name="Jaunty Voyager"/>
-<title id="1879515008" name="the Boisterous"/>
-<title id="1879515007" name="Bad Monkey"/>
-<title id="1879516600" name="Trailblazer"/>
-<title id="1879516599" name="Vigilant Sentinel"/>
-<title id="1879516601" name="Leader of the Pride"/>
-<title id="1879519528" name="Trader"/>
-<title id="1879519529" name="Caravan Guide"/>
-<title id="1879519530" name="the Lavish"/>
-<title id="1879526064" name="Timeless Hero"/>
-<title id="1879526066" name="Timeless Star"/>
-<title id="1879526065" name="Enduring Wisdom"/>
+<title id="1879117452" name="莫里亚远征军"/>
+<title id="1879117453" name="，卡扎德-杜姆探寻者"/>
+<title id="1879117454" name="，秘银猎手"/>
+<title id="1879210508" name="，伊森河守卫"/>
+<title id="1879381837" name="漫游浪子"/>
+<title id="1879394518" name="古今英雄"/>
+<title id="1879394516" name="古今女英雄"/>
+<title id="1879394517" name="阿布拉库尔"/>
+<title id="1879422521" name="矮人之友 / 矮人佼佼者"/>
+<title id="1879422523" name="，都林四世"/>
+<title id="1879442825" name="，巨龙寻觅者"/>
+<title id="1879446714" name="，如哥布林般思虑"/>
+<title id="1879452452" name="，始于开篇"/>
+<title id="1879452453" name="，暗影降临之前"/>
+<title id="1879457025" name="，魅惑者"/>
+<title id="1879457027" name="，潇洒魅惑者"/>
+<title id="1879457026" name="，英武魅惑者"/>
+<title id="1879463966" name="农夫"/>
+<title id="1879468635" name="河道筏手"/>
+<title id="1879468636" name="河之舞者"/>
+<title id="1879468640" name="，河主"/>
+<title id="1879468634" name="，河女主"/>
+<title id="1879473778" name="，狂浪剑客"/>
+<title id="1879473777" name="舰队商人"/>
+<title id="1879473776" name="，碎潮者"/>
+<title id="1879479292" name="，极尽崇高者"/>
+<title id="1879479291" name="，崇高坚毅者"/>
+<title id="1879479293" name="崇高的"/>
+<title id="1879485381" name="奇幻的"/>
+<title id="1879485380" name="，快活者"/>
+<title id="1879485378" name="，欢歌笑语"/>
+<title id="1879490826" name="，幽暗密林哨兵"/>
+<title id="1879490825" name="，隐秘行者"/>
+<title id="1879490824" name="坚毅"/>
+<title id="1879493481" name="，魔苟斯遗泽之逆行者"/>
+<title id="1879493479" name="，沙行者"/>
+<title id="1879493480" name="珍品"/>
+<title id="1879498106" name="，洛汗骑兵之"/>
+<title id="1879498107" name="，洛汗之盾"/>
+<title id="1879498108" name="，奔赴战场"/>
+<title id="1879502768" name="沙之境"/>
+<title id="1879502769" name="哈玛特学徒"/>
+<title id="1879502770" name="美与惧"/>
+<title id="1879507638" name="忠诚骑士"/>
+<title id="1879507636" name="喷泉守卫"/>
+<title id="1879507637" name="骑士"/>
+<title id="1879515009" name="轻快旅人）"/>
+<title id="1879515008" name="，喧闹者"/>
+<title id="1879515007" name="坏猴子"/>
+<title id="1879516600" name="拓路者"/>
+<title id="1879516599" name="警惕哨兵"/>
+<title id="1879516601" name="骄傲领袖"/>
+<title id="1879519528" name="商人"/>
+<title id="1879519529" name="，商队向导"/>
+<title id="1879519530" name="奢华"/>
+<title id="1879526064" name="，永恒英雄"/>
+<title id="1879526066" name="，永恒之星"/>
+<title id="1879526065" name="，不朽智慧"/>
 <title id="1879532163" name="Promised Ally"/>
 <title id="1879532162" name="Trusty Companion"/>
 <title id="1879532161" name="Promise Fulfilled"/>
 </billingGroup>
 <billingGroup id="2" name="TurbineVIP">
-<title id="1879117452" name="Moria Expeditionary"/>
-<title id="1879117453" name="Seeker of Khazad-dûm"/>
-<title id="1879117454" name="Mithril-hunter"/>
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879117452" name="莫里亚远征军"/>
+<title id="1879117453" name="，卡扎德-杜姆探寻者"/>
+<title id="1879117454" name="，秘银猎手"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="3" name="TurbineExec">
-<title id="1879117452" name="Moria Expeditionary"/>
-<title id="1879117453" name="Seeker of Khazad-dûm"/>
-<title id="1879117454" name="Mithril-hunter"/>
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879117452" name="莫里亚远征军"/>
+<title id="1879117453" name="，卡扎德-杜姆探寻者"/>
+<title id="1879117454" name="，秘银猎手"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="4" name="Press"/>
 <billingGroup id="5" name="AngmarGuest"/>
@@ -112,13 +112,13 @@
 <billingGroup id="39" name="MorPr8"/>
 <billingGroup id="40" name="MorPr9"/>
 <billingGroup id="41" name="MorPr10">
-<title id="1879117452" name="Moria Expeditionary"/>
+<title id="1879117452" name="莫里亚远征军"/>
 </billingGroup>
 <billingGroup id="42" name="MorPr11">
-<title id="1879117453" name="Seeker of Khazad-dûm"/>
+<title id="1879117453" name="，卡扎德-杜姆探寻者"/>
 </billingGroup>
 <billingGroup id="43" name="MorPr12">
-<title id="1879117454" name="Mithril-hunter"/>
+<title id="1879117454" name="，秘银猎手"/>
 </billingGroup>
 <billingGroup id="44" name="MoriaAlpha0"/>
 <billingGroup id="45" name="MoriaAlpha1"/>
@@ -255,20 +255,20 @@
 <billingGroup id="187" name="LOTROIsenCloak2"/>
 <billingGroup id="188" name="LOTROIsenCloak3"/>
 <billingGroup id="189" name="LOTROIsenMount1">
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="190" name="LOTROIsenMount2">
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="191" name="LOTROIsenMount3">
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="192" name="LOTROIsenXP"/>
 <billingGroup id="193" name="LOTROIsenBase">
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="194" name="LOTROIsenBundle">
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="195" name="WSMP_REAVER"/>
 <billingGroup id="196" name="WSMP_BLACKARROW"/>
@@ -323,13 +323,13 @@
 <billingGroup id="293" name="WS_ANNI_CLOTH"/>
 <billingGroup id="294" name="WS_ANNI_BUND"/>
 <billingGroup id="295" name="PO_ROHAN_1">
-<title id="1879239345" name="Friend of The Mark"/>
+<title id="1879239345" name="，马克之友"/>
 </billingGroup>
 <billingGroup id="296" name="PO_ROHAN_2">
-<title id="1879239345" name="Friend of The Mark"/>
+<title id="1879239345" name="，马克之友"/>
 </billingGroup>
 <billingGroup id="297" name="PO_ROHAN_3">
-<title id="1879239345" name="Friend of The Mark"/>
+<title id="1879239345" name="，马克之友"/>
 </billingGroup>
 <billingGroup id="299" name="WSSDSOM"/>
 <billingGroup id="300" name="REF_MNT_1"/>
@@ -337,19 +337,19 @@
 <billingGroup id="302" name="WS_XSELL_2"/>
 <billingGroup id="303" name="STEAM_MITH"/>
 <billingGroup id="304" name="ROR_B_BUG">
-<title id="1879246994" name="Bug-hunter"/>
+<title id="1879246994" name="，猎虫者"/>
 </billingGroup>
 <billingGroup id="305" name="ROR_B_SQ">
-<title id="1879246993" name="Squire of the Mark"/>
+<title id="1879246993" name="，马克侍从"/>
 </billingGroup>
 <billingGroup id="306" name="ROR_B_WISE">
-<title id="1879246997" name="The Wise"/>
+<title id="1879246997" name="智者"/>
 </billingGroup>
 <billingGroup id="307" name="ROR_B_SOC">
-<title id="1879246996" name="The Sociable"/>
+<title id="1879246996" name="，和善之人"/>
 </billingGroup>
 <billingGroup id="308" name="ROR_B_WELL">
-<title id="1879246995" name="The Well-met"/>
+<title id="1879246995" name="，友善之人"/>
 </billingGroup>
 <billingGroup id="309" name="ROHANBETA"/>
 <billingGroup id="310" name="ROHANPRESS"/>
@@ -377,16 +377,16 @@
 <billingGroup id="334" name="MC_TRTT_H"/>
 <billingGroup id="335" name="ROR_EU_1"/>
 <billingGroup id="336" name="ROHAN_DR_B">
-<title id="1879239345" name="Friend of The Mark"/>
+<title id="1879239345" name="，马克之友"/>
 </billingGroup>
 <billingGroup id="337" name="ROHAN_DR_H">
-<title id="1879239345" name="Friend of The Mark"/>
+<title id="1879239345" name="，马克之友"/>
 </billingGroup>
 <billingGroup id="338" name="ROHAN_DR_L">
-<title id="1879239345" name="Friend of The Mark"/>
+<title id="1879239345" name="，马克之友"/>
 </billingGroup>
 <billingGroup id="339" name="ROHAN_WS_1">
-<title id="1879239345" name="Friend of The Mark"/>
+<title id="1879239345" name="，马克之友"/>
 </billingGroup>
 <billingGroup id="340" name="HORSEPLAY"/>
 <billingGroup id="341" name="STARTBUND"/>
@@ -404,16 +404,16 @@
 <billingGroup id="355" name="DR_MOUNT_5"/>
 <billingGroup id="356" name="DR_MOUNT_1"/>
 <billingGroup id="357" name="WEATHERSTOCK_1">
-<title id="1879271377" name="Weatherstock Bard"/>
+<title id="1879271377" name="天气节吟游诗人"/>
 </billingGroup>
 <billingGroup id="358" name="WEATHERSTOCK_2">
-<title id="1879271378" name="Weatherstock Steward"/>
+<title id="1879271378" name="，风云顶守护者"/>
 </billingGroup>
 <billingGroup id="359" name="WEATHERSTOCK_3">
-<title id="1879271379" name="Weatherstock Wayfarer"/>
+<title id="1879271379" name="，风云顶旅人"/>
 </billingGroup>
 <billingGroup id="360" name="EXTRALIFE_1">
-<title id="1879271376" name="Hero of the Small Folk"/>
+<title id="1879271376" name="，小民英雄"/>
 </billingGroup>
 <billingGroup id="362" name="WebStore_WardrobeSpace_15"/>
 <billingGroup id="363" name="WebStore_WardrobeSpace_16"/>
@@ -430,15 +430,15 @@
 <billingGroup id="374" name="ADV_RIDE_1"/>
 <billingGroup id="375" name="ADV_RIDE_2"/>
 <billingGroup id="376" name="WSRHELM">
-<title id="1879276764" name="Enforcer of Helm"/>
+<title id="1879276764" name="，海尔姆执法者"/>
 </billingGroup>
 <billingGroup id="377" name="HELM_XP"/>
 <billingGroup id="378" name="HELM_TITLE_ENF">
-<title id="1879276764" name="Enforcer of Helm"/>
+<title id="1879276764" name="，海尔姆执法者"/>
 </billingGroup>
 <billingGroup id="379" name="HELM_TITLE_AVE">
-<title id="1879276764" name="Enforcer of Helm"/>
-<title id="1879276763" name="Avenger of Helm"/>
+<title id="1879276764" name="，海尔姆执法者"/>
+<title id="1879276763" name="，海尔姆复仇者"/>
 </billingGroup>
 <billingGroup id="380" name="HELM_MOUNT_1"/>
 <billingGroup id="381" name="HELM_MOUNT_2"/>
@@ -451,13 +451,13 @@
 <billingGroup id="389" name="HELM_PRESS"/>
 <billingGroup id="390" name="HELM_BETA"/>
 <billingGroup id="391" name="OCR_FESTIVAL_1">
-<title id="1879283400" name="the Celebratory"/>
+<title id="1879283400" name="，欢庆者"/>
 </billingGroup>
 <billingGroup id="392" name="OCR_CHILDSPLAY_1">
-<title id="1879283399" name="an Unexpected Traveller"/>
+<title id="1879283399" name="，一位意外的旅人"/>
 </billingGroup>
 <billingGroup id="393" name="HDSTD">
-<title id="1879276764" name="Enforcer of Helm"/>
+<title id="1879276764" name="，海尔姆执法者"/>
 </billingGroup>
 <billingGroup id="394" name="HD_EU_MOUNT_1"/>
 <billingGroup id="395" name="MNT_RAC_ELF"/>
@@ -465,10 +465,10 @@
 <billingGroup id="397" name="MNT_RAC_HUM"/>
 <billingGroup id="398" name="MNT_RAC_HOB"/>
 <billingGroup id="399" name="OCR_FASHIONABLE">
-<title id="1879103695" name="the Fashionable"/>
+<title id="1879103695" name="时尚者"/>
 </billingGroup>
 <billingGroup id="400" name="OCR_UNFASHIONABLE">
-<title id="1879103696" name="the Unfashionable"/>
+<title id="1879103696" name="土气者"/>
 </billingGroup>
 <billingGroup id="401" name="WSIS"/>
 <billingGroup id="402" name="WSIS_2"/>
@@ -579,33 +579,33 @@
 <billingGroup id="507" name="VIP_REVIVAL"/>
 <billingGroup id="508" name="SSGVIPTERMSACCEPT"/>
 <billingGroup id="509" name="AG_2017_10YEAR">
-<title id="1879356048" name="Ever On and On"/>
+<title id="1879356048" name="，永不止步"/>
 </billingGroup>
 <billingGroup id="510" name="MordorSTD"/>
 <billingGroup id="511" name="WSRMORDOR"/>
 <billingGroup id="512" name="WSHE"/>
-<billingGroup id="513" name="Mordor Collector's Edition for your account"/>
+<billingGroup id="513" name="账号通用魔多典藏版"/>
 <billingGroup id="514" name="MordorUlt"/>
 <billingGroup id="516" name="GotMordorSt"/>
 <billingGroup id="517" name="GotMordorCo"/>
 <billingGroup id="518" name="GotMordorUl"/>
 <billingGroup id="519" name="WSRMIRKWOODNORTH"/>
 <billingGroup id="520" name="AG_2018_11YEAR">
-<title id="1879367907" name="Elevenses"/>
-<title id="1879367908" name="Despoiler of Elevenses"/>
+<title id="1879367907" name="午茶时光"/>
+<title id="1879367908" name="午茶掠夺者"/>
 </billingGroup>
 <billingGroup id="521" name="AnniversaryRewardGranted_2018"/>
 <billingGroup id="522" name="WSRDWARFHOLDS"/>
 <billingGroup id="523" name="WSOF_6"/>
 <billingGroup id="524" name="WSRAddonU23"/>
 <billingGroup id="525" name="Legendary_Acc_1"/>
-<billingGroup id="526" name="Account-wide Adventure-seeker portrait frame"/>
-<billingGroup id="527" name="Account-wide Legendary Traveller title">
-<title id="1879381840" name="Legendary Traveller"/>
+<billingGroup id="526" name="账号通用探险者肖像框"/>
+<billingGroup id="527" name="账号通用头衔：传奇旅行者">
+<title id="1879381840" name="，传奇旅人"/>
 </billingGroup>
-<billingGroup id="528" name="Account-wide cosmetic Cloak of Narmeleth's Redemption"/>
-<billingGroup id="529" name="Account-wide Rambling Rover title">
-<title id="1879381837" name="Rambling Rover"/>
+<billingGroup id="528" name="账号通用外观：纳尔梅莱斯的救赎斗篷"/>
+<billingGroup id="529" name="账号通用头衔：漫游者">
+<title id="1879381837" name="漫游浪子"/>
 </billingGroup>
 <billingGroup id="530" name="LegServ_MTX"/>
 <billingGroup id="531" name="Legendary_VIP_2018"/>
@@ -624,93 +624,93 @@
 <billingGroup id="544" name="MNTOBSID"/>
 <billingGroup id="545" name="MNTDAGO"/>
 <billingGroup id="546" name="WSRVoA"/>
-<billingGroup id="547" name="Account-wide Blaze of Hope portrait frame"/>
-<billingGroup id="548" name="Account-wide cosmetic Hooded Cloak of the Watcher"/>
-<billingGroup id="549" name="Account-wide Delver of the Darkest Depths title">
-<title id="1879385685" name="Delver of the Darkest Depths"/>
+<billingGroup id="547" name="账号通用希望之火肖像框"/>
+<billingGroup id="548" name="账号通用外观：守望者的兜帽斗篷"/>
+<billingGroup id="549" name="账号通用头衔：最深渊的探索者">
+<title id="1879385685" name="至深幽暗的探索者"/>
 </billingGroup>
 <billingGroup id="550" name="MoriaMTX2019"/>
 <billingGroup id="551" name="AG_2019_12YEAR">
-<title id="1879388608" name="Abundantly Sublime"/>
-<title id="1879388607" name="of a dirty dozen"/>
+<title id="1879388608" name="极尽华美"/>
+<title id="1879388607" name="，肮脏十二人之一"/>
 </billingGroup>
 <billingGroup id="552" name="AGGranted_2019"/>
 <billingGroup id="553" name="OCR_EvtOrg">
-<title id="1879388630" name="Event Organizer"/>
+<title id="1879388630" name="赛事组织者"/>
 </billingGroup>
 <billingGroup id="554" name="OCR_EvtWin">
-<title id="1879388634" name="Event Winner"/>
+<title id="1879388634" name="赛事优胜者"/>
 </billingGroup>
 <billingGroup id="555" name="OCR_Music">
-<title id="1879388660" name="Musician"/>
+<title id="1879388660" name="乐师"/>
 </billingGroup>
 <billingGroup id="556" name="OCR_MusicPost">
-<title id="1879388659" name="Musician"/>
+<title id="1879388659" name="乐师"/>
 </billingGroup>
 <billingGroup id="557" name="OCR_Spect">
-<title id="1879388626" name="Spectator"/>
+<title id="1879388626" name="观众"/>
 </billingGroup>
 <billingGroup id="558" name="OCR_Artist">
-<title id="1879388625" name="Artist"/>
+<title id="1879388625" name="艺人"/>
 </billingGroup>
 <billingGroup id="559" name="OCR_ArtistPost">
-<title id="1879388631" name="Artist"/>
+<title id="1879388631" name="艺术家"/>
 </billingGroup>
 <billingGroup id="560" name="OCR_EvtInfo">
-<title id="1879388638" name="Provider of Event Information"/>
+<title id="1879388638" name="，赛事信息提供者"/>
 </billingGroup>
 <billingGroup id="561" name="OCR_ConAttend">
-<title id="1879388635" name="Concert Attendee"/>
+<title id="1879388635" name="，音乐会出席者"/>
 </billingGroup>
 <billingGroup id="562" name="OCR_EvtView">
-<title id="1879388633" name="Viewer of Events"/>
+<title id="1879388633" name="，赛事观者"/>
 </billingGroup>
 <billingGroup id="563" name="OCR_MusicAsst">
-<title id="1879388624" name="Speaker for the Musicians"/>
+<title id="1879388624" name="，乐师代言人"/>
 </billingGroup>
 <billingGroup id="564" name="OCR_Victory">
-<title id="1879388629" name="Striving for Victory"/>
+<title id="1879388629" name="，争胜之士"/>
 </billingGroup>
 <billingGroup id="565" name="OCR_Words">
-<title id="1879388628" name="Speaker of Words"/>
+<title id="1879388628" name="，言者"/>
 </billingGroup>
 <billingGroup id="566" name="OCR_Perform">
-<title id="1879388632" name="Performer of Note"/>
+<title id="1879388632" name="知名表演者"/>
 </billingGroup>
 <billingGroup id="567" name="OCR_Audience">
-<title id="1879388627" name="Audience Member"/>
+<title id="1879388627" name="，听众"/>
 </billingGroup>
 <billingGroup id="568" name="OCR_Harnkeg">
-<title id="1879388639" name="Harnkegger"/>
+<title id="1879388639" name="，哈恩克格"/>
 </billingGroup>
 <billingGroup id="569" name="OCR_ArtLove">
-<title id="1879388640" name="Art-lover"/>
+<title id="1879388640" name="，艺术爱好者"/>
 </billingGroup>
 <billingGroup id="570" name="WSRMORGUL"/>
-<billingGroup id="571" name="Account-wide Stalwart Journeyer title">
-<title id="1879389139" name="Stalwart Journeyer"/>
+<billingGroup id="571" name="账号通用头衔：坚定的旅人">
+<title id="1879389139" name="，坚毅行者"/>
 </billingGroup>
-<billingGroup id="572" name="Account-wide cosmetic Cloak of Greenwood Echoes"/>
-<billingGroup id="573" name="Account-wide Nemesis of the Necromancer title">
-<title id="1879389148" name="Nemesis of the Necromancer"/>
+<billingGroup id="572" name="账号通用外观：恐怖森林回响斗篷"/>
+<billingGroup id="573" name="账号通用头衔：死灵法师的克星">
+<title id="1879389148" name="，死灵法师的克星"/>
 </billingGroup>
-<billingGroup id="574" name="Account-wide Dispeller of Isengard title">
-<title id="1879389129" name="Dispeller of Isengard"/>
+<billingGroup id="574" name="账号通用艾辛格驱散者头衔">
+<title id="1879389129" name="，艾森加德驱散者"/>
 </billingGroup>
-<billingGroup id="575" name="Account-wide cosmetic Hooded Repurposed Cloak of the White Hand"/>
-<billingGroup id="576" name="Account-wide Great River portrait frame"/>
+<billingGroup id="575" name="账号通用外观：白手重制兜帽斗篷"/>
+<billingGroup id="576" name="账号通用大河肖像框"/>
 <billingGroup id="577" name="WSStout"/>
 <billingGroup id="578" name="MORGULStd"/>
 <billingGroup id="579" name="GotMORGULStd"/>
-<billingGroup id="580" name="Minas Morgul Collector's Edition for your account">
-<title id="1879394518" name="Hero, Past and Present"/>
-<title id="1879394516" name="Heroine, Past and Present"/>
+<billingGroup id="580" name="账号通用米那斯魔窟典藏版">
+<title id="1879394518" name="古今英雄"/>
+<title id="1879394516" name="古今女英雄"/>
 </billingGroup>
 <billingGroup id="581" name="GotMORGULColl"/>
 <billingGroup id="582" name="MORGULUlt">
-<title id="1879394518" name="Hero, Past and Present"/>
-<title id="1879394516" name="Heroine, Past and Present"/>
-<title id="1879394517" name="Ablâkhul"/>
+<title id="1879394518" name="古今英雄"/>
+<title id="1879394516" name="古今女英雄"/>
+<title id="1879394517" name="阿布拉库尔"/>
 </billingGroup>
 <billingGroup id="583" name="GotMORGULUlt"/>
 <billingGroup id="584" name="LOTROPalantir"/>
@@ -720,41 +720,41 @@
 <billingGroup id="588" name="GotMORGULColl_Bag"/>
 <billingGroup id="589" name="GotMORGULUlt_Bags"/>
 <billingGroup id="590" name="OCR_Aid">
-<title id="1879397800" name="Aid to Those in Need"/>
+<title id="1879397800" name="困厄援手者"/>
 </billingGroup>
 <billingGroup id="591" name="RaceChange"/>
 <billingGroup id="592" name="WSRWoA"/>
-<billingGroup id="593" name="Account-wide Horse-lords portrait frame"/>
-<billingGroup id="594" name="Account-wide cosmetic Cloak of the Regal Horse-lords"/>
+<billingGroup id="593" name="账号通用马王肖像框"/>
+<billingGroup id="594" name="账号通用外观：王室马王斗篷"/>
 <billingGroup id="595" name="Rohan_VIP_2020"/>
 <billingGroup id="596" name="AG_2020_13YEAR">
-<title id="1879406802" name="Baker's Dozen"/>
-<title id="1879406807" name="a Lucky Thirteenth"/>
+<title id="1879406802" name="烘焙师之十三"/>
+<title id="1879406807" name="幸运十三"/>
 </billingGroup>
 <billingGroup id="597" name="AGGranted_2020"/>
 <billingGroup id="598" name="WSRHELMcontent"/>
 <billingGroup id="599" name="VIP_Pig"/>
 <billingGroup id="600" name="VIPMay2020"/>
 <billingGroup id="601" name="GotMay2020"/>
-<billingGroup id="602" name="Account-wide Tournament Contender's portrait frame"/>
-<billingGroup id="603" name="Account-wide Tournament Gladiator's portrait frame"/>
-<billingGroup id="604" name="Account-wide Tournament Hero's portrait frame"/>
-<billingGroup id="605" name="Account-wide cloak as a token of Elladan's appreciation"/>
-<billingGroup id="606" name="Account-wide cloak as a token of Elrohir's appreciation"/>
-<billingGroup id="607" name="Account-wide Honourable Contender title">
-<title id="1879407988" name="Honourable Contender"/>
+<billingGroup id="602" name="账号通用锦标赛挑战者肖像框"/>
+<billingGroup id="603" name="账号通用锦标赛角斗士肖像框"/>
+<billingGroup id="604" name="账号通用锦标赛英雄肖像框"/>
+<billingGroup id="605" name="账号通用斗篷：埃拉丹的感谢信物"/>
+<billingGroup id="606" name="账号通用斗篷：埃洛希尔的感谢信物"/>
+<billingGroup id="607" name="账号通用头衔：可敬挑战者">
+<title id="1879407988" name="荣誉斗士"/>
 </billingGroup>
-<billingGroup id="608" name="Account-wide Herald of Rivendell title">
-<title id="1879407985" name="Herald of Rivendell"/>
+<billingGroup id="608" name="账号通用头衔：瑞文戴尔使者">
+<title id="1879407985" name="瑞文戴尔传令官"/>
 </billingGroup>
-<billingGroup id="609" name="Account-wide Favoured of Elrond title">
-<title id="1879407984" name="Favoured of Elrond"/>
+<billingGroup id="609" name="账号通用头衔：埃尔隆德的宠儿">
+<title id="1879407984" name="埃尔隆德眷宠"/>
 </billingGroup>
-<billingGroup id="610" name="Account-wide Champion of Rivendell title">
-<title id="1879407987" name="Champion of Rivendell"/>
+<billingGroup id="610" name="账号通用头衔：瑞文戴尔勇士">
+<title id="1879407987" name="瑞文戴尔勇士"/>
 </billingGroup>
-<billingGroup id="611" name="Account-wide Exalted Champion of Rivendell title">
-<title id="1879407986" name="Exalted Champion of Rivendell"/>
+<billingGroup id="611" name="账号通用头衔：瑞文戴尔崇高勇士">
+<title id="1879407986" name="瑞文戴尔至尊勇士"/>
 </billingGroup>
 <billingGroup id="612" name="WSRELD"/>
 <billingGroup id="613" name="WSRMoria_99"/>
@@ -764,23 +764,23 @@
 <billingGroup id="617" name="WSRRohan_99"/>
 <billingGroup id="618" name="WSIC_U9_99"/>
 <billingGroup id="619" name="WSRHELMcont_99"/>
-<billingGroup id="620" name="Account-wide Helm's Deep Defender portrait frame"/>
-<billingGroup id="621" name="Account-wide Tree Whisperer title">
-<title id="1879409499" name="Tree Whisperer"/>
+<billingGroup id="620" name="账号通用圣盔谷守护者肖像框"/>
+<billingGroup id="621" name="账号通用头衔：树木语者">
+<title id="1879409499" name="树木低语者"/>
 </billingGroup>
 <billingGroup id="622" name="VIP_HD_2020"/>
 <billingGroup id="623" name="W3PeaksStd"/>
-<billingGroup id="624" name="War of Three Peaks Collector's Edition for your account"/>
+<billingGroup id="624" name="账号通用三峰之战典藏版"/>
 <billingGroup id="625" name="Got3PeaksColl"/>
 <billingGroup id="626" name="W3PeaksUlt"/>
 <billingGroup id="627" name="Got3PeaksUlt"/>
 <billingGroup id="628" name="OCRPetSlug"/>
 <billingGroup id="629" name="WSWILDW"/>
 <billingGroup id="630" name="WSAZNLBZ"/>
-<billingGroup id="631" name="Account-wide Beacon of Gondor portrait frame"/>
-<billingGroup id="632" name="Account-wide Hooded Cloak of Gondor's Aid"/>
-<billingGroup id="633" name="Account-wide Beacon title">
-<title id="1879413921" name="Beacon"/>
+<billingGroup id="631" name="账号通用刚铎 beacon 肖像框"/>
+<billingGroup id="632" name="账号通用刚铎援助兜帽斗篷"/>
+<billingGroup id="633" name="账号通用 beacon 头衔">
+<title id="1879413921" name="，烽火"/>
 </billingGroup>
 <billingGroup id="634" name="LOTRO_catchup_bundle"/>
 <billingGroup id="635" name="LOTRO_DBG_Starter"/>
@@ -788,161 +788,161 @@
 <billingGroup id="637" name="SSGEmployee"/>
 <billingGroup id="638" name="GundabadSTD"/>
 <billingGroup id="639" name="WSRGUN"/>
-<billingGroup id="640" name="Account-wide Black Gate portrait frame"/>
-<billingGroup id="641" name="Account-wide Morannon Ceremonial Cloak"/>
-<billingGroup id="642" name="Account-wide Unbowed and Unbroken title">
-<title id="1879418553" name="Unbowed and Unbroken"/>
+<billingGroup id="640" name="账号通用黑 gate 肖像框"/>
+<billingGroup id="641" name="账号通用魔栏农仪式斗篷"/>
+<billingGroup id="642" name="账号通用头衔：不屈不挠">
+<title id="1879418553" name="不屈不挠"/>
 </billingGroup>
 <billingGroup id="643" name="AG_2021_14YEAR">
-<title id="1879418571" name="Gem without Measure"/>
-<title id="1879418572" name="Destroyer"/>
+<title id="1879418571" name="无量宝石"/>
+<title id="1879418572" name="，毁灭者"/>
 </billingGroup>
 <billingGroup id="644" name="AGGranted_2021"/>
 <billingGroup id="645" name="WSFurther01"/>
-<billingGroup id="646" name="Account-wide title: Apprentice of Claws">
-<title id="1879419081" name="Apprentice of Claws"/>
+<billingGroup id="646" name="账号通用头衔：利爪学徒">
+<title id="1879419081" name="，利爪学徒"/>
 </billingGroup>
-<billingGroup id="647" name="Account-wide title: Disciple of Claws">
-<title id="1879419071" name="Disciple of Claws"/>
+<billingGroup id="647" name="账号通用头衔：利爪信徒">
+<title id="1879419071" name="，利爪门徒"/>
 </billingGroup>
-<billingGroup id="648" name="Account-wide title: Adept of Claws">
-<title id="1879419092" name="Adept of Claws"/>
+<billingGroup id="648" name="账号通用头衔：利爪能手">
+<title id="1879419092" name="，利爪能手"/>
 </billingGroup>
-<billingGroup id="649" name="Account-wide title: Master of Claws">
-<title id="1879419085" name="Master of Claws"/>
+<billingGroup id="649" name="账号通用头衔：利爪大师">
+<title id="1879419085" name="，利爪大师"/>
 </billingGroup>
-<billingGroup id="650" name="Account-wide title: Apprentice of Shadows">
-<title id="1879419050" name="Apprentice of Shadows"/>
+<billingGroup id="650" name="账号通用头衔：暗影学徒">
+<title id="1879419050" name="，暗影学徒"/>
 </billingGroup>
-<billingGroup id="651" name="Account-wide title: Disciple of Shadows">
-<title id="1879419091" name="Disciple of Shadows"/>
+<billingGroup id="651" name="账号通用头衔：暗影信徒">
+<title id="1879419091" name="，暗影门徒"/>
 </billingGroup>
-<billingGroup id="652" name="Account-wide title: Adept of Shadows">
-<title id="1879419063" name="Adept of Shadows"/>
+<billingGroup id="652" name="账号通用头衔：暗影能手">
+<title id="1879419063" name="，暗影能手"/>
 </billingGroup>
-<billingGroup id="653" name="Account-wide title: Master of Shadows">
-<title id="1879419056" name="Master of Shadows"/>
+<billingGroup id="653" name="账号通用头衔：暗影大师">
+<title id="1879419056" name="，暗影大师"/>
 </billingGroup>
-<billingGroup id="654" name="Account-wide title: Apprentice of Fists">
-<title id="1879419089" name="Apprentice of Fists"/>
+<billingGroup id="654" name="账号通用头衔：拳术学徒">
+<title id="1879419089" name="，拳术学徒"/>
 </billingGroup>
-<billingGroup id="655" name="Account-wide title: Disciple of Fists">
-<title id="1879419083" name="Disciple of Fists"/>
+<billingGroup id="655" name="账号通用头衔：拳术信徒">
+<title id="1879419083" name="，拳术门徒"/>
 </billingGroup>
-<billingGroup id="656" name="Account-wide title: Adept of Fists">
-<title id="1879419065" name="Adept of Fists"/>
+<billingGroup id="656" name="账号通用头衔：拳术能手">
+<title id="1879419065" name="，拳术能手"/>
 </billingGroup>
-<billingGroup id="657" name="Account-wide title: Master of Fists">
-<title id="1879419058" name="Master of Fists"/>
+<billingGroup id="657" name="账号通用头衔：拳术大师">
+<title id="1879419058" name="，拳术大师"/>
 </billingGroup>
-<billingGroup id="658" name="Account-wide title: Apprentice of Banners">
-<title id="1879419090" name="Apprentice of Banners"/>
+<billingGroup id="658" name="账号通用头衔：旗帜学徒">
+<title id="1879419090" name="，旗帜学徒"/>
 </billingGroup>
-<billingGroup id="659" name="Account-wide title: Disciple of Banners">
-<title id="1879419077" name="Disciple of Banners"/>
+<billingGroup id="659" name="账号通用头衔：旗帜信徒">
+<title id="1879419077" name="，旗帜门徒"/>
 </billingGroup>
-<billingGroup id="660" name="Account-wide title: Adept of Banners">
-<title id="1879419051" name="Adept of Banners"/>
+<billingGroup id="660" name="账号通用头衔：旗帜能手">
+<title id="1879419051" name="，旗帜能手"/>
 </billingGroup>
-<billingGroup id="661" name="Account-wide title: Master of Banners">
-<title id="1879419082" name="Master of Banners"/>
+<billingGroup id="661" name="账号通用头衔：旗帜大师">
+<title id="1879419082" name="，旗帜大师"/>
 </billingGroup>
-<billingGroup id="662" name="Account-wide title: Apprentice of Blades">
-<title id="1879419087" name="Novitiate of Blades"/>
+<billingGroup id="662" name="账号通用头衔：利刃学徒">
+<title id="1879419087" name="，利刃修士"/>
 </billingGroup>
-<billingGroup id="663" name="Account-wide title: Disciple of Blades">
-<title id="1879419048" name="Disciple of Blades"/>
+<billingGroup id="663" name="账号通用头衔：利刃信徒">
+<title id="1879419048" name="，利刃门徒"/>
 </billingGroup>
-<billingGroup id="664" name="Account-wide title: Adept of Blades">
-<title id="1879419064" name="Adept of Blades"/>
+<billingGroup id="664" name="账号通用头衔：利刃能手">
+<title id="1879419064" name="，利刃能手"/>
 </billingGroup>
-<billingGroup id="665" name="Account-wide title: Master of Blades">
-<title id="1879419057" name="Master of Blades"/>
+<billingGroup id="665" name="账号通用头衔：利刃大师">
+<title id="1879419057" name="，利刃大师"/>
 </billingGroup>
-<billingGroup id="666" name="Account-wide title: Apprentice of Shields">
-<title id="1879419078" name="Apprentice of Shields"/>
+<billingGroup id="666" name="账号通用头衔：盾牌学徒">
+<title id="1879419078" name="，盾牌学徒"/>
 </billingGroup>
-<billingGroup id="667" name="Account-wide title: Disciple of Shields">
-<title id="1879419047" name="Disciple of Shields"/>
+<billingGroup id="667" name="账号通用头衔：盾牌信徒">
+<title id="1879419047" name="，盾牌门徒"/>
 </billingGroup>
-<billingGroup id="668" name="Account-wide title: Adept of Shields">
-<title id="1879419068" name="Adept of Shields"/>
+<billingGroup id="668" name="账号通用头衔：盾牌能手">
+<title id="1879419068" name="，盾牌能手"/>
 </billingGroup>
-<billingGroup id="669" name="Account-wide title: Master of Shields">
-<title id="1879419073" name="Master of Shields"/>
+<billingGroup id="669" name="账号通用头衔：盾牌大师">
+<title id="1879419073" name="，盾牌大师"/>
 </billingGroup>
-<billingGroup id="670" name="Account-wide title: Apprentice of Bows">
-<title id="1879419052" name="Apprentice of Bows"/>
+<billingGroup id="670" name="账号通用头衔：弓箭学徒">
+<title id="1879419052" name="，弓箭学徒"/>
 </billingGroup>
-<billingGroup id="671" name="Account-wide title: Disciple of Bows">
-<title id="1879419084" name="Disciple of Bows"/>
+<billingGroup id="671" name="账号通用头衔：弓箭信徒">
+<title id="1879419084" name="，弓箭门徒"/>
 </billingGroup>
-<billingGroup id="672" name="Account-wide title: Adept of Bows">
-<title id="1879419070" name="Adept of Bows"/>
+<billingGroup id="672" name="账号通用头衔：弓箭能手">
+<title id="1879419070" name="，弓箭能手"/>
 </billingGroup>
-<billingGroup id="673" name="Account-wide title: Master of Bows">
-<title id="1879419074" name="Master of Bows"/>
+<billingGroup id="673" name="账号通用头衔：弓箭大师">
+<title id="1879419074" name="，弓箭大师"/>
 </billingGroup>
-<billingGroup id="674" name="Account-wide title: Apprentice of Scrolls">
-<title id="1879419055" name="Apprentice of Scrolls"/>
+<billingGroup id="674" name="账号通用头衔：卷轴学徒">
+<title id="1879419055" name="，卷轴学徒"/>
 </billingGroup>
-<billingGroup id="675" name="Account-wide title: Disciple of Scrolls">
-<title id="1879419072" name="Disciple of Scrolls"/>
+<billingGroup id="675" name="账号通用头衔：卷轴信徒">
+<title id="1879419072" name="，卷轴门徒"/>
 </billingGroup>
-<billingGroup id="676" name="Account-wide title: Adept of Scrolls">
-<title id="1879419067" name="Adept of Scrolls"/>
+<billingGroup id="676" name="账号通用头衔：卷轴能手">
+<title id="1879419067" name="，卷轴能手"/>
 </billingGroup>
-<billingGroup id="677" name="Account-wide title: Master of Scrolls">
-<title id="1879419061" name="Master of Scrolls"/>
+<billingGroup id="677" name="账号通用头衔：卷轴大师">
+<title id="1879419061" name="，卷轴大师"/>
 </billingGroup>
-<billingGroup id="678" name="Account-wide title: Apprentice of Song">
-<title id="1879419086" name="Apprentice of Song"/>
+<billingGroup id="678" name="账号通用头衔：歌谣学徒">
+<title id="1879419086" name="，歌谣学徒"/>
 </billingGroup>
-<billingGroup id="679" name="Account-wide title: Disciple of Song">
-<title id="1879419054" name="Disciple of Song"/>
+<billingGroup id="679" name="账号通用头衔：歌谣信徒">
+<title id="1879419054" name="，歌谣门徒"/>
 </billingGroup>
-<billingGroup id="680" name="Account-wide title: Adept of Song">
-<title id="1879419049" name="Adept of Song"/>
+<billingGroup id="680" name="账号通用头衔：歌谣能手">
+<title id="1879419049" name="，歌谣能手"/>
 </billingGroup>
-<billingGroup id="681" name="Account-wide title: Master of Song">
-<title id="1879419088" name="Master of Song"/>
+<billingGroup id="681" name="账号通用头衔：歌谣大师">
+<title id="1879419088" name="，歌谣大师"/>
 </billingGroup>
-<billingGroup id="682" name="Account-wide title: Apprentice of Runes">
-<title id="1879419062" name="Apprentice of Runes"/>
+<billingGroup id="682" name="账号通用头衔：符文学徒">
+<title id="1879419062" name="，符文学徒"/>
 </billingGroup>
-<billingGroup id="683" name="Account-wide title: Disciple of Runes">
-<title id="1879419069" name="Disciple of Runes"/>
+<billingGroup id="683" name="账号通用头衔：符文信徒">
+<title id="1879419069" name="，符文门徒"/>
 </billingGroup>
-<billingGroup id="684" name="Account-wide title: Adept of Runes">
-<title id="1879419066" name="Adept of Runes"/>
+<billingGroup id="684" name="账号通用头衔：符文能手">
+<title id="1879419066" name="，符文能手"/>
 </billingGroup>
-<billingGroup id="685" name="Account-wide title: Master of Runes">
-<title id="1879419060" name="Master of Runes"/>
+<billingGroup id="685" name="账号通用头衔：符文师">
+<title id="1879419060" name="，符文大师"/>
 </billingGroup>
-<billingGroup id="686" name="Account-wide title: Apprentice of Arms">
-<title id="1879419059" name="Apprentice of Arms"/>
+<billingGroup id="686" name="账号通用头衔：武器学徒">
+<title id="1879419059" name="，兵器学徒"/>
 </billingGroup>
-<billingGroup id="687" name="Account-wide title: Disciple of Arms">
-<title id="1879419053" name="Disciple of Arms"/>
+<billingGroup id="687" name="账号通用头衔：武器信徒">
+<title id="1879419053" name="，兵器门徒"/>
 </billingGroup>
-<billingGroup id="688" name="Account-wide title: Adept of Arms">
-<title id="1879419076" name="Adept of Arms"/>
+<billingGroup id="688" name="账号通用头衔：武器能手">
+<title id="1879419076" name="，兵器能手"/>
 </billingGroup>
-<billingGroup id="689" name="Account-wide title: Master of Arms">
-<title id="1879419079" name="Master of Arms"/>
+<billingGroup id="689" name="账号通用头衔：武器大师">
+<title id="1879419079" name="，兵器大师"/>
 </billingGroup>
 <billingGroup id="690" name="WSRMORDOR_99"/>
-<billingGroup id="691" name="Account-wide Heart of the Mountain portrait frame"/>
-<billingGroup id="692" name="Account-wide Hooded Heart of the Mountain Cloak"/>
-<billingGroup id="693" name="Account-wide Traveller of Wood, Lake, Mountain, and Stone title">
-<title id="1879422522" name="Traveller of Wood, Lake, Mountain, and Stone"/>
+<billingGroup id="691" name="账号通用山脉之心肖像框"/>
+<billingGroup id="692" name="账号通用山脉之心兜帽斗篷"/>
+<billingGroup id="693" name="账号通用头衔：林木、湖泊、山脉与岩石的旅行者">
+<title id="1879422522" name="，穿行林湖山石的旅者"/>
 </billingGroup>
 <billingGroup id="694" name="GUNDColl">
-<title id="1879422521" name="Dwarf-friend / Dwarf of Dwarves"/>
+<title id="1879422521" name="矮人之友 / 矮人佼佼者"/>
 </billingGroup>
 <billingGroup id="695" name="GUNDUlt">
-<title id="1879422521" name="Dwarf-friend / Dwarf of Dwarves"/>
-<title id="1879422523" name="Durin's"/>
+<title id="1879422521" name="矮人之友 / 矮人佼佼者"/>
+<title id="1879422523" name="，都林四世"/>
 </billingGroup>
 <billingGroup id="696" name="GotGUNDStd"/>
 <billingGroup id="697" name="GotGUNDColl"/>
@@ -956,21 +956,21 @@
 <billingGroup id="705" name="GotGUNDUlt_130"/>
 <billingGroup id="706" name="PreviewPRESS"/>
 <billingGroup id="707" name="WSBW"/>
-<billingGroup id="708" name="Account-wide Dwarf-holds portrait frame"/>
-<billingGroup id="709" name="Account-wide Cloak of Anduin's Wisdom"/>
-<billingGroup id="710" name="Account-wide Seeker of Dragons title">
-<title id="1879442825" name="Seeker of Dragons"/>
+<billingGroup id="708" name="账号通用矮人要塞肖像框"/>
+<billingGroup id="709" name="账号通用安都因智慧斗篷"/>
+<billingGroup id="710" name="账号通用头衔：巨龙寻觅者">
+<title id="1879442825" name="，巨龙寻觅者"/>
 </billingGroup>
 <billingGroup id="711" name="WSRYON"/>
 <billingGroup id="712" name="WSRAngle"/>
-<billingGroup id="713" name="Account-wide Minas Morgul portrait frame"/>
-<billingGroup id="714" name="Account-wide Hooded Cloak of Minas Morgul"/>
-<billingGroup id="715" name="Account-wide Thinks Like a Goblin title">
-<title id="1879446714" name="Thinks Like a Goblin"/>
+<billingGroup id="713" name="账号通用米那斯魔窟肖像框"/>
+<billingGroup id="714" name="账号通用米那斯魔窟兜帽斗篷"/>
+<billingGroup id="715" name="账号通用头衔：像哥布林一样思考">
+<title id="1879446714" name="，如哥布林般思虑"/>
 </billingGroup>
 <billingGroup id="716" name="AG_2022_15YEAR">
-<title id="1879446721" name="Clear as Crystal"/>
-<title id="1879446722" name="Crystal Shatterer"/>
+<title id="1879446721" name="清澈如水晶"/>
+<title id="1879446722" name="，水晶破碎者"/>
 </billingGroup>
 <billingGroup id="717" name="AGGranted_2022"/>
 <billingGroup id="718" name="VIPAnni2022"/>
@@ -979,13 +979,13 @@
 <billingGroup id="721" name="GotFREEAnni2022"/>
 <billingGroup id="722" name="WSRCrdSwn"/>
 <billingGroup id="723" name="Supp2022Std">
-<title id="1879449318" name="Patrician of Rivendell"/>
+<title id="1879449318" name="，瑞文戴尔贵族"/>
 </billingGroup>
 <billingGroup id="724" name="Supp2022Mid">
-<title id="1879449320" name="Gallant of Rivendell"/>
+<title id="1879449320" name="，瑞文戴尔勇士"/>
 </billingGroup>
 <billingGroup id="725" name="Supp2022Full">
-<title id="1879449319" name="Exemplar of Rivendell"/>
+<title id="1879449319" name="，瑞文戴尔典范"/>
 </billingGroup>
 <billingGroup id="726" name="Supp2022_UpS2M"/>
 <billingGroup id="727" name="Supp2022_UpM2F"/>
@@ -996,11 +996,11 @@
 <billingGroup id="732" name="GotSupp2022Full"/>
 <billingGroup id="733" name="BTSSTD"/>
 <billingGroup id="734" name="BTSColl">
-<title id="1879452452" name="From the First Page"/>
+<title id="1879452452" name="，始于开篇"/>
 </billingGroup>
 <billingGroup id="735" name="BTSUlt">
-<title id="1879452452" name="From the First Page"/>
-<title id="1879452453" name="Before the Shadow"/>
+<title id="1879452452" name="，始于开篇"/>
+<title id="1879452453" name="，暗影降临之前"/>
 </billingGroup>
 <billingGroup id="736" name="GotBTSColl"/>
 <billingGroup id="737" name="GotBTSUlt"/>
@@ -1011,62 +1011,62 @@
 <billingGroup id="745" name="WSRELD_99"/>
 <billingGroup id="746" name="WSRBtSStarter"/>
 <billingGroup id="747" name="MithPat2022Std">
-<title id="1879457025" name="Charmer"/>
+<title id="1879457025" name="，魅惑者"/>
 </billingGroup>
 <billingGroup id="748" name="MithPat2022Mid">
-<title id="1879457025" name="Charmer"/>
-<title id="1879457027" name="Dashing Charmer"/>
+<title id="1879457025" name="，魅惑者"/>
+<title id="1879457027" name="，潇洒魅惑者"/>
 </billingGroup>
 <billingGroup id="749" name="MithPat2022Full">
-<title id="1879457025" name="Charmer"/>
-<title id="1879457027" name="Dashing Charmer"/>
-<title id="1879457026" name="Gallant Charmer"/>
+<title id="1879457025" name="，魅惑者"/>
+<title id="1879457027" name="，潇洒魅惑者"/>
+<title id="1879457026" name="，英武魅惑者"/>
 </billingGroup>
 <billingGroup id="750" name="WSIC_U35"/>
-<billingGroup id="751" name="Account-wide title: Disciple of Sword-play">
-<title id="1879470654" name="Disciple of Sword-play"/>
+<billingGroup id="751" name="账号通用头衔：剑术信徒">
+<title id="1879470654" name="，剑术门徒"/>
 </billingGroup>
-<billingGroup id="752" name="Account-wide title: Adept of Sword-play">
-<title id="1879470653" name="Adept of Sword-play"/>
+<billingGroup id="752" name="账号通用头衔：剑术能手">
+<title id="1879470653" name="，剑术行家"/>
 </billingGroup>
-<billingGroup id="753" name="Account-wide title: Master of Sword-play">
-<title id="1879470651" name="Master of Sword-play"/>
+<billingGroup id="753" name="账号通用头衔：剑术大师">
+<title id="1879470651" name="，剑术大师"/>
 </billingGroup>
-<billingGroup id="754" name="Account-wide title: Apprentice of Sword-play">
-<title id="1879470652" name="Apprentice of Sword-play"/>
+<billingGroup id="754" name="账号通用头衔：剑术学徒">
+<title id="1879470652" name="，剑术学徒"/>
 </billingGroup>
 <billingGroup id="755" name="WSCR"/>
-<billingGroup id="756" name="Account-wide Ukhrash portrait frame"/>
+<billingGroup id="756" name="账号通用 Ukhrash 肖像框"/>
 <billingGroup id="757" name="WSRU36"/>
 <billingGroup id="758" name="MithHome2023Std">
-<title id="1879463966" name="Farmer"/>
+<title id="1879463966" name="农夫"/>
 </billingGroup>
 <billingGroup id="759" name="MithHome2023Mid">
-<title id="1879463966" name="Farmer"/>
+<title id="1879463966" name="农夫"/>
 </billingGroup>
 <billingGroup id="760" name="MithHome2023Full">
-<title id="1879463966" name="Farmer"/>
+<title id="1879463966" name="农夫"/>
 </billingGroup>
 <billingGroup id="761" name="AG_2023_16YEAR">
-<title id="1879463374" name="Illuminator"/>
-<title id="1879463373" name="Extinguisher"/>
+<title id="1879463374" name="，照明者"/>
+<title id="1879463373" name="，灭火者"/>
 </billingGroup>
 <billingGroup id="762" name="AGGranted_2023"/>
 <billingGroup id="763" name="WSRSoWW"/>
 <billingGroup id="764" name="WSRUmbar"/>
 <billingGroup id="765" name="WSRH"/>
 <billingGroup id="766" name="Supp2023Std">
-<title id="1879468635" name="River-rafter"/>
+<title id="1879468635" name="河道筏手"/>
 </billingGroup>
 <billingGroup id="767" name="Supp2023Mid">
-<title id="1879468635" name="River-rafter"/>
-<title id="1879468636" name="River-dancer"/>
+<title id="1879468635" name="河道筏手"/>
+<title id="1879468636" name="河之舞者"/>
 </billingGroup>
 <billingGroup id="768" name="Supp2023Full">
-<title id="1879468635" name="River-rafter"/>
-<title id="1879468636" name="River-dancer"/>
-<title id="1879468640" name="River-lord"/>
-<title id="1879468634" name="River-lady"/>
+<title id="1879468635" name="河道筏手"/>
+<title id="1879468636" name="河之舞者"/>
+<title id="1879468640" name="，河主"/>
+<title id="1879468634" name="，河女主"/>
 </billingGroup>
 <billingGroup id="769" name="Supp2023_UpS2M"/>
 <billingGroup id="770" name="Supp2023_UpM2F"/>
@@ -1075,16 +1075,16 @@
 <billingGroup id="773" name="GotSupp2023Mid"/>
 <billingGroup id="774" name="GotSupp2023Full"/>
 <billingGroup id="775" name="UmbarStd">
-<title id="1879473778" name="Swashbuckler"/>
+<title id="1879473778" name="，狂浪剑客"/>
 </billingGroup>
 <billingGroup id="776" name="UmbarColl">
-<title id="1879473778" name="Swashbuckler"/>
-<title id="1879473777" name="Fleet Merchant"/>
+<title id="1879473778" name="，狂浪剑客"/>
+<title id="1879473777" name="舰队商人"/>
 </billingGroup>
 <billingGroup id="777" name="UmbarUlt">
-<title id="1879473778" name="Swashbuckler"/>
-<title id="1879473777" name="Fleet Merchant"/>
-<title id="1879473776" name="Tide-breaker"/>
+<title id="1879473778" name="，狂浪剑客"/>
+<title id="1879473777" name="舰队商人"/>
+<title id="1879473776" name="，碎潮者"/>
 </billingGroup>
 <billingGroup id="778" name="GotUmbarColl"/>
 <billingGroup id="779" name="GotUmbarUlt"/>
@@ -1093,93 +1093,93 @@
 <billingGroup id="782" name="DB_UmbarStd2Ult"/>
 <billingGroup id="783" name="GotUmbarValar"/>
 <billingGroup id="784" name="MithSublime2023Std">
-<title id="1879479292" name="Sumptuously Sublime"/>
+<title id="1879479292" name="，极尽崇高者"/>
 </billingGroup>
 <billingGroup id="785" name="MithSublime2023Mid">
-<title id="1879479292" name="Sumptuously Sublime"/>
-<title id="1879479291" name="Sublime Stalwart"/>
+<title id="1879479292" name="，极尽崇高者"/>
+<title id="1879479291" name="，崇高坚毅者"/>
 </billingGroup>
 <billingGroup id="786" name="MithSublime2023Full">
-<title id="1879479292" name="Sumptuously Sublime"/>
-<title id="1879479291" name="Sublime Stalwart"/>
-<title id="1879479293" name="The Sublime"/>
+<title id="1879479292" name="，极尽崇高者"/>
+<title id="1879479291" name="，崇高坚毅者"/>
+<title id="1879479293" name="崇高的"/>
 </billingGroup>
 <billingGroup id="787" name="MithWhims2024Std">
-<title id="1879485381" name="Whimsical"/>
+<title id="1879485381" name="奇幻的"/>
 </billingGroup>
 <billingGroup id="788" name="MithWhims2024Mid">
-<title id="1879485381" name="Whimsical"/>
-<title id="1879485380" name="the Jolly"/>
+<title id="1879485381" name="奇幻的"/>
+<title id="1879485380" name="，快活者"/>
 </billingGroup>
 <billingGroup id="789" name="MithWhims2024Full">
-<title id="1879485381" name="Whimsical"/>
-<title id="1879485380" name="the Jolly"/>
-<title id="1879485378" name="Hey dol! Merry dol!"/>
+<title id="1879485381" name="奇幻的"/>
+<title id="1879485380" name="，快活者"/>
+<title id="1879485378" name="，欢歌笑语"/>
 </billingGroup>
 <billingGroup id="790" name="AG_2024_17YEAR">
-<title id="1879485377" name="Merrymaker"/>
-<title id="1879485379" name="Killjoy"/>
+<title id="1879485377" name="，寻欢者"/>
+<title id="1879485379" name="，扫兴者"/>
 </billingGroup>
 <billingGroup id="791" name="AGGranted_2024"/>
 <billingGroup id="792" name="WSRUnderUmbar"/>
 <billingGroup id="793" name="WSMP_Rewardtrack01"/>
 <billingGroup id="794" name="WSRIkorban"/>
-<billingGroup id="795" name="Account-wide title: Dawn of the South">
-<title id="1879490233" name="Dawn of the South"/>
+<billingGroup id="795" name="账号通用头衔：南方黎明">
+<title id="1879490233" name="，南方黎明"/>
 </billingGroup>
-<billingGroup id="796" name="Account-wide title: Forsaken No More">
-<title id="1879490231" name="Forsaken No More"/>
+<billingGroup id="796" name="账号通用头衔：不再被遗忘">
+<title id="1879490231" name="，不再被遗弃"/>
 </billingGroup>
-<billingGroup id="797" name="Account-wide title: a Light in the Gloom">
-<title id="1879490229" name="a Light in the Gloom"/>
+<billingGroup id="797" name="账号通用头衔：幽暗之光">
+<title id="1879490229" name="，幽暗微光"/>
 </billingGroup>
-<billingGroup id="798" name="Account-wide title: the Blade-breaker">
-<title id="1879490227" name="the Blade-breaker"/>
+<billingGroup id="798" name="账号通用头衔：破刃者">
+<title id="1879490227" name="，断刃者"/>
 </billingGroup>
-<billingGroup id="799" name="Account-wide title: Saviour of Rhûn">
-<title id="1879490225" name="Saviour of Rhûn"/>
+<billingGroup id="799" name="账号通用头衔：鲁恩的救世主">
+<title id="1879490225" name="，鲁恩救世主"/>
 </billingGroup>
-<billingGroup id="800" name="Account-wide title: the Sorcerer's Downfall">
-<title id="1879490232" name="the Sorcerer's Downfall"/>
+<billingGroup id="800" name="账号通用头衔：巫师的陨落">
+<title id="1879490232" name="，巫师覆灭者"/>
 </billingGroup>
-<billingGroup id="801" name="Account-wide title: the Joy of Khand">
-<title id="1879490230" name="the Joy of Khand"/>
+<billingGroup id="801" name="账号通用头衔：坎德的喜悦">
+<title id="1879490230" name="，坎德之悦"/>
 </billingGroup>
-<billingGroup id="802" name="Account-wide title: Curse-breaker">
-<title id="1879490228" name="Curse-breaker"/>
+<billingGroup id="802" name="账号通用头衔：破咒者">
+<title id="1879490228" name="，破咒者"/>
 </billingGroup>
-<billingGroup id="803" name="Account-wide title: the Last Hope of the North">
-<title id="1879490226" name="the Last Hope of the North"/>
+<billingGroup id="803" name="账号通用头衔：北方最后的希望">
+<title id="1879490226" name="，北方最后的希望"/>
 </billingGroup>
-<billingGroup id="804" name="Account-wide Veil of the Nine portrait frame and Scourge of the Nine title">
-<title id="1879490224" name="Scourge of the Nine"/>
+<billingGroup id="804" name="账号通用九人面纱肖像框与九人克星头衔">
+<title id="1879490224" name="，九戒灵克星"/>
 </billingGroup>
 <billingGroup id="805" name="MithMirk2024Std">
-<title id="1879490826" name="Mirkwood Sentinel"/>
+<title id="1879490826" name="，幽暗密林哨兵"/>
 </billingGroup>
 <billingGroup id="806" name="MithMirk2024Mid">
-<title id="1879490826" name="Mirkwood Sentinel"/>
-<title id="1879490825" name="the Covert"/>
+<title id="1879490826" name="，幽暗密林哨兵"/>
+<title id="1879490825" name="，隐秘行者"/>
 </billingGroup>
 <billingGroup id="807" name="MithMirk2024Full">
-<title id="1879490826" name="Mirkwood Sentinel"/>
-<title id="1879490825" name="the Covert"/>
-<title id="1879490824" name="Resolute"/>
+<title id="1879490826" name="，幽暗密林哨兵"/>
+<title id="1879490825" name="，隐秘行者"/>
+<title id="1879490824" name="坚毅"/>
 </billingGroup>
-<billingGroup id="808" name="Account-wide cosmetic pet: Tome of the Umber Nether-hound"/>
-<billingGroup id="809" name="Account-wide cosmetic pet: Tome of the Fierce Hedgehog"/>
+<billingGroup id="808" name="账号通用外观宠物：乌木虚空猎犬之卷"/>
+<billingGroup id="809" name="账号通用外观宠物：凶猛刺猬之卷"/>
 <billingGroup id="810" name="StarterPack2024"/>
 <billingGroup id="811" name="JourneyStd">
-<title id="1879493481" name="Defier of Morgoth's Legacy"/>
+<title id="1879493481" name="，魔苟斯遗泽之逆行者"/>
 </billingGroup>
 <billingGroup id="812" name="JourneyColl">
-<title id="1879493481" name="Defier of Morgoth's Legacy"/>
-<title id="1879493479" name="Sand-walker"/>
+<title id="1879493481" name="，魔苟斯遗泽之逆行者"/>
+<title id="1879493479" name="，沙行者"/>
 </billingGroup>
 <billingGroup id="813" name="JourneyUlt">
-<title id="1879493481" name="Defier of Morgoth's Legacy"/>
-<title id="1879493479" name="Sand-walker"/>
-<title id="1879493480" name="Treasured"/>
+<title id="1879493481" name="，魔苟斯遗泽之逆行者"/>
+<title id="1879493479" name="，沙行者"/>
+<title id="1879493480" name="珍品"/>
 </billingGroup>
 <billingGroup id="814" name="DB_JourneyStd2Coll"/>
 <billingGroup id="815" name="DB_JourneyColl2Ult"/>
@@ -1190,16 +1190,16 @@
 <billingGroup id="820" name="GotJourneyStd_150"/>
 <billingGroup id="821" name="GotJourneyUlt_150"/>
 <billingGroup id="822" name="MithRohan2024Std">
-<title id="1879498106" name="of the Rohirrim"/>
+<title id="1879498106" name="，洛汗骑兵之"/>
 </billingGroup>
 <billingGroup id="823" name="MithRohan2024Mid">
-<title id="1879498106" name="of the Rohirrim"/>
-<title id="1879498107" name="Rohan's Shield"/>
+<title id="1879498106" name="，洛汗骑兵之"/>
+<title id="1879498107" name="，洛汗之盾"/>
 </billingGroup>
 <billingGroup id="824" name="MithRohan2024Full">
-<title id="1879498106" name="of the Rohirrim"/>
-<title id="1879498107" name="Rohan's Shield"/>
-<title id="1879498108" name="Rides to War"/>
+<title id="1879498106" name="，洛汗骑兵之"/>
+<title id="1879498107" name="，洛汗之盾"/>
+<title id="1879498108" name="，奔赴战场"/>
 </billingGroup>
 <billingGroup id="825" name="WardrobeSpace_40"/>
 <billingGroup id="826" name="WardrobeSpace_41"/>
@@ -1242,34 +1242,34 @@
 <billingGroup id="863" name="WardrobeSpace_78"/>
 <billingGroup id="864" name="WardrobeSpace_79"/>
 <billingGroup id="865" name="MithSands2025Std">
-<title id="1879502768" name="of the Sands"/>
+<title id="1879502768" name="沙之境"/>
 </billingGroup>
 <billingGroup id="866" name="MithSands2025Mid">
-<title id="1879502768" name="of the Sands"/>
-<title id="1879502769" name="Student of Hamât"/>
+<title id="1879502768" name="沙之境"/>
+<title id="1879502769" name="哈玛特学徒"/>
 </billingGroup>
 <billingGroup id="867" name="MithSands2025Full">
-<title id="1879502768" name="of the Sands"/>
-<title id="1879502769" name="Student of Hamât"/>
-<title id="1879502770" name="the Beauty and the Terror"/>
+<title id="1879502768" name="沙之境"/>
+<title id="1879502769" name="哈玛特学徒"/>
+<title id="1879502770" name="美与惧"/>
 </billingGroup>
 <billingGroup id="868" name="WSRCrownHamat"/>
 <billingGroup id="869" name="AG_2025_18YEAR">
-<title id="1879503793" name="Luck-maker"/>
-<title id="1879503794" name="Luck-stealer"/>
+<title id="1879503793" name="运福者"/>
+<title id="1879503794" name="夺福者"/>
 </billingGroup>
 <billingGroup id="870" name="AGGranted_2025"/>
 <billingGroup id="871" name="MithKnight2025Std">
-<title id="1879507638" name="Loyal Knight"/>
+<title id="1879507638" name="忠诚骑士"/>
 </billingGroup>
 <billingGroup id="872" name="MithKnight2025Mid">
-<title id="1879507638" name="Loyal Knight"/>
-<title id="1879507636" name="Fountain Guard"/>
+<title id="1879507638" name="忠诚骑士"/>
+<title id="1879507636" name="喷泉守卫"/>
 </billingGroup>
 <billingGroup id="873" name="MithKnight2025Full">
-<title id="1879507638" name="Loyal Knight"/>
-<title id="1879507636" name="Fountain Guard"/>
-<title id="1879507637" name="Knight"/>
+<title id="1879507638" name="忠诚骑士"/>
+<title id="1879507636" name="喷泉守卫"/>
+<title id="1879507637" name="骑士"/>
 </billingGroup>
 <billingGroup id="874" name="WSMP_Rewardtrack02"/>
 <billingGroup id="875" name="WSMP_Rewardtrack03"/>
@@ -1277,16 +1277,16 @@
 <billingGroup id="877" name="WSMP_Rewardtrack05"/>
 <billingGroup id="878" name="WSRMurGhala"/>
 <billingGroup id="879" name="DKHaradStd">
-<title id="1879516600" name="Trailblazer"/>
+<title id="1879516600" name="拓路者"/>
 </billingGroup>
 <billingGroup id="880" name="DKHaradColl">
-<title id="1879516600" name="Trailblazer"/>
-<title id="1879516599" name="Vigilant Sentinel"/>
+<title id="1879516600" name="拓路者"/>
+<title id="1879516599" name="警惕哨兵"/>
 </billingGroup>
 <billingGroup id="881" name="DKHaradUlt">
-<title id="1879516600" name="Trailblazer"/>
-<title id="1879516599" name="Vigilant Sentinel"/>
-<title id="1879516601" name="Leader of the Pride"/>
+<title id="1879516600" name="拓路者"/>
+<title id="1879516599" name="警惕哨兵"/>
+<title id="1879516601" name="骄傲领袖"/>
 </billingGroup>
 <billingGroup id="882" name="DB_DKHaradStd2Coll"/>
 <billingGroup id="883" name="DB_DKHaradColl2Ult"/>
@@ -1306,85 +1306,85 @@
 <billingGroup id="897" name="WSOF_19"/>
 <billingGroup id="898" name="WSOF_20"/>
 <billingGroup id="899" name="MithMonkey2025Std">
-<title id="1879515009" name="Jaunty Voyager"/>
+<title id="1879515009" name="轻快旅人）"/>
 </billingGroup>
 <billingGroup id="900" name="MithMonkey2025Mid">
-<title id="1879515009" name="Jaunty Voyager"/>
-<title id="1879515008" name="the Boisterous"/>
+<title id="1879515009" name="轻快旅人）"/>
+<title id="1879515008" name="，喧闹者"/>
 </billingGroup>
 <billingGroup id="901" name="MithMonkey2025Full">
-<title id="1879515009" name="Jaunty Voyager"/>
-<title id="1879515008" name="the Boisterous"/>
-<title id="1879515007" name="Bad Monkey"/>
+<title id="1879515009" name="轻快旅人）"/>
+<title id="1879515008" name="，喧闹者"/>
+<title id="1879515007" name="坏猴子"/>
 </billingGroup>
 <billingGroup id="902" name="GotDKHaradStd_150"/>
 <billingGroup id="903" name="GotDKHaradColl_Supp"/>
 <billingGroup id="904" name="GotDKHaradUlt_Supp"/>
 <billingGroup id="905" name="GotDKHaradUlt_Valar"/>
 <billingGroup id="906" name="OCR_Eyesore">
-<title id="1879103697" name="the Eye-sore"/>
+<title id="1879103697" name="碍眼者"/>
 </billingGroup>
 <billingGroup id="907" name="OCR_Bullroarer">
-<title id="1879518087" name="Fellow of the Bullroarer"/>
+<title id="1879518087" name="，牛吼者之友"/>
 </billingGroup>
 <billingGroup id="908" name="OCR_Animal_Frnd">
-<title id="1879518088" name="Friend to Animals"/>
+<title id="1879518088" name="，动物之友"/>
 </billingGroup>
 <billingGroup id="909" name="OCR_Colletor">
-<title id="1879518086" name="the Collector"/>
+<title id="1879518086" name="收藏家"/>
 </billingGroup>
 <billingGroup id="910" name="MithCaravan2025Std">
-<title id="1879519528" name="Trader"/>
+<title id="1879519528" name="商人"/>
 </billingGroup>
 <billingGroup id="911" name="MithCaravan2025Mid">
-<title id="1879519528" name="Trader"/>
-<title id="1879519529" name="Caravan Guide"/>
+<title id="1879519528" name="商人"/>
+<title id="1879519529" name="，商队向导"/>
 </billingGroup>
 <billingGroup id="912" name="MithCaravan2025Full">
-<title id="1879519528" name="Trader"/>
-<title id="1879519529" name="Caravan Guide"/>
-<title id="1879519530" name="the Lavish"/>
+<title id="1879519528" name="商人"/>
+<title id="1879519529" name="，商队向导"/>
+<title id="1879519530" name="奢华"/>
 </billingGroup>
 <billingGroup id="913" name="MemDeep2025Std">
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="914" name="MemDeep2025Mid">
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="915" name="MemDeep2025Full">
-<title id="1879210508" name="Guard of the Isen"/>
+<title id="1879210508" name="，伊森河守卫"/>
 </billingGroup>
 <billingGroup id="916" name="WSMP_Rewardtrack06"/>
-<billingGroup id="917" name="Account-wide portrait frame: Rivals Portrait Frame"/>
+<billingGroup id="917" name="账号通用肖像边框：宿敌赛季肖像边框"/>
 <billingGroup id="918" name="WSRGloriousHunt"/>
-<billingGroup id="919" name="Account-wide bauble: Effigy of the Grim Southron"/>
-<billingGroup id="920" name="Account-wide bauble: Effigy of the Forsaken Reaver"/>
-<billingGroup id="921" name="Account-wide bauble: Effigy of the Gloom of Nurn"/>
-<billingGroup id="922" name="Account-wide bauble: Effigy of the Black Blade of Lebennin"/>
-<billingGroup id="923" name="Account-wide bauble: Effigy of the Bane of Rhûn"/>
-<billingGroup id="924" name="Account-wide bauble: Effigy of the High Sorcerer of Harad"/>
-<billingGroup id="925" name="Account-wide bauble: Effigy of the Woe of Khand"/>
-<billingGroup id="926" name="Account-wide bauble: Effigy of the Cursed Rider"/>
-<billingGroup id="927" name="Account-wide bauble: Effigy of the Witch King"/>
+<billingGroup id="919" name="账号通用装饰道具：冷酷南方人塑像"/>
+<billingGroup id="920" name="账号通用装饰道具：沉沦掠夺者塑像"/>
+<billingGroup id="921" name="账号通用装饰道具：努尔暗影塑像"/>
+<billingGroup id="922" name="账号通用装饰道具：莱本宁黑刃塑像"/>
+<billingGroup id="923" name="账号通用装饰道具：鲁恩之灾塑像"/>
+<billingGroup id="924" name="账号通用装饰道具：哈拉德高阶巫师塑像"/>
+<billingGroup id="925" name="账号通用装饰道具：坎德之祸塑像"/>
+<billingGroup id="926" name="账号通用装饰道具：受诅咒骑士塑像"/>
+<billingGroup id="927" name="账号通用装饰道具：巫王塑像"/>
 <billingGroup id="928" name="AG_2026_19YEAR">
-<title id="1879525331" name="Quintessential Friend"/>
-<title id="1879525330" name="Quintessential Foe"/>
+<title id="1879525331" name="，至善之友"/>
+<title id="1879525330" name="，至善劲敌"/>
 </billingGroup>
 <billingGroup id="929" name="AGGranted_2026"/>
 <billingGroup id="930" name="MithHighElf2026Std">
-<title id="1879526064" name="Timeless Hero"/>
+<title id="1879526064" name="，永恒英雄"/>
 </billingGroup>
 <billingGroup id="931" name="MithHighElf2026Mid">
-<title id="1879526064" name="Timeless Hero"/>
-<title id="1879526066" name="Timeless Star"/>
+<title id="1879526064" name="，永恒英雄"/>
+<title id="1879526066" name="，永恒之星"/>
 </billingGroup>
 <billingGroup id="932" name="MithHighElf2026Full">
-<title id="1879526064" name="Timeless Hero"/>
-<title id="1879526066" name="Timeless Star"/>
-<title id="1879526065" name="Enduring Wisdom"/>
+<title id="1879526064" name="，永恒英雄"/>
+<title id="1879526066" name="，永恒之星"/>
+<title id="1879526065" name="，不朽智慧"/>
 </billingGroup>
 <billingGroup id="933" name="WSMP_Rewardtrack07"/>
-<billingGroup id="934" name="Account-wide portrait frame: Season of Destruction Frame"/>
+<billingGroup id="934" name="全账号通用肖像框：毁灭之季边框"/>
 <billingGroup id="935" name="WSMP_Sorc"/>
 <billingGroup id="936" name="BNDSorcStd"/>
 <billingGroup id="937" name="BNDSorcMid"/>

@@ -10194,6 +10194,168 @@
 <point x="161" y="8430.525"/>
 <point x="170" y="11803.5"/>
 </linearInterpolationProgression>
+<arrayProgression identifier="1879095023" nbPoints="160">
+<point y="37.0"/>
+<point y="44.0"/>
+<point y="51.0"/>
+<point y="57.0"/>
+<point y="64.0"/>
+<point y="71.0"/>
+<point y="78.0"/>
+<point y="84.0"/>
+<point y="91.0"/>
+<point y="98.0"/>
+<point y="105.0"/>
+<point y="111.0"/>
+<point y="118.0"/>
+<point y="125.0"/>
+<point y="131.0"/>
+<point y="138.0"/>
+<point y="145.0"/>
+<point y="152.0"/>
+<point y="158.0"/>
+<point y="165.0"/>
+<point y="172.0"/>
+<point y="179.0"/>
+<point y="185.0"/>
+<point y="192.0"/>
+<point y="199.0"/>
+<point y="206.0"/>
+<point y="212.0"/>
+<point y="219.0"/>
+<point y="226.0"/>
+<point y="232.0"/>
+<point y="239.0"/>
+<point y="246.0"/>
+<point y="253.0"/>
+<point y="259.0"/>
+<point y="266.0"/>
+<point y="273.0"/>
+<point y="280.0"/>
+<point y="286.0"/>
+<point y="293.0"/>
+<point y="300.0"/>
+<point y="307.0"/>
+<point y="313.0"/>
+<point y="320.0"/>
+<point y="327.0"/>
+<point y="334.0"/>
+<point y="340.0"/>
+<point y="347.0"/>
+<point y="354.0"/>
+<point y="360.0"/>
+<point y="367.0"/>
+<point y="386.0"/>
+<point y="404.0"/>
+<point y="423.0"/>
+<point y="441.0"/>
+<point y="459.0"/>
+<point y="478.0"/>
+<point y="496.0"/>
+<point y="515.0"/>
+<point y="533.0"/>
+<point y="552.0"/>
+<point y="588.0"/>
+<point y="624.0"/>
+<point y="661.0"/>
+<point y="697.0"/>
+<point y="734.0"/>
+<point y="772.0"/>
+<point y="809.0"/>
+<point y="847.0"/>
+<point y="885.0"/>
+<point y="922.0"/>
+<point y="960.0"/>
+<point y="998.0"/>
+<point y="1036.0"/>
+<point y="1073.0"/>
+<point y="1111.0"/>
+<point y="1168.0"/>
+<point y="1224.0"/>
+<point y="1281.0"/>
+<point y="1337.0"/>
+<point y="1394.0"/>
+<point y="1450.0"/>
+<point y="1507.0"/>
+<point y="1564.0"/>
+<point y="1620.0"/>
+<point y="1677.0"/>
+<point y="1752.0"/>
+<point y="1828.0"/>
+<point y="1903.0"/>
+<point y="1979.0"/>
+<point y="2054.0"/>
+<point y="2129.0"/>
+<point y="2205.0"/>
+<point y="2280.0"/>
+<point y="2356.0"/>
+<point y="2431.0"/>
+<point y="2620.0"/>
+<point y="2808.0"/>
+<point y="2997.0"/>
+<point y="3185.0"/>
+<point y="3374.0"/>
+<point y="3605.0"/>
+<point y="3814.0"/>
+<point y="4045.0"/>
+<point y="4254.0"/>
+<point y="4485.0"/>
+<point y="4925.0"/>
+<point y="5113.0"/>
+<point y="5323.0"/>
+<point y="5511.0"/>
+<point y="5721.0"/>
+<point y="5909.0"/>
+<point y="6119.0"/>
+<point y="6308.0"/>
+<point y="6517.0"/>
+<point y="6706.0"/>
+<point y="7753.0"/>
+<point y="7921.0"/>
+<point y="8068.0"/>
+<point y="8235.0"/>
+<point y="8382.0"/>
+<point y="9639.0"/>
+<point y="9974.0"/>
+<point y="10289.0"/>
+<point y="10624.0"/>
+<point y="10938.0"/>
+<point y="11274.0"/>
+<point y="11588.0"/>
+<point y="11923.0"/>
+<point y="12237.0"/>
+<point y="12573.0"/>
+<point y="14458.0"/>
+<point y="15653.0"/>
+<point y="16826.0"/>
+<point y="18021.0"/>
+<point y="19215.0"/>
+<point y="20388.0"/>
+<point y="21583.0"/>
+<point y="22777.0"/>
+<point y="23950.0"/>
+<point y="25145.0"/>
+<point y="32688.0"/>
+<point y="35223.0"/>
+<point y="37759.0"/>
+<point y="40294.0"/>
+<point y="42830.0"/>
+<point y="45386.0"/>
+<point y="47921.0"/>
+<point y="50457.0"/>
+<point y="52992.0"/>
+<point y="55527.0"/>
+<point y="71243.0"/>
+<point y="75664.0"/>
+<point y="80085.0"/>
+<point y="84506.0"/>
+<point y="88928.0"/>
+<point y="93370.0"/>
+<point y="97791.0"/>
+<point y="102212.0"/>
+<point y="106633.0"/>
+<point y="111054.0"/>
+</arrayProgression>
 <arrayProgression identifier="1879096541" nbPoints="150">
 <point y="25.0"/>
 <point y="30.0"/>
@@ -139312,6 +139474,30 @@
 <point x="600" y="9830.0"/>
 <point x="649" y="17200.0"/>
 </linearInterpolationProgression>
+<linearInterpolationProgression identifier="1879382972" nbPoints="22">
+<point x="1" y="1.0"/>
+<point x="25" y="2.0"/>
+<point x="50" y="3.0"/>
+<point x="60" y="4.0"/>
+<point x="79" y="9.0"/>
+<point x="80" y="10.0"/>
+<point x="200" y="32.0"/>
+<point x="225" y="42.0"/>
+<point x="300" y="47.0"/>
+<point x="349" y="63.0"/>
+<point x="350" y="73.0"/>
+<point x="399" y="79.0"/>
+<point x="400" y="90.0"/>
+<point x="449" y="118.0"/>
+<point x="450" y="136.0"/>
+<point x="499" y="236.0"/>
+<point x="500" y="271.0"/>
+<point x="549" y="476.0"/>
+<point x="550" y="546.0"/>
+<point x="599" y="952.0"/>
+<point x="600" y="1100.0"/>
+<point x="649" y="1910.0"/>
+</linearInterpolationProgression>
 <linearInterpolationProgression identifier="1879382973" nbPoints="19">
 <point x="1" y="4.0"/>
 <point x="25" y="18.0"/>
@@ -139399,6 +139585,27 @@
 <point x="600" y="8280.0"/>
 <point x="649" y="14400.0"/>
 </linearInterpolationProgression>
+<linearInterpolationProgression identifier="1879382984" nbPoints="19">
+<point x="1" y="1.0"/>
+<point x="25" y="2.0"/>
+<point x="50" y="4.0"/>
+<point x="79" y="11.0"/>
+<point x="80" y="12.0"/>
+<point x="200" y="33.0"/>
+<point x="225" y="43.0"/>
+<point x="300" y="47.0"/>
+<point x="349" y="64.0"/>
+<point x="350" y="74.0"/>
+<point x="399" y="80.0"/>
+<point x="400" y="92.0"/>
+<point x="449" y="120.0"/>
+<point x="450" y="138.0"/>
+<point x="499" y="216.0"/>
+<point x="500" y="281.0"/>
+<point x="549" y="477.0"/>
+<point x="550" y="578.0"/>
+<point x="599" y="901.0"/>
+</linearInterpolationProgression>
 <linearInterpolationProgression identifier="1879382987" nbPoints="19">
 <point x="1" y="23.0"/>
 <point x="25" y="122.0"/>
@@ -139419,6 +139626,48 @@
 <point x="549" y="31100.0"/>
 <point x="550" y="36000.0"/>
 <point x="599" y="55200.0"/>
+</linearInterpolationProgression>
+<linearInterpolationProgression identifier="1879382988" nbPoints="19">
+<point x="1" y="4.0"/>
+<point x="25" y="18.0"/>
+<point x="50" y="32.0"/>
+<point x="79" y="96.0"/>
+<point x="80" y="101.0"/>
+<point x="200" y="290.0"/>
+<point x="225" y="386.0"/>
+<point x="300" y="423.0"/>
+<point x="349" y="576.0"/>
+<point x="350" y="666.0"/>
+<point x="399" y="720.0"/>
+<point x="400" y="828.0"/>
+<point x="449" y="1080.0"/>
+<point x="450" y="1250.0"/>
+<point x="499" y="1950.0"/>
+<point x="500" y="2530.0"/>
+<point x="549" y="4300.0"/>
+<point x="550" y="5210.0"/>
+<point x="599" y="8110.0"/>
+</linearInterpolationProgression>
+<linearInterpolationProgression identifier="1879382989" nbPoints="19">
+<point x="1" y="1.0"/>
+<point x="25" y="2.0"/>
+<point x="50" y="4.0"/>
+<point x="79" y="11.0"/>
+<point x="80" y="12.0"/>
+<point x="200" y="33.0"/>
+<point x="225" y="43.0"/>
+<point x="300" y="47.0"/>
+<point x="349" y="64.0"/>
+<point x="350" y="74.0"/>
+<point x="399" y="80.0"/>
+<point x="400" y="92.0"/>
+<point x="449" y="120.0"/>
+<point x="450" y="138.0"/>
+<point x="499" y="216.0"/>
+<point x="500" y="281.0"/>
+<point x="549" y="477.0"/>
+<point x="550" y="578.0"/>
+<point x="599" y="901.0"/>
 </linearInterpolationProgression>
 <linearInterpolationProgression identifier="1879382991" nbPoints="19">
 <point x="1" y="4.0"/>

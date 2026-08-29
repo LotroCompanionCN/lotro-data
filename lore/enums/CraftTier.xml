@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202659" name="CraftTier">
-    <entry code="1" name="key:620756998:88697105"/>
-    <entry code="2" name="key:620756998:88697106"/>
-    <entry code="3" name="key:620756998:88697107"/>
-    <entry code="4" name="key:620756998:88697108"/>
-    <entry code="5" name="key:620756998:88697109"/>
-    <entry code="6" name="key:620756998:88697110"/>
-    <entry code="7" name="key:620756998:88697111"/>
-    <entry code="8" name="key:620756998:88697112"/>
-    <entry code="9" name="key:620756998:88697113"/>
-    <entry code="10" name="key:620756998:76976400"/>
-    <entry code="11" name="key:620756998:76976401"/>
-    <entry code="12" name="key:620756998:76976402"/>
-    <entry code="13" name="key:620756998:76976403"/>
-    <entry code="14" name="key:620756998:76976404"/>
-    <entry code="15" name="key:620756998:76976405"/>
-    <entry code="16" name="key:620756998:76976406"/>
-    <entry code="17" name="NumTiers"/>
-    <entry code="0" name="Beginner"/>
+<entry code="1" name="key:620756998:88697105"/>
+<entry code="2" name="key:620756998:88697106"/>
+<entry code="3" name="key:620756998:88697107"/>
+<entry code="4" name="key:620756998:88697108"/>
+<entry code="5" name="key:620756998:88697109"/>
+<entry code="6" name="key:620756998:88697110"/>
+<entry code="7" name="key:620756998:88697111"/>
+<entry code="8" name="key:620756998:88697112"/>
+<entry code="9" name="key:620756998:88697113"/>
+<entry code="10" name="key:620756998:76976400"/>
+<entry code="11" name="key:620756998:76976401"/>
+<entry code="12" name="key:620756998:76976402"/>
+<entry code="13" name="key:620756998:76976403"/>
+<entry code="14" name="key:620756998:76976404"/>
+<entry code="15" name="key:620756998:76976405"/>
+<entry code="16" name="key:620756998:76976406"/>
+<entry code="17" name="NumTiers"/>
+<entry code="0" name="Beginner"/>
 </enum>

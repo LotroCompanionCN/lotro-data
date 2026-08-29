@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
-    <label key="MapNoteType.CONTAINER" value="Conteneur"/>
-    <label key="MapNoteType.CRITTER" value="Bête"/>
-    <label key="MapNoteType.CROP" value="Culture"/>
-    <label key="MapNoteType.DOOR" value="Porte"/>
-    <label key="MapNoteType.HOTSPOT" value="Point"/>
-    <label key="MapNoteType.ITEM" value="Objet"/>
-    <label key="MapNoteType.LANDMARK" value="Lieu-dit"/>
-    <label key="MapNoteType.MONSTER" value="Monstre"/>
-    <label key="MapNoteType.NPC" value="PNJ"/>
-    <label key="MapNoteType.OTHER" value="Autre"/>
+<label key="MapNoteType.CONTAINER" value="Conteneur"/>
+<label key="MapNoteType.CRITTER" value="Bête"/>
+<label key="MapNoteType.CROP" value="Culture"/>
+<label key="MapNoteType.DOOR" value="Porte"/>
+<label key="MapNoteType.HOTSPOT" value="Point"/>
+<label key="MapNoteType.ITEM" value="Objet"/>
+<label key="MapNoteType.LANDMARK" value="Lieu-dit"/>
+<label key="MapNoteType.MONSTER" value="Monstre"/>
+<label key="MapNoteType.NPC" value="PNJ"/>
+<label key="MapNoteType.OTHER" value="Autre"/>
 </labels>
