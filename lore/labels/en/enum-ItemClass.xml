@@ -5,276 +5,276 @@
 <label key="WoCraft" value="Word of Craft"/>
 <label key="WoMastery" value="Word of Mastery"/>
 <label key="WoPower" value="Word of Power"/>
-<label key="key:620757021:105371836" value="家园：墙壁"/>
-<label key="key:620757021:105379860" value="家园：庭院"/>
-<label key="key:620757021:105678153" value="传奇物品升级传承"/>
-<label key="key:620757021:105763186" value="配方：金属冶炼2级"/>
-<label key="key:620757021:105763187" value="配方：金属冶炼3级"/>
-<label key="key:620757021:105763188" value="配方：金属冶炼4级"/>
-<label key="key:620757021:105763189" value="配方：金属冶炼5级"/>
-<label key="key:620757021:105763190" value="配方：金属冶炼6级"/>
-<label key="key:620757021:105763191" value="配方：金属冶炼7级"/>
-<label key="key:620757021:105763192" value="配方：金属冶炼8级"/>
-<label key="key:620757021:105763193" value="配方：金属冶炼9级"/>
-<label key="key:620757021:109434773" value="精华"/>
-<label key="key:620757021:110525483" value="命运点"/>
-<label key="key:620757021:110544533" value="卷轴"/>
-<label key="key:620757021:110829298" value="配方：木工2级"/>
-<label key="key:620757021:110829299" value="配方：木工3级"/>
-<label key="key:620757021:110829300" value="配方：木工4级"/>
-<label key="key:620757021:110829301" value="配方：木工5级"/>
-<label key="key:620757021:110829302" value="配方：木工6级"/>
-<label key="key:620757021:110829303" value="配方：木工7级"/>
-<label key="key:620757021:110829304" value="配方：木工8级"/>
-<label key="key:620757021:110829305" value="配方：木工9级"/>
-<label key="key:620757021:111684140" value="旅行与地图"/>
-<label key="key:620757021:114481564" value="吟游诗人职业物品"/>
-<label key="key:620757021:116104140" value="传奇物品提升物品等级"/>
-<label key="key:620757021:117577410" value="配方：烹饪2级"/>
-<label key="key:620757021:117577411" value="配方：烹饪3级"/>
-<label key="key:620757021:117577412" value="配方：烹饪4级"/>
-<label key="key:620757021:117577413" value="配方：烹饪5级"/>
-<label key="key:620757021:117577414" value="配方：烹饪6级"/>
-<label key="key:620757021:117577415" value="配方：烹饪7级"/>
-<label key="key:620757021:117577416" value="配方：烹饪8级"/>
-<label key="key:620757021:117577417" value="配方：烹饪9级"/>
-<label key="key:620757021:118313454" value="投掷武器"/>
-<label key="key:620757021:118993229" value="中型护甲"/>
-<label key="key:620757021:119251401" value="战利品"/>
-<label key="key:620757021:119722258" value="配方：裁缝1级"/>
-<label key="key:620757021:120595803" value="护甲：背部"/>
-<label key="key:620757021:120600731" value="书籍"/>
-<label key="key:620757021:120605108" value="护甲：头部"/>
-<label key="key:620757021:120613124" value="护甲：脚部"/>
-<label key="key:620757021:120615952" value="传奇物品经验"/>
-<label key="key:620757021:120617108" value="食物"/>
-<label key="key:620757021:120686883" value="护甲：腿部"/>
-<label key="key:620757021:120693331" value="杂项"/>
-<label key="key:620757021:121047643" value="委托战利品"/>
-<label key="key:620757021:121051292" value="工具"/>
-<label key="key:620757021:121051712" value="陷阱"/>
-<label key="key:620757021:121131804" value="卷轴"/>
-<label key="key:620757021:121388308" value="护甲：盾牌"/>
-<label key="key:620757021:121698756" value="长柄斧"/>
-<label key="key:620757021:122116172" value="社交物品"/>
-<label key="key:620757021:122951570" value="棍棒"/>
-<label key="key:620757021:123052981" value="锤类"/>
-<label key="key:620757021:124931340" value="技能卷轴"/>
-<label key="key:620757021:125205298" value="家族章程"/>
-<label key="key:620757021:125387374" value="武器"/>
-<label key="key:620757021:129626297" value="家园：战利品"/>
-<label key="key:620757021:130155230" value="守望者职业物品"/>
-<label key="key:620757021:131361134" value="药水"/>
-<label key="key:620757021:136340674" value="拳手职业物品"/>
-<label key="key:620757021:136794324" value="制作：组件"/>
-<label key="key:620757021:136946321" value="马笼头"/>
-<label key="key:620757021:137306622" value="旗手职业物品"/>
-<label key="key:620757021:140534914" value="刺客职业物品"/>
-<label key="key:620757021:14448685" value="任务物品"/>
-<label key="key:620757021:14599733" value="家园：结构"/>
-<label key="key:620757021:14865058" value="猎人职业物品"/>
-<label key="key:620757021:151712542" value="治疗药水"/>
-<label key="key:620757021:157605147" value="配方：金属冶炼1级"/>
-<label key="key:620757021:162656033" value="配方：木工11级"/>
-<label key="key:620757021:162656034" value="配方：木工12级"/>
-<label key="key:620757021:162656035" value="配方：木工13级"/>
-<label key="key:620757021:162656036" value="配方：木工14级"/>
-<label key="key:620757021:162656037" value="配方：木工15级"/>
-<label key="key:620757021:162656038" value="配方：木工16级"/>
-<label key="key:620757021:163007559" value="家园：天花板"/>
-<label key="key:620757021:163648002" value="水手物品"/>
-<label key="key:620757021:164550574" value="标枪"/>
-<label key="key:620757021:165478388" value="带槽乐器"/>
-<label key="key:620757021:166355778" value="配方：珠宝1级"/>
-<label key="key:620757021:16830350" value="守护者职业物品"/>
-<label key="key:620757021:174258956" value="家园：特殊"/>
-<label key="key:620757021:174279841" value="配方：珠宝11级"/>
-<label key="key:620757021:174279842" value="配方：珠宝12级"/>
-<label key="key:620757021:174279843" value="配方：珠宝13级"/>
-<label key="key:620757021:174279844" value="配方：珠宝14级"/>
-<label key="key:620757021:174279845" value="配方：珠宝15级"/>
-<label key="key:620757021:174279846" value="配方：珠宝16级"/>
-<label key="key:620757021:176135061" value="宝藏"/>
-<label key="key:620757021:179227020" value="移除卷轴"/>
-<label key="key:620757021:180002887" value="制作"/>
-<label key="key:620757021:181526339" value="护甲：肩部"/>
-<label key="key:620757021:182571145" value="珠宝"/>
-<label key="key:620757021:188825806" value="斗士号角"/>
-<label key="key:620757021:18941640" value="垃圾"/>
-<label key="key:620757021:195003118" value="以物易物：声望"/>
-<label key="key:620757021:195863399" value="背包扩展袋"/>
-<label key="key:620757021:1969300" value="烟斗草"/>
-<label key="key:620757021:197950227" value="家园：涂料与表面"/>
-<label key="key:620757021:198542436" value="外观：脚部"/>
-<label key="key:620757021:198550740" value="外观：头部"/>
-<label key="key:620757021:198550916" value="手持"/>
-<label key="key:620757021:198559803" value="外观：背部"/>
-<label key="key:620757021:198599747" value="外观：腿部"/>
-<label key="key:620757021:200129778" value="配方：伐木工2级"/>
-<label key="key:620757021:200129779" value="配方：伐木工3级"/>
-<label key="key:620757021:200129780" value="配方：伐木工4级"/>
-<label key="key:620757021:200129781" value="配方：伐木工5级"/>
-<label key="key:620757021:200129782" value="配方：伐木工6级"/>
-<label key="key:620757021:200129783" value="配方：伐木工7级"/>
-<label key="key:620757021:200129784" value="配方：伐木工8级"/>
-<label key="key:620757021:200129785" value="配方：伐木工9级"/>
-<label key="key:620757021:203391411" value="外观：肩部"/>
-<label key="key:620757021:203633538" value="其他"/>
-<label key="key:620757021:206879922" value="配方：勘探2级"/>
-<label key="key:620757021:206879923" value="配方：勘探3级"/>
-<label key="key:620757021:206879924" value="配方：勘探4级"/>
-<label key="key:620757021:206879925" value="配方：勘探5级"/>
-<label key="key:620757021:206879926" value="配方：勘探6级"/>
-<label key="key:620757021:206879927" value="配方：勘探7级"/>
-<label key="key:620757021:206879928" value="配方：勘探8级"/>
-<label key="key:620757021:206879929" value="配方：勘探9级"/>
-<label key="key:620757021:208863701" value="染料"/>
-<label key="key:620757021:208869792" value="地图"/>
-<label key="key:620757021:208870377" value="钥匙"/>
-<label key="key:620757021:208871388" value="武器油"/>
-<label key="key:620757021:212415780" value="锦旗"/>
-<label key="key:620757021:212622644" value="乐器"/>
-<label key="key:620757021:216555330" value="配方：学者2级"/>
-<label key="key:620757021:216555331" value="配方：学者3级"/>
-<label key="key:620757021:216555332" value="配方：学者4级"/>
-<label key="key:620757021:216555333" value="配方：学者5级"/>
-<label key="key:620757021:216555334" value="配方：学者6级"/>
-<label key="key:620757021:216555335" value="配方：学者7级"/>
-<label key="key:620757021:216555336" value="配方：学者8级"/>
-<label key="key:620757021:216555337" value="配方：学者9级"/>
-<label key="key:620757021:2190385" value="配方：烹饪11级"/>
-<label key="key:620757021:2190386" value="配方：烹饪12级"/>
-<label key="key:620757021:2190387" value="配方：烹饪13级"/>
-<label key="key:620757021:2190388" value="配方：烹饪14级"/>
-<label key="key:620757021:2190389" value="配方：烹饪15级"/>
-<label key="key:620757021:2190390" value="配方：烹饪16级"/>
-<label key="key:620757021:222853011" value="传承移除卷轴"/>
-<label key="key:620757021:223202647" value="弩类"/>
-<label key="key:620757021:224042499" value="外观：手部"/>
-<label key="key:620757021:224204308" value="外观：上身"/>
-<label key="key:620757021:224223225" value="特殊"/>
-<label key="key:620757021:224317971" value="外观：职业"/>
-<label key="key:620757021:228381733" value="可拆解物品"/>
-<label key="key:620757021:230798594" value="配方：农夫12级"/>
-<label key="key:620757021:230798595" value="配方：农夫13级"/>
-<label key="key:620757021:230798596" value="配方：农夫14级"/>
-<label key="key:620757021:230798597" value="配方：农夫15级"/>
-<label key="key:620757021:233568353" value="配方：武器锻造11级"/>
-<label key="key:620757021:233568354" value="配方：武器锻造12级"/>
-<label key="key:620757021:233568355" value="配方：武器锻造13级"/>
-<label key="key:620757021:233568356" value="配方：武器锻造14级"/>
-<label key="key:620757021:233568357" value="配方：武器锻造15级"/>
-<label key="key:620757021:233568358" value="配方：武器锻造16级"/>
-<label key="key:620757021:23704043" value="配方：木工1级"/>
-<label key="key:620757021:239679676" value="制作：可选材料"/>
-<label key="key:620757021:241303477" value="制作：资源"/>
-<label key="key:620757021:242105372" value="节日物品"/>
-<label key="key:620757021:243659905" value="配方：学者11级"/>
-<label key="key:620757021:243659906" value="配方：学者12级"/>
-<label key="key:620757021:243659907" value="配方：学者13级"/>
-<label key="key:620757021:243659908" value="配方：学者14级"/>
-<label key="key:620757021:243659909" value="配方：学者15级"/>
-<label key="key:620757021:243659910" value="配方：学者16级"/>
-<label key="key:620757021:245773506" value="配方：珠宝2级"/>
-<label key="key:620757021:245773507" value="配方：珠宝3级"/>
-<label key="key:620757021:245773508" value="配方：珠宝4级"/>
-<label key="key:620757021:245773509" value="配方：珠宝5级"/>
-<label key="key:620757021:245773510" value="配方：珠宝6级"/>
-<label key="key:620757021:245773511" value="配方：珠宝7级"/>
-<label key="key:620757021:245773512" value="配方：珠宝8级"/>
-<label key="key:620757021:245773513" value="配方：珠宝9级"/>
-<label key="key:620757021:258767049" value="重型护甲"/>
-<label key="key:620757021:259014116" value="轻型护甲"/>
-<label key="key:620757021:260742772" value="制作：材料"/>
-<label key="key:620757021:262187539" value="家园：收藏品"/>
-<label key="key:620757021:268144381" value="伊顿荒原战利品"/>
-<label key="key:620757021:2776562" value="兑换"/>
-<label key="key:620757021:28172295" value="服装"/>
-<label key="key:620757021:28878654" value="装饰"/>
-<label key="key:620757021:29707207" value="配方：勘探1级"/>
-<label key="key:620757021:29994437" value="盾刺"/>
-<label key="key:620757021:30311922" value="配方：学者1级"/>
-<label key="key:620757021:36507938" value="配方：裁缝2级"/>
-<label key="key:620757021:36507939" value="配方：裁缝3级"/>
-<label key="key:620757021:36507940" value="配方：裁缝4级"/>
-<label key="key:620757021:36507941" value="配方：裁缝5级"/>
-<label key="key:620757021:36507942" value="配方：裁缝6级"/>
-<label key="key:620757021:36507943" value="配方：裁缝7级"/>
-<label key="key:620757021:36507944" value="配方：裁缝8级"/>
-<label key="key:620757021:36507945" value="配方：裁缝9级"/>
-<label key="key:620757021:37007685" value="家园：家具"/>
-<label key="key:620757021:40903019" value="配方：烹饪1级"/>
-<label key="key:620757021:41238949" value="斧类"/>
-<label key="key:620757021:41239079" value="弓类"/>
-<label key="key:620757021:41246658" value="符文石"/>
-<label key="key:620757021:4713484" value="特殊"/>
-<label key="key:620757021:47256161" value="配方：裁缝11级"/>
-<label key="key:620757021:47256162" value="配方：裁缝12级"/>
-<label key="key:620757021:47256163" value="配方：裁缝13级"/>
-<label key="key:620757021:47256164" value="配方：裁缝14级"/>
-<label key="key:620757021:47256165" value="配方：裁缝15级"/>
-<label key="key:620757021:47256166" value="配方：裁缝16级"/>
-<label key="key:620757021:48152450" value="配方：武器锻造2级"/>
-<label key="key:620757021:48152451" value="配方：武器锻造3级"/>
-<label key="key:620757021:48152452" value="配方：武器锻造4级"/>
-<label key="key:620757021:48152453" value="配方：武器锻造5级"/>
-<label key="key:620757021:48152454" value="配方：武器锻造6级"/>
-<label key="key:620757021:48152455" value="配方：武器锻造7级"/>
-<label key="key:620757021:48152456" value="配方：武器锻造8级"/>
-<label key="key:620757021:48152457" value="配方：武器锻造9级"/>
-<label key="key:620757021:48312535" value="比翁职业物品"/>
-<label key="key:620757021:50013561" value="传奇物品替换传承"/>
-<label key="key:620757021:50233353" value="传奇物品添加传承"/>
-<label key="key:620757021:50511890" value="护甲"/>
-<label key="key:620757021:50577620" value="护甲：上身"/>
-<label key="key:620757021:50620611" value="护甲：手部"/>
-<label key="key:620757021:5095858" value="配方：农夫1级"/>
-<label key="key:620757021:52036629" value="家园：氛围"/>
-<label key="key:620757021:52054052" value="坐骑"/>
-<label key="key:620757021:53341176" value="配方：武器锻造1级"/>
-<label key="key:620757021:57073476" value="传奇物品传奇点数重置"/>
-<label key="key:620757021:57847427" value="传承"/>
-<label key="key:620757021:62839753" value="配方：伐木工1级"/>
-<label key="key:620757021:62845171" value="战斗手套"/>
-<label key="key:620757021:67976450" value="家园：地板"/>
-<label key="key:620757021:68351124" value="家园：照明"/>
-<label key="key:620757021:68468883" value="家园：音乐"/>
-<label key="key:620757021:69686312" value="武器光环"/>
-<label key="key:620757021:70515346" value="匕首"/>
-<label key="key:620757021:72643304" value="锁箱"/>
-<label key="key:620757021:73000642" value="贤者职业物品"/>
-<label key="key:620757021:74720402" value="锤类"/>
-<label key="key:620757021:75110220" value="家园：技能"/>
-<label key="key:620757021:75252738" value="符文大师职业物品"/>
-<label key="key:620757021:77356359" value="治疗"/>
-<label key="key:620757021:79800648" value="鱼"/>
-<label key="key:620757021:79814612" value="诱饵"/>
-<label key="key:620757021:80104949" value="杆类"/>
-<label key="key:620757021:80746456" value="以物易物：战场"/>
-<label key="key:620757021:81533778" value="配方：农夫2级"/>
-<label key="key:620757021:81533779" value="配方：农夫3级"/>
-<label key="key:620757021:81533780" value="配方：农夫4级"/>
-<label key="key:620757021:81533781" value="配方：农夫5级"/>
-<label key="key:620757021:81533782" value="配方：农夫6级"/>
-<label key="key:620757021:81533783" value="配方：农夫7级"/>
-<label key="key:620757021:81533784" value="配方：农夫8级"/>
-<label key="key:620757021:81533785" value="配方：农夫9级"/>
-<label key="key:620757021:81598241" value="配方：金属冶炼11级"/>
-<label key="key:620757021:81598242" value="配方：金属冶炼12级"/>
-<label key="key:620757021:81598243" value="配方：金属冶炼13级"/>
-<label key="key:620757021:81598244" value="配方：金属冶炼14级"/>
-<label key="key:620757021:81598245" value="配方：金属冶炼15级"/>
-<label key="key:620757021:81598246" value="配方：金属冶炼16级"/>
-<label key="key:620757021:84676830" value="斗士职业物品"/>
-<label key="key:620757021:87239154" value="矛类"/>
-<label key="key:620757021:87270644" value="剑类"/>
-<label key="key:620757021:87287222" value="法杖"/>
-<label key="key:620757021:87972348" value="传奇物品提升最大等级"/>
-<label key="key:620757021:88853377" value="配方：勘探11级"/>
-<label key="key:620757021:88853378" value="配方：勘探12级"/>
-<label key="key:620757021:88853379" value="配方：勘探13级"/>
-<label key="key:620757021:88853380" value="配方：勘探14级"/>
-<label key="key:620757021:88853381" value="配方：勘探15级"/>
-<label key="key:620757021:90144084" value="工具"/>
-<label key="key:620757021:919717" value="装置"/>
+<label key="key:620757021:105371836" value="Home: Wall"/>
+<label key="key:620757021:105379860" value="Home: Yard"/>
+<label key="key:620757021:105678153" value="Legendary Item Upgrade Legacy"/>
+<label key="key:620757021:105763186" value="Recipe: Metalworking Tier 2"/>
+<label key="key:620757021:105763187" value="Recipe: Metalworking Tier 3"/>
+<label key="key:620757021:105763188" value="Recipe: Metalworking Tier 4"/>
+<label key="key:620757021:105763189" value="Recipe: Metalworking Tier 5"/>
+<label key="key:620757021:105763190" value="Recipe: Metalworking Tier 6"/>
+<label key="key:620757021:105763191" value="Recipe: Metalworking Tier 7"/>
+<label key="key:620757021:105763192" value="Recipe: Metalworking Tier 8"/>
+<label key="key:620757021:105763193" value="Recipe: Metalworking Tier 9"/>
+<label key="key:620757021:109434773" value="Essence"/>
+<label key="key:620757021:110525483" value="Perks"/>
+<label key="key:620757021:110544533" value="Tomes"/>
+<label key="key:620757021:110829298" value="Recipe: Woodworking Tier 2"/>
+<label key="key:620757021:110829299" value="Recipe: Woodworking Tier 3"/>
+<label key="key:620757021:110829300" value="Recipe: Woodworking Tier 4"/>
+<label key="key:620757021:110829301" value="Recipe: Woodworking Tier 5"/>
+<label key="key:620757021:110829302" value="Recipe: Woodworking Tier 6"/>
+<label key="key:620757021:110829303" value="Recipe: Woodworking Tier 7"/>
+<label key="key:620757021:110829304" value="Recipe: Woodworking Tier 8"/>
+<label key="key:620757021:110829305" value="Recipe: Woodworking Tier 9"/>
+<label key="key:620757021:111684140" value="Travel &amp; Maps"/>
+<label key="key:620757021:114481564" value="Minstrel Class Items"/>
+<label key="key:620757021:116104140" value="Legendary Item Increase Item Level"/>
+<label key="key:620757021:117577410" value="Recipe: Cooking Tier 2"/>
+<label key="key:620757021:117577411" value="Recipe: Cooking Tier 3"/>
+<label key="key:620757021:117577412" value="Recipe: Cooking Tier 4"/>
+<label key="key:620757021:117577413" value="Recipe: Cooking Tier 5"/>
+<label key="key:620757021:117577414" value="Recipe: Cooking Tier 6"/>
+<label key="key:620757021:117577415" value="Recipe: Cooking Tier 7"/>
+<label key="key:620757021:117577416" value="Recipe: Cooking Tier 8"/>
+<label key="key:620757021:117577417" value="Recipe: Cooking Tier 9"/>
+<label key="key:620757021:118313454" value="Thrown"/>
+<label key="key:620757021:118993229" value="Medium Armour"/>
+<label key="key:620757021:119251401" value="Trophy"/>
+<label key="key:620757021:119722258" value="Recipe: Tailor Tier 1"/>
+<label key="key:620757021:120595803" value="Armour: Back"/>
+<label key="key:620757021:120600731" value="Book"/>
+<label key="key:620757021:120605108" value="Armour: Head"/>
+<label key="key:620757021:120613124" value="Armour: Feet"/>
+<label key="key:620757021:120615952" value="Legendary Item XP"/>
+<label key="key:620757021:120617108" value="Food"/>
+<label key="key:620757021:120686883" value="Armour: Legs"/>
+<label key="key:620757021:120693331" value="Misc."/>
+<label key="key:620757021:121047643" value="Task Items"/>
+<label key="key:620757021:121051292" value="Tool"/>
+<label key="key:620757021:121051712" value="Trap"/>
+<label key="key:620757021:121131804" value="Scroll"/>
+<label key="key:620757021:121388308" value="Armour: Shield"/>
+<label key="key:620757021:121698756" value="Halberds"/>
+<label key="key:620757021:122116172" value="Social Item"/>
+<label key="key:620757021:122951570" value="Clubs"/>
+<label key="key:620757021:123052981" value="Maces"/>
+<label key="key:620757021:124931340" value="Skill Scrolls"/>
+<label key="key:620757021:125205298" value="KinshipCharter"/>
+<label key="key:620757021:125387374" value="Weapon"/>
+<label key="key:620757021:129626297" value="Home: Trophy"/>
+<label key="key:620757021:130155230" value="Warden Class Items"/>
+<label key="key:620757021:131361134" value="Potion"/>
+<label key="key:620757021:136340674" value="Brawler Class Items"/>
+<label key="key:620757021:136794324" value="Craft: Component"/>
+<label key="key:620757021:136946321" value="Bridle"/>
+<label key="key:620757021:137306622" value="Captain Class Items"/>
+<label key="key:620757021:140534914" value="Burglar Class Items"/>
+<label key="key:620757021:14448685" value="Quest Item"/>
+<label key="key:620757021:14599733" value="Home: Structural"/>
+<label key="key:620757021:14865058" value="Hunter Class Items"/>
+<label key="key:620757021:151712542" value="Healing Potion"/>
+<label key="key:620757021:157605147" value="Recipe: Metalworking Tier 1"/>
+<label key="key:620757021:162656033" value="Recipe: Woodworking Tier 11"/>
+<label key="key:620757021:162656034" value="Recipe: Woodworking Tier 12"/>
+<label key="key:620757021:162656035" value="Recipe: Woodworking Tier 13"/>
+<label key="key:620757021:162656036" value="Recipe: Woodworking Tier 14"/>
+<label key="key:620757021:162656037" value="Recipe: Woodworking Tier 15"/>
+<label key="key:620757021:162656038" value="Recipe: Woodworking Tier 16"/>
+<label key="key:620757021:163007559" value="Home: Ceiling"/>
+<label key="key:620757021:163648002" value="Mariner Items"/>
+<label key="key:620757021:164550574" value="Javelins"/>
+<label key="key:620757021:165478388" value="Socketed Instrument"/>
+<label key="key:620757021:166355778" value="Recipe: Jeweller Tier 1"/>
+<label key="key:620757021:16830350" value="Guardian Class Items"/>
+<label key="key:620757021:174258956" value="Home: Special"/>
+<label key="key:620757021:174279841" value="Recipe: Jeweller Tier 11"/>
+<label key="key:620757021:174279842" value="Recipe: Jeweller Tier 12"/>
+<label key="key:620757021:174279843" value="Recipe: Jeweller Tier 13"/>
+<label key="key:620757021:174279844" value="Recipe: Jeweller Tier 14"/>
+<label key="key:620757021:174279845" value="Recipe: Jeweller Tier 15"/>
+<label key="key:620757021:174279846" value="Recipe: Jeweller Tier 16"/>
+<label key="key:620757021:176135061" value="Treasure"/>
+<label key="key:620757021:179227020" value="Scroll of Removal"/>
+<label key="key:620757021:180002887" value="Crafting"/>
+<label key="key:620757021:181526339" value="Armour: Shoulders"/>
+<label key="key:620757021:182571145" value="Jewellery"/>
+<label key="key:620757021:188825806" value="Champion Horns"/>
+<label key="key:620757021:18941640" value="Junk"/>
+<label key="key:620757021:195003118" value="Barter: Reputation"/>
+<label key="key:620757021:195863399" value="Carry-all"/>
+<label key="key:620757021:1969300" value="Pipeweed"/>
+<label key="key:620757021:197950227" value="Home: Paints &amp; Surfaces"/>
+<label key="key:620757021:198542436" value="Outfit: Feet"/>
+<label key="key:620757021:198550740" value="Outfit: Head"/>
+<label key="key:620757021:198550916" value="Held"/>
+<label key="key:620757021:198559803" value="Outfit: Back"/>
+<label key="key:620757021:198599747" value="Outfit: Lowerbody"/>
+<label key="key:620757021:200129778" value="Recipe: Forestry Tier 2"/>
+<label key="key:620757021:200129779" value="Recipe: Forestry Tier 3"/>
+<label key="key:620757021:200129780" value="Recipe: Forestry Tier 4"/>
+<label key="key:620757021:200129781" value="Recipe: Forestry Tier 5"/>
+<label key="key:620757021:200129782" value="Recipe: Forestry Tier 6"/>
+<label key="key:620757021:200129783" value="Recipe: Forestry Tier 7"/>
+<label key="key:620757021:200129784" value="Recipe: Forestry Tier 8"/>
+<label key="key:620757021:200129785" value="Recipe: Forestry Tier 9"/>
+<label key="key:620757021:203391411" value="Outfit: Shoulders"/>
+<label key="key:620757021:203633538" value="Other"/>
+<label key="key:620757021:206879922" value="Recipe: Prospecting Tier 2"/>
+<label key="key:620757021:206879923" value="Recipe: Prospecting Tier 3"/>
+<label key="key:620757021:206879924" value="Recipe: Prospecting Tier 4"/>
+<label key="key:620757021:206879925" value="Recipe: Prospecting Tier 5"/>
+<label key="key:620757021:206879926" value="Recipe: Prospecting Tier 6"/>
+<label key="key:620757021:206879927" value="Recipe: Prospecting Tier 7"/>
+<label key="key:620757021:206879928" value="Recipe: Prospecting Tier 8"/>
+<label key="key:620757021:206879929" value="Recipe: Prospecting Tier 9"/>
+<label key="key:620757021:208863701" value="Dye"/>
+<label key="key:620757021:208869792" value="Map"/>
+<label key="key:620757021:208870377" value="Key"/>
+<label key="key:620757021:208871388" value="Weapon Oils"/>
+<label key="key:620757021:212415780" value="Pennant"/>
+<label key="key:620757021:212622644" value="Instrument"/>
+<label key="key:620757021:216555330" value="Recipe: Scholar Tier 2"/>
+<label key="key:620757021:216555331" value="Recipe: Scholar Tier 3"/>
+<label key="key:620757021:216555332" value="Recipe: Scholar Tier 4"/>
+<label key="key:620757021:216555333" value="Recipe: Scholar Tier 5"/>
+<label key="key:620757021:216555334" value="Recipe: Scholar Tier 6"/>
+<label key="key:620757021:216555335" value="Recipe: Scholar Tier 7"/>
+<label key="key:620757021:216555336" value="Recipe: Scholar Tier 8"/>
+<label key="key:620757021:216555337" value="Recipe: Scholar Tier 9"/>
+<label key="key:620757021:2190385" value="Recipe: Cooking Tier 11"/>
+<label key="key:620757021:2190386" value="Recipe: Cooking Tier 12"/>
+<label key="key:620757021:2190387" value="Recipe: Cooking Tier 13"/>
+<label key="key:620757021:2190388" value="Recipe: Cooking Tier 14"/>
+<label key="key:620757021:2190389" value="Recipe: Cooking Tier 15"/>
+<label key="key:620757021:2190390" value="Recipe: Cooking Tier 16"/>
+<label key="key:620757021:222853011" value="Relic Removal Scroll"/>
+<label key="key:620757021:223202647" value="Crossbows"/>
+<label key="key:620757021:224042499" value="Outfit: Hands"/>
+<label key="key:620757021:224204308" value="Outfit: Upperbody"/>
+<label key="key:620757021:224223225" value="Special"/>
+<label key="key:620757021:224317971" value="Outfit: Class"/>
+<label key="key:620757021:228381733" value="Deconstructables"/>
+<label key="key:620757021:230798594" value="Recipe: Farming Tier 12"/>
+<label key="key:620757021:230798595" value="Recipe: Farming Tier 13"/>
+<label key="key:620757021:230798596" value="Recipe: Farming Tier 14"/>
+<label key="key:620757021:230798597" value="Recipe: Farming Tier 15"/>
+<label key="key:620757021:233568353" value="Recipe: Weaponsmith Tier 11"/>
+<label key="key:620757021:233568354" value="Recipe: Weaponsmith Tier 12"/>
+<label key="key:620757021:233568355" value="Recipe: Weaponsmith Tier 13"/>
+<label key="key:620757021:233568356" value="Recipe: Weaponsmith Tier 14"/>
+<label key="key:620757021:233568357" value="Recipe: Weaponsmith Tier 15"/>
+<label key="key:620757021:233568358" value="Recipe: Weaponsmith Tier 16"/>
+<label key="key:620757021:23704043" value="Recipe: Woodworking Tier 1"/>
+<label key="key:620757021:239679676" value="Craft: Optional Ingredient"/>
+<label key="key:620757021:241303477" value="Craft: Resource"/>
+<label key="key:620757021:242105372" value="Festival Items"/>
+<label key="key:620757021:243659905" value="Recipe: Scholar Tier 11"/>
+<label key="key:620757021:243659906" value="Recipe: Scholar Tier 12"/>
+<label key="key:620757021:243659907" value="Recipe: Scholar Tier 13"/>
+<label key="key:620757021:243659908" value="Recipe: Scholar Tier 14"/>
+<label key="key:620757021:243659909" value="Recipe: Scholar Tier 15"/>
+<label key="key:620757021:243659910" value="Recipe: Scholar Tier 16"/>
+<label key="key:620757021:245773506" value="Recipe: Jeweller Tier 2"/>
+<label key="key:620757021:245773507" value="Recipe: Jeweller Tier 3"/>
+<label key="key:620757021:245773508" value="Recipe: Jeweller Tier 4"/>
+<label key="key:620757021:245773509" value="Recipe: Jeweller Tier 5"/>
+<label key="key:620757021:245773510" value="Recipe: Jeweller Tier 6"/>
+<label key="key:620757021:245773511" value="Recipe: Jeweller Tier 7"/>
+<label key="key:620757021:245773512" value="Recipe: Jeweller Tier 8"/>
+<label key="key:620757021:245773513" value="Recipe: Jeweller Tier 9"/>
+<label key="key:620757021:258767049" value="Heavy Armour"/>
+<label key="key:620757021:259014116" value="Light Armour"/>
+<label key="key:620757021:260742772" value="Craft: Ingredient"/>
+<label key="key:620757021:262187539" value="Home: Collectibles"/>
+<label key="key:620757021:268144381" value="Ettenmoors Trophies"/>
+<label key="key:620757021:2776562" value="Barter"/>
+<label key="key:620757021:28172295" value="Clothing"/>
+<label key="key:620757021:28878654" value="Decoration"/>
+<label key="key:620757021:29707207" value="Recipe: Prospecting Tier 1"/>
+<label key="key:620757021:29994437" value="Shield-spikes"/>
+<label key="key:620757021:30311922" value="Recipe: Scholar Tier 1"/>
+<label key="key:620757021:36507938" value="Recipe: Tailor Tier 2"/>
+<label key="key:620757021:36507939" value="Recipe: Tailor Tier 3"/>
+<label key="key:620757021:36507940" value="Recipe: Tailor Tier 4"/>
+<label key="key:620757021:36507941" value="Recipe: Tailor Tier 5"/>
+<label key="key:620757021:36507942" value="Recipe: Tailor Tier 6"/>
+<label key="key:620757021:36507943" value="Recipe: Tailor Tier 7"/>
+<label key="key:620757021:36507944" value="Recipe: Tailor Tier 8"/>
+<label key="key:620757021:36507945" value="Recipe: Tailor Tier 9"/>
+<label key="key:620757021:37007685" value="Home: Furniture"/>
+<label key="key:620757021:40903019" value="Recipe: Cooking Tier 1"/>
+<label key="key:620757021:41238949" value="Axes"/>
+<label key="key:620757021:41239079" value="Bows"/>
+<label key="key:620757021:41246658" value="Rune-stones"/>
+<label key="key:620757021:4713484" value="Special"/>
+<label key="key:620757021:47256161" value="Recipe: Tailor Tier 11"/>
+<label key="key:620757021:47256162" value="Recipe: Tailor Tier 12"/>
+<label key="key:620757021:47256163" value="Recipe: Tailor Tier 13"/>
+<label key="key:620757021:47256164" value="Recipe: Tailor Tier 14"/>
+<label key="key:620757021:47256165" value="Recipe: Tailor Tier 15"/>
+<label key="key:620757021:47256166" value="Recipe: Tailor Tier 16"/>
+<label key="key:620757021:48152450" value="Recipe: Weaponsmith Tier 2"/>
+<label key="key:620757021:48152451" value="Recipe: Weaponsmith Tier 3"/>
+<label key="key:620757021:48152452" value="Recipe: Weaponsmith Tier 4"/>
+<label key="key:620757021:48152453" value="Recipe: Weaponsmith Tier 5"/>
+<label key="key:620757021:48152454" value="Recipe: Weaponsmith Tier 6"/>
+<label key="key:620757021:48152455" value="Recipe: Weaponsmith Tier 7"/>
+<label key="key:620757021:48152456" value="Recipe: Weaponsmith Tier 8"/>
+<label key="key:620757021:48152457" value="Recipe: Weaponsmith Tier 9"/>
+<label key="key:620757021:48312535" value="Beorning Class Items"/>
+<label key="key:620757021:50013561" value="Legendary Item Replace Legacy"/>
+<label key="key:620757021:50233353" value="Legendary Item Add Legacy"/>
+<label key="key:620757021:50511890" value="Armour"/>
+<label key="key:620757021:50577620" value="Armour: Upperbody"/>
+<label key="key:620757021:50620611" value="Armour: Hands"/>
+<label key="key:620757021:5095858" value="Recipe: Farming Tier 1"/>
+<label key="key:620757021:52036629" value="Home: Ambience"/>
+<label key="key:620757021:52054052" value="Mounts"/>
+<label key="key:620757021:53341176" value="Recipe: Weaponsmith Tier 1"/>
+<label key="key:620757021:57073476" value="Legendary Item Legendary Points Reset"/>
+<label key="key:620757021:57847427" value="Relic"/>
+<label key="key:620757021:62839753" value="Recipe: Forestry Tier 1"/>
+<label key="key:620757021:62845171" value="Battle-gauntlets"/>
+<label key="key:620757021:67976450" value="Home: Floor"/>
+<label key="key:620757021:68351124" value="Home: Lighting"/>
+<label key="key:620757021:68468883" value="Home: Music"/>
+<label key="key:620757021:69686312" value="Weapon Auras"/>
+<label key="key:620757021:70515346" value="Daggers"/>
+<label key="key:620757021:72643304" value="Lock-boxes"/>
+<label key="key:620757021:73000642" value="Lore-master Class Items"/>
+<label key="key:620757021:74720402" value="Hammers"/>
+<label key="key:620757021:75110220" value="Home: Skill"/>
+<label key="key:620757021:75252738" value="Rune-keeper Class Items"/>
+<label key="key:620757021:77356359" value="Healing"/>
+<label key="key:620757021:79800648" value="Fish"/>
+<label key="key:620757021:79814612" value="Bait"/>
+<label key="key:620757021:80104949" value="Poles"/>
+<label key="key:620757021:80746456" value="Barter: Skirmish"/>
+<label key="key:620757021:81533778" value="Recipe: Farming Tier 2"/>
+<label key="key:620757021:81533779" value="Recipe: Farming Tier 3"/>
+<label key="key:620757021:81533780" value="Recipe: Farming Tier 4"/>
+<label key="key:620757021:81533781" value="Recipe: Farming Tier 5"/>
+<label key="key:620757021:81533782" value="Recipe: Farming Tier 6"/>
+<label key="key:620757021:81533783" value="Recipe: Farming Tier 7"/>
+<label key="key:620757021:81533784" value="Recipe: Farming Tier 8"/>
+<label key="key:620757021:81533785" value="Recipe: Farming Tier 9"/>
+<label key="key:620757021:81598241" value="Recipe: Metalworking Tier 11"/>
+<label key="key:620757021:81598242" value="Recipe: Metalworking Tier 12"/>
+<label key="key:620757021:81598243" value="Recipe: Metalworking Tier 13"/>
+<label key="key:620757021:81598244" value="Recipe: Metalworking Tier 14"/>
+<label key="key:620757021:81598245" value="Recipe: Metalworking Tier 15"/>
+<label key="key:620757021:81598246" value="Recipe: Metalworking Tier 16"/>
+<label key="key:620757021:84676830" value="Champion Class Items"/>
+<label key="key:620757021:87239154" value="Spears"/>
+<label key="key:620757021:87270644" value="Swords"/>
+<label key="key:620757021:87287222" value="Staves"/>
+<label key="key:620757021:87972348" value="Legendary Item Increase Max Level"/>
+<label key="key:620757021:88853377" value="Recipe: Prospecting Tier 11"/>
+<label key="key:620757021:88853378" value="Recipe: Prospecting Tier 12"/>
+<label key="key:620757021:88853379" value="Recipe: Prospecting Tier 13"/>
+<label key="key:620757021:88853380" value="Recipe: Prospecting Tier 14"/>
+<label key="key:620757021:88853381" value="Recipe: Prospecting Tier 15"/>
+<label key="key:620757021:90144084" value="Implements"/>
+<label key="key:620757021:919717" value="Device"/>
 </labels>

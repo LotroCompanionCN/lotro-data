@@ -1,973 +1,973 @@
 <?xml version="1.0" encoding="UTF-8"?><parchmentMaps>
-<parchmentMap id="268437554" name="中土(Middle-earth)" region="0" questGuideDisabled="true"/>
-<parchmentMap id="268437557" name="埃里阿多尔(Eriador)" region="1" parentMapId="268437554" questGuideDisabled="true"/>
-<parchmentMap id="268437576" name="埃雷德鲁因(Ered Luin)" region="1" parentMapId="268437557">
-<area id="1879063921" name="索林谷（Vale of Thrain）"/>
-<area id="1879063922" name="低地"/>
-<area id="1879063923" name="豪兹·林（Haudh Lin）"/>
-<area id="1879063924" name="法拉斯隆（Falathlorn）"/>
-<area id="1879063925" name="萨努尔（Sarnúr）"/>
-<area id="1879063926" name="拉斯泰雷格（Rath Teraig）"/>
-<area id="1879063928" name="法拉斯隆（Falathlorn）"/>
-<area id="1879063929" name="瑟兰丁(Celondim)"/>
-<area id="1879063930" name="利梅尔的葡萄园（Limael's Vineyard）"/>
-<area id="1879063931" name="凯勒杜尔（Kheledûl）"/>
-<area id="1879206150" name="低地"/>
-</parchmentMap>
-<parchmentMap id="268440613" name="索林大厅庄园" region="1" parentMapId="268437576">
-<area id="1879098354" name="索林大厅庄园（Thorin's Hall Homesteads）"/>
-</parchmentMap>
-<parchmentMap id="268437722" name="索林之门(Thorin's Gate)" region="1" parentMapId="268437576">
-<area id="1879063932" name="索林之门"/>
-<area id="1879063927" name="埃迪里昂避难所（Refuge of Edhelion）"/>
-<area id="1879191198" name="索林大厅(Thorin's Hall)"/>
-</parchmentMap>
-<parchmentMap id="268440591" name="法拉斯隆庄园" region="1" parentMapId="268437576">
-<area id="1879098736" name="法拉斯隆庄园(Falathlorn Homesteads)"/>
-</parchmentMap>
-<parchmentMap id="268437592" name="巨魔树林" region="1" parentMapId="268437557">
-<area id="1879063933" name="南巨魔树林（South 巨魔树林）"/>
-<area id="1879063934" name="北巨魔树林"/>
-<area id="1879063935" name="布鲁南峡谷（Bruinen Gorges）"/>
-<area id="1879063936" name="高沼地（High Moor）"/>
-<area id="1879063937" name="南托尔奈斯（Nan Tornaeth）"/>
-<area id="1879063938" name="巨人谷"/>
-<area id="1879094891" name="塔尔布鲁南(Tâl Bruinen)"/>
-</parchmentMap>
-<parchmentMap id="268437713" name="瑞文戴尔(Rivendell)" region="1" parentMapId="268437592">
-<area id="1879063939" name="瑞文戴尔山谷（Rivendell Valley）"/>
-</parchmentMap>
-<parchmentMap id="268455133" name="瑞文戴尔庄园（Rivendell Steadings）" region="1" parentMapId="268437713">
-<area id="1879501361" name="瑞文戴尔宅邸"/>
-</parchmentMap>
-<parchmentMap id="268453878" name="苍泉河角地" region="1" parentMapId="268437592">
-<area id="1879439521" name="米斯艾塞尔河角地"/>
-</parchmentMap>
-<parchmentMap id="268437691" name="迷雾山脉(Misty Mountains)" region="1" parentMapId="268437557">
-<area id="1879063940" name="迷雾山脉"/>
-<area id="1879063941" name="布鲁南西源（Bruinen Source West）"/>
-<area id="1879063942" name="布鲁南北源（Bruinen Source North）"/>
-<area id="1879063943" name="布鲁南东源（Bruinen Source East）"/>
-<area id="1879063944" name="高崖"/>
-<area id="1879063945" name="巨人大厅"/>
-<area id="1879063946" name="海勒格罗德"/>
-<area id="1879094892" name="北高地隘口"/>
-<area id="1879094893" name="南高地隘口"/>
-<area id="1879094894" name="哥布林镇"/>
-</parchmentMap>
-<parchmentMap id="268437603" name="孤土" region="1" parentMapId="268437557">
-<area id="1879063947" name="安努洛斯(Annunlos)"/>
-<area id="1879063948" name="风云丘陵"/>
-<area id="1879063949" name="耐恩·埃尼德（Nain Enidh）"/>
-<area id="1879063950" name="塔拉思高恩（Talath Gaun）"/>
-<area id="1879063951" name="哈洛格（Harloeg）"/>
-<area id="1879063952" name="阿伽茂尔（Agamaur）"/>
-<area id="1879063953" name="哈拉格玛（Haragmar）"/>
-<area id="1879063954" name="塔拉思高恩（Talath Gaun）"/>
-<area id="1879063955" name="加斯阿格温"/>
-<area id="1879063956" name="米那斯埃里奥（Minas Eriol）"/>
-<area id="1879191196" name="遗忘客栈"/>
-</parchmentMap>
-<parchmentMap id="268437615" name="安格玛" region="1" parentMapId="268437557">
-<area id="1879063957" name="拉姆·杜阿思（Ram Dúath）"/>
-<area id="1879063958" name="西山麓"/>
-<area id="1879063959" name="西莫伦哈德"/>
-<area id="1879063960" name="积雪丘陵"/>
-<area id="1879063961" name="卡恩杜姆"/>
-<area id="1879063962" name="法萨赫-法尔罗伊德（Fasach-falroid）"/>
-<area id="1879063963" name="法萨赫-拉伦（Fasach-larran）"/>
-<area id="1879063964" name="东莫伦哈德"/>
-<area id="1879063965" name="伊姆拉德巴尔科思（Imlad Balchorth）"/>
-<area id="1879063966" name="辛巴尔"/>
-<area id="1879063967" name="南古尔（Nan Gurth）"/>
-<area id="1879051236" name="戈罗斯拉德（Gorothlad）"/>
-<area id="1879063968" name="乌鲁加斯（Urugarth）"/>
-<area id="1879063969" name="杜维因（Duvuinen）"/>
-<area id="1879063970" name="梅顿（Maethad）"/>
-<area id="1879063971" name="鲁恩丁"/>
-<area id="1879093998" name="努兹加舒大裂谷"/>
-<area id="1879103883" name="奥海尔（Aughaire）"/>
-</parchmentMap>
-<parchmentMap id="268454115" name="卡恩杜姆，安格玛重生" region="1" parentMapId="268437615">
-<area id="1879457088" name="埃斐尔安格林（Ephel Angren）"/>
-<area id="1879453095" name="卡恩杜姆"/>
-</parchmentMap>
-<parchmentMap id="268437634" name="北岗" region="1" parentMapId="268437557">
-<area id="1879063972" name="高脚桥(Trestlebridge)"/>
-<area id="1879063973" name="绿荫路"/>
-<area id="1879063974" name="佛诺斯特原野"/>
-<area id="1879063975" name="南瓦瑟伦（Nan Wathren）"/>
-<area id="1879063976" name="亡者堤道"/>
-<area id="1879063977" name="安鲁山谷西部（Nan Amlug West）"/>
-<area id="1879063978" name="国王山岗（Kingsfell）"/>
-<area id="1879063979" name="梅鲁伊恩（Meluinen）"/>
-<area id="1879063980" name="安鲁山谷东部（Nan Amlug East）"/>
-<area id="1879063981" name="鲁内兰(Rhunenlad)"/>
-<area id="1879063982" name="多尔迪南（Dol Dínen）"/>
-<area id="1879063983" name="安努迪尔（Annúndir）"/>
-<area id="1879063984" name="戈斯杰内萨德"/>
-<area id="1879063985" name="巴拉德戈斯特（Barad Gost）"/>
-<area id="1879063986" name="佛诺斯特"/>
-<area id="1879063987" name="埃斯特尔丁（Esteldín）"/>
-<area id="1879063988" name="陶尔·贡韦思（Taur Gonwaith）"/>
-<area id="1879206000" name="石高镇"/>
-</parchmentMap>
-<parchmentMap id="268437700" name="伊顿荒原" region="1" parentMapId="268437557">
-<area id="1879063989" name="豪代尔"/>
-<area id="1879063990" name="阿拉东之末（Arador's End）"/>
-<area id="1879063991" name="格兰山梯（Steps of Gram）"/>
-<area id="1879063992" name="科德费尔斯（Coldfells）"/>
-<area id="1879063993" name="希斯拉德（Hithlad）"/>
-<area id="1879158613" name="格兰瑞格（Glân Vraig）"/>
-<area id="1879158614" name="格兰斯伏特（Gramsfoot）"/>
-<area id="1879506292" name="提瑞斯劳（Tírith Rhaw）"/>
-<area id="1879506290" name="鲁加塞格（Lugazag）"/>
-<area id="1879506291" name="托拉斯卡南（Tol Ascarnen）"/>
-</parchmentMap>
-<parchmentMap id="268439511" name="伊凡丁(Evendim)" region="1" parentMapId="268437557">
-<area id="1879086555" name="牛吼者草地(Bullroarer's Sward)"/>
-<area id="1879086544" name="巴兰黛夫(Barandalf)"/>
-<area id="1879086553" name="阿杜亚尔平原（Parth Aduial）"/>
-<area id="1879086552" name="苔恩佛奈克（Tyrn Fornech）"/>
-<area id="1879086551" name="黄昏高地南部（Southern Emyn Uial）"/>
-<area id="1879086554" name="黄昏高地北部（Northern Emyn Uial）"/>
-<area id="1879086547" name="曼艾林（Men Erain）"/>
-<area id="1879086550" name="提尔鲁因恩（Tyl Ruinen）"/>
-<area id="1879086556" name="提尔艾贡（Tyl Aegonn）"/>
-<area id="1879086549" name="伊凡丁湖（Lake Evendim）"/>
-</parchmentMap>
-<parchmentMap id="268441764" name="安努米纳斯" region="1" parentMapId="268439511">
-<area id="1879086548" name="提尔阿努恩（Tyl Annûn）"/>
-<area id="1879086546" name="安努米纳斯"/>
-</parchmentMap>
-<parchmentMap id="268446977" name="登兰德全貌" region="1" parentMapId="268437557"/>
-<parchmentMap id="268447030" name="登兰德(Dunland)" region="1" parentMapId="268446977">
-<area id="1879192015" name="特鲁姆·德伦"/>
-<area id="1879192014" name="骨谷(Bonevales)"/>
-<area id="1879192016" name="普伦·格威德(Pren Gwydh)"/>
-<area id="1879201774" name="斯塔克穆尔"/>
-<area id="1879192020" name="卡雷格林(Carreglyn)"/>
-<area id="1879192017" name="格拉文伍德(Gravenwood)"/>
-<area id="1879214905" name="南格拉文伍德（South Gravenwood）"/>
-<area id="1879192019" name="邓博格(Dunbog)"/>
-<area id="1879210266" name="枯石"/>
-<area id="1879218904" name="科尔斯·阿旺克（Cors Avanc）"/>
-<area id="1879218902" name="兰·科尔瓦恩（Lhan Colvarn）"/>
-<area id="1879221596" name="兰洛斯（Lhan Rhos）"/>
-<area id="1879218903" name="纯净林地"/>
-</parchmentMap>
-<parchmentMap id="268446984" name="加尔特雷夫(Galtrev)" region="1" parentMapId="268447030">
-<area id="1879218506" name="加尔特雷夫（Galtrev）"/>
-</parchmentMap>
-<parchmentMap id="268447169" name="塔尔·梅塞德拉斯(Tâl Methedras)" region="1" parentMapId="268447030">
-<area id="1879201776" name="塔尔·梅塞德拉思（Tâl Methedras）"/>
-</parchmentMap>
-<parchmentMap id="268447051" name="罗翰隘口" region="1" parentMapId="268446977">
-<area id="1879214904" name="沃尔夫裂谷（Wulf's Cleft）"/>
-<area id="1879201773" name="希思费尔斯（Heathfells）"/>
-<area id="1879201775" name="艾森河谷镇（Isendale）"/>
-</parchmentMap>
-<parchmentMap id="268447589" name="钢铁深坑" region="1" parentMapId="268447051">
-<area id="1879208109" name="钢铁之坑"/>
-</parchmentMap>
-<parchmentMap id="268447045" name="南库鲁尼尔" region="1" parentMapId="268446977">
-<area id="1879201772" name="南库茹尼尔（Nan Curunír）"/>
-</parchmentMap>
-<parchmentMap id="268446985" name="艾辛格" region="1" parentMapId="268447045">
-<area id="1879197005" name="艾辛格（Isengard）"/>
-</parchmentMap>
-<parchmentMap id="268447022" name="艾辛格地下" region="1" parentMapId="268447045">
-<area id="1879211470" name="艾辛格地下（Isengard Depths）"/>
-</parchmentMap>
-<parchmentMap id="268447023" name="艾辛格之环" region="1" parentMapId="268447045">
-<area id="1879217974" name="艾辛格（Isengard）"/>
-</parchmentMap>
-<parchmentMap id="268437653" name="布雷兰(Bree-land)" region="1" parentMapId="268437557">
-<area id="1879063994" name="雄鹿地（Buckland）"/>
-<area id="1879063995" name="北布雷田野"/>
-<area id="1879078401" name="布雷南部田野（Southern Bree-fields）"/>
-<area id="1879063997" name="柴特林（Chetwood）"/>
-<area id="1879064000" name="蠓水沼泽（Midgewater Marshes）"/>
-<area id="1879064001" name="安德拉斯（Andrath）"/>
-<area id="1879064002" name="白兰地山（Brandy Hills）"/>
-<area id="1879064003" name="白兰地河林"/>
-<area id="1879064004" name="星湖（Starmere Lake）"/>
-<area id="1879064005" name="凄凉崖"/>
-<area id="1879064006" name="东布雷田野"/>
-<area id="1879064007" name="远柴特林（Far Chetwood）"/>
-<area id="1879064008" name="亨格斯塔农场（Hengstacer Farm）"/>
-<area id="1879305572" name="马田"/>
-<area id="1879064009" name="马田"/>
-<area id="1879064010" name="能哈恩（Nen Harn）"/>
-<area id="1879064011" name="风云丘陵"/>
-<area id="1879064012" name="峡谷镇(Combe)"/>
-<area id="1879064013" name="斯塔多（Staddle）"/>
-<area id="1879451122" name="白兰地河（Brandywine River）"/>
-</parchmentMap>
-<parchmentMap id="268437716" name="布雷(Bree)" region="1" parentMapId="268437653">
-<area id="1879064015" name="布雷（Bree）"/>
-</parchmentMap>
-<parchmentMap id="268437719" name="阿切特(Archet)" region="1" parentMapId="268437653">
-<area id="1879064014" name="阿切特"/>
-</parchmentMap>
-<parchmentMap id="268441569" name="老林子" region="1" parentMapId="268437653">
-<area id="1879063996" name="老林子（Old Forest）"/>
-</parchmentMap>
-<parchmentMap id="268445611" name="寒霜谷地（Frostbluff）" region="1" parentMapId="268437653">
-<area id="1879196939" name="霜崖"/>
-</parchmentMap>
-<parchmentMap id="268445087" name="北部古墓岗" region="1" parentMapId="268437653">
-<area id="1879063998" name="北部古墓岗(Northern Barrow-downs)"/>
-</parchmentMap>
-<parchmentMap id="268445092" name="南部古墓岗" region="1" parentMapId="268437653">
-<area id="1879063999" name="南部古墓岗（Southern Barrow-downs）"/>
-</parchmentMap>
-<parchmentMap id="268453543" name="布雷兰荒林" region="1" parentMapId="268437653">
-<area id="1879398374" name="野木林"/>
-</parchmentMap>
-<parchmentMap id="268440603" name="布雷兰庄园" region="1" parentMapId="268437653">
-<area id="1879098738" name="布雷兰庄园"/>
-</parchmentMap>
-<parchmentMap id="268437678" name="夏尔(The Shire)" region="1" parentMapId="268437557">
-<area id="1879064016" name="戴尔文原野"/>
-<area id="1879064017" name="霍比屯-傍水镇"/>
-<area id="1879064018" name="托克地（Tookland）"/>
-<area id="1879064019" name="马瑞什"/>
-<area id="1879064020" name="绿丘乡"/>
-<area id="1879064021" name="拉什克沼泽（Rushock Bog）"/>
-<area id="1879064022" name="宾博尔林地"/>
-<area id="1879064023" name="绿野"/>
-<area id="1879064024" name="桥田（Bridgefields）"/>
-<area id="1879064025" name="马瑞什"/>
-<area id="1879064026" name="山丘"/>
-<area id="1879064027" name="北桥原野"/>
-<area id="1879223034" name="桑德森农场"/>
-<area id="1879223642" name="马瑞什"/>
-</parchmentMap>
-<parchmentMap id="268440610" name="夏尔庄园" region="1" parentMapId="268437678">
-<area id="1879098737" name="夏尔庄园"/>
-</parchmentMap>
-<parchmentMap id="268441431" name="福罗切尔(Forochel)" region="1" parentMapId="268437557">
-<area id="1879106470" name="亚库鲁"/>
-<area id="1879102448" name="塔维穆里"/>
-<area id="1879102449" name="雅兰尼"/>
-<area id="1879102450" name="伊塔玛"/>
-<area id="1879102451" name="兰西玛（Länsi-mâ）"/>
-<area id="1879102452" name="陶尔·奥松（Taur Orthon）"/>
-<area id="1879184396" name="科洛汉帕特"/>
-</parchmentMap>
-<parchmentMap id="268444443" name="伊宁威治" region="1" parentMapId="268437557">
-<area id="1879181894" name="南莱格林(Nan Laeglin)"/>
-<area id="1879181895" name="福尔迪里斯"/>
-<area id="1879181897" name="风落之地"/>
-<area id="1879181896" name="幽暗林谷"/>
-<area id="1879181891" name="哀伤沼地(Mournshaws)"/>
-<area id="1879181893" name="巫妖崖(Lich Bluffs)"/>
-<area id="1879181892" name="索林·橡木盾的山谷"/>
-</parchmentMap>
-<parchmentMap id="268442268" name="埃里吉翁(Eregion)" region="1" parentMapId="268437557">
-<area id="1879106662" name="佩恩德埃里吉翁（Pend Eregion）"/>
-<area id="1879106663" name="格拉德·埃雷格（Glâd Ereg）"/>
-<area id="1879106664" name="高霍林（High Hollin）"/>
-<area id="1879106665" name="低霍林（Low Hollin）"/>
-<area id="1879106666" name="塔尔卡拉德拉斯（Tâl Caradhras）"/>
-<area id="1879106667" name="红角门"/>
-<area id="1879106668" name="南希兰农（Nan Sirannon）"/>
-<area id="1879106670" name="埃敏耐尔（Emyn Naer）"/>
-<area id="1879106671" name="米罗贝尔（Mirobel）"/>
-<area id="1879106672" name="萨恩米尔丹"/>
-</parchmentMap>
-<parchmentMap id="268442326" name="莫里亚城墙" region="1" parentMapId="268442268">
-<area id="1879106669" name="莫里亚城墙"/>
-</parchmentMap>
-<parchmentMap id="268453922" name="夏尔偏郡" region="1" parentMapId="268437557">
-<area id="1879442885" name="夏尔偏郡（Yondershire）"/>
-<area id="1879442888" name="狐穴荒野（Foxden Heath）"/>
-<area id="1879442890" name="北荒原"/>
-<area id="1879442880" name="古老的纽带"/>
-</parchmentMap>
-<parchmentMap id="268453997" name="天鹅泽" region="1" parentMapId="268437557">
-<area id="1879445915" name="卡拉斯·格莱布伦(Caras Gelebren)"/>
-<area id="1879445914" name="韦德沃特（Wadewater）"/>
-<area id="1879445918" name="斯图尔谷（Stoor-vales）"/>
-<area id="1879445917" name="老南路西部"/>
-<area id="1879452904" name="东旧南路"/>
-<area id="1879445916" name="西埃瑞吉安"/>
-</parchmentMap>
-<parchmentMap id="268454010" name="莫斯沃德" region="1" parentMapId="268453997">
-<area id="1879449484" name="莫斯沃德（Mossward）"/>
-</parchmentMap>
-<parchmentMap id="268454004" name="卡多兰(Cardolan)" region="1" parentMapId="268437557">
-<area id="1879445909" name="南安德拉斯"/>
-<area id="1879449384" name="萨奇·沃恩（Sarch Vorn）"/>
-<area id="1879445910" name="老林子南(Southern Old Forest）"/>
-<area id="1879445911" name="拉迪莫尔（Ruddymore）"/>
-<area id="1879445912" name="莎草甸"/>
-<area id="1879445907" name="南丘陵（South Downs）"/>
-<area id="1879445913" name="萨恩巴德（Tharbad）"/>
-<area id="1879445908" name="提恩戈萨德"/>
-</parchmentMap>
-<parchmentMap id="268453619" name="罗瓦尼安" region="2" parentMapId="268437554" questGuideDisabled="true"/>
-<parchmentMap id="268452526" name="北幽暗密林" region="2" parentMapId="268453619">
-<area id="1879362291" name="托雷赫埃梅尔"/>
-<area id="1879362296" name="长湖镇（Lake-town）"/>
-<area id="1879362295" name="埃林拉斯加伦（Eryn Lasgalen）"/>
-<area id="1879362292" name="河谷镇地区"/>
-<area id="1879362293" name="河谷镇"/>
-<area id="1879362284" name="卡拉 Tilion"/>
-<area id="1879366956" name="长湖（Long Lake）"/>
-</parchmentMap>
-<parchmentMap id="268452525" name="费莱戈斯" region="2" parentMapId="268452526">
-<area id="1879362297" name="费莱戈斯（Felegoth）"/>
-</parchmentMap>
-<parchmentMap id="268452663" name="埃瑞博(Erebor)" region="2" parentMapId="268452526">
-<area id="1879362287" name="埃瑞博（Erebor）"/>
-<area id="1879375475" name="Narathâk 的新矿脉"/>
-<area id="1879375474" name="图姆努杜姆（Tumnu-dûm），居所大厅（Dwelling-halls）"/>
-</parchmentMap>
-<parchmentMap id="268453867" name="埃瑞博家园" region="2" parentMapId="268452663">
-<area id="1879439947" name="埃瑞博居所（Abodes of Erebor）"/>
-</parchmentMap>
-<parchmentMap id="268453023" name="安都因河谷" region="2" parentMapId="268453619">
-<area id="1879387598" name="阿瓦巴尔格"/>
-<area id="1879384448" name="比翁一族之地"/>
-<area id="1879384446" name="格拉顿平原"/>
-<area id="1879387796" name="格拉顿湖（Gladdenmere）"/>
-<area id="1879384444" name="莱尔拉德（Laerlad）"/>
-<area id="1879384449" name="罗斯戈贝尔"/>
-<area id="1879384456" name="狼穴谷"/>
-<area id="1879384447" name="林缘（Woodsedge）"/>
-<area id="1879384450" name="达斯肯谷"/>
-</parchmentMap>
-<parchmentMap id="268450898" name="格里姆贝奥恩的房子" region="2" parentMapId="268453023">
-<area id="1879315609" name="麦酒谷"/>
-</parchmentMap>
-<parchmentMap id="268453454" name="长川之泉" region="2" parentMapId="268453619">
-<area id="1879400521" name="弗拉德费尔斯"/>
-<area id="1879400532" name="贡达巴德"/>
-<area id="1879400537" name="迷雾旷野（Misthallow）"/>
-</parchmentMap>
-<parchmentMap id="268454188" name="林德尔比家园" region="2" parentMapId="268453454">
-<area id="1879457229" name="林德尔比庄园"/>
-</parchmentMap>
-<parchmentMap id="268453519" name="埃尔德斯莱德：三峰之战" region="2" parentMapId="268453619">
-<area id="1879407741" name="三峰之战"/>
-</parchmentMap>
-<parchmentMap id="268452631" name="埃瑞德米斯林(Ered Mithrin)" region="2" parentMapId="268453619">
-<area id="1879368366" name="埃瑞德米斯林（Ered Mithrin）"/>
-<area id="1879368349" name="风暴壁垒"/>
-<area id="1879368367" name="枯荒原野"/>
-</parchmentMap>
-<parchmentMap id="268452655" name="钢铁要塞" region="2" parentMapId="268452631">
-<area id="1879368362" name="锡基尔-贡杜，钢铁要塞"/>
-</parchmentMap>
-<parchmentMap id="268452659" name="微光深渊" region="2" parentMapId="268452631">
-<area id="1879368334" name="微光深渊"/>
-</parchmentMap>
-<parchmentMap id="268452717" name="冬之砧" region="2" parentMapId="268452631">
-<area id="1879368345" name="铁砧"/>
-</parchmentMap>
-<parchmentMap id="268452634" name="铁丘陵(Iron Hills)" region="2" parentMapId="268453619">
-<area id="1879368364" name="铁之领域"/>
-<area id="1879368360" name="锤镇"/>
-<area id="1879368338" name="雅恩法斯特（Járnfast）"/>
-</parchmentMap>
-<parchmentMap id="268443855" name="南幽暗密林(mirkwood)" region="2" parentMapId="268453619">
-<area id="1879152193" name="墨瑞亚边缘（Mirk-eaves）"/>
-<area id="1879152194" name="阴郁之林"/>
-<area id="1879152195" name="溺水林"/>
-<area id="1879152196" name="埃敏卢姆（Emyn Lûm）"/>
-<area id="1879192400" name="埃敏卢姆(Emyn Lûm)"/>
-<area id="1879152197" name="斯卡图戴尔"/>
-<area id="1879152198" name="陶尔·莫维思（Taur Morvith）"/>
-<area id="1879152199" name="加斯布尔兹（Gathbúrz）"/>
-<area id="1879152200" name="灰烬沼泽（Ashenslades）"/>
-<area id="1879152201" name="多古尔都"/>
-</parchmentMap>
-<parchmentMap id="268452558" name="多古尔都(已摧毁)" region="2" parentMapId="268453619">
-<area id="1879366212" name="多古尔都"/>
-</parchmentMap>
-<parchmentMap id="268453641" name="贡达巴德" region="2" parentMapId="268453619">
-<area id="1879426395" name="杜尔斯托洛克"/>
-<area id="1879416388" name="贡达巴德上空（High Above Gundabad）"/>
-</parchmentMap>
-<parchmentMap id="268453653" name="贡达巴德深处" region="2" parentMapId="268453641">
-<area id="1879416090" name="贡达巴德深处"/>
-</parchmentMap>
-<parchmentMap id="268453656" name="克洛文加普" region="2" parentMapId="268453653">
-<area id="1879410821" name="裂隙峡谷(Clovengap)"/>
-</parchmentMap>
-<parchmentMap id="268453669" name="幽暗深谷" region="2" parentMapId="268453653">
-<area id="1879410820" name="幽暗山湖(Gloomingtarn)"/>
-</parchmentMap>
-<parchmentMap id="268453670" name="深穴" region="2" parentMapId="268453653">
-<area id="1879410818" name="深邃矿井(Deepscrave)"/>
-</parchmentMap>
-<parchmentMap id="268453671" name="马图加德" region="2" parentMapId="268453653">
-<area id="1879410817" name="玛图加德(Máttugard)"/>
-</parchmentMap>
-<parchmentMap id="268453673" name="石颚之 pit" region="2" parentMapId="268453653">
-<area id="1879410819" name="石颚之坑(Pit of Stonejaws)"/>
-</parchmentMap>
-<parchmentMap id="268453645" name="云空高地" region="2" parentMapId="268453641">
-<area id="1879410822" name="天穹之巅(Welkin-lofts)"/>
-</parchmentMap>
-<parchmentMap id="268453516" name="埃尔德斯莱德" region="2" parentMapId="268453641">
-<area id="1879400512" name="长老谷"/>
-</parchmentMap>
-<parchmentMap id="268453649" name="卡尔布罗纳赫" region="2" parentMapId="268453641">
-<area id="1879410823" name="卡尔-布罗纳赫(Câr Bronach)"/>
-</parchmentMap>
-<parchmentMap id="268453555" name="阿扎努比扎，第三纪元2799年" region="14" parentMapId="268453619">
-<area id="1879413511" name="第三纪元2799年的阿扎努比扎"/>
-</parchmentMap>
-<parchmentMap id="268453582" name="努德梅莱克 第三纪元1981年" region="14" parentMapId="268453619">
-<area id="1879416304" name="努德-梅莱克（Nud-melek），第三纪元1981年（T.A. 1981）"/>
-</parchmentMap>
-<parchmentMap id="268442355" name="莫里亚" region="2" parentMapId="268453619"/>
-<parchmentMap id="268442350" name="齐拉克齐吉尔(Zirakzigil)" region="2" parentMapId="268442355">
-<area id="1879109899" name="齐拉克齐吉尔（Zirakzigil）"/>
-</parchmentMap>
-<parchmentMap id="268442349" name="都林之路(Durin's Way)" region="2" parentMapId="268442355">
-<area id="1879109900" name="都林之路"/>
-<area id="1879144909" name="尖牙坑"/>
-</parchmentMap>
-<parchmentMap id="268442348" name="宏伟矿区" region="2" parentMapId="268442355">
-<area id="1879109901" name="宏伟矿区"/>
-</parchmentMap>
-<parchmentMap id="268442463" name="宏伟台阶" region="2" parentMapId="268442355">
-<area id="1879117705" name="宏伟台阶"/>
-</parchmentMap>
-<parchmentMap id="268442347" name="泽莱姆-梅莱克" region="2" parentMapId="268442355">
-<area id="1879109902" name="泽林-梅莱克（Zelem-melek）"/>
-<area id="1879191197" name="二十一号大厅"/>
-</parchmentMap>
-<parchmentMap id="268442346" name="努德梅莱克(Nud-melek)" region="2" parentMapId="268442355">
-<area id="1879109903" name="努德-梅莱克（Nud-melek）"/>
-</parchmentMap>
-<parchmentMap id="268442345" name="银峰矿脉" region="2" parentMapId="268442355">
-<area id="1879109904" name="银松矿脉"/>
-</parchmentMap>
-<parchmentMap id="268442344" name="红角峰矿脉" region="2" parentMapId="268442355">
-<area id="1879109905" name="红角峰矿脉"/>
-<area id="1879256642" name="红角峰矿脉 - 多节虫蜂巢"/>
-</parchmentMap>
-<parchmentMap id="268442343" name="水城" region="2" parentMapId="268442355">
-<area id="1879109906" name="水城"/>
-</parchmentMap>
-<parchmentMap id="268442342" name="烈焰深处" region="2" parentMapId="268442355">
-<area id="1879109907" name="烈焰深谷"/>
-</parchmentMap>
-<parchmentMap id="268442341" name="岩石基座" region="2" parentMapId="268442355">
-<area id="1879109908" name="岩石基座"/>
-<area id="1879109909" name="暗影洞穴"/>
-</parchmentMap>
-<parchmentMap id="268442330" name="洛丝萝林" region="2" parentMapId="268453619">
-<area id="1879109910" name="南杜希里昂（Nanduhirion）"/>
-<area id="1879109911" name="陶尔·希斯（Taur Hith）"/>
-<area id="1879109912" name="埃林拉尔（Eryn Laer）"/>
-<area id="1879109913" name="盖利尔多（Gelirdor）"/>
-<area id="1879109914" name="奇林恩加拉德（Cirin-en-Galadh）"/>
-<area id="1879109915" name="南埃尔布兰（Nan Celebrant）"/>
-<area id="1879109916" name="埃格拉迪尔（Egladil）"/>
-<area id="1879112702" name="宁若黛尔(Nimrodel)"/>
-<area id="1879150298" name="法努伊霍尔（Fanuidhol）"/>
-</parchmentMap>
-<parchmentMap id="268443779" name="卡拉斯加拉东(Caras Galadhon)" region="2" parentMapId="268442330">
-<area id="1879112703" name="卡拉斯加拉东(Caras Galadhon)"/>
-</parchmentMap>
-<parchmentMap id="268450901" name="刚铎" region="3" parentMapId="268437554" questGuideDisabled="true"/>
-<parchmentMap id="268450720" name="西刚铎" region="3" parentMapId="268450901"/>
-<parchmentMap id="268452083" name="贝尔法拉斯角" region="3" parentMapId="268450720">
-<area id="1879338115" name="贝尔法拉斯海角"/>
-</parchmentMap>
-<parchmentMap id="268451783" name="贝尔法拉斯角家园" region="3" parentMapId="268452083">
-<area id="1879338084" name="贝尔法拉斯海角"/>
-</parchmentMap>
-<parchmentMap id="268450778" name="贝尔法拉斯避风港" region="3" parentMapId="268450720">
-<area id="1879305739" name="贝尔法拉斯的避风港"/>
-</parchmentMap>
-<parchmentMap id="268450763" name="多阿姆洛斯(Dol Amroth)" region="3" parentMapId="268450778">
-<area id="1879305736" name="多阿姆洛斯"/>
-</parchmentMap>
-<parchmentMap id="268450757" name="亡者之路(Paths of the Dead)" region="3" parentMapId="268450720">
-<area id="1879305818" name="亡者之路"/>
-</parchmentMap>
-<parchmentMap id="268450788" name="黑根谷" region="3" parentMapId="268450720">
-<area id="1879305741" name="黑根谷"/>
-<area id="1879309875" name="塔朗的王冠"/>
-<area id="1879305738" name="塔朗的脖颈"/>
-</parchmentMap>
-<parchmentMap id="268450793" name="拉梅顿(Lamedon)" region="3" parentMapId="268450720">
-<area id="1879305737" name="拉梅顿（Lamedon）"/>
-</parchmentMap>
-<parchmentMap id="268450864" name="死亡沼泽(Dead Marshes)" region="3" parentMapId="268450901">
-<area id="1879314941" name="死亡沼泽"/>
-</parchmentMap>
-<parchmentMap id="268450882" name="中刚铎" region="3" parentMapId="268450901"/>
-<parchmentMap id="268450888" name="多尔恩厄尼尔(Dor-en-Ernil)" region="3" parentMapId="268450882">
-<area id="1879314983" name="多尔-恩-埃尔尼尔（Dor-en-Ernil）"/>
-</parchmentMap>
-<parchmentMap id="268450890" name="莱本宁(Lebennin)" region="3" parentMapId="268450882">
-<area id="1879314984" name="下莱本宁（Lower Lebennin）"/>
-</parchmentMap>
-<parchmentMap id="268450892" name="佩拉基尔(Pelargir)" region="3" parentMapId="268450890">
-<area id="1879314982" name="佩拉基尔"/>
+<parchmentMap id="268437554" name="Middle-earth" region="0" questGuideDisabled="true"/>
+<parchmentMap id="268437557" name="Eriador" region="1" parentMapId="268437554" questGuideDisabled="true"/>
+<parchmentMap id="268437576" name="Ered Luin" region="1" parentMapId="268437557">
+<area id="1879063921" name="Vale of Thrain"/>
+<area id="1879063922" name="Low Lands"/>
+<area id="1879063923" name="Haudh Lin"/>
+<area id="1879063924" name="Falathlorn"/>
+<area id="1879063925" name="Sarnúr"/>
+<area id="1879063926" name="Rath Teraig"/>
+<area id="1879063928" name="Falathlorn"/>
+<area id="1879063929" name="Celondim"/>
+<area id="1879063930" name="Limael's Vineyard"/>
+<area id="1879063931" name="Kheledûl"/>
+<area id="1879206150" name="Low Lands"/>
+</parchmentMap>
+<parchmentMap id="268440613" name="Thorin's Hall Homesteads" region="1" parentMapId="268437576">
+<area id="1879098354" name="Thorin's Hall Homesteads"/>
+</parchmentMap>
+<parchmentMap id="268437722" name="Thorin's Gate" region="1" parentMapId="268437576">
+<area id="1879063932" name="Thorin's Gate"/>
+<area id="1879063927" name="Refuge of Edhelion"/>
+<area id="1879191198" name="Thorin's Hall"/>
+</parchmentMap>
+<parchmentMap id="268440591" name="Falathlorn Homesteads" region="1" parentMapId="268437576">
+<area id="1879098736" name="Falathlorn Homesteads"/>
+</parchmentMap>
+<parchmentMap id="268437592" name="Trollshaws" region="1" parentMapId="268437557">
+<area id="1879063933" name="South Trollshaws"/>
+<area id="1879063934" name="North Trollshaws"/>
+<area id="1879063935" name="Bruinen Gorges"/>
+<area id="1879063936" name="High Moor"/>
+<area id="1879063937" name="Nan Tornaeth"/>
+<area id="1879063938" name="Giant Valley"/>
+<area id="1879094891" name="Tâl Bruinen"/>
+</parchmentMap>
+<parchmentMap id="268437713" name="Rivendell" region="1" parentMapId="268437592">
+<area id="1879063939" name="Rivendell Valley"/>
+</parchmentMap>
+<parchmentMap id="268455133" name="Rivendell Steadings" region="1" parentMapId="268437713">
+<area id="1879501361" name="Rivendell Steadings"/>
+</parchmentMap>
+<parchmentMap id="268453878" name="The Angle of Mitheithel" region="1" parentMapId="268437592">
+<area id="1879439521" name="The Angle of Mitheithel"/>
+</parchmentMap>
+<parchmentMap id="268437691" name="Misty Mountains" region="1" parentMapId="268437557">
+<area id="1879063940" name="Misty Mountains"/>
+<area id="1879063941" name="Bruinen Source West"/>
+<area id="1879063942" name="Bruinen Source North"/>
+<area id="1879063943" name="Bruinen Source East"/>
+<area id="1879063944" name="High Crag"/>
+<area id="1879063945" name="Giant Halls"/>
+<area id="1879063946" name="Helegrod"/>
+<area id="1879094892" name="Northern High Pass"/>
+<area id="1879094893" name="Southern High Pass"/>
+<area id="1879094894" name="Goblin-town"/>
+</parchmentMap>
+<parchmentMap id="268437603" name="Lone-Lands" region="1" parentMapId="268437557">
+<area id="1879063947" name="Annunlos"/>
+<area id="1879063948" name="The Weather Hills"/>
+<area id="1879063949" name="Nain Enidh"/>
+<area id="1879063950" name="Talath Gaun"/>
+<area id="1879063951" name="Harloeg"/>
+<area id="1879063952" name="Agamaur"/>
+<area id="1879063953" name="Haragmar"/>
+<area id="1879063954" name="Talath Gaun"/>
+<area id="1879063955" name="Garth Agarwen"/>
+<area id="1879063956" name="Minas Eriol"/>
+<area id="1879191196" name="Forsaken Inn"/>
+</parchmentMap>
+<parchmentMap id="268437615" name="Angmar" region="1" parentMapId="268437557">
+<area id="1879063957" name="Ram Dúath"/>
+<area id="1879063958" name="Western Foothills"/>
+<area id="1879063959" name="Western Malenhad"/>
+<area id="1879063960" name="Snowcapped Hills"/>
+<area id="1879063961" name="Carn Dûm"/>
+<area id="1879063962" name="Fasach-falroid"/>
+<area id="1879063963" name="Fasach-larran"/>
+<area id="1879063964" name="Eastern Malenhad"/>
+<area id="1879063965" name="Imlad Balchorth"/>
+<area id="1879063966" name="Himbar"/>
+<area id="1879063967" name="Nan Gurth"/>
+<area id="1879051236" name="Gorothlad"/>
+<area id="1879063968" name="Urugarth"/>
+<area id="1879063969" name="Duvuinen"/>
+<area id="1879063970" name="Maethad"/>
+<area id="1879063971" name="Rhunendin"/>
+<area id="1879093998" name="The Rift of Nûrz Ghâshu"/>
+<area id="1879103883" name="Aughaire"/>
+</parchmentMap>
+<parchmentMap id="268454115" name="Carn Dûm, Angmar Reborn" region="1" parentMapId="268437615">
+<area id="1879457088" name="Ephel Angren"/>
+<area id="1879453095" name="Carn Dûm"/>
+</parchmentMap>
+<parchmentMap id="268437634" name="North Downs" region="1" parentMapId="268437557">
+<area id="1879063972" name="Trestlebridge"/>
+<area id="1879063973" name="Greenway"/>
+<area id="1879063974" name="Fields of Fornost"/>
+<area id="1879063975" name="Nan Wathren"/>
+<area id="1879063976" name="Deadmen's Dike"/>
+<area id="1879063977" name="Nan Amlug West"/>
+<area id="1879063978" name="Kingsfell"/>
+<area id="1879063979" name="Meluinen"/>
+<area id="1879063980" name="Nan Amlug East"/>
+<area id="1879063981" name="Rhunenlad"/>
+<area id="1879063982" name="Dol Dínen"/>
+<area id="1879063983" name="Annúndir"/>
+<area id="1879063984" name="Gosgenethad"/>
+<area id="1879063985" name="Barad Gost"/>
+<area id="1879063986" name="Fornost"/>
+<area id="1879063987" name="Esteldín"/>
+<area id="1879063988" name="Taur Gonwaith"/>
+<area id="1879206000" name="Stoneheight"/>
+</parchmentMap>
+<parchmentMap id="268437700" name="Ettenmoors" region="1" parentMapId="268437557">
+<area id="1879063989" name="Hoardale"/>
+<area id="1879063990" name="Arador's End"/>
+<area id="1879063991" name="Steps of Gram"/>
+<area id="1879063992" name="Coldfells"/>
+<area id="1879063993" name="Hithlad"/>
+<area id="1879158613" name="Glân Vraig"/>
+<area id="1879158614" name="Gramsfoot"/>
+<area id="1879506292" name="Tírith Rhaw"/>
+<area id="1879506290" name="Lugazag"/>
+<area id="1879506291" name="Tol Ascarnen"/>
+</parchmentMap>
+<parchmentMap id="268439511" name="Evendim" region="1" parentMapId="268437557">
+<area id="1879086555" name="Bullroarer's Sward"/>
+<area id="1879086544" name="Barandalf"/>
+<area id="1879086553" name="Parth Aduial"/>
+<area id="1879086552" name="Tyrn Fornech"/>
+<area id="1879086551" name="Southern Emyn Uial"/>
+<area id="1879086554" name="Northern Emyn Uial"/>
+<area id="1879086547" name="Men Erain"/>
+<area id="1879086550" name="Tyl Ruinen"/>
+<area id="1879086556" name="Tyl Aegonn"/>
+<area id="1879086549" name="Lake Evendim"/>
+</parchmentMap>
+<parchmentMap id="268441764" name="Annúminas" region="1" parentMapId="268439511">
+<area id="1879086548" name="Tyl Annûn"/>
+<area id="1879086546" name="Annúminas"/>
+</parchmentMap>
+<parchmentMap id="268446977" name="Dunland Overview" region="1" parentMapId="268437557"/>
+<parchmentMap id="268447030" name="Dunland" region="1" parentMapId="268446977">
+<area id="1879192015" name="Trum Dreng"/>
+<area id="1879192014" name="Bonevales"/>
+<area id="1879192016" name="Pren Gwydh"/>
+<area id="1879201774" name="Starkmoor"/>
+<area id="1879192020" name="Carreglyn"/>
+<area id="1879192017" name="Gravenwood"/>
+<area id="1879214905" name="South Gravenwood"/>
+<area id="1879192019" name="Dunbog"/>
+<area id="1879210266" name="The Withered Stones"/>
+<area id="1879218904" name="Cors Avanc"/>
+<area id="1879218902" name="Lhan Colvarn"/>
+<area id="1879221596" name="Lhan Rhos"/>
+<area id="1879218903" name="The Pristine Glade"/>
+</parchmentMap>
+<parchmentMap id="268446984" name="Galtrev" region="1" parentMapId="268447030">
+<area id="1879218506" name="Galtrev"/>
+</parchmentMap>
+<parchmentMap id="268447169" name="Tâl Methedras" region="1" parentMapId="268447030">
+<area id="1879201776" name="Tâl Methedras"/>
+</parchmentMap>
+<parchmentMap id="268447051" name="Gap of Rohan" region="1" parentMapId="268446977">
+<area id="1879214904" name="Wulf's Cleft"/>
+<area id="1879201773" name="Heathfells"/>
+<area id="1879201775" name="Isendale"/>
+</parchmentMap>
+<parchmentMap id="268447589" name="The Pit of Iron" region="1" parentMapId="268447051">
+<area id="1879208109" name="Pit of Iron"/>
+</parchmentMap>
+<parchmentMap id="268447045" name="Nan Curunír" region="1" parentMapId="268446977">
+<area id="1879201772" name="Nan Curunír"/>
+</parchmentMap>
+<parchmentMap id="268446985" name="Isengard" region="1" parentMapId="268447045">
+<area id="1879197005" name="Isengard"/>
+</parchmentMap>
+<parchmentMap id="268447022" name="Isengard Depths" region="1" parentMapId="268447045">
+<area id="1879211470" name="Isengard Depths"/>
+</parchmentMap>
+<parchmentMap id="268447023" name="Ring of Isengard" region="1" parentMapId="268447045">
+<area id="1879217974" name="Isengard"/>
+</parchmentMap>
+<parchmentMap id="268437653" name="Bree-land" region="1" parentMapId="268437557">
+<area id="1879063994" name="Buckland"/>
+<area id="1879063995" name="Northern Bree-fields"/>
+<area id="1879078401" name="Southern Bree-fields"/>
+<area id="1879063997" name="Chetwood"/>
+<area id="1879064000" name="The Midgewater Marshes"/>
+<area id="1879064001" name="Andrath"/>
+<area id="1879064002" name="Brandy Hills"/>
+<area id="1879064003" name="The Brandywood"/>
+<area id="1879064004" name="Starmere Lake"/>
+<area id="1879064005" name="The Bleakbluffs"/>
+<area id="1879064006" name="Eastern Bree-fields"/>
+<area id="1879064007" name="Far Chetwood"/>
+<area id="1879064008" name="Hengstacer Farm"/>
+<area id="1879305572" name="The Horsefields"/>
+<area id="1879064009" name="The Horsefields"/>
+<area id="1879064010" name="Nen Harn"/>
+<area id="1879064011" name="Weather Hills"/>
+<area id="1879064012" name="Combe"/>
+<area id="1879064013" name="Staddle"/>
+<area id="1879451122" name="Brandywine River"/>
+</parchmentMap>
+<parchmentMap id="268437716" name="Bree" region="1" parentMapId="268437653">
+<area id="1879064015" name="Bree"/>
+</parchmentMap>
+<parchmentMap id="268437719" name="Archet" region="1" parentMapId="268437653">
+<area id="1879064014" name="Archet"/>
+</parchmentMap>
+<parchmentMap id="268441569" name="The Old Forest" region="1" parentMapId="268437653">
+<area id="1879063996" name="Old Forest"/>
+</parchmentMap>
+<parchmentMap id="268445611" name="Frostbluff" region="1" parentMapId="268437653">
+<area id="1879196939" name="Frostbluff"/>
+</parchmentMap>
+<parchmentMap id="268445087" name="Northern Barrow-downs" region="1" parentMapId="268437653">
+<area id="1879063998" name="Northern Barrow-downs"/>
+</parchmentMap>
+<parchmentMap id="268445092" name="Southern Barrow-downs" region="1" parentMapId="268437653">
+<area id="1879063999" name="Southern Barrow-downs"/>
+</parchmentMap>
+<parchmentMap id="268453543" name="The Wildwood of Bree-land" region="1" parentMapId="268437653">
+<area id="1879398374" name="The Wildwood"/>
+</parchmentMap>
+<parchmentMap id="268440603" name="Bree-land Homesteads" region="1" parentMapId="268437653">
+<area id="1879098738" name="Bree-land Homesteads"/>
+</parchmentMap>
+<parchmentMap id="268437678" name="The Shire" region="1" parentMapId="268437557">
+<area id="1879064016" name="The Delving Fields"/>
+<area id="1879064017" name="Hobbiton-Bywater"/>
+<area id="1879064018" name="Tookland"/>
+<area id="1879064019" name="The Marish"/>
+<area id="1879064020" name="Green Hill Country"/>
+<area id="1879064021" name="Rushock Bog"/>
+<area id="1879064022" name="Bindbole Wood"/>
+<area id="1879064023" name="Greenfields"/>
+<area id="1879064024" name="Bridgefields"/>
+<area id="1879064025" name="The Marish"/>
+<area id="1879064026" name="The Hill"/>
+<area id="1879064027" name="North Bridgefields"/>
+<area id="1879223034" name="Sandson's Farm"/>
+<area id="1879223642" name="The Marish"/>
+</parchmentMap>
+<parchmentMap id="268440610" name="Shire Homesteads" region="1" parentMapId="268437678">
+<area id="1879098737" name="Shire Homesteads"/>
+</parchmentMap>
+<parchmentMap id="268441431" name="Forochel" region="1" parentMapId="268437557">
+<area id="1879106470" name="Jä-kuru"/>
+<area id="1879102448" name="Talvi-mûri"/>
+<area id="1879102449" name="Jä-rannit"/>
+<area id="1879102450" name="Itä-mâ"/>
+<area id="1879102451" name="Länsi-mâ"/>
+<area id="1879102452" name="Taur Orthon"/>
+<area id="1879184396" name="Kolo-hampât"/>
+</parchmentMap>
+<parchmentMap id="268444443" name="Enedwaith" region="1" parentMapId="268437557">
+<area id="1879181894" name="Nan Laeglin"/>
+<area id="1879181895" name="Fordirith"/>
+<area id="1879181897" name="Windfells"/>
+<area id="1879181896" name="Gloomglens"/>
+<area id="1879181891" name="Mournshaws"/>
+<area id="1879181893" name="Lich Bluffs"/>
+<area id="1879181892" name="Thrór's Coomb"/>
+</parchmentMap>
+<parchmentMap id="268442268" name="Eregion" region="1" parentMapId="268437557">
+<area id="1879106662" name="Pend Eregion"/>
+<area id="1879106663" name="Glâd Ereg"/>
+<area id="1879106664" name="High Hollin"/>
+<area id="1879106665" name="Low Hollin"/>
+<area id="1879106666" name="Tâl Caradhras"/>
+<area id="1879106667" name="Redhorn Gate"/>
+<area id="1879106668" name="Nan Sirannon"/>
+<area id="1879106670" name="Emyn Naer"/>
+<area id="1879106671" name="Mirobel"/>
+<area id="1879106672" name="Tham Mírdain"/>
+</parchmentMap>
+<parchmentMap id="268442326" name="The Walls of Moria" region="1" parentMapId="268442268">
+<area id="1879106669" name="Walls of Moria"/>
+</parchmentMap>
+<parchmentMap id="268453922" name="Yondershire" region="1" parentMapId="268437557">
+<area id="1879442885" name="Yondershire"/>
+<area id="1879442888" name="Foxden Heath"/>
+<area id="1879442890" name="North Moors"/>
+<area id="1879442880" name="The Old Links"/>
+</parchmentMap>
+<parchmentMap id="268453997" name="Swanfleet" region="1" parentMapId="268437557">
+<area id="1879445915" name="Caras Gelebren"/>
+<area id="1879445914" name="Wadewater"/>
+<area id="1879445918" name="Stoor-vales"/>
+<area id="1879445917" name="Western Old South Road"/>
+<area id="1879452904" name="Eastern Old South Road"/>
+<area id="1879445916" name="Western Eregion"/>
+</parchmentMap>
+<parchmentMap id="268454010" name="Mossward" region="1" parentMapId="268453997">
+<area id="1879449484" name="Mossward"/>
+</parchmentMap>
+<parchmentMap id="268454004" name="Cardolan" region="1" parentMapId="268437557">
+<area id="1879445909" name="Southern Andrath"/>
+<area id="1879449384" name="Sarch Vorn"/>
+<area id="1879445910" name="Southern Old Forest"/>
+<area id="1879445911" name="Ruddymore"/>
+<area id="1879445912" name="Sedgemead"/>
+<area id="1879445907" name="South Downs"/>
+<area id="1879445913" name="Tharbad"/>
+<area id="1879445908" name="Tyrn Gorthad"/>
+</parchmentMap>
+<parchmentMap id="268453619" name="Rhovanion" region="2" parentMapId="268437554" questGuideDisabled="true"/>
+<parchmentMap id="268452526" name="Northern Mirkwood" region="2" parentMapId="268453619">
+<area id="1879362291" name="Torech Emel"/>
+<area id="1879362296" name="Lake-town"/>
+<area id="1879362295" name="Eryn Lasgalen"/>
+<area id="1879362292" name="The Dale-lands"/>
+<area id="1879362293" name="Dale"/>
+<area id="1879362284" name="Caras Tilion"/>
+<area id="1879366956" name="Long Lake"/>
+</parchmentMap>
+<parchmentMap id="268452525" name="Felegoth" region="2" parentMapId="268452526">
+<area id="1879362297" name="Felegoth"/>
+</parchmentMap>
+<parchmentMap id="268452663" name="Erebor" region="2" parentMapId="268452526">
+<area id="1879362287" name="Erebor"/>
+<area id="1879375475" name="The New-lodes of Narathâk"/>
+<area id="1879375474" name="Tumnu-dûm, the Dwelling-halls"/>
+</parchmentMap>
+<parchmentMap id="268453867" name="Erebor Homesteads" region="2" parentMapId="268452663">
+<area id="1879439947" name="Abodes of Erebor"/>
+</parchmentMap>
+<parchmentMap id="268453023" name="Vales of Anduin" region="2" parentMapId="268453619">
+<area id="1879387598" name="Avabárg"/>
+<area id="1879384448" name="Beorninglands"/>
+<area id="1879384446" name="Gladden Fields"/>
+<area id="1879387796" name="Gladdenmere"/>
+<area id="1879384444" name="Laerlad"/>
+<area id="1879384449" name="Rhosgobel"/>
+<area id="1879384456" name="Wolf-denes"/>
+<area id="1879384447" name="Woodsedge"/>
+<area id="1879384450" name="Duskenvale"/>
+</parchmentMap>
+<parchmentMap id="268450898" name="Grimbeorn's House" region="2" parentMapId="268453023">
+<area id="1879315609" name="Meadhollow"/>
+</parchmentMap>
+<parchmentMap id="268453454" name="Wells of Langflood" region="2" parentMapId="268453619">
+<area id="1879400521" name="Floodfells"/>
+<area id="1879400532" name="Gundabad"/>
+<area id="1879400537" name="Misthallow"/>
+</parchmentMap>
+<parchmentMap id="268454188" name="Lyndelby Homesteads" region="2" parentMapId="268453454">
+<area id="1879457229" name="Lyndelby Homesteads"/>
+</parchmentMap>
+<parchmentMap id="268453519" name="Elderslade: War of Three Peaks" region="2" parentMapId="268453619">
+<area id="1879407741" name="The War of Three Peaks"/>
+</parchmentMap>
+<parchmentMap id="268452631" name="Ered Mithrin" region="2" parentMapId="268453619">
+<area id="1879368366" name="Ered Mithrin"/>
+<area id="1879368349" name="Stormwall"/>
+<area id="1879368367" name="The Withered Heath"/>
+</parchmentMap>
+<parchmentMap id="268452655" name="Steel Keep" region="2" parentMapId="268452631">
+<area id="1879368362" name="Thikil-gundu, the Steel Keep"/>
+</parchmentMap>
+<parchmentMap id="268452659" name="Glimmerdeep" region="2" parentMapId="268452631">
+<area id="1879368334" name="Glimmerdeep"/>
+</parchmentMap>
+<parchmentMap id="268452717" name="The Anvil of Winterstith" region="2" parentMapId="268452631">
+<area id="1879368345" name="The Anvil"/>
+</parchmentMap>
+<parchmentMap id="268452634" name="Iron Hills" region="2" parentMapId="268453619">
+<area id="1879368364" name="The Ironfold"/>
+<area id="1879368360" name="Hammerstead"/>
+<area id="1879368338" name="Járnfast"/>
+</parchmentMap>
+<parchmentMap id="268443855" name="Mirkwood" region="2" parentMapId="268453619">
+<area id="1879152193" name="Mirk-eaves"/>
+<area id="1879152194" name="The Dourstocks"/>
+<area id="1879152195" name="The Drownholt"/>
+<area id="1879152196" name="Emyn Lûm"/>
+<area id="1879192400" name="Emyn Lûm"/>
+<area id="1879152197" name="The Scuttledells"/>
+<area id="1879152198" name="Taur Morvith"/>
+<area id="1879152199" name="Gathbúrz"/>
+<area id="1879152200" name="Ashenslades"/>
+<area id="1879152201" name="Dol Guldur"/>
+</parchmentMap>
+<parchmentMap id="268452558" name="Dol Guldur (razed)" region="2" parentMapId="268453619">
+<area id="1879366212" name="Dol Guldur"/>
+</parchmentMap>
+<parchmentMap id="268453641" name="Gundabad" region="2" parentMapId="268453619">
+<area id="1879426395" name="Dhúrstrok"/>
+<area id="1879416388" name="High Above Gundabad"/>
+</parchmentMap>
+<parchmentMap id="268453653" name="Delvings of Gundabad" region="2" parentMapId="268453641">
+<area id="1879416090" name="Deep Beneath Gundabad"/>
+</parchmentMap>
+<parchmentMap id="268453656" name="Clovengap" region="2" parentMapId="268453653">
+<area id="1879410821" name="Clovengap"/>
+</parchmentMap>
+<parchmentMap id="268453669" name="Gloomingtarn" region="2" parentMapId="268453653">
+<area id="1879410820" name="Gloomingtarn"/>
+</parchmentMap>
+<parchmentMap id="268453670" name="Deepscrave" region="2" parentMapId="268453653">
+<area id="1879410818" name="Deepscrave"/>
+</parchmentMap>
+<parchmentMap id="268453671" name="Máttugard" region="2" parentMapId="268453653">
+<area id="1879410817" name="Máttugard"/>
+</parchmentMap>
+<parchmentMap id="268453673" name="Pit of Stonejaws" region="2" parentMapId="268453653">
+<area id="1879410819" name="Pit of Stonejaws"/>
+</parchmentMap>
+<parchmentMap id="268453645" name="Welkin-lofts" region="2" parentMapId="268453641">
+<area id="1879410822" name="Welkin-lofts"/>
+</parchmentMap>
+<parchmentMap id="268453516" name="Elderslade" region="2" parentMapId="268453641">
+<area id="1879400512" name="Elderslade"/>
+</parchmentMap>
+<parchmentMap id="268453649" name="Câr Bronach" region="2" parentMapId="268453641">
+<area id="1879410823" name="Câr Bronach"/>
+</parchmentMap>
+<parchmentMap id="268453555" name="Azanulbizar, T.A. 2799" region="14" parentMapId="268453619">
+<area id="1879413511" name="Azanulbizar, T.A. 2799"/>
+</parchmentMap>
+<parchmentMap id="268453582" name="Nud-melek T.A. 1981" region="14" parentMapId="268453619">
+<area id="1879416304" name="Nud-melek, T.A. 1981"/>
+</parchmentMap>
+<parchmentMap id="268442355" name="Moria" region="2" parentMapId="268453619"/>
+<parchmentMap id="268442350" name="Zirakzigil" region="2" parentMapId="268442355">
+<area id="1879109899" name="Zirakzigil"/>
+</parchmentMap>
+<parchmentMap id="268442349" name="Durin's Way" region="2" parentMapId="268442355">
+<area id="1879109900" name="Durin's Way"/>
+<area id="1879144909" name="The Fanged Pit"/>
+</parchmentMap>
+<parchmentMap id="268442348" name="The Great Delving" region="2" parentMapId="268442355">
+<area id="1879109901" name="The Great Delving"/>
+</parchmentMap>
+<parchmentMap id="268442463" name="The Grand Stair" region="2" parentMapId="268442355">
+<area id="1879117705" name="The Grand Stair"/>
+</parchmentMap>
+<parchmentMap id="268442347" name="Zelem-melek" region="2" parentMapId="268442355">
+<area id="1879109902" name="Zelem-melek"/>
+<area id="1879191197" name="The Twenty-first Hall"/>
+</parchmentMap>
+<parchmentMap id="268442346" name="Nud-melek" region="2" parentMapId="268442355">
+<area id="1879109903" name="Nud-melek"/>
+</parchmentMap>
+<parchmentMap id="268442345" name="Silvertine Lodes" region="2" parentMapId="268442355">
+<area id="1879109904" name="Silvertine Lodes"/>
+</parchmentMap>
+<parchmentMap id="268442344" name="Redhorn Lodes" region="2" parentMapId="268442355">
+<area id="1879109905" name="Redhorn Lodes"/>
+<area id="1879256642" name="Redhorn Lodes - Grodbog Hive"/>
+</parchmentMap>
+<parchmentMap id="268442343" name="The Water-works" region="2" parentMapId="268442355">
+<area id="1879109906" name="The Water-works"/>
+</parchmentMap>
+<parchmentMap id="268442342" name="The Flaming Deeps" region="2" parentMapId="268442355">
+<area id="1879109907" name="The Flaming Deeps"/>
+</parchmentMap>
+<parchmentMap id="268442341" name="Foundations of Stone" region="2" parentMapId="268442355">
+<area id="1879109908" name="The Foundations of Stone"/>
+<area id="1879109909" name="The Shadowed Cave"/>
+</parchmentMap>
+<parchmentMap id="268442330" name="Lothlórien" region="2" parentMapId="268453619">
+<area id="1879109910" name="Nanduhirion"/>
+<area id="1879109911" name="Taur Hith"/>
+<area id="1879109912" name="Eryn Laer"/>
+<area id="1879109913" name="Gelirdor"/>
+<area id="1879109914" name="Cirin-en-Galadh"/>
+<area id="1879109915" name="Nan Celebrant"/>
+<area id="1879109916" name="Egladil"/>
+<area id="1879112702" name="Nimrodel"/>
+<area id="1879150298" name="Fanuidhol"/>
+</parchmentMap>
+<parchmentMap id="268443779" name="Caras Galadhon" region="2" parentMapId="268442330">
+<area id="1879112703" name="Caras Galadhon"/>
+</parchmentMap>
+<parchmentMap id="268450901" name="Gondor" region="3" parentMapId="268437554" questGuideDisabled="true"/>
+<parchmentMap id="268450720" name="Western Gondor" region="3" parentMapId="268450901"/>
+<parchmentMap id="268452083" name="Cape of Belfalas" region="3" parentMapId="268450720">
+<area id="1879338115" name="The Cape of Belfalas"/>
+</parchmentMap>
+<parchmentMap id="268451783" name="Cape of Belfalas Homesteads" region="3" parentMapId="268452083">
+<area id="1879338084" name="The Cape of Belfalas"/>
+</parchmentMap>
+<parchmentMap id="268450778" name="Havens of Belfalas" region="3" parentMapId="268450720">
+<area id="1879305739" name="The Havens of Belfalas"/>
+</parchmentMap>
+<parchmentMap id="268450763" name="Dol Amroth" region="3" parentMapId="268450778">
+<area id="1879305736" name="Dol Amroth"/>
+</parchmentMap>
+<parchmentMap id="268450757" name="Paths of the Dead" region="3" parentMapId="268450720">
+<area id="1879305818" name="The Paths of the Dead"/>
+</parchmentMap>
+<parchmentMap id="268450788" name="Blackroot Vale" region="3" parentMapId="268450720">
+<area id="1879305741" name="Blackroot Vale"/>
+<area id="1879309875" name="Tarlang's Crown"/>
+<area id="1879305738" name="Tarlang's Neck"/>
+</parchmentMap>
+<parchmentMap id="268450793" name="Lamedon" region="3" parentMapId="268450720">
+<area id="1879305737" name="Lamedon"/>
+</parchmentMap>
+<parchmentMap id="268450864" name="Dead Marshes" region="3" parentMapId="268450901">
+<area id="1879314941" name="The Dead Marshes"/>
+</parchmentMap>
+<parchmentMap id="268450882" name="Central Gondor" region="3" parentMapId="268450901"/>
+<parchmentMap id="268450888" name="Dor-en-Ernil" region="3" parentMapId="268450882">
+<area id="1879314983" name="Dor-en-Ernil"/>
+</parchmentMap>
+<parchmentMap id="268450890" name="Lebennin" region="3" parentMapId="268450882">
+<area id="1879314984" name="Lower Lebennin"/>
+</parchmentMap>
+<parchmentMap id="268450892" name="Pelargir" region="3" parentMapId="268450890">
+<area id="1879314982" name="Pelargir"/>
 </parchmentMap>
 <parchmentMap id="268450899" name="" region="3" parentMapId="268450890">
-<area id="1879315997" name="佩拉基尔"/>
+<area id="1879315997" name="Pelargir"/>
 </parchmentMap>
-<parchmentMap id="268450894" name="Ringló谷" region="3" parentMapId="268450882">
-<area id="1879314985" name="林洛河谷（Ringló Vale）"/>
+<parchmentMap id="268450894" name="Ringló Vale" region="3" parentMapId="268450882">
+<area id="1879314985" name="Ringló Vale"/>
 </parchmentMap>
-<parchmentMap id="268450932" name="东刚铎" region="3" parentMapId="268450901"/>
-<parchmentMap id="268450940" name="上莱本宁" region="3" parentMapId="268450932">
-<area id="1879320843" name="上莱本宁"/>
+<parchmentMap id="268450932" name="Eastern Gondor" region="3" parentMapId="268450901"/>
+<parchmentMap id="268450940" name="Upper Lebennin" region="3" parentMapId="268450932">
+<area id="1879320843" name="Upper Lebennin"/>
 </parchmentMap>
-<parchmentMap id="268450942" name="洛萨恩纳赫(Lossarnach)" region="3" parentMapId="268450932">
-<area id="1879320841" name="洛萨那赫（Lossarnach）"/>
+<parchmentMap id="268450942" name="Lossarnach" region="3" parentMapId="268450932">
+<area id="1879320841" name="Lossarnach"/>
 </parchmentMap>
-<parchmentMap id="268450944" name="南伊希利恩" region="3" parentMapId="268450932">
-<area id="1879320842" name="南伊希利恩（South Ithilien）"/>
+<parchmentMap id="268450944" name="South Ithilien" region="3" parentMapId="268450932">
+<area id="1879320842" name="South Ithilien"/>
 </parchmentMap>
-<parchmentMap id="268450946" name="奥斯吉力亚斯" region="3" parentMapId="268450944">
-<area id="1879320844" name="奥斯吉力亚斯"/>
+<parchmentMap id="268450946" name="Osgiliath" region="3" parentMapId="268450944">
+<area id="1879320844" name="Osgiliath"/>
 </parchmentMap>
 <parchmentMap id="268451023" name="" region="3" parentMapId="268450944">
-<area id="1879324341" name="奥斯吉力亚斯"/>
+<area id="1879324341" name="Osgiliath"/>
 </parchmentMap>
 <parchmentMap id="268451074" name="" region="3" parentMapId="268450944">
-<area id="1879325520" name="奥斯吉力亚斯的分裂"/>
-<area id="1879325519" name="堤道堡垒"/>
-<area id="1879325518" name="达杜戈斯（Dâr Dugoth）"/>
+<area id="1879325520" name="The Sundering of Osgiliath"/>
+<area id="1879325519" name="The Causeway Forts"/>
+<area id="1879325518" name="Dâr Dugoth"/>
 </parchmentMap>
-<parchmentMap id="268451115" name="旧阿诺瑞恩" region="3" parentMapId="268450901"/>
-<parchmentMap id="268451108" name="佩兰诺(Pelennor)" region="3" parentMapId="268451115">
-<area id="1879326886" name="佩兰诺（Pelennor）"/>
+<parchmentMap id="268451115" name="Old Anórien" region="3" parentMapId="268450901"/>
+<parchmentMap id="268451108" name="Pelennor" region="3" parentMapId="268451115">
+<area id="1879326886" name="Pelennor"/>
 </parchmentMap>
-<parchmentMap id="268451105" name="米那斯提力斯(Minas Tirith)" region="3" parentMapId="268451108">
-<area id="1879326884" name="米那斯提力斯"/>
+<parchmentMap id="268451105" name="Minas Tirith" region="3" parentMapId="268451108">
+<area id="1879326884" name="Minas Tirith"/>
 </parchmentMap>
 <parchmentMap id="268451154" name="" region="3" parentMapId="268451108">
-<area id="1879326888" name="米那斯提力斯围城战"/>
+<area id="1879326888" name="Minas Tirith Besieged"/>
 </parchmentMap>
 <parchmentMap id="268451156" name="" region="3" parentMapId="268451108">
-<area id="1879328091" name="被围困的米那斯提力斯"/>
+<area id="1879328091" name="Minas Tirith Besieged"/>
 </parchmentMap>
-<parchmentMap id="268453492" name="米那斯提力斯仲夏节(盛大婚礼)" region="4" parentMapId="268451108">
-<area id="1879407601" name="米那斯提力斯（仲夏）"/>
+<parchmentMap id="268453492" name="Minas Tirith Midsummer (The Great Wedding)" region="4" parentMapId="268451108">
+<area id="1879407601" name="Minas Tirith (Midsummer)"/>
 </parchmentMap>
 <parchmentMap id="268452359" name="" region="3" parentMapId="268451115">
-<area id="1879353391" name="科玛伦（Cormallen）"/>
+<area id="1879353391" name="Cormallen"/>
 </parchmentMap>
 <parchmentMap id="268451286" name="" region="3" parentMapId="268451115">
-<area id="1879331831" name="猛攻之野"/>
+<area id="1879331831" name="Field of Onslaught"/>
 </parchmentMap>
 <parchmentMap id="268451289" name="" region="3" parentMapId="268451115">
-<area id="1879331834" name="诸王终末"/>
+<area id="1879331834" name="Kings' End"/>
 </parchmentMap>
 <parchmentMap id="268451290" name="" region="3" parentMapId="268451115">
-<area id="1879331833" name="骑手之台"/>
+<area id="1879331833" name="Riders' Stand"/>
 </parchmentMap>
 <parchmentMap id="268451291" name="" region="3" parentMapId="268451115">
-<area id="1879331836" name="佩尔·杜文废墟（Ruin of Pel Dúven）"/>
+<area id="1879331836" name="Ruin of Pel Dúven"/>
 </parchmentMap>
 <parchmentMap id="268451292" name="" region="3" parentMapId="268451115">
-<area id="1879331835" name="城市的塞斯荷尔德"/>
+<area id="1879331835" name="Threshold of the City"/>
 </parchmentMap>
 <parchmentMap id="268451575" name="" region="3" parentMapId="268451115">
-<area id="1879334692" name="佩兰诺（Pelennor）"/>
+<area id="1879334692" name="Pelennor"/>
 </parchmentMap>
-<parchmentMap id="268451113" name="塔拉特 阿诺尔" region="3" parentMapId="268451115">
-<area id="1879326883" name="塔拉思阿诺尔（Talath Anor）"/>
+<parchmentMap id="268451113" name="Talath Anor" region="3" parentMapId="268451115">
+<area id="1879326883" name="Talath Anor"/>
 </parchmentMap>
-<parchmentMap id="268451272" name="远阿诺瑞恩" region="3" parentMapId="268450901"/>
-<parchmentMap id="268451268" name="德鲁阿丹森林(Taur Drúadan)" region="3" parentMapId="268451272">
-<area id="1879330412" name="陶尔·德鲁阿丹（Taur Drúadan）"/>
+<parchmentMap id="268451272" name="Far Anórien" region="3" parentMapId="268450901"/>
+<parchmentMap id="268451268" name="Taur Drúadan" region="3" parentMapId="268451272">
+<area id="1879330412" name="Taur Drúadan"/>
 </parchmentMap>
-<parchmentMap id="268451270" name="烽火山" region="3" parentMapId="268451272">
-<area id="1879330418" name="烽火丘(beacon hills)"/>
+<parchmentMap id="268451270" name="Beacon Hills" region="3" parentMapId="268451272">
+<area id="1879330418" name="Beacon Hills"/>
 </parchmentMap>
-<parchmentMap id="268454129" name="刚铎国王领" region="4" parentMapId="268450901"/>
-<parchmentMap id="268454127" name="洛萨恩纳赫(刚铎国王领)" region="4" parentMapId="268454129">
-<area id="1879456573" name="洛萨那赫（国王的刚铎）（Lossarnach (King's Gondor)）"/>
-<area id="1879462983" name="伊姆洛丝·梅卢伊（国王的刚铎）（Imloth Melui (King's Gondor)）"/>
+<parchmentMap id="268454129" name="King's Gondor" region="4" parentMapId="268450901"/>
+<parchmentMap id="268454127" name="Lossarnach (King's Gondor)" region="4" parentMapId="268454129">
+<area id="1879456573" name="Lossarnach (King's Gondor)"/>
+<area id="1879462983" name="Imloth Melui (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454138" name="下莱本宁(刚铎国王领)" region="4" parentMapId="268454129">
-<area id="1879456569" name="下莱本宁（Lower Lebennin）（国王的刚铎）"/>
-<area id="1879462984" name="莱本宁谷（刚铎王国）（Lebennin Valley (King's Gondor)）"/>
+<parchmentMap id="268454138" name="Lower Lebennin (King's Gondor)" region="4" parentMapId="268454129">
+<area id="1879456569" name="Lower Lebennin (King's Gondor)"/>
+<area id="1879462984" name="Lebennin Valley (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454137" name="上莱本宁(刚铎国王领)" region="4" parentMapId="268454129">
-<area id="1879456572" name="上莱本宁（国王的刚铎）"/>
-<area id="1879462982" name="图姆拉登（Tumladen）（刚铎王国）"/>
+<parchmentMap id="268454137" name="Upper Lebennin (King's Gondor)" region="4" parentMapId="268454129">
+<area id="1879456572" name="Upper Lebennin (King's Gondor)"/>
+<area id="1879462982" name="Tumladen (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454139" name="佩拉基尔(刚铎国王领)" region="4" parentMapId="268454129">
-<area id="1879456571" name="佩拉基尔（国王的刚铎）"/>
+<parchmentMap id="268454139" name="Pelargir (King's Gondor)" region="4" parentMapId="268454129">
+<area id="1879456571" name="Pelargir (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454233" name="刚铎国王领Ringlo谷" region="4" parentMapId="268454129">
-<area id="1879456570" name="林洛河谷（国王的刚铎）（Ringló Vale (King's Gondor)）"/>
+<parchmentMap id="268454233" name="King's Gondor Ringlo Vale" region="4" parentMapId="268454129">
+<area id="1879456570" name="Ringló Vale (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454237" name="刚铎国王领黑根谷" region="4" parentMapId="268454129">
-<area id="1879456561" name="黑根谷（国王的刚铎）"/>
-<area id="1879456566" name="塔朗的王冠（国王的刚铎）"/>
-<area id="1879456565" name="塔朗的脖颈（国王的刚铎）"/>
+<parchmentMap id="268454237" name="King's Gondor Blackroot Vale" region="4" parentMapId="268454129">
+<area id="1879456561" name="Blackroot Vale (King's Gondor)"/>
+<area id="1879456566" name="Tarlang's Crown (King's Gondor)"/>
+<area id="1879456565" name="Tarlang's Neck (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454239" name="刚铎国王领拉梅顿" region="4" parentMapId="268454129">
-<area id="1879456564" name="拉梅顿（Lamedon）（国王的刚铎）"/>
+<parchmentMap id="268454239" name="King's Gondor Lamedon" region="4" parentMapId="268454129">
+<area id="1879456564" name="Lamedon (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454242" name="刚铎国王领多尔恩厄尼尔" region="4" parentMapId="268454129">
-<area id="1879456568" name="多尔-恩-埃尔尼尔（Dor-en-Ernil）（国王的刚铎）"/>
+<parchmentMap id="268454242" name="King's Gondor Dor En Ernil" region="4" parentMapId="268454129">
+<area id="1879456568" name="Dor-en-Ernil (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454241" name="刚铎国王领贝尔法拉斯" region="4" parentMapId="268454129">
-<area id="1879456567" name="贝尔法拉斯海角（国王的刚铎）"/>
-<area id="1879466532" name="埃敏法拉斯（Emyn Falas）（刚铎王国）"/>
-<area id="1879456563" name="贝尔法拉斯避风港（国王的刚铎）"/>
+<parchmentMap id="268454241" name="King's Gondor Belfalas" region="4" parentMapId="268454129">
+<area id="1879456567" name="The Cape of Belfalas (King's Gondor)"/>
+<area id="1879466532" name="Emyn Falas (King's Gondor)"/>
+<area id="1879456563" name="The Havens of Belfalas (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454229" name="刚铎国王领多阿姆洛斯" region="4" parentMapId="268454241">
-<area id="1879456562" name="多阿姆洛斯（国王的刚铎）"/>
+<parchmentMap id="268454229" name="King's Gondor Dol Amroth" region="4" parentMapId="268454241">
+<area id="1879456562" name="Dol Amroth (King's Gondor)"/>
 </parchmentMap>
-<parchmentMap id="268454323" name="外刚铎" region="4" parentMapId="268450901">
-<area id="1879471152" name="贝尔法拉斯湾"/>
+<parchmentMap id="268454323" name="Outer Gondor" region="4" parentMapId="268450901">
+<area id="1879471152" name="The Bay of Belfalas"/>
 </parchmentMap>
-<parchmentMap id="268454314" name="安法拉斯" region="4" parentMapId="268454323">
-<area id="1879466308" name="中央安法拉斯（Central Anfalas）"/>
-<area id="1879466307" name="埃敏·特奇（Emyn Terch）"/>
-<area id="1879466300" name="辛加斯特（Thingast）"/>
+<parchmentMap id="268454314" name="Anfalas" region="4" parentMapId="268454323">
+<area id="1879466308" name="Central Anfalas"/>
+<area id="1879466307" name="Emyn Terch"/>
+<area id="1879466300" name="Thingast"/>
 </parchmentMap>
-<parchmentMap id="268454317" name="平纳思盖林(Pinnath Gelin)" region="4" parentMapId="268454323">
-<area id="1879466322" name="埃林埃图尔（Eryn Ethuil）"/>
-<area id="1879466306" name="北 pinnath gelin"/>
-<area id="1879466314" name="图姆罗斯特（Tûm Rost）"/>
+<parchmentMap id="268454317" name="Pinnath Gelin" region="4" parentMapId="268454323">
+<area id="1879466322" name="Eryn Ethuil"/>
+<area id="1879466306" name="Northern Pinnath Gelin"/>
+<area id="1879466314" name="Tûm Rost"/>
 </parchmentMap>
 <parchmentMap id="268451976" name="" region="3" parentMapId="268450901">
-<area id="1879342533" name="魔栏农之战"/>
+<area id="1879342533" name="Battle of the Morannon"/>
 </parchmentMap>
-<parchmentMap id="268453620" name="魔多" region="4" parentMapId="268437554" questGuideDisabled="true"/>
+<parchmentMap id="268453620" name="Mordor" region="4" parentMapId="268437554" questGuideDisabled="true"/>
 <parchmentMap id="268452166" name="Gorgoroth" region="4" parentMapId="268453620">
-<area id="1879341997" name="勾戈尔隘口（Cirith Gorgor）"/>
-<area id="1879341998" name="杜尔桑（Durthang）"/>
-<area id="1879341999" name="埃敏杜尔（Emyn Duir）"/>
-<area id="1879342000" name="莫达斯（Mordath）"/>
-<area id="1879342001" name="格里什巴尔特（Grishbalt）"/>
-<area id="1879342002" name="魔盖（Morgai）"/>
-<area id="1879342003" name="达思·内斯林（Dath Nethryn）"/>
-<area id="1879342004" name="昂哥立安隘口（Cirith Ungol）"/>
-<area id="1879342005" name="加什古尔姆"/>
+<area id="1879341997" name="Cirith Gorgor"/>
+<area id="1879341998" name="Durthang"/>
+<area id="1879341999" name="Emyn Duir"/>
+<area id="1879342000" name="Mordath"/>
+<area id="1879342001" name="Grishbalt"/>
+<area id="1879342002" name="Morgai"/>
+<area id="1879342003" name="Dath Nethryn"/>
+<area id="1879342004" name="Cirith Ungol"/>
+<area id="1879342005" name="Ghâshghurm"/>
 </parchmentMap>
-<parchmentMap id="268452249" name="阿加奈斯" region="4" parentMapId="268452166">
-<area id="1879338151" name="阿加奈斯（Agarnaith）"/>
-<area id="1879357944" name="莫卡尔·鲁克（Mokál Rukh）"/>
+<parchmentMap id="268452249" name="Agarnaith" region="4" parentMapId="268452166">
+<area id="1879338151" name="Agarnaith"/>
+<area id="1879357944" name="Mokál Rukh"/>
 </parchmentMap>
-<parchmentMap id="268453364" name="魔窟谷(Morgul Vale)" region="4" parentMapId="268452166">
-<area id="1879389181" name="昂哥立安隘口（Cirith Ungol）"/>
-<area id="1879394511" name="尼尔纳斯城堡，哀悼之屋"/>
-<area id="1879394512" name="图姆·莫洛斯（Tûm Morloth）"/>
-<area id="1879389182" name="拉斯杜阿思（Rath Duath）"/>
-<area id="1879389184" name="瑟林瓦斯"/>
-<area id="1879389180" name="托雷奇安格"/>
+<parchmentMap id="268453364" name="Morgul Vale" region="4" parentMapId="268452166">
+<area id="1879389181" name="Cirith Ungol"/>
+<area id="1879394511" name="Bâr Nírnaeth, the Houses of Lamentation"/>
+<area id="1879394512" name="Tûm Morloth"/>
+<area id="1879389182" name="Rath Duath"/>
+<area id="1879389184" name="Thuringwath"/>
+<area id="1879389180" name="Torech Ungol"/>
 </parchmentMap>
-<parchmentMap id="268453367" name="米那斯魔窟" region="4" parentMapId="268453364">
-<area id="1879393448" name="巴拉德安加思（Barad Angarth）"/>
-<area id="1879393446" name="巴拉德奥汉特（Barad Orhant）"/>
-<area id="1879393441" name="巴拉德埃莱纳斯（Barad Elenath）"/>
-<area id="1879393457" name="巴拉德阿瑟尔（Barad Arthir）"/>
-<area id="1879389185" name="米那斯魔窟"/>
-<area id="1879397488" name="魔窟浩劫"/>
+<parchmentMap id="268453367" name="Minas Morgul" region="4" parentMapId="268453364">
+<area id="1879393448" name="Barad Angarth"/>
+<area id="1879393446" name="Barad Orhant"/>
+<area id="1879393441" name="Barad Elenath"/>
+<area id="1879393457" name="Barad Arthir"/>
+<area id="1879389185" name="Minas Morgul"/>
+<area id="1879397488" name="The Harrowing of Morgul"/>
 </parchmentMap>
-<parchmentMap id="268453399" name="托雷克 Ungol" region="4" parentMapId="268453364">
-<area id="1879342010" name="托尔埃奇·昂戈尔"/>
+<parchmentMap id="268453399" name="Torech Ungol" region="4" parentMapId="268453364">
+<area id="1879342010" name="Torech Ungol"/>
 </parchmentMap>
-<parchmentMap id="268453438" name="希洛布的巢穴(Shelob's Lair)" region="4" parentMapId="268453364">
-<area id="1879401897" name="雷莫坎特（Remmorchant）"/>
+<parchmentMap id="268453438" name="Shelob's Lair" region="4" parentMapId="268453364">
+<area id="1879401897" name="Remmorchant"/>
 </parchmentMap>
-<parchmentMap id="268452250" name="多尔阿玛斯(Dor Amarth)" region="4" parentMapId="268452166">
-<area id="1879338150" name="多尔阿姆arth（Dor Amarth）"/>
+<parchmentMap id="268452250" name="Dor Amarth" region="4" parentMapId="268452166">
+<area id="1879338150" name="Dor Amarth"/>
 </parchmentMap>
-<parchmentMap id="268453374" name="魔多围攻战" region="4" parentMapId="268452250">
-<area id="1879391946" name="埃敏杜尔（Emyn Duir）"/>
-<area id="1879391947" name="阿兰多（Arandor）"/>
-<area id="1879389728" name="戴纳思平原（Parth Daenath）"/>
+<parchmentMap id="268453374" name="Mordor Besieged" region="4" parentMapId="268452250">
+<area id="1879391946" name="Emyn Duir"/>
+<area id="1879391947" name="Arandor"/>
+<area id="1879389728" name="Parth Daenath"/>
 </parchmentMap>
-<parchmentMap id="268452251" name="林格里斯" region="4" parentMapId="268452166">
-<area id="1879338152" name="林格里斯"/>
-<area id="1879352875" name="卡姆·拉古尔兹（Kâm Lagúrz），破碎裂谷（the Brokencleft）"/>
+<parchmentMap id="268452251" name="Lhingris" region="4" parentMapId="268452166">
+<area id="1879338152" name="Lhingris"/>
+<area id="1879352875" name="Kâm Lagúrz, the Brokencleft"/>
 </parchmentMap>
-<parchmentMap id="268452252" name="欧洛都因(Orodruin)" region="4" parentMapId="268452166">
-<area id="1879342007" name="欧洛朱因（Orodruin）"/>
-<area id="1879353392" name="万物的终结"/>
+<parchmentMap id="268452252" name="Orodruin" region="4" parentMapId="268452166">
+<area id="1879342007" name="Orodruin"/>
+<area id="1879353392" name="The End of All Things"/>
 </parchmentMap>
 <parchmentMap id="268452342" name="Sammath Naur" region="4" parentMapId="268452252">
-<area id="1879342008" name="萨马斯瑙尔（Sammath Naur）"/>
+<area id="1879342008" name="Sammath Naur"/>
 </parchmentMap>
-<parchmentMap id="268452253" name="塔拉思乌瑞(Talath Úrui)" region="4" parentMapId="268452166">
-<area id="1879341996" name="塔拉思乌瑞（Talath Úrui）"/>
+<parchmentMap id="268452253" name="Talath Úrui" region="4" parentMapId="268452166">
+<area id="1879341996" name="Talath Úrui"/>
 </parchmentMap>
-<parchmentMap id="268452343" name="纳格罗斯" region="4" parentMapId="268452253">
-<area id="1879342006" name="纳戈斯（Nargroth）"/>
+<parchmentMap id="268452343" name="Nargroth" region="4" parentMapId="268452253">
+<area id="1879342006" name="Nargroth"/>
 </parchmentMap>
-<parchmentMap id="268452254" name="乌顿" region="4" parentMapId="268452166">
-<area id="1879338148" name="乌顿（Udûn）"/>
+<parchmentMap id="268452254" name="Udûn" region="4" parentMapId="268452166">
+<area id="1879338148" name="Udûn"/>
 </parchmentMap>
-<parchmentMap id="268451973" name="荒原" region="4" parentMapId="268453620">
-<area id="1879339829" name="达戈拉德（Dagorlad）"/>
-<area id="1879346601" name="朗鲁文（Lang Rhuven）"/>
-<area id="1879314943" name="无人之地"/>
-<area id="1879339822" name="渣丘（The Slag-hills）"/>
+<parchmentMap id="268451973" name="The Wastes" region="4" parentMapId="268453620">
+<area id="1879339829" name="Dagorlad"/>
+<area id="1879346601" name="Lang Rhuven"/>
+<area id="1879314943" name="The Noman-lands"/>
+<area id="1879339822" name="The Slag-hills"/>
 </parchmentMap>
-<parchmentMap id="268452361" name="黑门(最后联盟之战)" region="4" parentMapId="268451973">
-<area id="1879349355" name="达戈拉德（Dagorlad），第二纪元3434年（S.A. 3434）"/>
+<parchmentMap id="268452361" name="Morannon (War of the Last Alliance)" region="4" parentMapId="268451973">
+<area id="1879349355" name="Dagorlad, S.A. 3434"/>
 </parchmentMap>
-<parchmentMap id="268451796" name="国王进军" region="4" parentMapId="268453620"/>
-<parchmentMap id="268451576" name="米那斯提力斯(战后)" region="4" parentMapId="268451796">
-<area id="1879334675" name="米那斯提力斯（战后）"/>
+<parchmentMap id="268451796" name="March of the King" region="4" parentMapId="268453620"/>
+<parchmentMap id="268451576" name="Minas Tirith (after battle)" region="4" parentMapId="268451796">
+<area id="1879334675" name="Minas Tirith (After-battle)"/>
 </parchmentMap>
-<parchmentMap id="268451784" name="北伊希利恩" region="4" parentMapId="268451796">
-<area id="1879334685" name="北伊希利恩"/>
+<parchmentMap id="268451784" name="North Ithilien" region="4" parentMapId="268451796">
+<area id="1879334685" name="North Ithilien"/>
 </parchmentMap>
-<parchmentMap id="268451785" name="奥斯吉力亚斯(战后)" region="4" parentMapId="268451796">
-<area id="1879334677" name="奥斯吉力亚斯（战后）"/>
+<parchmentMap id="268451785" name="Osgiliath (after battle)" region="4" parentMapId="268451796">
+<area id="1879334677" name="Osgiliath (After-battle)"/>
 </parchmentMap>
-<parchmentMap id="268451786" name="佩兰诺平原(战后)" region="4" parentMapId="268451796">
-<area id="1879334687" name="佩兰诺平原（战后）"/>
+<parchmentMap id="268451786" name="The Pelennor Fields (after battle)" region="4" parentMapId="268451796">
+<area id="1879334687" name="The Pelennor Fields (After-battle)"/>
 </parchmentMap>
-<parchmentMap id="268453621" name="洛汗(Rohan)" region="2" parentMapId="268437554" questGuideDisabled="true"/>
-<parchmentMap id="268447390" name="大河" region="2" parentMapId="268453621">
-<area id="1879222977" name="褐地"/>
-<area id="1879222978" name="林光峡谷（Limlight Gorge）"/>
-<area id="1879222976" name="塞勒布兰特平原（Parth Celebrant）"/>
-<area id="1879222975" name="拉什戈尔"/>
-<area id="1879222979" name="辛格拉德（Thinglad）"/>
-<area id="1879222973" name="哀嚎丘陵"/>
-<area id="1879222974" name="伊奥之泉（Eorlsmead）"/>
+<parchmentMap id="268453621" name="Rohan" region="2" parentMapId="268437554" questGuideDisabled="true"/>
+<parchmentMap id="268447390" name="The Great River" region="2" parentMapId="268453621">
+<area id="1879222977" name="Brown Lands"/>
+<area id="1879222978" name="Limlight Gorge"/>
+<area id="1879222976" name="Parth Celebrant"/>
+<area id="1879222975" name="The Rushgore"/>
+<area id="1879222979" name="Thinglad"/>
+<area id="1879222973" name="Wailing Hills"/>
+<area id="1879222974" name="Eorlsmead"/>
 </parchmentMap>
-<parchmentMap id="268447745" name="斯坦加德" region="2" parentMapId="268447390">
-<area id="1879232928" name="斯坦加德（Stangard）"/>
+<parchmentMap id="268447745" name="Stangard" region="2" parentMapId="268447390">
+<area id="1879232928" name="Stangard"/>
 </parchmentMap>
-<parchmentMap id="268449746" name="西洛汗：国王stead" region="2" parentMapId="268453621">
-<area id="1879256900" name="国王驻地（Kingstead）"/>
+<parchmentMap id="268449746" name="West Rohan: Kingstead" region="2" parentMapId="268453621">
+<area id="1879256900" name="Kingstead"/>
 </parchmentMap>
-<parchmentMap id="268449761" name="西洛汗：埃多拉斯(Edoras)" region="2" parentMapId="268449746">
-<area id="1879252019" name="埃多拉斯（Edoras）"/>
-<area id="1879262547" name="埃多拉斯（Edoras）"/>
+<parchmentMap id="268449761" name="West Rohan: Edoras" region="2" parentMapId="268449746">
+<area id="1879252019" name="Edoras"/>
+<area id="1879262547" name="Edoras"/>
 </parchmentMap>
-<parchmentMap id="268450628" name="恩特森林" region="2" parentMapId="268453621">
-<area id="1879256899" name="恩特森林（Entwood）"/>
+<parchmentMap id="268450628" name="Entwood" region="2" parentMapId="268453621">
+<area id="1879256899" name="Entwood"/>
 </parchmentMap>
-<parchmentMap id="268449749" name="西洛汗：Broadacres" region="2" parentMapId="268453621">
-<area id="1879256897" name="广亩原"/>
+<parchmentMap id="268449749" name="West Rohan: Broadacres" region="2" parentMapId="268453621">
+<area id="1879256897" name="Broadacres"/>
 </parchmentMap>
-<parchmentMap id="268449752" name="西洛汗：东fold" region="2" parentMapId="268453621">
-<area id="1879256898" name="东谷（Eastfold）"/>
-<area id="1879303536" name="东谷（Eastfold）"/>
+<parchmentMap id="268449752" name="West Rohan: Eastfold" region="2" parentMapId="268453621">
+<area id="1879256898" name="Eastfold"/>
+<area id="1879303536" name="Eastfold"/>
 </parchmentMap>
-<parchmentMap id="268453444" name="洛汗住房：山麓" region="2" parentMapId="268453621">
-<area id="1879399333" name="东谷丘陵（Eastfold Hills）"/>
+<parchmentMap id="268453444" name="Rohan Housing: Foothills" region="2" parentMapId="268453621">
+<area id="1879399333" name="Eastfold Hills"/>
 </parchmentMap>
-<parchmentMap id="268453445" name="洛汗住房：平原" region="2" parentMapId="268453621">
-<area id="1879399332" name="国王驻地草甸"/>
+<parchmentMap id="268453445" name="Rohan Housing: Plains" region="2" parentMapId="268453621">
+<area id="1879399332" name="Kingstead Meadows"/>
 </parchmentMap>
-<parchmentMap id="268449755" name="西洛汗：石dean" region="2" parentMapId="268453621">
-<area id="1879256895" name="斯通丁族"/>
+<parchmentMap id="268449755" name="West Rohan: Stonedeans" region="2" parentMapId="268453621">
+<area id="1879256895" name="Stonedeans"/>
 </parchmentMap>
-<parchmentMap id="268449767" name="西洛汗：海尔姆深谷(Helm's Deep)" region="2" parentMapId="268453621">
-<area id="1879272837" name="圣盔谷（Helm's Deep）"/>
+<parchmentMap id="268449767" name="West Rohan: Helm's Deep" region="2" parentMapId="268453621">
+<area id="1879272837" name="Helm's Deep"/>
 </parchmentMap>
-<parchmentMap id="268453893" name="晶辉洞" region="2" parentMapId="268449767">
-<area id="1879272838" name="闪耀洞穴"/>
-<area id="1879406748" name="闪耀洞穴"/>
+<parchmentMap id="268453893" name="Glittering Caves" region="2" parentMapId="268449767">
+<area id="1879272838" name="The Glittering Caves"/>
+<area id="1879406748" name="The Glittering Caves"/>
 </parchmentMap>
 <parchmentMap id="268453919" name="" region="2" parentMapId="268449767">
-<area id="1879289551" name="闪耀洞穴"/>
+<area id="1879289551" name="The Glittering Caves"/>
 </parchmentMap>
 <parchmentMap id="268450268" name="" region="2" parentMapId="268453621">
-<area id="1879289537" name="圣盔谷（Helm's Deep）"/>
-<area id="1879289544" name="圣盔谷"/>
+<area id="1879289537" name="Helm's Deep"/>
+<area id="1879289544" name="Helm's Dike"/>
 </parchmentMap>
 <parchmentMap id="268450269" name="" region="2" parentMapId="268453621">
-<area id="1879289538" name="圣盔谷（Helm's Deep）"/>
-<area id="1879289545" name="深谷"/>
+<area id="1879289538" name="Helm's Deep"/>
+<area id="1879289545" name="The Deeping-coomb"/>
 </parchmentMap>
 <parchmentMap id="268450270" name="" region="2" parentMapId="268453621">
-<area id="1879289539" name="圣盔谷（Helm's Deep）"/>
-<area id="1879289546" name="圣盔谷"/>
+<area id="1879289539" name="Helm's Deep"/>
+<area id="1879289546" name="Helm's Dike"/>
 </parchmentMap>
 <parchmentMap id="268450271" name="" region="2" parentMapId="268453621">
-<area id="1879289540" name="圣盔谷（Helm's Deep）"/>
-<area id="1879289547" name="深谷"/>
+<area id="1879289540" name="Helm's Deep"/>
+<area id="1879289547" name="The Deeping-coomb"/>
 </parchmentMap>
 <parchmentMap id="268450272" name="" region="2" parentMapId="268453621">
-<area id="1879289541" name="圣盔谷（Helm's Deep）"/>
-<area id="1879289548" name="深谷洼地"/>
+<area id="1879289541" name="Helm's Deep"/>
+<area id="1879289548" name="The Deeping-coomb"/>
 </parchmentMap>
 <parchmentMap id="268450273" name="" region="2" parentMapId="268453621">
-<area id="1879289542" name="圣盔谷（Helm's Deep）"/>
-<area id="1879289549" name="深谷"/>
+<area id="1879289542" name="Helm's Deep"/>
+<area id="1879289549" name="The Deeping-coomb"/>
 </parchmentMap>
 <parchmentMap id="268450274" name="" region="2" parentMapId="268453621">
-<area id="1879289543" name="圣盔谷（Helm's Deep）"/>
-<area id="1879289550" name="深谷"/>
+<area id="1879289543" name="Helm's Deep"/>
+<area id="1879289550" name="The Deeping-coomb"/>
 </parchmentMap>
-<parchmentMap id="268449758" name="西洛汗：西谷" region="2" parentMapId="268453621">
-<area id="1879256896" name="西谷"/>
-<area id="1879277189" name="深谷"/>
+<parchmentMap id="268449758" name="West Rohan: Westfold" region="2" parentMapId="268453621">
+<area id="1879256896" name="Westfold"/>
+<area id="1879277189" name="The Deeping-coomb"/>
 </parchmentMap>
-<parchmentMap id="268450642" name="Nan Curunír(被淹没)" region="2" parentMapId="268453621">
-<area id="1879303318" name="艾辛格（Isengard）"/>
-<area id="1879303317" name="南库茹尼尔（Nan Curunír）"/>
+<parchmentMap id="268450642" name="Nan Curunír (Flooded)" region="2" parentMapId="268453621">
+<area id="1879303318" name="Isengard"/>
+<area id="1879303317" name="Nan Curunír"/>
 </parchmentMap>
-<parchmentMap id="268450796" name="艾辛格地下(被淹没)" region="1" parentMapId="268450642">
-<area id="1879303319" name="艾辛格地下（Isengard Depths）"/>
+<parchmentMap id="268450796" name="Isengard Depths (flooded)" region="1" parentMapId="268450642">
+<area id="1879303319" name="Isengard Depths"/>
 </parchmentMap>
-<parchmentMap id="268448407" name="东洛汗：沃尔德" region="2" parentMapId="268453621">
-<area id="1879231080" name="沃尔德"/>
-<area id="1879241661" name="格恩加斯（Gerngarth）"/>
-<area id="1879241666" name="迪杰伦（Dígelon）"/>
-<area id="1879241664" name="渡口"/>
+<parchmentMap id="268448407" name="East Rohan: The Wold" region="2" parentMapId="268453621">
+<area id="1879231080" name="The Wold"/>
+<area id="1879241661" name="Gerngarth"/>
+<area id="1879241666" name="Dígelon"/>
+<area id="1879241664" name="The Ford"/>
 </parchmentMap>
-<parchmentMap id="268448916" name="东洛汗：哈wick" region="2" parentMapId="268448407">
-<area id="1879256451" name="哈维克"/>
+<parchmentMap id="268448916" name="East Rohan: Harwick" region="2" parentMapId="268448407">
+<area id="1879256451" name="Harwick"/>
 </parchmentMap>
-<parchmentMap id="268448416" name="东洛汗：东墙" region="2" parentMapId="268453621">
-<area id="1879231075" name="东墙"/>
-<area id="1879250329" name="能希奥（Nen Hithoel）"/>
-<area id="1879250330" name="宁洛赫尔海岸（Shores of Nen Hithoel）"/>
+<parchmentMap id="268448416" name="East Rohan: East Wall" region="2" parentMapId="268453621">
+<area id="1879231075" name="The East Wall"/>
+<area id="1879250329" name="Nen Hithoel"/>
+<area id="1879250330" name="Shores of Nen Hithoel"/>
 </parchmentMap>
-<parchmentMap id="268448413" name="东洛汗：恩特wash谷" region="2" parentMapId="268453621">
-<area id="1879231077" name="恩特沃什谷"/>
-<area id="1879241668" name="生命深渊（The Living Deep）"/>
-<area id="1879241665" name="海崖（Haycliff）"/>
+<parchmentMap id="268448413" name="East Rohan: Entwash Vale" region="2" parentMapId="268453621">
+<area id="1879231077" name="The Entwash Vale"/>
+<area id="1879241668" name="The Living Deep"/>
+<area id="1879241665" name="Haycliff"/>
 </parchmentMap>
-<parchmentMap id="268448410" name="东洛汗：范贡森林边缘" region="2" parentMapId="268453621">
-<area id="1879231076" name="范贡森林的边缘"/>
+<parchmentMap id="268448410" name="East Rohan: Eaves of Fangorn" region="2" parentMapId="268453621">
+<area id="1879231076" name="The Eaves of Fangorn"/>
 </parchmentMap>
-<parchmentMap id="268449335" name="维德莫荒原" region="2" parentMapId="268453621">
-<area id="1879257203" name="雷恩当斯"/>
-<area id="1879257202" name="Fallows"/>
-<area id="1879257200" name="怀特肖（Whitshaws）"/>
-<area id="1879257205" name="高丘"/>
+<parchmentMap id="268449335" name="Wildermore" region="2" parentMapId="268453621">
+<area id="1879257203" name="Writhendowns"/>
+<area id="1879257202" name="The Fallows"/>
+<area id="1879257200" name="Whitshaws"/>
+<area id="1879257205" name="High Knolls"/>
 <area id="1879257201" name="Balewood"/>
 </parchmentMap>
-<parchmentMap id="268449363" name="福洛" region="2" parentMapId="268449335">
-<area id="1879257204" name="福劳（Forlaw）"/>
+<parchmentMap id="268449363" name="Forlaw" region="2" parentMapId="268449335">
+<area id="1879257204" name="Forlaw"/>
 </parchmentMap>
-<parchmentMap id="268448419" name="东洛汗：Norcrofts" region="2" parentMapId="268453621">
-<area id="1879231078" name="诺克罗夫特（Norcrofts）"/>
-<area id="1879241660" name="萨德·托雷克（Sâd Torech）"/>
-<area id="1879241662" name="德维根特"/>
-<area id="1879241663" name="奥斯马戈（Ost Magol）"/>
+<parchmentMap id="268448419" name="East Rohan: Norcrofts" region="2" parentMapId="268453621">
+<area id="1879231078" name="Norcrofts"/>
+<area id="1879241660" name="Sâd Torech"/>
+<area id="1879241662" name="Dwergfant"/>
+<area id="1879241663" name="Ost Magol"/>
 </parchmentMap>
-<parchmentMap id="268448422" name="东洛汗：萨特croft" region="2" parentMapId="268453621">
-<area id="1879231079" name="萨特克罗夫特家族（Sutcrofts）"/>
-<area id="1879241667" name="朗格拉夫（Langraf）"/>
-<area id="1879241669" name="蠕行森林"/>
-<area id="1879241659" name="甘姆普朗克（Ghâmpronk）"/>
+<parchmentMap id="268448422" name="East Rohan: Sutcrofts" region="2" parentMapId="268453621">
+<area id="1879231079" name="Sutcrofts"/>
+<area id="1879241667" name="Langraf"/>
+<area id="1879241669" name="The Creeping Wood"/>
+<area id="1879241659" name="Ghâmpronk"/>
 </parchmentMap>
-<parchmentMap id="268448941" name="东洛汗：雪河" region="2" parentMapId="268448422">
-<area id="1879256452" name="雪溪"/>
+<parchmentMap id="268448941" name="East Rohan: Snowbourn" region="2" parentMapId="268448422">
+<area id="1879256452" name="Snowbourn"/>
 </parchmentMap>
-<parchmentMap id="268454369" name="哈拉德威治(Haradwaith)" region="4" parentMapId="268437554" questGuideDisabled="true"/>
-<parchmentMap id="268454363" name="乌姆巴尔角" region="5" parentMapId="268454369">
-<area id="1879470533" name="卡法尔（Khaphâr）"/>
-<area id="1879474985" name="贝吉·玛加"/>
-<area id="1879470532" name="阿拉达尔（Aradâr）"/>
+<parchmentMap id="268454369" name="Haradwaith" region="4" parentMapId="268437554" questGuideDisabled="true"/>
+<parchmentMap id="268454363" name="Cape of Umbar" region="5" parentMapId="268454369">
+<area id="1879470533" name="Khaphâr"/>
+<area id="1879474985" name="Bej Mâgha"/>
+<area id="1879470532" name="Aradâr"/>
 </parchmentMap>
-<parchmentMap id="268454362" name="乌姆巴尔巴哈贝尔" region="5" parentMapId="268454363">
-<area id="1879470534" name="乌姆巴尔-巴哈贝尔，海盗之城"/>
+<parchmentMap id="268454362" name="Umbar Baharbêl" region="5" parentMapId="268454363">
+<area id="1879470534" name="Umbar Baharbêl, City of the Corsairs"/>
 </parchmentMap>
-<parchmentMap id="268454497" name="乌姆巴尔莫克：深渊" region="5" parentMapId="268454362"/>
-<parchmentMap id="268454501" name="Kamrabezûr；宝库" region="5" parentMapId="268454497">
-<area id="1879481858" name="卡姆拉贝祖尔（Kamrabezûr），宝库"/>
+<parchmentMap id="268454497" name="Umbar-môkh: The Neaths" region="5" parentMapId="268454362"/>
+<parchmentMap id="268454501" name="Kamrabezûr; the Vaults" region="5" parentMapId="268454497">
+<area id="1879481858" name="Kamrabezûr, The Vaults"/>
 </parchmentMap>
-<parchmentMap id="268454505" name="Khabârkhad；地穴" region="5" parentMapId="268454497">
-<area id="1879481854" name="哈巴尔卡德，地穴"/>
+<parchmentMap id="268454505" name="Khabârkhad; the Crypts" region="5" parentMapId="268454497">
+<area id="1879481854" name="Khabârkhad, The Crypts"/>
 </parchmentMap>
-<parchmentMap id="268454504" name="Ilmabiri；井" region="5" parentMapId="268454497">
-<area id="1879481855" name="伊尔马布里之井（Ilmabiri, The Wells）"/>
+<parchmentMap id="268454504" name="Ilmabiri; the Wells" region="5" parentMapId="268454497">
+<area id="1879481855" name="Ilmabiri, The Wells"/>
 </parchmentMap>
-<parchmentMap id="268454507" name="Dil-irmíz；泊位" region="5" parentMapId="268454497">
-<area id="1879481857" name="迪尔-伊尔米兹（Dil-irmíz），泊位（The Berths）"/>
+<parchmentMap id="268454507" name="Dil-irmíz ; the Berths" region="5" parentMapId="268454497">
+<area id="1879481857" name="Dil-irmíz, The Berths"/>
 </parchmentMap>
-<parchmentMap id="268454506" name="Tâkhdar；酒窖" region="5" parentMapId="268454497">
-<area id="1879481856" name="塔赫达尔，地窖"/>
+<parchmentMap id="268454506" name="Tâkhdar; the Cellars" region="5" parentMapId="268454497">
+<area id="1879481856" name="Tâkhdar, The Cellars"/>
 </parchmentMap>
-<parchmentMap id="268454306" name="盾岛" region="5" parentMapId="268454369">
-<area id="1879470530" name="巴赫贾德（Bakhjâd）"/>
-<area id="1879470529" name="杰布·卡特尔（Jeb Khâtel）"/>
-<area id="1879470531" name="扎马齐尔（Zamarzîr）"/>
+<parchmentMap id="268454306" name="The Shield Isles" region="5" parentMapId="268454369">
+<area id="1879470530" name="Bakhjâd"/>
+<area id="1879470529" name="Jeb Khâtel"/>
+<area id="1879470531" name="Zamarzîr"/>
 </parchmentMap>
-<parchmentMap id="268454775" name="节日岛" region="5" parentMapId="268454369">
-<area id="1879501383" name="远岛（Furtherholm）（Zír Aktar）"/>
+<parchmentMap id="268454775" name="Festival Island" region="5" parentMapId="268454369">
+<area id="1879501383" name="Furtherholm (Zír Aktar)"/>
 </parchmentMap>
-<parchmentMap id="268454617" name="Ikorbân山谷" region="5" parentMapId="268454369"/>
-<parchmentMap id="268454619" name="安巴鲁尔" region="5" parentMapId="268454617">
-<area id="1879487043" name="杜拉加尔原野（Fields of Duragâr）"/>
-<area id="1879487042" name="阿哈什-祖比尔"/>
-<area id="1879487045" name="基杜鲁沼泽（Kidûru Marshes）"/>
-<area id="1879487044" name="穆尔·阿巴尔（Mûr Abal）"/>
+<parchmentMap id="268454617" name="Valley of Ikorbân" region="5" parentMapId="268454369"/>
+<parchmentMap id="268454619" name="Ambarûl" region="5" parentMapId="268454617">
+<area id="1879487043" name="Fields of Duragâr"/>
+<area id="1879487042" name="Ahâsh-zubir"/>
+<area id="1879487045" name="Kidûru Marshes"/>
+<area id="1879487044" name="Mûr Abal"/>
 </parchmentMap>
-<parchmentMap id="268454623" name="伊姆胡拉尔" region="5" parentMapId="268454617">
-<area id="1879487052" name="纳穆沙尔（Namushâr）"/>
-<area id="1879487050" name="布鲁什杜尔森林（Woods of Burush Dûr）"/>
-<area id="1879487053" name="苏加赫泥潭（Sugâkh Mire）"/>
-<area id="1879487051" name="蒂尔·库尔"/>
+<parchmentMap id="268454623" name="Imhûlar" region="5" parentMapId="268454617">
+<area id="1879487052" name="Namushâr"/>
+<area id="1879487050" name="Woods of Burush Dûr"/>
+<area id="1879487053" name="Sugâkh Mire"/>
+<area id="1879487051" name="Tir Khûl"/>
 </parchmentMap>
-<parchmentMap id="268454625" name="库德-扎金" region="5" parentMapId="268454617">
-<area id="1879487048" name="图尔·凯什"/>
-<area id="1879487049" name="乌巴德荒原（Barrens of Ubâd）"/>
-<area id="1879487047" name="伊门基荒原（Imênki Waste）"/>
-<area id="1879487046" name="桑杜舒（Sang Dûshu）"/>
+<parchmentMap id="268454625" name="Khûd Zagin" region="5" parentMapId="268454617">
+<area id="1879487048" name="Tûl Kesh"/>
+<area id="1879487049" name="Barrens of Ubâd"/>
+<area id="1879487047" name="Imênki Waste"/>
+<area id="1879487046" name="Sang Dûshu"/>
 </parchmentMap>
-<parchmentMap id="268454627" name="乌拉什达尔" region="5" parentMapId="268454617">
-<area id="1879487056" name="苏尔·阿基尔"/>
-<area id="1879487054" name="加尔哈兰裂谷（Clefts of Gal-harân）"/>
-<area id="1879487057" name="凯古尔之路（Paths of Khegûl）"/>
-<area id="1879487055" name="宁古杜（Ningûdu）"/>
+<parchmentMap id="268454627" name="Urash Dâr" region="5" parentMapId="268454617">
+<area id="1879487056" name="Sûr Akil"/>
+<area id="1879487054" name="Clefts of Gal-harân"/>
+<area id="1879487057" name="Paths of Khegûl"/>
+<area id="1879487055" name="Ningûdu"/>
 </parchmentMap>
-<parchmentMap id="268454914" name="穆尔加拉(丰饶山脊)" region="5" parentMapId="268454369"/>
-<parchmentMap id="268454915" name="伊达加尔" region="5" parentMapId="268454914">
-<area id="1879500857" name="干旱之地(The Dry-whelm)"/>
-<area id="1879500805" name="纳比尔峭壁（Nabir Crags）"/>
-<area id="1879500849" name="守卫者之地"/>
-<area id="1879500799" name="科拉蒂亚的宝藏（Hoards of Koratíya）"/>
+<parchmentMap id="268454914" name="Mûr Ghala (The Ridge of Plenty)" region="5" parentMapId="268454369"/>
+<parchmentMap id="268454915" name="Idagâl" region="5" parentMapId="268454914">
+<area id="1879500857" name="The Dry-whelm"/>
+<area id="1879500805" name="Nabir Crags"/>
+<area id="1879500849" name="The Warden's Lands"/>
+<area id="1879500799" name="Hoards of Koratíya"/>
 </parchmentMap>
-<parchmentMap id="268454959" name="埃马克杜尔" region="5" parentMapId="268454915">
-<area id="1879509913" name="埃马克杜尔"/>
+<parchmentMap id="268454959" name="Emax Dûl" region="5" parentMapId="268454915">
+<area id="1879509913" name="Emax Dûl"/>
 </parchmentMap>
-<parchmentMap id="268454941" name="安谢鲁" region="5" parentMapId="268454914">
-<area id="1879500785" name="帕杜加沙（Padugâsha）"/>
-<area id="1879500833" name="玛沙利荒原（Mashâli Barrens）"/>
-<area id="1879500845" name="哈拉穆尔丘陵（Hills of Haramûl）"/>
-<area id="1879500815" name="乌胡梅卢（Uhumêlu）"/>
+<parchmentMap id="268454941" name="An Shêru" region="5" parentMapId="268454914">
+<area id="1879500785" name="Padugâsha"/>
+<area id="1879500833" name="Mashâli Barrens"/>
+<area id="1879500845" name="Hills of Haramûl"/>
+<area id="1879500815" name="Uhumêlu"/>
 </parchmentMap>
 <parchmentMap id="268454943" name="" region="5" parentMapId="268454914">
-<area id="1879500850" name="被侵蚀的海岸"/>
-<area id="1879500788" name="卡苏金废墟"/>
-<area id="1879500859" name="苏格·尼达尔(Sûg Nidar)，恐惧之水(the Fearwater)"/>
-<area id="1879500817" name="卡拉格拉卡（Kalagrâkha）"/>
-<area id="1879500837" name="努阿丘陵（The Hills of Nûa）"/>
+<area id="1879500850" name="The Gnawnshore"/>
+<area id="1879500788" name="Ruins of Kasukhín"/>
+<area id="1879500859" name="Sûg Nidar, the Fearwater"/>
+<area id="1879500817" name="Kalagrâkha"/>
+<area id="1879500837" name="The Hills of Nûa"/>
 </parchmentMap>
-<parchmentMap id="268454945" name="基甘" region="5" parentMapId="268454914">
-<area id="1879500822" name="萨哈扎伊原野（Fields of Sârhazai）"/>
-<area id="1879500813" name="冈莎娜（Ghun Shâna）"/>
-<area id="1879500792" name="暴怒丘陵（The Wroth-fells）"/>
-<area id="1879500846" name="卡达赫·卢尔（Khadakh Lûr）"/>
+<parchmentMap id="268454945" name="Kighân" region="5" parentMapId="268454914">
+<area id="1879500822" name="Fields of Sârhazai"/>
+<area id="1879500813" name="Ghun Shâna"/>
+<area id="1879500792" name="The Wroth-fells"/>
+<area id="1879500846" name="Khadakh Lûr"/>
 </parchmentMap>
-<parchmentMap id="268454947" name="基甘 扎亚纳" region="5" parentMapId="268454945">
-<area id="1879500823" name="扎雅纳门谷"/>
+<parchmentMap id="268454947" name="Kighân Zajâna" region="5" parentMapId="268454945">
+<area id="1879500823" name="The Gated Vale of Zajâna"/>
 </parchmentMap>
-<parchmentMap id="268454949" name="阿达吉姆" region="5" parentMapId="268454914">
-<area id="1879500840" name="朽木林(The Reekwood)"/>
-<area id="1879500821" name="法拉德·绍塔丘陵沼泽(Farad Shóta)"/>
-<area id="1879500806" name="伊丹斜坡（The Slopes of Idân）"/>
-<area id="1879500838" name="淋漓溪谷"/>
-<area id="1879500843" name="萨塔舒（Thar Tashúl）"/>
+<parchmentMap id="268454949" name="Adagím" region="5" parentMapId="268454914">
+<area id="1879500840" name="The Reekwood"/>
+<area id="1879500821" name="Downs of Farad Shóta"/>
+<area id="1879500806" name="The Slopes of Idân"/>
+<area id="1879500838" name="The Drenchmead"/>
+<area id="1879500843" name="Thar Tashúl"/>
 </parchmentMap>
-<parchmentMap id="268455152" name="哈托卡利丘陵" region="5" parentMapId="268454914">
-<area id="1879521058" name="库普沙加姆"/>
-<area id="1879521038" name="奈尔阿巴图"/>
-<area id="1879521048" name="哈纳米提"/>
+<parchmentMap id="268455152" name="Hatokáli Fells" region="5" parentMapId="268454914">
+<area id="1879521058" name="Kupu-shagâm"/>
+<area id="1879521038" name="Nêr Abatu"/>
+<area id="1879521048" name="Hanâmiti"/>
 </parchmentMap>
-<parchmentMap id="268455160" name="哈托卡利丘陵 - 地下墓穴" region="5" parentMapId="268455152">
-<area id="1879523592" name="帕格鲁-基里特，尸骸园"/>
+<parchmentMap id="268455160" name="Hatokáli Fells - Crypt" region="5" parentMapId="268455152">
+<area id="1879523592" name="Pagru-kirít, the Garden of Corpses"/>
 </parchmentMap>
 </parchmentMaps>

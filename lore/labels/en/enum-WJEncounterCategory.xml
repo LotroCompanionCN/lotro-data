@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="en">
 <label key="OtherInstanceCategory" value="Other"/>
-<label key="key:620842595:103968327" value="天鹅泽与卡多兰"/>
-<label key="key:620842595:110474680" value="丰收节(Harvestmath)"/>
-<label key="key:620842595:116509001" value="周年庆"/>
-<label key="key:620842595:142588533" value="防御类"/>
-<label key="key:620842595:142599429" value="进攻类"/>
-<label key="key:620842595:143035276" value="米那斯魔窟"/>
-<label key="key:620842595:154159024" value="洛汗防御战"/>
-<label key="key:620842595:154713656" value="奥斯吉力亚斯"/>
-<label key="key:620842595:168393860" value="艾辛格"/>
-<label key="key:620842595:172256289" value="莫里亚"/>
-<label key="key:620842595:172768338" value="乌姆巴尔"/>
-<label key="key:620842595:198444691" value="三峰之战"/>
-<label key="key:620842595:201841556" value="贡达巴德"/>
-<label key="key:620842595:203213000" value="果戈洛斯高原"/>
-<label key="key:620842595:203441249" value="穆尔加拉"/>
-<label key="key:620842595:208030900" value="海勒格罗德"/>
-<label key="key:620842595:208138498" value="佩兰诺平原之战"/>
-<label key="key:620842595:214004958" value="卡恩杜姆"/>
-<label key="key:620842595:215132380" value="生存类"/>
-<label key="key:620842595:2249278" value="伊科尔班谷"/>
-<label key="key:620842595:225291412" value="佛诺斯特"/>
-<label key="key:620842595:228895972" value="禁止触碰 - 测试"/>
-<label key="key:620842595:228920421" value="冬季"/>
-<label key="key:620842595:243496723" value="刚铎之战"/>
-<label key="key:620842595:24763603" value="安努米纳斯"/>
-<label key="key:620842595:59026978" value="安格玛"/>
-<label key="key:620842595:6319655" value="大古墓"/>
-<label key="key:620842595:66438820" value="埃雷博之路"/>
-<label key="key:620842595:67128030" value="加斯阿格温"/>
-<label key="key:620842595:70389922" value="多古尔都"/>
-<label key="key:620842595:75145461" value="游侠离去之后"/>
-<label key="key:620842595:76724574" value="洛丝萝林"/>
-<label key="key:620842595:78103527" value="春季"/>
-<label key="key:620842595:78417506" value="农夫节"/>
-<label key="key:620842595:81715155" value="灰山"/>
-<label key="key:620842595:91697854" value="格拉顿米尔"/>
+<label key="key:620842595:103968327" value="Swanfleet &amp; Cardolan"/>
+<label key="key:620842595:110474680" value="Harvestmath"/>
+<label key="key:620842595:116509001" value="Anniversary"/>
+<label key="key:620842595:142588533" value="Defensive"/>
+<label key="key:620842595:142599429" value="Offensive"/>
+<label key="key:620842595:143035276" value="Minas Morgul"/>
+<label key="key:620842595:154159024" value="Defence of Rohan"/>
+<label key="key:620842595:154713656" value="Osgiliath"/>
+<label key="key:620842595:168393860" value="Isengard"/>
+<label key="key:620842595:172256289" value="Moria"/>
+<label key="key:620842595:172768338" value="Umbar"/>
+<label key="key:620842595:198444691" value="War of Three Peaks"/>
+<label key="key:620842595:201841556" value="Gundabad"/>
+<label key="key:620842595:203213000" value="Plateau of Gorgoroth"/>
+<label key="key:620842595:203441249" value="Mûr Ghala"/>
+<label key="key:620842595:208030900" value="Helegrod"/>
+<label key="key:620842595:208138498" value="The Battle of the Pelennor Fields"/>
+<label key="key:620842595:214004958" value="Carn Dûm"/>
+<label key="key:620842595:215132380" value="Survival"/>
+<label key="key:620842595:2249278" value="Ikorbân Valley"/>
+<label key="key:620842595:225291412" value="Fornost"/>
+<label key="key:620842595:228895972" value="DNT - Test"/>
+<label key="key:620842595:228920421" value="Yule"/>
+<label key="key:620842595:243496723" value="War for Gondor"/>
+<label key="key:620842595:24763603" value="Annúminas"/>
+<label key="key:620842595:59026978" value="Angmar"/>
+<label key="key:620842595:6319655" value="Great Barrow"/>
+<label key="key:620842595:66438820" value="The Road to Erebor"/>
+<label key="key:620842595:67128030" value="Garth Agarwen"/>
+<label key="key:620842595:70389922" value="Dol Guldur"/>
+<label key="key:620842595:75145461" value="In Their Absence"/>
+<label key="key:620842595:76724574" value="Lothlórien"/>
+<label key="key:620842595:78103527" value="Spring"/>
+<label key="key:620842595:78417506" value="Farmers Faire"/>
+<label key="key:620842595:81715155" value="Grey Mountains"/>
+<label key="key:620842595:91697854" value="Gladdenmere"/>
 </labels>

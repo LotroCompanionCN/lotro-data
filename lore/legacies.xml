@@ -1573,27 +1573,27 @@
 </legacy>
 <legacy identifier="1879325264" type="DPS" iconId="1091968768" maxInitialLevel="38" maxLevel="71">
 <allowedWeaponType type="DAGGER"/>
-<allowedWeaponType type="ONE_HANDED_SWORD"/>
 <allowedWeaponType type="ONE_HANDED_AXE"/>
 <allowedWeaponType type="ONE_HANDED_CLUB"/>
-<allowedWeaponType type="ONE_HANDED_MACE"/>
 <allowedWeaponType type="ONE_HANDED_HAMMER"/>
+<allowedWeaponType type="ONE_HANDED_MACE"/>
+<allowedWeaponType type="ONE_HANDED_SWORD"/>
 <allowedWeaponType type="SPEAR"/>
 <stat name="DPS" scaling="1879325252"/>
 </legacy>
 <legacy identifier="1879325265" type="DPS" iconId="1091968768" maxInitialLevel="38" maxLevel="71">
-<allowedWeaponType type="TWO_HANDED_SWORD"/>
-<allowedWeaponType type="TWO_HANDED_AXE"/>
-<allowedWeaponType type="TWO_HANDED_CLUB"/>
-<allowedWeaponType type="TWO_HANDED_MACE"/>
-<allowedWeaponType type="TWO_HANDED_HAMMER"/>
+<allowedWeaponType type="BATTLE_GAUNTLETS"/>
 <allowedWeaponType type="BOW"/>
 <allowedWeaponType type="CROSSBOW"/>
-<allowedWeaponType type="BATTLE_GAUNTLETS"/>
-<allowedWeaponType type="JAVELIN"/>
-<allowedWeaponType type="STAFF"/>
-<allowedWeaponType type="RUNE_STONE"/>
 <allowedWeaponType type="HALBERD"/>
+<allowedWeaponType type="JAVELIN"/>
+<allowedWeaponType type="RUNE_STONE"/>
+<allowedWeaponType type="STAFF"/>
+<allowedWeaponType type="TWO_HANDED_AXE"/>
+<allowedWeaponType type="TWO_HANDED_CLUB"/>
+<allowedWeaponType type="TWO_HANDED_HAMMER"/>
+<allowedWeaponType type="TWO_HANDED_MACE"/>
+<allowedWeaponType type="TWO_HANDED_SWORD"/>
 <stat name="DPS" scaling="1879325253"/>
 </legacy>
 <legacy identifier="1879384982" type="CLASS" iconId="1091965216" maxInitialLevel="46" maxLevel="83" effectId="1879384981">

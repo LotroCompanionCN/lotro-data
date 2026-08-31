@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><virtues>
-<virtue identifier="1879072873" key="怜悯" name="怜悯" rankStatKey="Trait_Virtue_Rank_Charity" xpProperty="Trait_Virtue_XP_Charity" maxRankProgression="1879383539" passivesEffect="1879389174">
+<virtue identifier="1879072873" key="CHARITY" name="Charity" rankStatKey="Trait_Virtue_Rank_Charity" xpProperty="Trait_Virtue_XP_Charity" maxRankProgression="1879383539" passivesEffect="1879389174">
 <activeStats>
 <stat name="RESISTANCE" scaling="1879210164"/>
 <stat name="PHYSICAL_MITIGATION" scaling="1879215069"/>
@@ -137,7 +137,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072874" key="热情" name="热情" rankStatKey="Trait_Virtue_Rank_Compassionate" xpProperty="Trait_Virtue_XP_Compassionate" maxRankProgression="1879383539" passivesEffect="1879389536">
+<virtue identifier="1879072874" key="COMPASSION" name="Compassion" rankStatKey="Trait_Virtue_Rank_Compassionate" xpProperty="Trait_Virtue_XP_Compassionate" maxRankProgression="1879383539" passivesEffect="1879389536">
 <activeStats>
 <stat name="PHYSICAL_MITIGATION" scaling="1879215068"/>
 <stat name="TACTICAL_MITIGATION" scaling="1879215079"/>
@@ -275,7 +275,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072875" key="信心" name="信心" rankStatKey="Trait_Virtue_Rank_Confidence" xpProperty="Trait_Virtue_XP_Confidence" maxRankProgression="1879383539" passivesEffect="1879389527">
+<virtue identifier="1879072875" key="CONFIDENCE" name="Confidence" rankStatKey="Trait_Virtue_Rank_Confidence" xpProperty="Trait_Virtue_XP_Confidence" maxRankProgression="1879383539" passivesEffect="1879389527">
 <activeStats>
 <stat name="CRITICAL_RATING" scaling="1879211605"/>
 <stat name="FINESSE" scaling="1879211717"/>
@@ -413,7 +413,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072876" key="决心" name="决心" rankStatKey="Trait_Virtue_Rank_Determination" xpProperty="Trait_Virtue_XP_Determination" maxRankProgression="1879383539" passivesEffect="1879389542">
+<virtue identifier="1879072876" key="DETERMINATION" name="Determination" rankStatKey="Trait_Virtue_Rank_Determination" xpProperty="Trait_Virtue_XP_Determination" maxRankProgression="1879383539" passivesEffect="1879389542">
 <activeStats>
 <stat name="AGILITY" scaling="1879211572"/>
 <stat name="PHYSICAL_MASTERY" scaling="1879223963"/>
@@ -551,7 +551,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072877" key="自律" name="自律" rankStatKey="Trait_Virtue_Rank_Discipline" xpProperty="Trait_Virtue_XP_Discipline" maxRankProgression="1879383539" passivesEffect="1879389534">
+<virtue identifier="1879072877" key="DISCIPLINE" name="Discipline" rankStatKey="Trait_Virtue_Rank_Discipline" xpProperty="Trait_Virtue_XP_Discipline" maxRankProgression="1879383539" passivesEffect="1879389534">
 <activeStats>
 <stat name="RESISTANCE" scaling="1879210164"/>
 <stat name="INCOMING_HEALING" scaling="1879211893"/>
@@ -689,7 +689,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072878" key="悟性" name="悟性" rankStatKey="Trait_Virtue_Rank_Empathy" xpProperty="Trait_Virtue_XP_Empathy" maxRankProgression="1879383539" passivesEffect="1879389540">
+<virtue identifier="1879072878" key="EMPATHY" name="Empathy" rankStatKey="Trait_Virtue_Rank_Empathy" xpProperty="Trait_Virtue_XP_Empathy" maxRankProgression="1879383539" passivesEffect="1879389540">
 <activeStats>
 <stat name="Combat_Agent_Armor_Value_Float" scaling="1879389639"/>
 <stat name="CRITICAL_DEFENCE" scaling="1879211642"/>
@@ -827,7 +827,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072879" key="忠贞" name="忠贞" rankStatKey="Trait_Virtue_Rank_Fidelity" xpProperty="Trait_Virtue_XP_Fidelity" maxRankProgression="1879383539" passivesEffect="1879389525">
+<virtue identifier="1879072879" key="FIDELITY" name="Fidelity" rankStatKey="Trait_Virtue_Rank_Fidelity" xpProperty="Trait_Virtue_XP_Fidelity" maxRankProgression="1879383539" passivesEffect="1879389525">
 <activeStats>
 <stat name="TACTICAL_MITIGATION" scaling="1879215075"/>
 <stat name="VITALITY" scaling="1879390234"/>
@@ -965,7 +965,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072880" key="坚韧" name="坚韧" rankStatKey="Trait_Virtue_Rank_Fortitude" xpProperty="Trait_Virtue_XP_Fortitude" maxRankProgression="1879383539" passivesEffect="1879389537">
+<virtue identifier="1879072880" key="FORTITUDE" name="Fortitude" rankStatKey="Trait_Virtue_Rank_Fortitude" xpProperty="Trait_Virtue_XP_Fortitude" maxRankProgression="1879383539" passivesEffect="1879389537">
 <activeStats>
 <stat name="MORALE" scaling="1879390236"/>
 <stat name="CRITICAL_DEFENCE" scaling="1879211642"/>
@@ -1103,7 +1103,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072881" key="诚实" name="诚实" rankStatKey="Trait_Virtue_Rank_Honesty" xpProperty="Trait_Virtue_XP_Honesty" maxRankProgression="1879383539" passivesEffect="1879389526">
+<virtue identifier="1879072881" key="HONESTY" name="Honesty" rankStatKey="Trait_Virtue_Rank_Honesty" xpProperty="Trait_Virtue_XP_Honesty" maxRankProgression="1879383539" passivesEffect="1879389526">
 <activeStats>
 <stat name="TACTICAL_MASTERY" scaling="1879223976"/>
 <stat name="WILL" scaling="1879211576"/>
@@ -1241,7 +1241,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072882" key="荣耀" name="荣耀" rankStatKey="Trait_Virtue_Rank_Honour" xpProperty="Trait_Virtue_XP_Honour" maxRankProgression="1879383539" passivesEffect="1879389531">
+<virtue identifier="1879072882" key="HONOUR" name="Honour" rankStatKey="Trait_Virtue_Rank_Honour" xpProperty="Trait_Virtue_XP_Honour" maxRankProgression="1879383539" passivesEffect="1879389531">
 <activeStats>
 <stat name="MORALE" scaling="1879390236"/>
 <stat name="TACTICAL_MITIGATION" scaling="1879215079"/>
@@ -1379,7 +1379,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072883" key="荣誉" name="荣誉" rankStatKey="Trait_Virtue_Rank_Idealism" xpProperty="Trait_Virtue_XP_Idealism" maxRankProgression="1879383539" passivesEffect="1879389538">
+<virtue identifier="1879072883" key="IDEALISM" name="Idealism" rankStatKey="Trait_Virtue_Rank_Idealism" xpProperty="Trait_Virtue_XP_Idealism" maxRankProgression="1879383539" passivesEffect="1879389538">
 <activeStats>
 <stat name="FATE" scaling="1879211553"/>
 <stat name="INCOMING_HEALING" scaling="1879211893"/>
@@ -1517,7 +1517,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072888" key="圣洁" name="圣洁" rankStatKey="Trait_Virtue_Rank_Innocence" xpProperty="Trait_Virtue_XP_Innocence" maxRankProgression="1879383539" passivesEffect="1879389528">
+<virtue identifier="1879072888" key="INNOCENCE" name="Innocence" rankStatKey="Trait_Virtue_Rank_Innocence" xpProperty="Trait_Virtue_XP_Innocence" maxRankProgression="1879383539" passivesEffect="1879389528">
 <activeStats>
 <stat name="PHYSICAL_MITIGATION" scaling="1879215068"/>
 <stat name="RESISTANCE" scaling="1879210163"/>
@@ -1655,7 +1655,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072884" key="公正" name="公正" rankStatKey="Trait_Virtue_Rank_Just" xpProperty="Trait_Virtue_XP_Just" maxRankProgression="1879383539" passivesEffect="1879389530">
+<virtue identifier="1879072884" key="JUSTICE" name="Justice" rankStatKey="Trait_Virtue_Rank_Just" xpProperty="Trait_Virtue_XP_Just" maxRankProgression="1879383539" passivesEffect="1879389530">
 <activeStats>
 <stat name="ICMR" scaling="1879212451"/>
 <stat name="MORALE" scaling="1879390231"/>
@@ -1793,7 +1793,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072885" key="忠诚" name="忠诚" rankStatKey="Trait_Virtue_Rank_Loyalty" xpProperty="Trait_Virtue_XP_Loyalty" maxRankProgression="1879383539" passivesEffect="1879389524">
+<virtue identifier="1879072885" key="LOYALTY" name="Loyalty" rankStatKey="Trait_Virtue_Rank_Loyalty" xpProperty="Trait_Virtue_XP_Loyalty" maxRankProgression="1879383539" passivesEffect="1879389524">
 <activeStats>
 <stat name="VITALITY" scaling="1879390233"/>
 <stat name="Combat_Agent_Armor_Value_Float" scaling="1879389555"/>
@@ -1931,7 +1931,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072886" key="仁慈" name="仁慈" rankStatKey="Trait_Virtue_Rank_Merciful" xpProperty="Trait_Virtue_XP_Merciful" maxRankProgression="1879383539" passivesEffect="1879389529">
+<virtue identifier="1879072886" key="MERCY" name="Mercy" rankStatKey="Trait_Virtue_Rank_Merciful" xpProperty="Trait_Virtue_XP_Merciful" maxRankProgression="1879383539" passivesEffect="1879389529">
 <activeStats>
 <stat name="EVADE" scaling="1879211629"/>
 <stat name="FATE" scaling="1879211541"/>
@@ -2069,7 +2069,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072887" key="耐心" name="耐心" rankStatKey="Trait_Virtue_Rank_Patience" xpProperty="Trait_Virtue_XP_Patience" maxRankProgression="1879383539" passivesEffect="1879389543">
+<virtue identifier="1879072887" key="PATIENCE" name="Patience" rankStatKey="Trait_Virtue_Rank_Patience" xpProperty="Trait_Virtue_XP_Patience" maxRankProgression="1879383539" passivesEffect="1879389543">
 <activeStats>
 <stat name="POWER" scaling="1879211539"/>
 <stat name="EVADE" scaling="1879211636"/>
@@ -2207,7 +2207,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072889" key="宽容" name="宽容" rankStatKey="Trait_Virtue_Rank_Tolerant" xpProperty="Trait_Virtue_XP_Tolerant" maxRankProgression="1879383539" passivesEffect="1879389539">
+<virtue identifier="1879072889" key="TOLERANCE" name="Tolerance" rankStatKey="Trait_Virtue_Rank_Tolerant" xpProperty="Trait_Virtue_XP_Tolerant" maxRankProgression="1879383539" passivesEffect="1879389539">
 <activeStats>
 <stat name="TACTICAL_MITIGATION" scaling="1879215075"/>
 <stat name="RESISTANCE" scaling="1879210163"/>
@@ -2345,7 +2345,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072890" key="英勇" name="英勇" rankStatKey="Trait_Virtue_Rank_Valor" xpProperty="Trait_Virtue_XP_Valor" maxRankProgression="1879383539" passivesEffect="1879389533">
+<virtue identifier="1879072890" key="VALOUR" name="Valour" rankStatKey="Trait_Virtue_Rank_Valor" xpProperty="Trait_Virtue_XP_Valor" maxRankProgression="1879383539" passivesEffect="1879389533">
 <activeStats>
 <stat name="PHYSICAL_MASTERY" scaling="1879223959"/>
 <stat name="FINESSE" scaling="1879211717"/>
@@ -2483,7 +2483,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072891" key="睿智" name="睿智" rankStatKey="Trait_Virtue_Rank_Wisdom" xpProperty="Trait_Virtue_XP_Wisdom" maxRankProgression="1879383539" passivesEffect="1879389535">
+<virtue identifier="1879072891" key="WISDOM" name="Wisdom" rankStatKey="Trait_Virtue_Rank_Wisdom" xpProperty="Trait_Virtue_XP_Wisdom" maxRankProgression="1879383539" passivesEffect="1879389535">
 <activeStats>
 <stat name="WILL" scaling="1879211578"/>
 <stat name="TACTICAL_MASTERY" scaling="1879223958"/>
@@ -2621,7 +2621,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879388819" key="才智" name="才智" rankStatKey="Trait_Virtue_Rank_Wit" xpProperty="Trait_Virtue_XP_Wit" maxRankProgression="1879383539" passivesEffect="1879389541">
+<virtue identifier="1879388819" key="WIT" name="Wit" rankStatKey="Trait_Virtue_Rank_Wit" xpProperty="Trait_Virtue_XP_Wit" maxRankProgression="1879383539" passivesEffect="1879389541">
 <activeStats>
 <stat name="FINESSE" scaling="1879211718"/>
 <stat name="CRITICAL_RATING" scaling="1879211601"/>
@@ -2760,7 +2760,7 @@
 <xp tier="129" value="250300"/>
 <xp tier="130" value="252800"/>
 </virtue>
-<virtue identifier="1879072892" key="热忱" name="热忱" rankStatKey="Trait_Virtue_Rank_Zeal" xpProperty="Trait_Virtue_XP_Zeal" maxRankProgression="1879383539" passivesEffect="1879389532">
+<virtue identifier="1879072892" key="ZEAL" name="Zeal" rankStatKey="Trait_Virtue_Rank_Zeal" xpProperty="Trait_Virtue_XP_Zeal" maxRankProgression="1879383539" passivesEffect="1879389532">
 <activeStats>
 <stat name="MIGHT" scaling="1879211532"/>
 <stat name="PHYSICAL_MASTERY" scaling="1879223963"/>

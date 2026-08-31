@@ -35,10 +35,10 @@
 </compoundWorldEventCondition>
 </conditionWorldEvent>
 <booleanWorldEvent id="1879089326" propertyId="268441361" propertyName="WE_SpringFestival_DanceShireEnabled" default="true"/>
-<integerWorldEvent id="1879093127" propertyId="268441730" propertyName="WE_Ettenmoors_TA_Monster_Oil" description="托尔阿斯卡宁大锅燃料" progress="油料收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093128" propertyId="268441729" propertyName="WE_Ettenmoors_TA_Monster_Cauldron" description="为托尔阿斯卡嫩熔炉筹备铁器" progress="铁矿收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093130" propertyId="268441747" propertyName="WE_Ettenmoors_TA_Monster_Arrow" description="地精箭矢专用利刃" progress="破碎利刃收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093131" propertyId="268441698" propertyName="WE_Ettenmoors_TA_Monster_Shaft" description="地精箭矢的箭杆（Shafts for Goblin Arrows）" progress="箭杆收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093127" propertyId="268441730" propertyName="WE_Ettenmoors_TA_Monster_Oil" description="Oil for the Cauldron of Tol Ascarnen" progress="Progress ${VALUE}/${MAXVALUE} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093128" propertyId="268441729" propertyName="WE_Ettenmoors_TA_Monster_Cauldron" description="Iron for the Cauldron of Tol Ascarnen" progress="Progress ${VALUE}/${MAXVALUE} of Iron Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093130" propertyId="268441747" propertyName="WE_Ettenmoors_TA_Monster_Arrow" description="Blades for Goblin Arrows" progress="Progress ${VALUE}/${MAXVALUE} of Shattered Blades Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093131" propertyId="268441698" propertyName="WE_Ettenmoors_TA_Monster_Shaft" description="Shafts for Goblin Arrows" progress="Progress ${VALUE}/${MAXVALUE} of Arrow Shafts Collected" default="0" min="0" max="10"/>
 <booleanWorldEvent id="1879093133" propertyId="268441690" propertyName="WE_Ettenmoors_TA_Monster_Rockwithers" default="false"/>
 <booleanWorldEvent id="1879093134" propertyId="268441686" propertyName="WE_Ettenmoors_TA_Monster_Sinew" default="false"/>
 <booleanWorldEvent id="1879093135" propertyId="268441685" propertyName="WE_Ettenmoors_TA_Monster_Stand" default="false"/>
@@ -48,26 +48,26 @@
 <conditionWorldEvent id="1879093144" propertyId="268441689" propertyName="WE_Ettenmoors_TA_Monster_Burn_West">
 <worldEventCondition worldEventID="1879093202" worldEventName="WE_Ettenmoors_TA_Player_Reinforce_West" operator="EQUAL" value="1"/>
 </conditionWorldEvent>
-<integerWorldEvent id="1879093146" propertyId="268441746" propertyName="WE_Ettenmoors_TR_Monster_Oil" description="提里斯劳大锅燃料" progress="油料收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093147" propertyId="268441700" propertyName="WE_Ettenmoors_TR_Monster_Cauldron" description="为提拉思罗熔炉筹备铁器" progress="铁矿收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093146" propertyId="268441746" propertyName="WE_Ettenmoors_TR_Monster_Oil" description="Oil for the Cauldron of Tirith Rhaw" progress="Progress ${VALUE}/${MAXVALUE} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093147" propertyId="268441700" propertyName="WE_Ettenmoors_TR_Monster_Cauldron" description="Iron for the Cauldron of Tirith Rhaw" progress="Progress ${VALUE}/${MAXVALUE} of Iron Collected" default="0" min="0" max="10"/>
 <booleanWorldEvent id="1879093149" propertyId="268441707" propertyName="WE_Ettenmoors_TR_Monster_Support" default="false"/>
-<integerWorldEvent id="1879093154" propertyId="268441675" propertyName="WE_Ettenmoors_Lug_Monster_Oil" description="卢加扎格大锅燃料" progress="油料收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093155" propertyId="268441709" propertyName="WE_Ettenmoors_Lug_Monster_Cauldron" description="为卢加扎格熔炉筹备铁器" progress="铁矿收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093154" propertyId="268441675" propertyName="WE_Ettenmoors_Lug_Monster_Oil" description="Oil for the Cauldron of Lugazag" progress="Progress ${VALUE}/${MAXVALUE} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093155" propertyId="268441709" propertyName="WE_Ettenmoors_Lug_Monster_Cauldron" description="Iron for the Cauldron of Lugazag" progress="Progress ${VALUE}/${MAXVALUE} of Iron Collected" default="0" min="0" max="10"/>
 <booleanWorldEvent id="1879093156" propertyId="268441720" propertyName="WE_Ettenmoors_Lug_Monster_Support" default="false"/>
 <booleanWorldEvent id="1879093163" propertyId="268441687" propertyName="WE_Ettenmoors_Grim_Monster_Harvesters" default="false"/>
 <booleanWorldEvent id="1879093164" propertyId="268441706" propertyName="WE_Ettenmoors_Grim_Monster_Support" default="false"/>
 <booleanWorldEvent id="1879093165" propertyId="268441692" propertyName="WE_Ettenmoors_Grim_Monster_Trees" default="false"/>
 <booleanWorldEvent id="1879093170" propertyId="268441691" propertyName="WE_Ettenmoors_IM_Monster_Support" default="false"/>
 <booleanWorldEvent id="1879093172" propertyId="268441716" propertyName="WE_Ettenmoors_IM_Monster_Beasts" default="false"/>
-<integerWorldEvent id="1879093173" propertyId="268441697" propertyName="WE_Ettenmoors_TA_Player_Oil" description="托尔阿斯卡宁大锅燃料" progress="油料收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093174" propertyId="268441702" propertyName="WE_Ettenmoors_TA_Player_Cauldron" description="为托尔阿斯卡嫩熔炉筹备铁器" progress="铁矿收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093176" propertyId="268441701" propertyName="WE_Ettenmoors_TA_Player_Arrow" description="精灵箭矢的利刃（Blades for Elf Arrows）" progress="破碎利刃收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093177" propertyId="268441722" propertyName="WE_Ettenmoors_TA_Player_Shaft" description="精灵箭矢箭杆" progress="箭杆收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093173" propertyId="268441697" propertyName="WE_Ettenmoors_TA_Player_Oil" description="Oil for the Cauldron of Tol Ascarnen" progress="Progress ${VALUE}/${MAXVALUE} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093174" propertyId="268441702" propertyName="WE_Ettenmoors_TA_Player_Cauldron" description="Iron for the Cauldron of Tol Ascarnen" progress="Progress ${VALUE}/${MAXVALUE} of Iron Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093176" propertyId="268441701" propertyName="WE_Ettenmoors_TA_Player_Arrow" description="Blades for Elf Arrows" progress="Progress ${VALUE}/${MAXVALUE} of Shattered Blades Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093177" propertyId="268441722" propertyName="WE_Ettenmoors_TA_Player_Shaft" description="Shafts for Elf Arrows" progress="Progress ${VALUE}/${MAXVALUE} of Arrow Shafts Collected" default="0" min="0" max="10"/>
 <booleanWorldEvent id="1879093179" propertyId="268441736" propertyName="WE_Ettenmoors_TA_Player_Sinew" default="false"/>
 <booleanWorldEvent id="1879093180" propertyId="268441742" propertyName="WE_Ettenmoors_TA_Player_Stand" default="false"/>
 <booleanWorldEvent id="1879093183" propertyId="268441694" propertyName="WE_Ettenmoors_TA_Player_Reinforce_South" default="false"/>
-<integerWorldEvent id="1879093187" propertyId="268441728" propertyName="WE_Ettenmoors_TR_Player_Oil" description="提里斯劳大锅燃料" progress="油料收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093188" propertyId="268441745" propertyName="WE_Ettenmoors_TR_Player_Cauldron" description="为提拉思罗熔炉筹备铁器" progress="铁矿收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093187" propertyId="268441728" propertyName="WE_Ettenmoors_TR_Player_Oil" description="Oil for the Cauldron of Tirith Rhaw" progress="Progress ${VALUE}/${MAXVALUE} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093188" propertyId="268441745" propertyName="WE_Ettenmoors_TR_Player_Cauldron" description="Iron for the Cauldron of Tirith Rhaw" progress="Progress ${VALUE}/${MAXVALUE} of Iron Collected" default="0" min="0" max="10"/>
 <conditionWorldEvent id="1879093189" propertyId="268441683" propertyName="WE_Ettenmoors_TR_Player_Boiling">
 <compoundWorldEventCondition operator="AND">
 <worldEventCondition worldEventID="1879093187" worldEventName="WE_Ettenmoors_TR_Player_Oil" operator="EQUAL" value="10"/>
@@ -75,8 +75,8 @@
 </compoundWorldEventCondition>
 </conditionWorldEvent>
 <booleanWorldEvent id="1879093190" propertyId="268441678" propertyName="WE_Ettenmoors_TR_Player_Support" default="false"/>
-<integerWorldEvent id="1879093191" propertyId="268441708" propertyName="WE_Ettenmoors_Lug_Player_Oil" description="卢加扎格大锅燃料" progress="油料收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879093192" propertyId="268441677" propertyName="WE_Ettenmoors_Lug_Player_Cauldron" description="为卢加扎格熔炉筹备铁器" progress="铁矿收集进度${VALUE}/${MAXVALUE}" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093191" propertyId="268441708" propertyName="WE_Ettenmoors_Lug_Player_Oil" description="Oil for the Cauldron of Lugazag" progress="Progress ${VALUE}/${MAXVALUE} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093192" propertyId="268441677" propertyName="WE_Ettenmoors_Lug_Player_Cauldron" description="Iron for the Cauldron of Lugazag" progress="Progress ${VALUE}/${MAXVALUE} of Iron Collected" default="0" min="0" max="10"/>
 <booleanWorldEvent id="1879093193" propertyId="268441735" propertyName="WE_Ettenmoors_Lug_Player_Support" default="false"/>
 <booleanWorldEvent id="1879093194" propertyId="268441715" propertyName="WE_Ettenmoors_Grim_Player_Harvesters" default="false"/>
 <booleanWorldEvent id="1879093195" propertyId="268441676" propertyName="WE_Ettenmoors_Grim_Player_Support" default="false"/>
@@ -87,9 +87,9 @@
 <booleanWorldEvent id="1879093202" propertyId="268441693" propertyName="WE_Ettenmoors_TA_Player_Reinforce_West" default="false"/>
 <booleanWorldEvent id="1879093210" propertyId="268441704" propertyName="WE_Ettenmoors_TA_Player_Rockwithers" default="false"/>
 <booleanWorldEvent id="1879093463" propertyId="268441833" propertyName="WE_TalkLikeACorsairDay_Active" default="false"/>
-<booleanWorldEvent id="1879093544" propertyId="268441848" propertyName="WE_Annuminas_Camp1_Control" description="格怀尔班德庭院（The Courtyard of Gwaelband）" progress=" 格威尔班德目前由${VALUE:安努米纳斯守卫者[1]|安努米纳斯入侵者}掌控。\n\n当格威尔班德、克洛希尔与蒂尔班德全部归属安努米纳斯守卫者管辖后，所有玩家击杀怪物获取的安努米纳斯守卫者声望将获得加成奖励。" default="false"/>
-<booleanWorldEvent id="1879093545" propertyId="268441847" propertyName="WE_Annuminas_Camp2_Control" description="克洛希尔水路" progress=" 克洛希尔目前由${VALUE:安努米纳斯守卫者[1]|安努米纳斯入侵者}掌控。\n\n当格威尔班德、克洛希尔与蒂尔班德全部归属安努米纳斯守卫者管辖后，所有玩家击杀怪物获取的安努米纳斯守卫者声望将获得加成奖励。" default="false"/>
-<booleanWorldEvent id="1879093546" propertyId="268441845" propertyName="WE_Annuminas_Camp3_Control" description="蒂尔班瞭望塔" progress=" 蒂尔班德目前由${VALUE:安努米纳斯守卫者[1]|安努米纳斯入侵者}掌控。\n\n当格威尔班德、克洛希尔与蒂尔班德全部归属安努米纳斯守卫者管辖后，所有玩家击杀怪物获取的安努米纳斯守卫者声望将获得加成奖励。" default="false"/>
+<booleanWorldEvent id="1879093544" propertyId="268441848" propertyName="WE_Annuminas_Camp1_Control" description="The Courtyard of Gwaelband" progress=" Gwaelband is under the control of the ${VALUE:Wardens of Annúminas[1]|Invaders of Annúminas}.\n\nWhen Gwaelband, Clorhir, and Tirband are all under the control of the Wardens of Annúminas, all players receive a bonus to the Wardens of Annúminas Reputation gained from killing monsters." default="false"/>
+<booleanWorldEvent id="1879093545" propertyId="268441847" propertyName="WE_Annuminas_Camp2_Control" description="The Waterways of Clorhir" progress=" Clorhir is under the control of the ${VALUE:Wardens of Annúminas[1]|Invaders of Annúminas}.\n\nWhen Gwaelband, Clorhir, and Tirband are all under the control of the Wardens of Annúminas, all players receive a bonus to the Wardens of Annúminas Reputation gained from killing monsters." default="false"/>
+<booleanWorldEvent id="1879093546" propertyId="268441845" propertyName="WE_Annuminas_Camp3_Control" description="The Watchtower of Tirband" progress=" Tirband is under the control of the ${VALUE:Wardens of Annúminas[1]|Invaders of Annúminas}.\n\nWhen Gwaelband, Clorhir, and Tirband are all under the control of the Wardens of Annúminas, all players receive a bonus to the Wardens of Annúminas Reputation gained from killing monsters." default="false"/>
 <booleanWorldEvent id="1879094943" propertyId="268442030" propertyName="WE_Trollshaws_FrodoBilboBirthday_active" default="false"/>
 <booleanWorldEvent id="1879097156" propertyId="268442143" propertyName="WE_TestServer_EpicActive" default="false"/>
 <booleanWorldEvent id="1879097157" propertyId="268442138" propertyName="WE_TestServer_GearActive" default="false"/>
@@ -112,10 +112,10 @@
 <booleanWorldEvent id="1879101897" propertyId="268442513" propertyName="WE_Horse_Lvl25_Active" default="false"/>
 <integerWorldEvent id="1879102074" propertyId="268442527" propertyName="WE_Ettenmoors_Sessions" max="1"/>
 <booleanWorldEvent id="1879103512" propertyId="268442796" propertyName="WE_Real_SpringFestival_FestivalActive" default="false"/>
-<booleanWorldEvent id="1879108285" propertyId="268443133" propertyName="WE_Forochel_ControlPOI_Glacier" description="希尔耶营地" progress=" 海尔杰营地目前由${VALUE:佛洛切尔洛索斯人[1]|高瑞丹人}掌控。" default="false"/>
-<booleanWorldEvent id="1879108286" propertyId="268443132" propertyName="WE_Forochel_ControlPOI_Icebay" description="卡尔胡营地" progress=" 卡尔胡营地目前由${VALUE:佛洛切尔洛索斯人[1]|高瑞丹人}掌控。" default="false"/>
-<booleanWorldEvent id="1879108287" propertyId="268443135" propertyName="WE_Forochel_ControlPOI_TundraEast" description="皮恩提-莱里（Pynti-leiri）" progress=" 品蒂营地目前由${VALUE:佛洛切尔洛索斯人[1]|高瑞丹人}掌控。" default="false"/>
-<booleanWorldEvent id="1879108289" propertyId="268443131" propertyName="WE_Forochel_ControlPOI_TundraWest" description="诺尔苏营地" progress=" 诺苏营地目前由${VALUE:佛洛切尔洛索斯人[1]|高瑞丹人}掌控。" default="false"/>
+<booleanWorldEvent id="1879108285" propertyId="268443133" propertyName="WE_Forochel_ControlPOI_Glacier" description="Hylje-leiri" progress=" Hylje-leiri is under control of the ${VALUE:Lossoth of Forochel[1]|Gauredain}." default="false"/>
+<booleanWorldEvent id="1879108286" propertyId="268443132" propertyName="WE_Forochel_ControlPOI_Icebay" description="Karhu-leiri" progress=" Karhu-leiri is under control of the ${VALUE:Lossoth of Forochel[1]|Gauredain}." default="false"/>
+<booleanWorldEvent id="1879108287" propertyId="268443135" propertyName="WE_Forochel_ControlPOI_TundraEast" description="Pynti-leiri" progress=" Pynti-leiri is under control of the ${VALUE:Lossoth of Forochel[1]|Gauredain}." default="false"/>
+<booleanWorldEvent id="1879108289" propertyId="268443131" propertyName="WE_Forochel_ControlPOI_TundraWest" description="Norsu-leiri" progress=" Norsu-leiri is under control of the ${VALUE:Lossoth of Forochel[1]|Gauredain}." default="false"/>
 <integerWorldEvent id="1879111838" propertyId="268443643" propertyName="ZE_Boss10_CurrentStage" default="0" min="0" max="11"/>
 <booleanWorldEvent id="1879112132" propertyId="268443672" propertyName="we_anniversary_promotion_drops" default="false"/>
 <booleanWorldEvent id="1879112133" propertyId="268443671" propertyName="we_anniversary_promotion_vendors" default="false"/>
@@ -162,9 +162,9 @@
 <integerWorldEvent id="1879154062" propertyId="268446666" propertyName="ze_skirmish_level" default="0" min="0" max="160"/>
 <integerWorldEvent id="1879154063" propertyId="268446664" propertyName="ze_skirmish_group_size" default="0" min="0" max="100"/>
 <integerWorldEvent id="1879154064" propertyId="268446665" propertyName="ze_skirmish_difficulty" default="0" min="0" max="100"/>
-<integerWorldEvent id="1879154557" propertyId="268446725" propertyName="we_monsterplay_invasion_angmar" description="安格玛入侵事件" default="20" min="0" max="20"/>
-<integerWorldEvent id="1879154558" propertyId="268446726" propertyName="we_monsterplay_invasion_eregion" description="埃瑞吉安入侵事件" default="20" min="0" max="20"/>
-<integerWorldEvent id="1879154559" propertyId="268446724" propertyName="we_monsterplay_invasion_forochel" description="佛洛切尔入侵事件" default="20" min="0" max="20"/>
+<integerWorldEvent id="1879154557" propertyId="268446725" propertyName="we_monsterplay_invasion_angmar" description="The invasion of Angmar." default="20" min="0" max="20"/>
+<integerWorldEvent id="1879154558" propertyId="268446726" propertyName="we_monsterplay_invasion_eregion" description="The invasion of Eregion." default="20" min="0" max="20"/>
+<integerWorldEvent id="1879154559" propertyId="268446724" propertyName="we_monsterplay_invasion_forochel" description="The invasion of Forochel." default="20" min="0" max="20"/>
 <booleanWorldEvent id="1879158685" propertyId="268447148" propertyName="WE_summerfestival_gamble_shire_active" default="false"/>
 <booleanWorldEvent id="1879160837" propertyId="268447428" propertyName="WE_TestServer_Skirmish_Allowance_Active" default="false"/>
 <booleanWorldEvent id="1879160840" propertyId="268447429" propertyName="WE_TestServer_Skirmish_Levelup_Active" default="false"/>
@@ -189,7 +189,7 @@
 <integerWorldEvent id="1879183037" propertyId="268449850" propertyName="ze_skirmish_player_groupsizechoice" default="0" min="0" max="12"/>
 <booleanWorldEvent id="1879191808" propertyId="268450443" propertyName="WE_Store_Quest" default="true"/>
 <booleanWorldEvent id="1879196931" propertyId="268450545" propertyName="ze_ita_shire_instance_hobbit_3" default="false"/>
-<booleanWorldEvent id="1879198627" propertyId="268450653" propertyName="WE_ITA_Mysterious_Relics_Active" description="禁止触碰 - 神秘遗物活动状态" progress="" default="false"/>
+<booleanWorldEvent id="1879198627" propertyId="268450653" propertyName="WE_ITA_Mysterious_Relics_Active" description="DNT - Status of the Mysterious Relics event" progress="" default="false"/>
 <integerWorldEvent id="1879198844" propertyId="268450668" propertyName="we_winterfestival_snowballfight_status" default="0" min="0" max="3"/>
 <integerWorldEvent id="1879198845" propertyId="268450669" propertyName="we_winterfestival_eatingcontest_status" default="0" min="0" max="3"/>
 <booleanWorldEvent id="1879198846" propertyId="268450670" propertyName="we_winterfestival_eatingcontest_active" default="false"/>
@@ -205,7 +205,7 @@
 <integerWorldEvent id="1879208342" propertyId="268451412" propertyName="ze_innoftheforsaken_challenge_secretdoor" default="0" min="0" max="2"/>
 <integerWorldEvent id="1879208343" propertyId="268451413" propertyName="ze_innoftheforsaken_challenge_trapmechanism" default="0" min="0" max="10"/>
 <booleanWorldEvent id="1879215670" propertyId="268451915" propertyName="WE_ettenmoors_veteran_rewards" default="true"/>
-<booleanWorldEvent id="1879221870" propertyId="268452148" propertyName="WE_ripcord_dunland_wulfs_cleft" description="禁止触碰 - 因服务器性能关闭乌尔夫裂隙时为真。" default="false"/>
+<booleanWorldEvent id="1879221870" propertyId="268452148" propertyName="WE_ripcord_dunland_wulfs_cleft" description="DNT - True when Wulf's Cleft has been shutdown due to server performance." default="false"/>
 <integerWorldEvent id="1879222900" propertyId="268452195" propertyName="WE_Summerfestival_HobbitRace_Status" default="0" min="0" max="3"/>
 <integerWorldEvent id="1879222901" propertyId="268452196" propertyName="WE_Summerfestival_DwarfRace_Status" default="0" min="0" max="3"/>
 <booleanWorldEvent id="1879223060" propertyId="268452216" propertyName="WE_Festival_Egg_Farm" default="false"/>
@@ -216,118 +216,118 @@
 <booleanWorldEvent id="1879233898" propertyId="268454364" propertyName="we_rohanpreorder_active" default="false"/>
 <integerWorldEvent id="1879234278" propertyId="268454417" propertyName="we_rohanpreorder_repeatable_horse_quest" default="1" min="1" max="4"/>
 <integerWorldEvent id="1879234279" propertyId="268454416" propertyName="we_rohanpreorder_repeatble_farm_quest" default="1" min="1" max="4"/>
-<booleanWorldEvent id="1879259228" propertyId="268456222" propertyName="WE_hobbit_instance_story_quest" description="禁止触碰 - 洛汗副本集群的三人副本是否已开放？" default="false"/>
+<booleanWorldEvent id="1879259228" propertyId="268456222" propertyName="WE_hobbit_instance_story_quest" description="DNT - Have the Rohan Instance Cluster 3-mans been launched?" default="false"/>
 <booleanWorldEvent id="1879267633" propertyId="268457497" propertyName="WE_TestServer_MC_Allowance" default="false"/>
 <booleanWorldEvent id="1879283067" propertyId="268458959" propertyName="we_bounderevent_2013_serverunlock_complete" default="false"/>
 <booleanWorldEvent id="1879283077" propertyId="268458957" propertyName="we_bounderevent_2013_active" default="false"/>
-<integerWorldEvent id="1879286443" propertyId="268459106" propertyName="WE_Player_Level_Cap" description="禁止触碰 - 玩家等级上限，用于决定突袭与副本奖励容器。" progress="玩家等级上限${VALUE}/${MAXVALUE}" default="160" min="0" max="160"/>
+<integerWorldEvent id="1879286443" propertyId="268459106" propertyName="WE_Player_Level_Cap" description="DNT - This is the player level cap used to drive reward containers in skirmishes &amp; instances." progress="Player Level Cap ${VALUE}/${MAXVALUE}" default="160" min="0" max="160"/>
 <booleanWorldEvent id="1879302199" propertyId="268459546" propertyName="WE_TestServer_RaidDeedsActive" default="false"/>
 <integerWorldEvent id="1879303029" propertyId="268459628" propertyName="we_rohan_west_endgame_bestowal" default="1" min="1" max="30"/>
-<integerWorldEvent id="1879308561" propertyId="268459896" propertyName="WE_Gondor_West_Endgame_Unlock_1" description="多尔阿姆洛斯（Dol Amroth）- 埃敏·埃尔尼尔（Emyn Ernil）\n" progress="多尔阿姆洛斯（Dol Amroth）- 埃敏·埃尔尼尔（Emyn Ernil）：${VALUE}/${MAXVALUE}\n\n以重新开启埃敏·埃尔尼尔（Emyn Ernil）的洞窟。" default="0" min="0" max="8000"/>
-<integerWorldEvent id="1879308562" propertyId="268459897" propertyName="WE_Gondor_West_Endgame_Unlock_2" description="多尔阿姆洛斯（Dol Amroth）- 亡者之路（Paths of the Dead）\n" progress="多尔阿姆洛斯（Dol Amroth）- 亡者之路（Paths of the Dead）：${VALUE}/${MAXVALUE}\n\n以重新开启亡者之路（Paths of the Dead）的隧道。" default="0" min="0" max="12000"/>
-<booleanWorldEvent id="1879321679" propertyId="268460514" propertyName="WE_Bingo_Boffin_Active" description="禁止触碰 - 应保持假，直至准备开启宾果·博芬歌谣活动。" default="false"/>
-<integerWorldEvent id="1879321680" propertyId="268460515" propertyName="WE_Bingo_Boffin_Current_Week" description="禁止触碰 - 控制宾果·博芬歌谣的当前周次。" default="53" min="0" max="53"/>
-<integerWorldEvent id="1879335112" propertyId="268461051" propertyName="WE_Minas_Tirith_Current_Week" description="禁止触碰 - 控制米那斯提力斯战后任务链的当前周次。" default="0" min="0" max="7"/>
-<booleanWorldEvent id="1879335113" propertyId="268461052" propertyName="WE_Minas_Tirith_Active" description="禁止触碰 - 应保持假，直至准备开启宾果·博芬歌谣活动。" default="false"/>
-<booleanWorldEvent id="1879342622" propertyId="268461185" propertyName="WE_Anniversary_Event_Active" description="禁止触碰 - 真则允许玩家参与活动；假则禁用活动、任务进度、交付与兑换。" default="false"/>
-<integerWorldEvent id="1879342637" propertyId="268461186" propertyName="WE_Anniversary_Event_Current_Week" description="禁止触碰 - 控制周年庆寻宝活动的当前周次。" default="1" min="1" max="11"/>
-<integerWorldEvent id="1879354387" propertyId="268461333" propertyName="WE_mordor_gorgoroth_endgame_weekly_driver" description="禁止触碰 - 控制戈格罗斯当前周常任务。" default="1" min="1" max="4"/>
-<conditionWorldEvent id="1879354388" propertyId="268461336" propertyName="WE_Gorgoroth_Endgame_Event_1_Udun_DorAmarth" description="杜恩与多尔阿马斯区域精选内容。">
+<integerWorldEvent id="1879308561" propertyId="268459896" propertyName="WE_Gondor_West_Endgame_Unlock_1" description="Dol Amroth - Emyn Ernil\n" progress="Dol Amroth - Emyn Ernil: ${VALUE}/${MAXVALUE}\n\nTo re-open the caves of Emyn Ernil." default="0" min="0" max="8000"/>
+<integerWorldEvent id="1879308562" propertyId="268459897" propertyName="WE_Gondor_West_Endgame_Unlock_2" description="Dol Amroth - Paths of the Dead\n" progress="Dol Amroth - Paths of the Dead: ${VALUE}/${MAXVALUE}\n\nTo reopen the tunnels of the Paths of the Dead." default="0" min="0" max="12000"/>
+<booleanWorldEvent id="1879321679" propertyId="268460514" propertyName="WE_Bingo_Boffin_Active" description="DNT - Should be FALSE until we are ready to begin the Ballad of Bingo Boffin event." default="false"/>
+<integerWorldEvent id="1879321680" propertyId="268460515" propertyName="WE_Bingo_Boffin_Current_Week" description="DNT - Controls the current week of the Ballad of Bingo Boffin." default="53" min="0" max="53"/>
+<integerWorldEvent id="1879335112" propertyId="268461051" propertyName="WE_Minas_Tirith_Current_Week" description="DNT - Controls the current week of the Minas Tirith After Battle quest chain." default="0" min="0" max="7"/>
+<booleanWorldEvent id="1879335113" propertyId="268461052" propertyName="WE_Minas_Tirith_Active" description="DNT - Should be FALSE until we are ready to begin the Ballad of Bingo Boffin event." default="false"/>
+<booleanWorldEvent id="1879342622" propertyId="268461185" propertyName="WE_Anniversary_Event_Active" description="DNT - TRUE enables players to interact with the event; FALSE disables the event, quest progress, turn-in, and barter." default="false"/>
+<integerWorldEvent id="1879342637" propertyId="268461186" propertyName="WE_Anniversary_Event_Current_Week" description="DNT - Controls the current week of the Anniversary Event Scavenger Hunt." default="1" min="1" max="11"/>
+<integerWorldEvent id="1879354387" propertyId="268461333" propertyName="WE_mordor_gorgoroth_endgame_weekly_driver" description="DNT - Controls the current weekly quest in Gorgoroth." default="1" min="1" max="4"/>
+<conditionWorldEvent id="1879354388" propertyId="268461336" propertyName="WE_Gorgoroth_Endgame_Event_1_Udun_DorAmarth" description="Udûn and Dor Amarth Featured.">
 <worldEventCondition worldEventID="1879354390" worldEventName="WE_mordor_gorgoroth_endgame_daily_driver" operator="EQUAL" value="1"/>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879354389" propertyId="268461339" propertyName="WE_Gorgoroth_Endgame_Event_5_Agarnaith_Lhingris" description="阿加奈斯与林格里斯区域精选内容。">
+<conditionWorldEvent id="1879354389" propertyId="268461339" propertyName="WE_Gorgoroth_Endgame_Event_5_Agarnaith_Lhingris" description="Agarnaith and Lhingris Featured.">
 <worldEventCondition worldEventID="1879354390" worldEventName="WE_mordor_gorgoroth_endgame_daily_driver" operator="EQUAL" value="5"/>
 </conditionWorldEvent>
-<integerWorldEvent id="1879354390" propertyId="268461331" propertyName="WE_mordor_gorgoroth_endgame_daily_driver" description="禁止触碰 - 控制戈格罗斯当前终局日常配置。" default="1" min="1" max="5"/>
-<conditionWorldEvent id="1879354391" propertyId="268461334" propertyName="WE_Gorgoroth_Endgame_Event_3_DorAmarth_Agarnaith" description="多尔阿玛斯与阿加奈斯区域精选内容。">
+<integerWorldEvent id="1879354390" propertyId="268461331" propertyName="WE_mordor_gorgoroth_endgame_daily_driver" description="DNT - Controls the current endgame daily configuration in Gorgoroth." default="1" min="1" max="5"/>
+<conditionWorldEvent id="1879354391" propertyId="268461334" propertyName="WE_Gorgoroth_Endgame_Event_3_DorAmarth_Agarnaith" description="Dor Amarth and Agarnaith Featured.">
 <worldEventCondition worldEventID="1879354390" worldEventName="WE_mordor_gorgoroth_endgame_daily_driver" operator="EQUAL" value="3"/>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879354392" propertyId="268461337" propertyName="WE_mordor_gorgoroth_endgame_weekly_2" description="周常任务：阵营誓约任务">
+<conditionWorldEvent id="1879354392" propertyId="268461337" propertyName="WE_mordor_gorgoroth_endgame_weekly_2" description="Weekly Quest: Allegiance Quests.">
 <worldEventCondition worldEventID="1879354387" worldEventName="WE_mordor_gorgoroth_endgame_weekly_driver" operator="EQUAL" value="2"/>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879354393" propertyId="268461338" propertyName="WE_mordor_gorgoroth_endgame_weekly_3" description="周常任务：灾祸征伐">
+<conditionWorldEvent id="1879354393" propertyId="268461338" propertyName="WE_mordor_gorgoroth_endgame_weekly_3" description="Weekly Quest: Scourges.">
 <worldEventCondition worldEventID="1879354387" worldEventName="WE_mordor_gorgoroth_endgame_weekly_driver" operator="EQUAL" value="3"/>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879354394" propertyId="268461332" propertyName="WE_Gorgoroth_Endgame_Event_2_Lhingris_TalathUrui" description="林格里斯与塔拉斯乌鲁伊区域精选内容。">
+<conditionWorldEvent id="1879354394" propertyId="268461332" propertyName="WE_Gorgoroth_Endgame_Event_2_Lhingris_TalathUrui" description="Lhingris and Talath Úrui Featured.">
 <worldEventCondition worldEventID="1879354390" worldEventName="WE_mordor_gorgoroth_endgame_daily_driver" operator="EQUAL" value="2"/>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879354395" propertyId="268461330" propertyName="WE_Gorgoroth_Endgame_Event_4_Udun_TalathUrui" description="乌顿（Udûn）与塔拉斯·乌鲁伊（Talath Úrui）精选推荐。">
+<conditionWorldEvent id="1879354395" propertyId="268461330" propertyName="WE_Gorgoroth_Endgame_Event_4_Udun_TalathUrui" description="Udûn and Talath Úrui Featured.">
 <worldEventCondition worldEventID="1879354390" worldEventName="WE_mordor_gorgoroth_endgame_daily_driver" operator="EQUAL" value="4"/>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879354396" propertyId="268461335" propertyName="WE_mordor_gorgoroth_endgame_weekly_1" description="周常任务：资源副本">
+<conditionWorldEvent id="1879354396" propertyId="268461335" propertyName="WE_mordor_gorgoroth_endgame_weekly_1" description="Weekly Quest: Resource Instances.">
 <worldEventCondition worldEventID="1879354387" worldEventName="WE_mordor_gorgoroth_endgame_weekly_driver" operator="EQUAL" value="1"/>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879360096" propertyId="268461398" propertyName="WE_mordor_gorgoroth_endgame_weekly_4" description="周常任务：团队副本">
+<conditionWorldEvent id="1879360096" propertyId="268461398" propertyName="WE_mordor_gorgoroth_endgame_weekly_4" description="Weekly Quest: Group Instances.">
 <worldEventCondition worldEventID="1879354387" worldEventName="WE_mordor_gorgoroth_endgame_weekly_driver" operator="EQUAL" value="4"/>
 </conditionWorldEvent>
-<integerWorldEvent id="1879360115" propertyId="268461399" propertyName="WE_fall_festival_maze_driver" description="禁止触碰 - 控制丰收节场地当前激活的迷宫。" default="1" min="1" max="5"/>
-<integerWorldEvent id="1879365394" propertyId="268461473" propertyName="WE_Episodic_LRR_Current_Week" description="禁止触碰 - 控制宾果·博芬歌谣的当前周次。" default="0" min="0" max="16"/>
-<integerWorldEvent id="1879366907" propertyId="268461516" propertyName="WE_mirkwood_north_endgame_daily_driver" description="禁止触碰 - 控制北方要塞区域当前终局日常配置。" default="1" min="1" max="3"/>
-<conditionWorldEvent id="1879366908" propertyId="268461518" propertyName="WE_Mirkwood_North_Endgame_Driven_Daily_Set_2" description="禁止触碰 - 北方要塞日常任务组2。">
+<integerWorldEvent id="1879360115" propertyId="268461399" propertyName="WE_fall_festival_maze_driver" description="DNT - Controls which maze is currently active in the harvest festival space" default="1" min="1" max="5"/>
+<integerWorldEvent id="1879365394" propertyId="268461473" propertyName="WE_Episodic_LRR_Current_Week" description="DNT - Controls the current week of the Ballad of Bingo Boffin." default="0" min="0" max="16"/>
+<integerWorldEvent id="1879366907" propertyId="268461516" propertyName="WE_mirkwood_north_endgame_daily_driver" description="DNT - Controls the current endgame daily configuration in the Strongholds of the North region." default="1" min="1" max="3"/>
+<conditionWorldEvent id="1879366908" propertyId="268461518" propertyName="WE_Mirkwood_North_Endgame_Driven_Daily_Set_2" description="DNT - Set 2 of Stronghold of the North Dailies.">
 <worldEventCondition worldEventID="1879366907" worldEventName="WE_mirkwood_north_endgame_daily_driver" operator="EQUAL" value="2"/>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879366909" propertyId="268461519" propertyName="WE_Mirkwood_North_Endgame_Driven_Daily_Set_3" description="禁止触碰 - 北方要塞日常任务组3。">
+<conditionWorldEvent id="1879366909" propertyId="268461519" propertyName="WE_Mirkwood_North_Endgame_Driven_Daily_Set_3" description="DNT - Set 3 of Stronghold of the North Dailies.">
 <worldEventCondition worldEventID="1879366907" worldEventName="WE_mirkwood_north_endgame_daily_driver" operator="EQUAL" value="3"/>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879366910" propertyId="268461517" propertyName="WE_Mirkwood_North_Endgame_Driven_Daily_Set_1" description="禁止触碰 - 北方要塞日常任务组1。">
+<conditionWorldEvent id="1879366910" propertyId="268461517" propertyName="WE_Mirkwood_North_Endgame_Driven_Daily_Set_1" description="DNT - Set 1 of Stronghold of the North Dailies.">
 <worldEventCondition worldEventID="1879366907" worldEventName="WE_mirkwood_north_endgame_daily_driver" operator="EQUAL" value="1"/>
 </conditionWorldEvent>
 <booleanWorldEvent id="1879370502" propertyId="268461580" propertyName="WE_Event_DurinsDay_Active" default="false"/>
 <integerWorldEvent id="1879371698" propertyId="268461582" propertyName="WE_Event_DurinsDay_Counter" default="0" min="0" max="3"/>
-<integerWorldEvent id="1879378972" propertyId="268461621" propertyName="WE_dwarfholds_endgame_optional_objective" description="禁止触碰 - 配置铁砧副本十三王战中可登场的矮人国王。" default="1" min="1" max="11"/>
-<booleanWorldEvent id="1879379701" propertyId="268461635" propertyName="WE_dwarfholds_eredmithrin_instance_leading_charge_lock" description="禁止触碰 - 用于关闭锡尔·贡杜难度3的最终挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879379702" propertyId="268461636" propertyName="WE_dwarfholds_eredmithrin_instance_tier_3_lock" description="禁止触碰 - 用于关闭锡尔·贡杜难度3的最终挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879381183" propertyId="268461665" propertyName="WE_server_legendary_active" description="禁止触碰 - 标记服务器是否为传奇服务器。" default="false"/>
-<integerWorldEvent id="1879382936" propertyId="268461707" propertyName="WE_dwarfholds_eredmithrin_instance_raid_gate" description="禁止触碰 - 解锁冬砧团队副本难度3。" default="2" min="0" max="10"/>
-<integerWorldEvent id="1879384820" propertyId="268461729" propertyName="WE_ev_skirmish_driver" description="禁止触碰 - 控制当前生成特殊活动怪物的突袭副本组。" default="1" min="1" max="4"/>
-<booleanWorldEvent id="1879384939" propertyId="268461745" propertyName="WE_EV_Skirmish_Active" description="禁止触碰 - 真则允许玩家参与活动；假则禁用活动、任务进度、交付与兑换。" default="false"/>
-<booleanWorldEvent id="1879387325" propertyId="268461786" propertyName="WE_Vales_Anduin_Shades_Swamp_Active" description="禁止触碰 - 真则启用沼泽阴影U24.2更新内容。" default="false"/>
+<integerWorldEvent id="1879378972" propertyId="268461621" propertyName="WE_dwarfholds_endgame_optional_objective" description="DNT - Controls the configuration of available Dwarf Kings during the 13 Kings encounter in the Anvil raid." default="1" min="1" max="11"/>
+<booleanWorldEvent id="1879379701" propertyId="268461635" propertyName="WE_dwarfholds_eredmithrin_instance_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final encounter 'challenge' of Thikil-gundu on Tier 3." default="false"/>
+<booleanWorldEvent id="1879379702" propertyId="268461636" propertyName="WE_dwarfholds_eredmithrin_instance_tier_3_lock" description="DNT - Used to end the initial window of time to complete the final encounter 'challenge' of Thikil-gundu on Tier 3." default="false"/>
+<booleanWorldEvent id="1879381183" propertyId="268461665" propertyName="WE_server_legendary_active" description="DNT - Used to denote whether a server is one of our legendary servers." default="false"/>
+<integerWorldEvent id="1879382936" propertyId="268461707" propertyName="WE_dwarfholds_eredmithrin_instance_raid_gate" description="DNT - Gates Tier 3 of Anvil of Winterstith raid." default="2" min="0" max="10"/>
+<integerWorldEvent id="1879384820" propertyId="268461729" propertyName="WE_ev_skirmish_driver" description="DNT - Controls which set of Skirmish are currently spawning the special event monsters." default="1" min="1" max="4"/>
+<booleanWorldEvent id="1879384939" propertyId="268461745" propertyName="WE_EV_Skirmish_Active" description="DNT - TRUE enables players to interact with the event; FALSE disables the event, quest progress, turn-in, and barter." default="false"/>
+<booleanWorldEvent id="1879387325" propertyId="268461786" propertyName="WE_Vales_Anduin_Shades_Swamp_Active" description="DNT - TRUE enables Shades in the Swamp U24.2 update." default="false"/>
 <integerWorldEvent id="1879387811" propertyId="268461801" propertyName="WE_Lootbox_bonus_embers_motes" default="0" min="0" max="3"/>
-<integerWorldEvent id="1879389090" propertyId="268461868" propertyName="WE_minas_morgul_instance_tier_gate" description="管控米那斯魔窟三人副本可用难度阶位的配置参数。" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879389510" propertyId="268461873" propertyName="WE_vales_anduin_instance_tier_gate" description="禁止触碰 - 配置基德祖尔·卡拉6人副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879390899" propertyId="268461897" propertyName="WE_minas_morgul_instance_leading_charge_lock" description="禁止触碰 - 用于关闭米那斯魔窟难度3的最终3人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879391334" propertyId="268461907" propertyName="WE_vales_anduin_kidzul_kalah_instance_leading_charge_lock" description="禁止触碰 - 用于关闭锡尔·贡杜难度3的最终挑战任务初始时限窗口。" default="false"/>
-<integerWorldEvent id="1879396486" propertyId="268462038" propertyName="WE_minas_morgul_instance_raid_tier_gate" description="禁止触碰 - 配置米那斯魔窟雷莫坎特团队副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879396487" propertyId="268462039" propertyName="WE_minas_morgul_instance_6man_tier_gate" description="禁止触碰 - 配置米那斯魔窟6人副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879398039" propertyId="268462059" propertyName="WE_minas_morgul_instance_6man_leading_charge_lock" description="禁止触碰 - 用于关闭米那斯魔窟难度3的最终6人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879398040" propertyId="268462058" propertyName="WE_minas_morgul_instance_raid_leading_charge_lock" description="禁止触碰 - 用于关闭米那斯魔窟难度3的最终团队挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879401392" propertyId="268462097" propertyName="WE_Treasure_Bugan_Active" description="禁止触碰 - 真则允许玩家参与活动；假则禁用活动、任务进度、交付与兑换。" default="false"/>
-<booleanWorldEvent id="1879405280" propertyId="268462162" propertyName="WE_secret_stone_2_raid_boss_active" description="禁止触碰 - 用于启用秘石2团队首领" default="false"/>
-<booleanWorldEvent id="1879405281" propertyId="268462161" propertyName="WE_secret_stone_2_active" description="禁止触碰 - 用于开启秘石2任务线" default="false"/>
-<booleanWorldEvent id="1879405493" propertyId="268462171" propertyName="WE_PVP_War_Event_Control" description="禁止触碰 - 用于开启PvP团队事件。" default="false"/>
+<integerWorldEvent id="1879389090" propertyId="268461868" propertyName="WE_minas_morgul_instance_tier_gate" description="Controls the configuration of available tiers for 3man instances in Minas Morgul." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879389510" propertyId="268461873" propertyName="WE_vales_anduin_instance_tier_gate" description="DNT - Controls the configuration of available tiers for Kidzul Kalah 6man." default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879390899" propertyId="268461897" propertyName="WE_minas_morgul_instance_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final 3-man encounter 'challenge' of Minas Morgul on Tier 3." default="false"/>
+<booleanWorldEvent id="1879391334" propertyId="268461907" propertyName="WE_vales_anduin_kidzul_kalah_instance_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final encounter 'challenge' of Thikil-gundu on Tier 3." default="false"/>
+<integerWorldEvent id="1879396486" propertyId="268462038" propertyName="WE_minas_morgul_instance_raid_tier_gate" description="DNT - Controls the configuration of available tiers for Remmorchant raid in Minas Morgul." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879396487" propertyId="268462039" propertyName="WE_minas_morgul_instance_6man_tier_gate" description="DNT - Controls the configuration of available tiers for 6man instances in Minas Morgul." default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879398039" propertyId="268462059" propertyName="WE_minas_morgul_instance_6man_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Minas Morgul on Tier 3." default="false"/>
+<booleanWorldEvent id="1879398040" propertyId="268462058" propertyName="WE_minas_morgul_instance_raid_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final raid encounter 'challenge' of Minas Morgul on Tier 3." default="false"/>
+<booleanWorldEvent id="1879401392" propertyId="268462097" propertyName="WE_Treasure_Bugan_Active" description="DNT - TRUE enables players to interact with the event; FALSE disables the event, quest progress, turn-in, and barter." default="false"/>
+<booleanWorldEvent id="1879405280" propertyId="268462162" propertyName="WE_secret_stone_2_raid_boss_active" description="DNT - Used to turn on Secret Stone 2 Raid Boss" default="false"/>
+<booleanWorldEvent id="1879405281" propertyId="268462161" propertyName="WE_secret_stone_2_active" description="DNT - Used to turn on Secret Stone 2 Quest Arc" default="false"/>
+<booleanWorldEvent id="1879405493" propertyId="268462171" propertyName="WE_PVP_War_Event_Control" description="DNT - Used to turn on PvP team event." default="false"/>
 <booleanWorldEvent id="1879406114" propertyId="268462177" propertyName="WE_WeddingFestival_FestivalActive" default="false"/>
-<booleanWorldEvent id="1879406912" propertyId="268462207" propertyName="WE_secret_stone_2_puzzle_leading_the_charge_lock" description="禁止触碰 - 冲锋先导谜题伟业锁定" default="false"/>
-<booleanWorldEvent id="1879409038" propertyId="268462280" propertyName="WE_Elderslade_Missions_Active" description="禁止触碰 - 真则启用埃尔德斯雷德任务。" default="true"/>
-<integerWorldEvent id="1879409039" propertyId="268462282" propertyName="WE_Integer_Elderslade_Mission_Config" description="禁止触碰 - 控制每日可接取的埃尔德斯雷德任务" default="1" min="1" max="7"/>
-<integerWorldEvent id="1879409040" propertyId="268462281" propertyName="WE_Integer_Elderslade_Raid_Tier_Gate" description="禁止触碰 - 控制埃尔德斯雷德团队副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879409934" propertyId="268462362" propertyName="WE_Elderslade_Raid_Aotc" description="禁止触碰 - 用于关闭埃尔德斯雷德难度3/4/5的最终团队挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879411822" propertyId="268462392" propertyName="WE_Elderslade_6man_Aotc" description="禁止触碰 - 用于关闭埃尔德斯雷德难度3/4/5的最终6人挑战任务初始时限窗口。" default="false"/>
-<integerWorldEvent id="1879411823" propertyId="268462393" propertyName="WE_Integer_Elderslade_6man_Tier_Gate" description="禁止触碰 - 控制埃尔德斯雷德6人副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879414604" propertyId="268462443" propertyName="WE_Integer_Wildwood_Instance_Tier_Gate" description="禁止触碰 - 控制怀尔德伍德副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879415646" propertyId="268462467" propertyName="WE_Wildwood_Instances_Aotc_Gate" description="禁止触碰 - 用于关闭怀尔德伍德副本难度3/4/5的最终6人挑战任务初始时限窗口。" default="false"/>
-<integerWorldEvent id="1879416224" propertyId="268462474" propertyName="WE_Integer_Azanulbizar_Raid_Tier_Gate" description="禁止触碰 - 控制阿扎努比扎团队副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879416226" propertyId="268462473" propertyName="WE_Azanulbizar_Raid_Aotc_Gate" description="禁止触碰 - 用于关闭阿扎努比扎团队副本难度3/4/5的初始时限窗口。" default="false"/>
-<integerWorldEvent id="1879417260" propertyId="268462516" propertyName="WE_Integer_Gundabad_Mission_Config" description="禁止触碰 - 控制每日可接取的贡达巴德任务" default="1" min="1" max="6"/>
-<integerWorldEvent id="1879421042" propertyId="268462661" propertyName="WE_gundabad_3man_instance_tier_gate" description="禁止触碰 - 配置贡达巴德3人副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879421161" propertyId="268462662" propertyName="WE_gundabad_3man_instance_leading_charge_lock" description="禁止触碰 - 用于关闭米那斯魔窟难度3的最终3人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879422162" propertyId="268462684" propertyName="WE_gundabad_6man_instance_leading_charge_lock" description="禁止触碰 - 用于关闭贡达巴德难度3的最终6人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879422163" propertyId="268462685" propertyName="WE_gundabad_12man_raid_leading_charge_lock" description="禁止触碰 - 用于关闭贡达巴德难度3的最终12人挑战任务初始时限窗口。" default="false"/>
-<integerWorldEvent id="1879422165" propertyId="268462686" propertyName="WE_gundabad_6man_instance_tier_gate" description="禁止触碰 - 配置贡达巴德6人副本的可用难度层级" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879406912" propertyId="268462207" propertyName="WE_secret_stone_2_puzzle_leading_the_charge_lock" description="DNT - Leading the Charge lock for Puzzle deed" default="false"/>
+<booleanWorldEvent id="1879409038" propertyId="268462280" propertyName="WE_Elderslade_Missions_Active" description="DNT - TRUE enables Elderslade missions." default="true"/>
+<integerWorldEvent id="1879409039" propertyId="268462282" propertyName="WE_Integer_Elderslade_Mission_Config" description="DNT - Controls which elderslade missions are available each day" default="1" min="1" max="7"/>
+<integerWorldEvent id="1879409040" propertyId="268462281" propertyName="WE_Integer_Elderslade_Raid_Tier_Gate" description="DNT - Controls which tiers (if any) of the Elderslade Raid are available" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879409934" propertyId="268462362" propertyName="WE_Elderslade_Raid_Aotc" description="DNT - Used to end the initial window of time to complete the final raid encounter 'challenge' of Elderslade on Tier 3/4/5." default="false"/>
+<booleanWorldEvent id="1879411822" propertyId="268462392" propertyName="WE_Elderslade_6man_Aotc" description="DNT - Used to end the initial window of time to complete the final 6man encounter 'challenge' of Elderslade on Tier 3/4/5." default="false"/>
+<integerWorldEvent id="1879411823" propertyId="268462393" propertyName="WE_Integer_Elderslade_6man_Tier_Gate" description="DNT - Controls which tiers (if any) of the Elderslade 6man are available" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879414604" propertyId="268462443" propertyName="WE_Integer_Wildwood_Instance_Tier_Gate" description="DNT - Controls which tiers (if any) of the Wildwood Instances are available" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879415646" propertyId="268462467" propertyName="WE_Wildwood_Instances_Aotc_Gate" description="DNT - Used to end the initial window of time to complete the final 6man encounter 'challenge' of Wildwood Instances on Tier 3/4/5." default="false"/>
+<integerWorldEvent id="1879416224" propertyId="268462474" propertyName="WE_Integer_Azanulbizar_Raid_Tier_Gate" description="DNT - Controls which tiers (if any) of the Azanulbizar Raid are available" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879416226" propertyId="268462473" propertyName="WE_Azanulbizar_Raid_Aotc_Gate" description="DNT - Used to end the initial window of time to complete the Azanulbizar Raid on Tier 3/4/5." default="false"/>
+<integerWorldEvent id="1879417260" propertyId="268462516" propertyName="WE_Integer_Gundabad_Mission_Config" description="DNT - Controls which gundabad missions are available each day" default="1" min="1" max="6"/>
+<integerWorldEvent id="1879421042" propertyId="268462661" propertyName="WE_gundabad_3man_instance_tier_gate" description="DNT - Controls the configuration of available tiers for 3man instances in Gundabad." default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879421161" propertyId="268462662" propertyName="WE_gundabad_3man_instance_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final 3-man encounter 'challenge' of Minas Morgul on Tier 3." default="false"/>
+<booleanWorldEvent id="1879422162" propertyId="268462684" propertyName="WE_gundabad_6man_instance_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Gundabad on Tier 3." default="false"/>
+<booleanWorldEvent id="1879422163" propertyId="268462685" propertyName="WE_gundabad_12man_raid_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final 12-man encounter 'challenge' of Gundabad on Tier 3." default="false"/>
+<integerWorldEvent id="1879422165" propertyId="268462686" propertyName="WE_gundabad_6man_instance_tier_gate" description="DNT - Controls the configuration of available tiers for 6man instances in Gundabad." default="0" min="0" max="10"/>
 <booleanWorldEvent id="1879447582" propertyId="268463172" propertyName="we_anniversaryreward_2022" default="false"/>
-<integerWorldEvent id="1879448934" propertyId="268463230" propertyName="WE_Integer_Private_Scaling_Cardolan_Black_Grave_Tier_Gate" description="禁止触碰 - 配置卡多兰黑墓副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879448937" propertyId="268463231" propertyName="WE_Boolean_Private_Scaling_Cardolan_Black_Grave_Leading_Charge_Lock" description="禁止触碰 - 用于关闭贡达巴德难度3的最终6人挑战任务初始时限窗口。" default="false"/>
-<integerWorldEvent id="1879450950" propertyId="268463342" propertyName="WE_Integer_U34_BTS_Mission_Config" description="禁止触碰 - 控制U34暗影前夕每日可接任务。" default="1" min="1" max="9"/>
-<booleanWorldEvent id="1879457171" propertyId="268463617" propertyName="WE_PVMP_Versus_Event_Control" description="禁止触碰 - 用于开启PvP团队事件。" default="false"/>
-<integerWorldEvent id="1879457172" propertyId="268463618" propertyName="WE_Integer_PVMP_Counter_MP" description="禁止触碰 - 控制游戏内玩家可接取的活跃任务数量。" default="0" min="0" max="6"/>
-<integerWorldEvent id="1879457173" propertyId="268463616" propertyName="WE_Integer_PVMP_Counter_Player" description="禁止触碰 - 控制游戏内怪物玩家可接取的活跃任务数量。" default="0" min="0" max="6"/>
-<integerWorldEvent id="1879457213" propertyId="268463619" propertyName="WE_Integer_Private_Scaling_Angmar_Reborn_12man_Castle_Tier_Gate" description="禁止触碰 - 控制重生安格玛 Gwathrenost 团队副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879457248" propertyId="268463622" propertyName="WE_Integer_Private_Scaling_Angmar_Reborn_3man_Glasshouse_Tier_Gate" description="禁止触碰 - 控制重生安格玛桑特·洛尔三人副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879457279" propertyId="268463626" propertyName="WE_Integer_Private_Scaling_Angmar_Reborn_6man_Sewers_Tier_Gate" description="禁止触碰 - 控制重生安格玛萨格罗斯6人副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879457561" propertyId="268463641" propertyName="WE_Integer_Private_Scaling_Angmar_Reborn_3man_Apothecary_Tier_Gate" description="禁止触碰 - 控制重生安格玛陶里斯加尔三人副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879457728" propertyId="268463669" propertyName="WE_Boolean_Private_Scaling_Angmar_Reborn_12man_Castle_LTC_Lock" description="禁止触碰 - 用于关闭贡达巴德难度3的最终6人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879457729" propertyId="268463667" propertyName="WE_Boolean_Private_Scaling_Angmar_Reborn_3man_Apothecary_LTC_Lock" description="禁止触碰 - 用于关闭贡达巴德难度3的最终6人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879457730" propertyId="268463666" propertyName="WE_Boolean_Private_Scaling_Angmar_Reborn_3man_Glasshouse_LTC_Lock" description="禁止触碰 - 用于关闭贡达巴德难度3的最终6人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879457731" propertyId="268463668" propertyName="WE_Boolean_Private_Scaling_Angmar_Reborn_6man_Sewers_LTC_Lock" description="禁止触碰 - 用于关闭贡达巴德难度3的最终6人挑战任务初始时限窗口。" default="false"/>
+<integerWorldEvent id="1879448934" propertyId="268463230" propertyName="WE_Integer_Private_Scaling_Cardolan_Black_Grave_Tier_Gate" description="DNT - Controls the configuration of available tiers for the Black Grave instance in Cardolan." default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879448937" propertyId="268463231" propertyName="WE_Boolean_Private_Scaling_Cardolan_Black_Grave_Leading_Charge_Lock" description="DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Gundabad on Tier 3." default="false"/>
+<integerWorldEvent id="1879450950" propertyId="268463342" propertyName="WE_Integer_U34_BTS_Mission_Config" description="DNT - Controls which U34 Before the Shadow missions are available each day." default="1" min="1" max="9"/>
+<booleanWorldEvent id="1879457171" propertyId="268463617" propertyName="WE_PVMP_Versus_Event_Control" description="DNT - Used to turn on PvP team event." default="false"/>
+<integerWorldEvent id="1879457172" propertyId="268463618" propertyName="WE_Integer_PVMP_Counter_MP" description="DNT - Controls the number of active quests available to the game world for players." default="0" min="0" max="6"/>
+<integerWorldEvent id="1879457173" propertyId="268463616" propertyName="WE_Integer_PVMP_Counter_Player" description="DNT - Controls the number of active quests available to the game world for monster players." default="0" min="0" max="6"/>
+<integerWorldEvent id="1879457213" propertyId="268463619" propertyName="WE_Integer_Private_Scaling_Angmar_Reborn_12man_Castle_Tier_Gate" description="DNT - Controls the available tiers for Gwathrenost Raid in Angmar Reborn." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879457248" propertyId="268463622" propertyName="WE_Integer_Private_Scaling_Angmar_Reborn_3man_Glasshouse_Tier_Gate" description="DNT - Controls the available tiers for Sant Lhoer 3player in Angmar Reborn." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879457279" propertyId="268463626" propertyName="WE_Integer_Private_Scaling_Angmar_Reborn_6man_Sewers_Tier_Gate" description="DNT - Controls the available tiers for Sagroth 6player in Angmar Reborn." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879457561" propertyId="268463641" propertyName="WE_Integer_Private_Scaling_Angmar_Reborn_3man_Apothecary_Tier_Gate" description="DNT - Controls the available tiers for Thaurisgar 3player in Angmar Reborn." default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879457728" propertyId="268463669" propertyName="WE_Boolean_Private_Scaling_Angmar_Reborn_12man_Castle_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Gundabad on Tier 3." default="false"/>
+<booleanWorldEvent id="1879457729" propertyId="268463667" propertyName="WE_Boolean_Private_Scaling_Angmar_Reborn_3man_Apothecary_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Gundabad on Tier 3." default="false"/>
+<booleanWorldEvent id="1879457730" propertyId="268463666" propertyName="WE_Boolean_Private_Scaling_Angmar_Reborn_3man_Glasshouse_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Gundabad on Tier 3." default="false"/>
+<booleanWorldEvent id="1879457731" propertyId="268463668" propertyName="WE_Boolean_Private_Scaling_Angmar_Reborn_6man_Sewers_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Gundabad on Tier 3." default="false"/>
 <booleanWorldEvent id="1879463474" propertyId="268463908" propertyName="WE_Ettenmoors_Lug_Monster_Inner_Door" default="false"/>
 <conditionWorldEvent id="1879463475" propertyId="268463900" propertyName="WE_Ettenmoors_Lug_Player_Outer_Door">
 <compoundWorldEventCondition operator="AND">
@@ -366,9 +366,9 @@
 <integerWorldEvent id="1879463489" propertyId="268463905" propertyName="we_ettenmoors_lug_monster_ext_reinforce" default="0" min="0" max="5"/>
 <booleanWorldEvent id="1879463490" propertyId="268463907" propertyName="WE_Ettenmoors_TR_Monster_Inner_Door" default="false"/>
 <booleanWorldEvent id="1879464179" propertyId="268463950" propertyName="WE_Ettenmoors_Sapling_Event_Bool" default="true"/>
-<booleanWorldEvent id="1879465729" propertyId="268463990" propertyName="we_crafting_forester_event_boolean" description="禁止触碰 - 判定游戏内是否开放林务员制作活动。" default="false"/>
-<integerWorldEvent id="1879465730" propertyId="268463993" propertyName="we_crafting_forester_chetwood_status" description="禁止触碰 - 记录切特伍德林务员制作活动当前参与玩家数量。" default="30" min="0" max="30"/>
-<conditionWorldEvent id="1879465731" propertyId="268463987" propertyName="we_crafting_forester_chetwood_recruiting" description="禁止触碰 - 判定切特伍德林务员活动是否正在招募参赛者。">
+<booleanWorldEvent id="1879465729" propertyId="268463990" propertyName="we_crafting_forester_event_boolean" description="DNT - Determines whether or not the forester crafting events are available in the game world." default="false"/>
+<integerWorldEvent id="1879465730" propertyId="268463993" propertyName="we_crafting_forester_chetwood_status" description="DNT - Controls the number of players that are currently enrolled in the Chetwood forester crafting event." default="30" min="0" max="30"/>
+<conditionWorldEvent id="1879465731" propertyId="268463987" propertyName="we_crafting_forester_chetwood_recruiting" description="DNT - Determines whether the chetwood forester event is currently recruiting contestants.">
 <compoundWorldEventCondition operator="AND">
 <worldEventCondition worldEventID="1879465729" worldEventName="we_crafting_forester_event_boolean" operator="EQUAL" value="1"/>
 <worldEventCondition worldEventID="1879465730" worldEventName="we_crafting_forester_chetwood_status" operator="LESS_OR_EQUAL" value="15"/>
@@ -376,76 +376,76 @@
 </compoundWorldEventCondition>
 </conditionWorldEvent>
 <integerWorldEvent id="1879467638" propertyId="268463945" propertyName="we_ettenmoors_sapling_daily_int" default="1" min="1" max="4"/>
-<booleanWorldEvent id="1879474058" propertyId="268464245" propertyName="we_boolean_umbar_cape_dead_pool" description="禁止触碰 - 判定游戏内是否开放林务员制作活动。" default="false"/>
-<integerWorldEvent id="1879480358" propertyId="268464544" propertyName="WE_Integer_Private_Scaling_Umbar_3man_Rahal_Bakh_Tier_Gate" description="禁止触碰 - 控制乌姆巴尔拉哈尔·巴赫街道三人副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879480480" propertyId="268464545" propertyName="WE_Integer_Private_Scaling_Umbar_6man_Arean_Tier_Gate" description="禁止触碰 - 控制乌姆巴尔巴尔哈贝尔竞技场6人副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879482682" propertyId="268464539" propertyName="WE_Integer_Private_Scaling_Umbar_Kaiju_Island_Tier_Gate" description="禁止触碰 - 控制乌姆巴尔风暴之岛三人副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879482858" propertyId="268464577" propertyName="WE_umbar_3man_kaiju_instance_leading_charge_lock" description="禁止触碰 - 用于关闭乌姆巴尔怪兽岛副本难度5的最终3人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879482859" propertyId="268464579" propertyName="WE_umbar_6man_arena_instance_leading_charge_lock" description="禁止触碰 - 用于关闭乌姆巴尔竞技场6人副本难度5的最终6人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879482860" propertyId="268464576" propertyName="WE_umbar_3man_streets_instance_leading_charge_lock" description="禁止触碰 - 用于关闭乌姆巴尔街道副本难度5的最终3人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879482861" propertyId="268464578" propertyName="WE_umbar_12man_raid_leading_charge_lock" description="禁止触碰 - 用于关闭乌姆巴尔团队副本难度5的最终12人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879484627" propertyId="268464190" propertyName="WE_Ringwraith_Event_Control" description="禁止触碰 - 启用戒灵服务器事件。" progress="禁止触碰 - 启用戒灵服务器事件。" default="false"/>
-<integerWorldEvent id="1879485754" propertyId="268464727" propertyName="WE_u40_umbar_catacombs_kindred_tales_current_week" description="禁止触碰 - 控制U40亲族传说可接任务。" default="0" min="0" max="8"/>
-<booleanWorldEvent id="1879486974" propertyId="268464762" propertyName="we_crafting_thorinshall_pc_event_boolean" description="禁止触碰 - 将索林大厅勘探者/厨师活动设为开启。" default="false"/>
-<conditionWorldEvent id="1879486975" propertyId="268464763" propertyName="we_crafting_thorinshall_pc_event_recruiting" description="禁止触碰 - 启用时允许玩家获取活动主线任务。">
+<booleanWorldEvent id="1879474058" propertyId="268464245" propertyName="we_boolean_umbar_cape_dead_pool" description="DNT - Determines whether or not the forester crafting events are available in the game world." default="false"/>
+<integerWorldEvent id="1879480358" propertyId="268464544" propertyName="WE_Integer_Private_Scaling_Umbar_3man_Rahal_Bakh_Tier_Gate" description="DNT - Controls the available tiers for the Streets of Râhal Bakh 3 player in Umbar." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879480480" propertyId="268464545" propertyName="WE_Integer_Private_Scaling_Umbar_6man_Arean_Tier_Gate" description="DNT - Controls the available tiers for TBD  Arena of Barharbel 6player in Um bar." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879482682" propertyId="268464539" propertyName="WE_Integer_Private_Scaling_Umbar_Kaiju_Island_Tier_Gate" description="DNT - Controls the available tiers for the Isle of Storms 3player in Umbar." default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879482858" propertyId="268464577" propertyName="WE_umbar_3man_kaiju_instance_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final 3-man encounter 'challenge' of Kaiju Island Instance in Umbar on Tier 5." default="false"/>
+<booleanWorldEvent id="1879482859" propertyId="268464579" propertyName="WE_umbar_6man_arena_instance_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Arena 6 man in Umbar on Tier 5." default="false"/>
+<booleanWorldEvent id="1879482860" propertyId="268464576" propertyName="WE_umbar_3man_streets_instance_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final 3-man encounter 'challenge' of Streets Instance in Umbar on Tier 5." default="false"/>
+<booleanWorldEvent id="1879482861" propertyId="268464578" propertyName="WE_umbar_12man_raid_leading_charge_lock" description="DNT - Used to end the initial window of time to complete the final 12-man encounter 'challenge' of Raid in Umbar on Tier 5." default="false"/>
+<booleanWorldEvent id="1879484627" propertyId="268464190" propertyName="WE_Ringwraith_Event_Control" description="DNT - Activates the Ringwraith Server Event." progress="DNT - Activates the Ringwraith Server Event." default="false"/>
+<integerWorldEvent id="1879485754" propertyId="268464727" propertyName="WE_u40_umbar_catacombs_kindred_tales_current_week" description="DNT - Controls U40 tales of the kindred quests available." default="0" min="0" max="8"/>
+<booleanWorldEvent id="1879486974" propertyId="268464762" propertyName="we_crafting_thorinshall_pc_event_boolean" description="DNT - Sets the Thorin's Hall Prospector/Cook Event to true." default="false"/>
+<conditionWorldEvent id="1879486975" propertyId="268464763" propertyName="we_crafting_thorinshall_pc_event_recruiting" description="DNT - When enabled allow players to obtain the main quests for the event to be acquired.">
 <compoundWorldEventCondition operator="AND">
 <worldEventCondition worldEventID="1879486974" worldEventName="we_crafting_thorinshall_pc_event_boolean" operator="EQUAL" value="1"/>
 <worldEventCondition worldEventID="1879486984" worldEventName="we_crafting_thorinshall_pc_event_tracker" operator="EQUAL" value="6"/>
 </compoundWorldEventCondition>
 </conditionWorldEvent>
-<conditionWorldEvent id="1879486976" propertyId="268464764" propertyName="we_crafting_thorinshall_pc_event_status" description="禁止触碰 - 启用时允许玩家获取活动主线与支线任务。">
+<conditionWorldEvent id="1879486976" propertyId="268464764" propertyName="we_crafting_thorinshall_pc_event_status" description="DNT - When enabled allow players to obtain the main quests and supplemental quests for the event to be acquired.">
 <compoundWorldEventCondition operator="AND">
 <worldEventCondition worldEventID="1879486974" worldEventName="we_crafting_thorinshall_pc_event_boolean" operator="EQUAL" value="1"/>
 <worldEventCondition worldEventID="1879486984" worldEventName="we_crafting_thorinshall_pc_event_tracker" operator="LESS_OR_EQUAL" value="4"/>
 </compoundWorldEventCondition>
 </conditionWorldEvent>
-<integerWorldEvent id="1879486984" propertyId="268464766" propertyName="we_crafting_thorinshall_pc_event_tracker" description="禁止触碰 - 记录切特伍德林务员制作活动当前参与玩家数量。" default="12" min="0" max="12"/>
+<integerWorldEvent id="1879486984" propertyId="268464766" propertyName="we_crafting_thorinshall_pc_event_tracker" description="DNT - Controls the number of players that are currently enrolled in the Chetwood forester crafting event." default="12" min="0" max="12"/>
 <integerWorldEvent id="1879487885" propertyId="268464810" propertyName="we_ettenmoors_glory_seeker_active_p_int" default="0" min="0" max="5"/>
 <integerWorldEvent id="1879487886" propertyId="268464809" propertyName="we_ettenmoors_glory_seeker_active_mp_int" default="0" min="0" max="5"/>
 <booleanWorldEvent id="1879487887" propertyId="268464811" propertyName="we_ettenmoors_glory_seeker_active_bool" default="true"/>
-<integerWorldEvent id="1879488640" propertyId="268464697" propertyName="WE_Ringwraith_Event_Found_Ring_07" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="6" min="0" max="11"/>
-<integerWorldEvent id="1879488641" propertyId="268464694" propertyName="WE_Ringwraith_Event_Found_Ring_04" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="3" min="0" max="11"/>
-<integerWorldEvent id="1879488642" propertyId="268464698" propertyName="WE_Ringwraith_Event_Found_Ring_08" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="7" min="0" max="11"/>
-<integerWorldEvent id="1879488643" propertyId="268464695" propertyName="WE_Ringwraith_Event_Found_Ring_05" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="4" min="0" max="11"/>
-<integerWorldEvent id="1879488644" propertyId="268464700" propertyName="WE_Ringwraith_Event_Found_Ring_10" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="9" min="0" max="11"/>
-<integerWorldEvent id="1879488645" propertyId="268464699" propertyName="WE_Ringwraith_Event_Found_Ring_09" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="8" min="0" max="11"/>
-<integerWorldEvent id="1879488646" propertyId="268464701" propertyName="WE_Ringwraith_Event_Found_Ring_11" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="10" min="0" max="11"/>
-<integerWorldEvent id="1879488647" propertyId="268464703" propertyName="WE_Ringwraith_Event_Found_Ring_01" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="0" min="0" max="11"/>
-<integerWorldEvent id="1879488648" propertyId="268464702" propertyName="WE_Ringwraith_Event_Found_Ring_12" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="11" min="0" max="11"/>
-<integerWorldEvent id="1879488649" propertyId="268464692" propertyName="WE_Ringwraith_Event_Found_Ring_02" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="1" min="0" max="11"/>
-<integerWorldEvent id="1879488650" propertyId="268464696" propertyName="WE_Ringwraith_Event_Found_Ring_06" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="5" min="0" max="11"/>
-<integerWorldEvent id="1879488651" propertyId="268464693" propertyName="WE_Ringwraith_Event_Found_Ring_03" description="禁止触碰 - 控制各枚次级戒指的消失/生成速率。" progress="" default="2" min="0" max="11"/>
-<integerWorldEvent id="1879488707" propertyId="268464843" propertyName="WE_Integer_Private_Scaling_Yod_Rothog_6man_Tier_Gate" description="禁止触碰 - 控制待定 - 约德·罗索格副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879488708" propertyId="268464845" propertyName="WE_Integer_Private_Scaling_Ikorban_Imhular_6man_Tier_Gate" description="禁止触碰 - 控制伊科尔班待定 - 伊姆胡拉尔6人副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879488709" propertyId="268464842" propertyName="WE_Integer_Private_Scaling_Ikorban_Ambarul_3man_Tier_Gate" description="禁止触碰 - 控制伊科尔班待定 - 安巴鲁尔3人副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879488711" propertyId="268464844" propertyName="WE_Integer_Private_Scaling_Ikorban_Khudzagin_6man_Tier_Gate" description="禁止触碰 - 控制伊科尔班待定 - 库德·扎金6人副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879491461" propertyId="268464954" propertyName="WE_Boolean_Private_Scaling_Ikorban_Imhular_6man_LTC_Lock" description="禁止触碰 - 用于关闭伊科尔班伊姆胡拉尔6人副本难度5的最终3人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879491462" propertyId="268464952" propertyName="WE_Boolean_Private_Scaling_Ikorban_Urashdar_Raid_LTC_Lock" description="禁止触碰 - 用于关闭伊科尔班乌拉什达尔团队副本难度5的最终12人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879491463" propertyId="268464955" propertyName="WE_Boolean_Private_Scaling_Ikorban_Ambarul_3man_LTC_Lock" description="禁止触碰 - 用于关闭伊科尔班安布拉尔3人副本难度5的最终3人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879491464" propertyId="268464953" propertyName="WE_Boolean_Private_Scaling_Ikorban_Khudzagin_6man_LTC_Lock" description="禁止触碰 - 用于关闭乌姆巴尔库扎金6人副本难度5的最终6人挑战任务初始时限窗口。" default="false"/>
-<booleanWorldEvent id="1879491465" propertyId="268464951" propertyName="WE_Boolean_Private_Scaling_Yod_Rothog_6man_LTC_Lock" description="禁止触碰 - 用于关闭乌姆巴尔街道副本难度5的最终3人挑战任务初始时限窗口。" default="false"/>
-<integerWorldEvent id="1879495393" propertyId="268465049" propertyName="WE_Integer_U42_Ikorban_Mission_Config" description="禁止触碰 - 控制每日可接取的U42伊科尔班峡谷任务。" default="1" min="1" max="5"/>
+<integerWorldEvent id="1879488640" propertyId="268464697" propertyName="WE_Ringwraith_Event_Found_Ring_07" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="6" min="0" max="11"/>
+<integerWorldEvent id="1879488641" propertyId="268464694" propertyName="WE_Ringwraith_Event_Found_Ring_04" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="3" min="0" max="11"/>
+<integerWorldEvent id="1879488642" propertyId="268464698" propertyName="WE_Ringwraith_Event_Found_Ring_08" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="7" min="0" max="11"/>
+<integerWorldEvent id="1879488643" propertyId="268464695" propertyName="WE_Ringwraith_Event_Found_Ring_05" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="4" min="0" max="11"/>
+<integerWorldEvent id="1879488644" propertyId="268464700" propertyName="WE_Ringwraith_Event_Found_Ring_10" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="9" min="0" max="11"/>
+<integerWorldEvent id="1879488645" propertyId="268464699" propertyName="WE_Ringwraith_Event_Found_Ring_09" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="8" min="0" max="11"/>
+<integerWorldEvent id="1879488646" propertyId="268464701" propertyName="WE_Ringwraith_Event_Found_Ring_11" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="10" min="0" max="11"/>
+<integerWorldEvent id="1879488647" propertyId="268464703" propertyName="WE_Ringwraith_Event_Found_Ring_01" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="0" min="0" max="11"/>
+<integerWorldEvent id="1879488648" propertyId="268464702" propertyName="WE_Ringwraith_Event_Found_Ring_12" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="11" min="0" max="11"/>
+<integerWorldEvent id="1879488649" propertyId="268464692" propertyName="WE_Ringwraith_Event_Found_Ring_02" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="1" min="0" max="11"/>
+<integerWorldEvent id="1879488650" propertyId="268464696" propertyName="WE_Ringwraith_Event_Found_Ring_06" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="5" min="0" max="11"/>
+<integerWorldEvent id="1879488651" propertyId="268464693" propertyName="WE_Ringwraith_Event_Found_Ring_03" description="DNT - Controls the decay/spawn rate of the each lesser ring." progress="" default="2" min="0" max="11"/>
+<integerWorldEvent id="1879488707" propertyId="268464843" propertyName="WE_Integer_Private_Scaling_Yod_Rothog_6man_Tier_Gate" description="DNT - Controls the available tiers for TBD Yod Rothog Instance." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879488708" propertyId="268464845" propertyName="WE_Integer_Private_Scaling_Ikorban_Imhular_6man_Tier_Gate" description="DNT - Controls the available tiers for TBD Imhular 6man in Ikorban." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879488709" propertyId="268464842" propertyName="WE_Integer_Private_Scaling_Ikorban_Ambarul_3man_Tier_Gate" description="DNT - Controls the available tiers for the TBD Ambarul 3man in Ikorban." default="0" min="0" max="10"/>
+<integerWorldEvent id="1879488711" propertyId="268464844" propertyName="WE_Integer_Private_Scaling_Ikorban_Khudzagin_6man_Tier_Gate" description="DNT - Controls the available tiers for TBD Khud Zagin 6man in Ikorban." default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879491461" propertyId="268464954" propertyName="WE_Boolean_Private_Scaling_Ikorban_Imhular_6man_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 3-man encounter 'challenge' of Imhular 6man Instance in Ikorban on Tier 5." default="false"/>
+<booleanWorldEvent id="1879491462" propertyId="268464952" propertyName="WE_Boolean_Private_Scaling_Ikorban_Urashdar_Raid_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 12-man encounter 'challenge' of Urashdar Raid in Ikorban on Tier 5." default="false"/>
+<booleanWorldEvent id="1879491463" propertyId="268464955" propertyName="WE_Boolean_Private_Scaling_Ikorban_Ambarul_3man_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 3-man encounter 'challenge' of Ambular 3man in Ikorban on Tier 5." default="false"/>
+<booleanWorldEvent id="1879491464" propertyId="268464953" propertyName="WE_Boolean_Private_Scaling_Ikorban_Khudzagin_6man_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Khudzagin 6 man in Umbar on Tier 5." default="false"/>
+<booleanWorldEvent id="1879491465" propertyId="268464951" propertyName="WE_Boolean_Private_Scaling_Yod_Rothog_6man_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 3-man encounter 'challenge' of Streets Instance in Umbar on Tier 5." default="false"/>
+<integerWorldEvent id="1879495393" propertyId="268465049" propertyName="WE_Integer_U42_Ikorban_Mission_Config" description="DNT - Controls which U42 Ikorbân Valley Missions are available each day." default="1" min="1" max="5"/>
 <booleanWorldEvent id="1879501838" propertyId="268465195" propertyName="we_anniversary_missions_active" description="" default="false"/>
 <booleanWorldEvent id="1879501839" propertyId="268465196" propertyName="we_midsummerfestival_si_festivalactive" description="" default="false"/>
-<integerWorldEvent id="1879502149" propertyId="268465200" propertyName="WE_Integer_Private_Scaling_Ikorban_DunShuma_6man_Tier_Gate" description="禁止触碰 - 控制伊科尔班敦·舒玛6人副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879502152" propertyId="268465201" propertyName="WE_Boolean_Private_Scaling_Ikorban_DunShuma_6man_LTC_Lock" description="禁止触碰 - 用于关闭伊科尔班敦·舒玛6人副本难度3的最终6人挑战任务初始时限窗口。" default="false"/>
+<integerWorldEvent id="1879502149" propertyId="268465200" propertyName="WE_Integer_Private_Scaling_Ikorban_DunShuma_6man_Tier_Gate" description="DNT - Controls the available tiers for Dun Shuma 6man in Ikorban." default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879502152" propertyId="268465201" propertyName="WE_Boolean_Private_Scaling_Ikorban_DunShuma_6man_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 6-,am encounter 'challenge' of Dun Shuma 6man Instance in Ikorban on Tier 3." default="false"/>
 <integerWorldEvent id="1879506320" propertyId="268465379" propertyName="we_ettenmoors_lug_player_ext_build" default="0" min="0" max="10"/>
 <integerWorldEvent id="1879506321" propertyId="268465381" propertyName="we_ettenmoors_tr_player_ext_build" default="0" min="0" max="10"/>
 <integerWorldEvent id="1879506322" propertyId="268465378" propertyName="we_ettenmoors_lug_monster_ext_build" default="0" min="0" max="10"/>
 <integerWorldEvent id="1879506323" propertyId="268465380" propertyName="we_ettenmoors_tr_monster_ext_build" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879507584" propertyId="268465392" propertyName="WE_Boolean_Private_Scaling_MurGhala_Idagal_6man_LTC_Lock" description="禁止触碰 - 用于关闭穆尔加拉埃马克·杜尔6人副本难度3的最终6人挑战任务初始时限窗口。" default="false"/>
-<integerWorldEvent id="1879507586" propertyId="268465393" propertyName="WE_Integer_Private_Scaling_MurGhala_Idagal_6man_Tier_Gate" description="禁止触碰 - 控制穆尔加拉埃马克·杜尔6人副本的可用难度层级" default="0" min="0" max="10"/>
-<booleanWorldEvent id="1879509761" propertyId="268465506" propertyName="WE_Boolean_Private_Scaling_MurGhala_Adagim_Raid_LTC_Lock" description="禁止触碰 - 用于关闭穆尔加拉阿达吉姆团队副本难度3的最终挑战任务初始时限窗口。" default="false"/>
-<integerWorldEvent id="1879509765" propertyId="268465507" propertyName="WE_Integer_Private_Scaling_MurGhala_Adagim_Raid_Tier_Gate" description="禁止触碰 - 控制穆尔加拉阿达吉姆团队副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879513952" propertyId="268465556" propertyName="WE_Integer_Private_Scaling_MurGhala_Kighan_3man_Tier_Gate" description="禁止触碰 - 控制穆尔加拉埃马克·杜尔6人副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879513953" propertyId="268465555" propertyName="WE_Integer_Private_Scaling_MurGhala_An_Sheru_6man_Tier_Gate" description="禁止触碰 - 控制穆尔加拉埃马克·杜尔6人副本的可用难度层级" default="0" min="0" max="10"/>
-<integerWorldEvent id="1879514617" propertyId="268465569" propertyName="WE_Integer_U46_Mur_Ghala_Mission_Config" description="禁止触碰 - 控制每日可接取的U46穆尔加拉任务。" default="1" min="1" max="5"/>
-<integerWorldEvent id="1879514830" propertyId="268465580" propertyName="WE_U46_Daily_Region_Quest_Status" description="禁止触碰 - 设置穆尔加拉可用终局日常任务，由世界事件系统管理" default="1" min="1" max="10"/>
-<booleanWorldEvent id="1879514831" propertyId="268465582" propertyName="WE_U46_Region_Quest_Status" description="禁止触碰 - 若设为激活，则穆尔加拉地区将开放160个终局任务。" default="true"/>
-<integerWorldEvent id="1879514832" propertyId="268465579" propertyName="WE_U46_Multi_Region_Quest_Status" description="禁止触碰 - 设置穆尔加拉当前轮换终局区域日常任务，由世界事件系统管理" default="1" min="1" max="5"/>
-<integerWorldEvent id="1879514833" propertyId="268465581" propertyName="WE_U46_Weekly_Region_Quest_Status" description="禁止触碰 - 设置穆尔加拉可用终局区域周常任务，由世界事件系统管理" default="1" min="1" max="4"/>
-<integerWorldEvent id="1879524943" propertyId="268465849" propertyName="WE_U48_Region_Quest_Status" description="禁止触碰 - 控制解锁穆尔加拉哈托卡利丘陵的哪一组弧形区域任务。" default="0" min="0" max="5"/>
+<booleanWorldEvent id="1879507584" propertyId="268465392" propertyName="WE_Boolean_Private_Scaling_MurGhala_Idagal_6man_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 6-,am encounter 'challenge' of Emax Dul 6man Instance in Mur Ghala on Tier 3." default="false"/>
+<integerWorldEvent id="1879507586" propertyId="268465393" propertyName="WE_Integer_Private_Scaling_MurGhala_Idagal_6man_Tier_Gate" description="DNT - Controls the available tiers for Emax Dul 6man in Mur Ghala" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879509761" propertyId="268465506" propertyName="WE_Boolean_Private_Scaling_MurGhala_Adagim_Raid_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final encounter 'challenge' of Adagim Raid Instance in Mur Ghala on Tier 3." default="false"/>
+<integerWorldEvent id="1879509765" propertyId="268465507" propertyName="WE_Integer_Private_Scaling_MurGhala_Adagim_Raid_Tier_Gate" description="DNT - Controls the available tiers for Adagim Raid in Mur Ghala" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879513952" propertyId="268465556" propertyName="WE_Integer_Private_Scaling_MurGhala_Kighan_3man_Tier_Gate" description="DNT - Controls the available tiers for Emax Dul 6man in Mur Ghala" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879513953" propertyId="268465555" propertyName="WE_Integer_Private_Scaling_MurGhala_An_Sheru_6man_Tier_Gate" description="DNT - Controls the available tiers for Emax Dul 6man in Mur Ghala" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879514617" propertyId="268465569" propertyName="WE_Integer_U46_Mur_Ghala_Mission_Config" description="DNT - Controls which U46 Mûr Ghala Missions are available each day." default="1" min="1" max="5"/>
+<integerWorldEvent id="1879514830" propertyId="268465580" propertyName="WE_U46_Daily_Region_Quest_Status" description="DNT - Sets the available end game daily quests for Mur Ghala, this is handled in the WES" default="1" min="1" max="10"/>
+<booleanWorldEvent id="1879514831" propertyId="268465582" propertyName="WE_U46_Region_Quest_Status" description="DNT - If set to active then there are 160 end game quests available in the Mur Ghala region." default="true"/>
+<integerWorldEvent id="1879514832" propertyId="268465579" propertyName="WE_U46_Multi_Region_Quest_Status" description="DNT - Sets the current rotating end game regional daily quest for Mur Ghala, this is handled in the WES" default="1" min="1" max="5"/>
+<integerWorldEvent id="1879514833" propertyId="268465581" propertyName="WE_U46_Weekly_Region_Quest_Status" description="DNT - Sets the available weekly end game regional quest for Mur Ghala, this is handled in the WES" default="1" min="1" max="4"/>
+<integerWorldEvent id="1879524943" propertyId="268465849" propertyName="WE_U48_Region_Quest_Status" description="DNT - Controls which set of Arc Region Quests for Hatakoli Fells in Mur Ghala is unlocked." default="0" min="0" max="5"/>
 <booleanWorldEvent id="1879525257" propertyId="268465859" propertyName="we_anniversaryreward_2026" default="false"/>
-<booleanWorldEvent id="1879526840" propertyId="268465902" propertyName="WE_Boolean_Private_Scaling_MurGhala_hatokalifells_6man_LTC_Lock" description="禁止触碰 - 用于结束在 3 阶穆尔加拉的哈托卡利山脉 6 人副本中完成最后 6 人遭遇战“挑战”的初始时间窗口。" default="false"/>
-<integerWorldEvent id="1879526841" propertyId="268465900" propertyName="WE_Integer_Private_Scaling_MurGhala_HatokaliFells_6man_Tier_Gate" description="禁止触碰 - 控制哈托卡利山脉 6人本的可用阶数" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879526840" propertyId="268465902" propertyName="WE_Boolean_Private_Scaling_MurGhala_hatokalifells_6man_LTC_Lock" description="DNT - Used to end the initial window of time to complete the final 6-,am encounter 'challenge' of Hatokali Fells 6man Instance in Mur Ghala on Tier 3." default="false"/>
+<integerWorldEvent id="1879526841" propertyId="268465900" propertyName="WE_Integer_Private_Scaling_MurGhala_HatokaliFells_6man_Tier_Gate" description="DNT - Controls the available tiers for Pagru-Kirit 6man in Hatokali Fells" default="0" min="0" max="10"/>
 </worldEvents>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><resourcesMaps>
 <resourcesMap profession="COOK" tier="1">
-<item id="1879049669" name="蘑菇"/>
-<item id="1879049672" name="黄洋葱"/>
+<item id="1879049669" name="Mushroom"/>
+<item id="1879049672" name="Yellow Onion"/>
 <map id="268454501"/>
 <map id="268454504"/>
 <map id="268454505"/>
@@ -17,10 +17,10 @@
 <map id="268455160"/>
 </resourcesMap>
 <resourcesMap profession="COOK" tier="2">
-<item id="1879061257" name="土豆"/>
-<item id="1879061342" name="蓝莓"/>
-<item id="1879061345" name="卷心菜"/>
-<item id="1879061395" name="蜂蜜滴"/>
+<item id="1879061257" name="Tater"/>
+<item id="1879061342" name="Bunch of Blueberries"/>
+<item id="1879061345" name="Cabbage"/>
+<item id="1879061395" name="Drop of Honey"/>
 <map id="268437576"/>
 <map id="268437592"/>
 <map id="268437603"/>
@@ -104,15 +104,15 @@
 <map id="268455160"/>
 </resourcesMap>
 <resourcesMap profession="COOK" tier="3">
-<item id="1879061259" name="绿洋葱"/>
+<item id="1879061259" name="Green Onion"/>
 <map id="268437603"/>
 <map id="268437634"/>
 <map id="268437653"/>
 <map id="268437678"/>
 </resourcesMap>
 <resourcesMap profession="COOK" tier="4">
-<item id="1879061415" name="草莓"/>
-<item id="1879061417" name="木莓"/>
+<item id="1879061415" name="Bunch of Strawberries"/>
+<item id="1879061417" name="Bunch of Raspberries"/>
 <map id="268437576"/>
 <map id="268437592"/>
 <map id="268437603"/>
@@ -189,10 +189,10 @@
 <map id="268454943"/>
 </resourcesMap>
 <resourcesMap profession="COOK" tier="5">
-<item id="1879061399" name="优质三叶草蜂蜜滴"/>
-<item id="1879061414" name="金色夏尔土豆"/>
-<item id="1879061416" name="大黄茎"/>
-<item id="1879061418" name="黑莓"/>
+<item id="1879061399" name="Drop of Fine Clover Honey"/>
+<item id="1879061414" name="Golden Shire Tater"/>
+<item id="1879061416" name="Stalk of Rhubarb"/>
+<item id="1879061418" name="Bunch of Blackberries"/>
 <map id="268437576"/>
 <map id="268437592"/>
 <map id="268437603"/>
@@ -274,7 +274,7 @@
 <map id="268455160"/>
 </resourcesMap>
 <resourcesMap profession="COOK" tier="10">
-<item id="1879342305" name="暮光菌伞"/>
+<item id="1879342305" name="Cap of Evengleam"/>
 <map id="268451973"/>
 <map id="268454501"/>
 <map id="268454504"/>
@@ -283,22 +283,22 @@
 <map id="268454507"/>
 </resourcesMap>
 <resourcesMap profession="COOK" tier="13">
-<item id="1879410562" name="可食用靛蓝叶"/>
+<item id="1879410562" name="Edible Indigo Leaf"/>
 <map id="268453516"/>
 <map id="268453519"/>
 </resourcesMap>
 <resourcesMap profession="COOK" tier="15">
-<item id="1879471522" name="沙加尼泥炭"/>
+<item id="1879471522" name="Clump of Shagâni Peat"/>
 <map id="268454949"/>
 </resourcesMap>
 <resourcesMap profession="COOK" tier="16">
-<item id="1879510013" name="阿达吉姆作物种子"/>
-<item id="1879517082" name="阿达吉姆茄子"/>
+<item id="1879510013" name="Adagím Crop Seeds"/>
+<item id="1879517082" name="Adagím Eggplant"/>
 <map id="268454949"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="1">
-<item id="1879077553" name="花楸树枝"/>
-<item id="1879087940" name="大型花楸树枝"/>
+<item id="1879077553" name="Rowan Branches"/>
+<item id="1879087940" name="Heavy Rowan Branches"/>
 <map id="268437576"/>
 <map id="268437653"/>
 <map id="268437678"/>
@@ -308,8 +308,8 @@
 <map id="268454010"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="2">
-<item id="1879077508" name="岑木树枝"/>
-<item id="1879087935" name="大型岑木树枝"/>
+<item id="1879077508" name="Ash Branches"/>
+<item id="1879087935" name="Heavy Ash Branches"/>
 <map id="268437576"/>
 <map id="268437603"/>
 <map id="268437634"/>
@@ -321,8 +321,8 @@
 <map id="268454004"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="3">
-<item id="1879079511" name="紫杉树枝"/>
-<item id="1879087931" name="大型紫杉树枝"/>
+<item id="1879079511" name="Yew Branches"/>
+<item id="1879087931" name="Heavy Yew Branches"/>
 <map id="268437603"/>
 <map id="268437634"/>
 <map id="268437653"/>
@@ -332,8 +332,8 @@
 <map id="268453922"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="4">
-<item id="1879080155" name="莱贝斯隆树枝"/>
-<item id="1879087929" name="大型莱贝斯隆树枝"/>
+<item id="1879080155" name="Lebethron Branches"/>
+<item id="1879087929" name="Heavy Lebethron Branches"/>
 <map id="268437592"/>
 <map id="268437603"/>
 <map id="268437615"/>
@@ -342,8 +342,8 @@
 <map id="268453878"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="5">
-<item id="1879080458" name="黑岑木树枝"/>
-<item id="1879087926" name="大型黑岑木树枝"/>
+<item id="1879080458" name="Black Ash Branches"/>
+<item id="1879087926" name="Heavy Black Ash Branches"/>
 <map id="268437615"/>
 <map id="268437653"/>
 <map id="268437691"/>
@@ -353,14 +353,14 @@
 <map id="268453878"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="6">
-<item id="1879107673" name="大型冬青木堆"/>
-<item id="1879107677" name="冬青木堆"/>
-<item id="1879148458" name="冬青树枝"/>
-<item id="1879148460" name="大型冬青树枝"/>
-<item id="1879498385" name="冬青树"/>
-<item id="1879498387" name="坚固的冬青树"/>
-<item id="1879498391" name="覆雪冬青树"/>
-<item id="1879498394" name="坚固覆雪冬青树"/>
+<item id="1879107673" name="Heavy Pile of Ilex Wood"/>
+<item id="1879107677" name="Pile of Ilex Wood"/>
+<item id="1879148458" name="Ilex Branches"/>
+<item id="1879148460" name="Heavy Ilex Branches"/>
+<item id="1879498385" name="Ilex Tree"/>
+<item id="1879498387" name="Sturdy Ilex Tree"/>
+<item id="1879498391" name="Snow-covered Ilex Tree"/>
+<item id="1879498394" name="Sturdy Snow-covered Ilex Tree"/>
 <map id="268442268"/>
 <map id="268442330"/>
 <map id="268442342"/>
@@ -377,8 +377,8 @@
 <map id="1879149945"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="7">
-<item id="1879210330" name="大型桦树枝"/>
-<item id="1879210331" name="桦树枝"/>
+<item id="1879210330" name="Heavy Birch Branches"/>
+<item id="1879210331" name="Birch Branches"/>
 <map id="268444443"/>
 <map id="268446984"/>
 <map id="268447030"/>
@@ -388,8 +388,8 @@
 <map id="268447390"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="8">
-<item id="1879239127" name="大型橡树枝"/>
-<item id="1879239165" name="橡树枝"/>
+<item id="1879239127" name="Heavy Oak Branches"/>
+<item id="1879239165" name="Oak Branches"/>
 <map id="268448407"/>
 <map id="268448410"/>
 <map id="268448413"/>
@@ -400,8 +400,8 @@
 <map id="268449752"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="9">
-<item id="1879273164" name="大型胡桃木枝"/>
-<item id="1879273166" name="胡桃木枝"/>
+<item id="1879273164" name="Heavy Walnut Branches"/>
+<item id="1879273166" name="Walnut Branches"/>
 <map id="268449746"/>
 <map id="268449749"/>
 <map id="268449752"/>
@@ -417,10 +417,10 @@
 <map id="268452083"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="10">
-<item id="1879328676" name="大型白杨树枝"/>
-<item id="1879328677" name="白杨树枝"/>
-<item id="1879343201" name="大型多节木枝"/>
-<item id="1879343202" name="多节木枝"/>
+<item id="1879328676" name="Heavy Poplar Branches"/>
+<item id="1879328677" name="Poplar Branches"/>
+<item id="1879343201" name="Heavy Gnarled Branches"/>
+<item id="1879343202" name="Gnarled Branches"/>
 <map id="268450940"/>
 <map id="268450942"/>
 <map id="268450944"/>
@@ -434,12 +434,12 @@
 <map id="268451973"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="11">
-<item id="1879351073" name="果戈洛斯树枝"/>
-<item id="1879351075" name="大型果戈洛斯树枝"/>
-<item id="1879353888" name="果戈洛斯木材"/>
-<item id="1879353889" name="大型果戈洛斯木材"/>
-<item id="1879365603" name="拉斯嘉兰树枝"/>
-<item id="1879365604" name="大型拉斯嘉兰树枝"/>
+<item id="1879351073" name="Gorgoroth Branches"/>
+<item id="1879351075" name="Heavy Gorgoroth Branches"/>
+<item id="1879353888" name="Gorgoroth Wood"/>
+<item id="1879353889" name="Heavy Gorgoroth Wood"/>
+<item id="1879365603" name="Lasgalen Branches"/>
+<item id="1879365604" name="Heavy Lasgalen Branches"/>
 <map id="268452249"/>
 <map id="268452250"/>
 <map id="268452251"/>
@@ -449,22 +449,22 @@
 <map id="1879354368"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="12">
-<item id="1879370486" name="荆棘林树枝"/>
-<item id="1879370488" name="大型荆棘林树枝"/>
-<item id="1879388526" name="河谷树枝"/>
-<item id="1879388527" name="大型河谷树枝"/>
+<item id="1879370486" name="Thornholt Branches"/>
+<item id="1879370488" name="Heavy Thornholt Branches"/>
+<item id="1879388526" name="Vales Branches"/>
+<item id="1879388527" name="Heavy Vales Branches"/>
 <map id="268452526"/>
 <map id="268452631"/>
 <map id="268452634"/>
 <map id="268453023"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="13">
-<item id="1879396357" name="大型魔多断枝"/>
-<item id="1879396358" name="魔多断枝"/>
-<item id="1879406846" name="长川树枝"/>
-<item id="1879406850" name="大型长川树枝"/>
-<item id="1879416189" name="覆霜冬青树枝"/>
-<item id="1879416190" name="大型覆霜冬青树枝"/>
+<item id="1879396357" name="Heavy Mordor Snag Branches"/>
+<item id="1879396358" name="Mordor Snag Branches"/>
+<item id="1879406846" name="Langflood Branches"/>
+<item id="1879406850" name="Heavy Langflood Branches"/>
+<item id="1879416189" name="Frost-rimed Ilex Branches"/>
+<item id="1879416190" name="Heavy Frost-rimed Ilex Branches"/>
 <map id="268453364"/>
 <map id="268453367"/>
 <map id="268453374"/>
@@ -474,10 +474,10 @@
 <map id="268453555"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="14">
-<item id="1879430413" name="风蚀黑岑木树枝"/>
-<item id="1879430416" name="大型黑岑木堆"/>
-<item id="1879430423" name="黑岑木堆"/>
-<item id="1879430441" name="大型风蚀黑岑木树枝"/>
+<item id="1879430413" name="Wind-swept Black Ash Branches"/>
+<item id="1879430416" name="Heavy Pile of Black Ash Wood"/>
+<item id="1879430423" name="Pile of Black Ash Wood"/>
+<item id="1879430441" name="Heavy Wind-swept Black Ash Branches"/>
 <map id="268453645"/>
 <map id="268453649"/>
 <map id="268453656"/>
@@ -492,12 +492,12 @@
 <map id="268454241"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="15">
-<item id="1879474052" name="大型棕榈树枝"/>
-<item id="1879474053" name="棕榈树枝"/>
-<item id="1879478317" name="海滨黑岑木树枝"/>
-<item id="1879478318" name="大型海滨黑岑木树枝"/>
-<item id="1879485020" name="遗弃木板"/>
-<item id="1879485061" name="大型遗弃木板"/>
+<item id="1879474052" name="Heavy Palm Branches"/>
+<item id="1879474053" name="Palm Branches"/>
+<item id="1879478317" name="Sea-side Black Ash Branches"/>
+<item id="1879478318" name="Heavy Sea-side Black Ash Branches"/>
+<item id="1879485020" name="Abandoned Planks"/>
+<item id="1879485061" name="Heavy Abandoned Planks"/>
 <map id="268454138"/>
 <map id="268454233"/>
 <map id="268454237"/>
@@ -520,10 +520,10 @@
 <map id="268454627"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="16">
-<item id="1879517175" name="大型柚木树枝"/>
-<item id="1879517180" name="柚木树枝"/>
-<item id="1879517819" name="无暇原木"/>
-<item id="1879517820" name="大型无暇原木"/>
+<item id="1879517175" name="Heavy Teak Branches"/>
+<item id="1879517180" name="Teak Branches"/>
+<item id="1879517819" name="Unblemished Log"/>
+<item id="1879517820" name="Heavy Unblemished Log"/>
 <map id="268437700"/>
 <map id="268454623"/>
 <map id="268454915"/>
@@ -534,9 +534,9 @@
 <map id="268455152"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="1">
-<item id="1879077401" name="锡矿矿床"/>
-<item id="1879077402" name="铜矿"/>
-<item id="1879087934" name="大型铜矿"/>
+<item id="1879077401" name="Tin Deposit"/>
+<item id="1879077402" name="Copper Deposit"/>
+<item id="1879087934" name="Rich Copper Deposit"/>
 <map id="268437576"/>
 <map id="268437653"/>
 <map id="268437678"/>
@@ -546,10 +546,10 @@
 <map id="268454010"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="2">
-<item id="1879077513" name="古墓铁矿"/>
-<item id="1879077514" name="银矿"/>
-<item id="1879087932" name="大型古墓铁矿"/>
-<item id="1879087938" name="大型银矿"/>
+<item id="1879077513" name="Barrow-iron Deposit"/>
+<item id="1879077514" name="Silver Deposit"/>
+<item id="1879087932" name="Rich Barrow-iron Deposit"/>
+<item id="1879087938" name="Rich Silver Deposit"/>
 <map id="268437576"/>
 <map id="268437603"/>
 <map id="268437634"/>
@@ -561,10 +561,10 @@
 <map id="268454004"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="3">
-<item id="1879079516" name="富铁矿"/>
-<item id="1879079517" name="金矿"/>
-<item id="1879087927" name="大型金矿"/>
-<item id="1879087933" name="大型富铁矿"/>
+<item id="1879079516" name="Rich Iron Deposit"/>
+<item id="1879079517" name="Gold Deposit"/>
+<item id="1879087927" name="Rich Gold Deposit"/>
+<item id="1879087933" name="Bountiful Iron Deposit"/>
 <map id="268437603"/>
 <map id="268437634"/>
 <map id="268437653"/>
@@ -574,10 +574,10 @@
 <map id="268453922"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="4">
-<item id="1879080160" name="矮人铁矿"/>
-<item id="1879080463" name="铂金矿"/>
-<item id="1879087936" name="大型铂金矿"/>
-<item id="1879087939" name="大型矮人铁矿"/>
+<item id="1879080160" name="Dwarf-iron Deposit"/>
+<item id="1879080463" name="Platinum Deposit"/>
+<item id="1879087936" name="Rich Platinum Deposit"/>
+<item id="1879087939" name="Rich Dwarf-iron Deposit"/>
 <map id="268437592"/>
 <map id="268437603"/>
 <map id="268437615"/>
@@ -586,10 +586,10 @@
 <map id="268453878"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="5">
-<item id="1879080464" name="远古铁矿"/>
-<item id="1879080465" name="远古银矿"/>
-<item id="1879087930" name="大型远古铁矿"/>
-<item id="1879087937" name="大型远古银矿"/>
+<item id="1879080464" name="Ancient Iron Deposit"/>
+<item id="1879080465" name="Ancient Silver Deposit"/>
+<item id="1879087930" name="Rich Ancient Iron Deposit"/>
+<item id="1879087937" name="Rich Ancient Silver Deposit"/>
 <map id="268437615"/>
 <map id="268437653"/>
 <map id="268437691"/>
@@ -606,12 +606,12 @@
 <map id="1879112699"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="6">
-<item id="1879288168" name="大型卡扎德矽卡岩矿"/>
-<item id="1879288169" name="卡扎德矽卡岩矿"/>
-<item id="1879498390" name="大型卡扎德矽卡岩矿"/>
-<item id="1879498393" name="大型覆雪卡扎德矽卡岩矿"/>
-<item id="1879498395" name="卡扎德矽卡岩矿"/>
-<item id="1879498396" name="覆雪卡扎德矽卡岩矿"/>
+<item id="1879288168" name="Rich Khazâd Skarn Deposit"/>
+<item id="1879288169" name="Khazâd Skarn Deposit"/>
+<item id="1879498390" name="Rich Khazâd Skarn Deposit"/>
+<item id="1879498393" name="Rich Snow-covered Khazâd Skarn Deposit"/>
+<item id="1879498395" name="Khazâd Skarn Deposit"/>
+<item id="1879498396" name="Snow-covered Khazâd Skarn Deposit"/>
 <map id="268442268"/>
 <map id="268442330"/>
 <map id="268442341"/>
@@ -630,8 +630,8 @@
 <map id="1879498226"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="7">
-<item id="1879210333" name="卡伦纳松矽卡岩矿"/>
-<item id="1879210334" name="大型卡伦纳松矽卡岩矿"/>
+<item id="1879210333" name="Calenard Skarn Deposit"/>
+<item id="1879210334" name="Rich Calenard Skarn Deposit"/>
 <map id="268444443"/>
 <map id="268446984"/>
 <map id="268447030"/>
@@ -641,8 +641,8 @@
 <map id="268447390"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="8">
-<item id="1879239161" name="骠骑国矽卡岩矿"/>
-<item id="1879239175" name="大型骠骑国矽卡岩矿"/>
+<item id="1879239161" name="Riddermark Skarn Deposit"/>
+<item id="1879239175" name="Rich Riddermark Skarn Deposit"/>
 <map id="268448407"/>
 <map id="268448410"/>
 <map id="268448413"/>
@@ -654,8 +654,8 @@
 <map id="1879240282"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="9">
-<item id="1879273161" name="伊欧子民矽卡岩矿"/>
-<item id="1879273163" name="大型伊欧子民矽卡岩矿"/>
+<item id="1879273161" name="Eorlingas Skarn Deposit"/>
+<item id="1879273163" name="Rich Eorlingas Skarn Deposit"/>
 <map id="268449746"/>
 <map id="268449749"/>
 <map id="268449752"/>
@@ -673,10 +673,10 @@
 <map id="1879281499"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="10">
-<item id="1879328665" name="大型阿诺瑞恩矽卡岩矿"/>
-<item id="1879328667" name="阿诺瑞恩矽卡岩矿"/>
-<item id="1879343197" name="大型达戈拉德废料堆"/>
-<item id="1879343198" name="达戈拉德废料堆"/>
+<item id="1879328665" name="Rich Anórien Skarn Deposit"/>
+<item id="1879328667" name="Anórien Skarn Deposit"/>
+<item id="1879343197" name="Rich Dagorlad Scrap Deposit"/>
+<item id="1879343198" name="Dagorlad Scrap Deposit"/>
 <map id="268450940"/>
 <map id="268450942"/>
 <map id="268450944"/>
@@ -691,10 +691,10 @@
 <map id="1879339693"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="11">
-<item id="1879351067" name="果戈洛斯矽卡岩矿"/>
-<item id="1879351068" name="大型果戈洛斯矽卡岩矿"/>
-<item id="1879365599" name="大型埃瑞博矽卡岩矿"/>
-<item id="1879365600" name="埃瑞博矽卡岩矿"/>
+<item id="1879351067" name="Gorgoroth Skarn Deposit"/>
+<item id="1879351068" name="Rich Gorgoroth Skarn Deposit"/>
+<item id="1879365599" name="Rich Erebor Skarn Deposit"/>
+<item id="1879365600" name="Erebor Skarn Deposit"/>
 <map id="268452166"/>
 <map id="268452249"/>
 <map id="268452250"/>
@@ -706,10 +706,10 @@
 <map id="268452663"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="12">
-<item id="1879370483" name="钢铁之地矽卡岩矿"/>
-<item id="1879370484" name="大型钢铁之地矽卡岩矿"/>
-<item id="1879388908" name="河谷矽卡岩矿"/>
-<item id="1879388910" name="大型河谷矽卡岩矿"/>
+<item id="1879370483" name="Ironfold Skarn Deposit"/>
+<item id="1879370484" name="Rich Ironfold Skarn Deposit"/>
+<item id="1879388908" name="Vales Skarn Deposit"/>
+<item id="1879388910" name="Rich Vales Skarn Deposit"/>
 <map id="268452526"/>
 <map id="268452631"/>
 <map id="268452634"/>
@@ -717,12 +717,12 @@
 <map id="268453023"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="13">
-<item id="1879396369" name="伊希尔矽卡岩矿"/>
-<item id="1879396370" name="大型伊希尔矽卡岩矿"/>
-<item id="1879406845" name="大型长川矽卡岩矿"/>
-<item id="1879406848" name="长川矽卡岩矿"/>
-<item id="1879416188" name="卡扎德银矿"/>
-<item id="1879416193" name="大型卡扎德银矿"/>
+<item id="1879396369" name="Ithil Skarn Deposit"/>
+<item id="1879396370" name="Rich Ithil Skarn Deposit"/>
+<item id="1879406845" name="Rich Langflood Skarn Deposit"/>
+<item id="1879406848" name="Langflood Skarn Deposit"/>
+<item id="1879416188" name="Khazâd-silver Deposit"/>
+<item id="1879416193" name="Rich Khazâd-silver Deposit"/>
 <map id="268453364"/>
 <map id="268453367"/>
 <map id="268453374"/>
@@ -734,8 +734,8 @@
 <map id="1879389689"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="14">
-<item id="1879430431" name="大型璀璨矽卡岩矿"/>
-<item id="1879430435" name="璀璨矽卡岩矿"/>
+<item id="1879430431" name="Rich Brilliant Skarn Deposit"/>
+<item id="1879430435" name="Brilliant Skarn Deposit"/>
 <map id="268453645"/>
 <map id="268453649"/>
 <map id="268453656"/>
@@ -750,10 +750,10 @@
 <map id="268454241"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="15">
-<item id="1879474050" name="大型斓彩铁矿"/>
-<item id="1879474054" name="斓彩铁矿"/>
-<item id="1879485036" name="大型遗弃斓彩矿石"/>
-<item id="1879485063" name="遗弃斓彩矿石"/>
+<item id="1879474050" name="Rich Iridescent Ore Deposit"/>
+<item id="1879474054" name="Iridescent Ore Deposit"/>
+<item id="1879485036" name="Abandoned Rich Iridescent Ore"/>
+<item id="1879485063" name="Abandoned Iridescent Ore"/>
 <map id="268454138"/>
 <map id="268454233"/>
 <map id="268454237"/>
@@ -776,8 +776,8 @@
 <map id="268454627"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="16">
-<item id="1879517167" name="大型银辉矿"/>
-<item id="1879517171" name="银辉矿"/>
+<item id="1879517167" name="Rich Silvered Ore Deposit"/>
+<item id="1879517171" name="Silvered Ore Deposit"/>
 <map id="268437700"/>
 <map id="268454623"/>
 <map id="268454915"/>
@@ -788,10 +788,10 @@
 <map id="268455152"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="1">
-<item id="1879054949" name="槐蓝"/>
-<item id="1879066722" name="蓍草根"/>
-<item id="1879070248" name="菘蓝"/>
-<item id="1879077557" name="破碎的陶罐"/>
+<item id="1879054949" name="Indigo Plant"/>
+<item id="1879066722" name="Yarrow Root"/>
+<item id="1879070248" name="Woad Plant"/>
+<item id="1879077557" name="Shattered Pitcher"/>
 <map id="268437576"/>
 <map id="268437592"/>
 <map id="268437603"/>
@@ -877,7 +877,7 @@
 <map id="1879048508"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="2">
-<item id="1879077512" name="破损古瓮"/>
+<item id="1879077512" name="Broken Urn"/>
 <map id="268437576"/>
 <map id="268437603"/>
 <map id="268437634"/>
@@ -897,7 +897,7 @@
 <map id="1879191807"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="3">
-<item id="1879079515" name="古老花瓶"/>
+<item id="1879079515" name="Antique Vase"/>
 <map id="268437603"/>
 <map id="268437634"/>
 <map id="268437653"/>
@@ -917,7 +917,7 @@
 <map id="1879191807"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="4">
-<item id="1879080159" name="遗忘的文本"/>
+<item id="1879080159" name="Forgotten Text"/>
 <map id="268437592"/>
 <map id="268437603"/>
 <map id="268437615"/>
@@ -928,8 +928,8 @@
 <map id="1879443714"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="5">
-<item id="1879080462" name="古董花瓶"/>
-<item id="1879398833" name="大型古董花瓶"/>
+<item id="1879080462" name="Ancient Vase"/>
+<item id="1879398833" name="Heavy Ancient Vase"/>
 <map id="268437615"/>
 <map id="268437691"/>
 <map id="268441431"/>
@@ -942,9 +942,9 @@
 <map id="1879443714"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="6">
-<item id="1879132489" name="智者宝匣"/>
-<item id="1879132490" name="智者宝匣"/>
-<item id="1879176355" name="智者宝匣"/>
+<item id="1879132489" name="Sage's Casket"/>
+<item id="1879132490" name="Sage's Locker"/>
+<item id="1879176355" name="Sage's Lockbox"/>
 <map id="268442268"/>
 <map id="268442330"/>
 <map id="268442342"/>
@@ -961,8 +961,8 @@
 <map id="1879149938"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="7">
-<item id="1879210337" name="重型镶边宝箱"/>
-<item id="1879210338" name="镶边宝箱"/>
+<item id="1879210337" name="Heavy Banded Coffer"/>
+<item id="1879210338" name="Banded Coffer"/>
 <map id="268446985"/>
 <map id="268447030"/>
 <map id="268447045"/>
@@ -971,8 +971,8 @@
 <map id="268447390"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="8">
-<item id="1879239128" name="华丽宝箱"/>
-<item id="1879239139" name="重型华丽宝箱"/>
+<item id="1879239128" name="Ornate Cache"/>
+<item id="1879239139" name="Heavy Ornate Cache"/>
 <map id="268448407"/>
 <map id="268448413"/>
 <map id="268448416"/>
@@ -989,8 +989,8 @@
 <map id="1879265588"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="9">
-<item id="1879273162" name="重型纹饰宝箱"/>
-<item id="1879273165" name="纹饰宝箱"/>
+<item id="1879273162" name="Heavy Adorned Chest"/>
+<item id="1879273165" name="Adorned Chest"/>
 <map id="268449746"/>
 <map id="268449749"/>
 <map id="268449752"/>
@@ -1009,10 +1009,10 @@
 <map id="1879316665"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="10">
-<item id="1879328672" name="重型瑰丽宝箱"/>
-<item id="1879328675" name="瑰丽宝箱"/>
-<item id="1879343199" name="瑰丽达戈拉德宝箱"/>
-<item id="1879343200" name="重型瑰丽达戈拉德宝箱"/>
+<item id="1879328672" name="Heavy Lavish Chest"/>
+<item id="1879328675" name="Lavish Chest"/>
+<item id="1879343199" name="Lavish Dagorlad Chest"/>
+<item id="1879343200" name="Heavy Lavish Dagorlad Chest"/>
 <map id="268450942"/>
 <map id="268450944"/>
 <map id="268450946"/>
@@ -1028,10 +1028,10 @@
 <map id="1879339694"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="11">
-<item id="1879351071" name="重型果戈洛斯文物箱"/>
-<item id="1879351072" name="果戈洛斯文物箱"/>
-<item id="1879365618" name="重型河谷镇文物箱"/>
-<item id="1879365619" name="河谷镇文物箱"/>
+<item id="1879351071" name="Heavy Gorgoroth Artifact Chest"/>
+<item id="1879351072" name="Gorgoroth Artifact Chest"/>
+<item id="1879365618" name="Heavy Dale Artifact Chest"/>
+<item id="1879365619" name="Dale Artifact Chest"/>
 <map id="268452166"/>
 <map id="268452249"/>
 <map id="268452250"/>
@@ -1045,10 +1045,10 @@
 <map id="1879356000"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="12">
-<item id="1879370485" name="钢铁之地文物箱"/>
-<item id="1879370487" name="重型钢铁之地文物箱"/>
-<item id="1879388907" name="重型河谷文物箱"/>
-<item id="1879388909" name="河谷文物箱"/>
+<item id="1879370485" name="Ironfold Artifact Chest"/>
+<item id="1879370487" name="Heavy Ironfold Artifact Chest"/>
+<item id="1879388907" name="Heavy Vales Artifact Chest"/>
+<item id="1879388909" name="Vales Artifact Chest"/>
 <map id="268452631"/>
 <map id="268452634"/>
 <map id="268452655"/>
@@ -1056,10 +1056,10 @@
 <map id="268453023"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="13">
-<item id="1879396367" name="重型伊希尔文物箱"/>
-<item id="1879396368" name="伊希尔文物箱"/>
-<item id="1879416191" name="符石秘匣"/>
-<item id="1879416192" name="重型符石秘匣"/>
+<item id="1879396367" name="Heavy Ithil Artifact Chest"/>
+<item id="1879396368" name="Ithil Artifact Chest"/>
+<item id="1879416191" name="Runed Coffer"/>
+<item id="1879416192" name="Heavy Runed Coffer"/>
 <map id="268453364"/>
 <map id="268453367"/>
 <map id="268453374"/>
@@ -1071,8 +1071,8 @@
 <map id="1879395606"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="14">
-<item id="1879430414" name="智者之椟"/>
-<item id="1879430417" name="智者之椟"/>
+<item id="1879430414" name="Sage's Coffer"/>
+<item id="1879430417" name="Sage's Repository"/>
 <map id="268453645"/>
 <map id="268453649"/>
 <map id="268453656"/>
@@ -1083,9 +1083,9 @@
 <map id="268454138"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="15">
-<item id="1879471641" name="沙加尼蜡烛"/>
-<item id="1879474051" name="重型乌姆巴尔文物箱"/>
-<item id="1879474055" name="乌姆巴尔文物箱"/>
+<item id="1879471641" name="Shagâni Candle"/>
+<item id="1879474051" name="Heavy Artifact Chest"/>
+<item id="1879474055" name="Artifact Chest"/>
 <map id="268454237"/>
 <map id="268454239"/>
 <map id="268454241"/>
@@ -1107,8 +1107,8 @@
 <map id="1879470642"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="16">
-<item id="1879517165" name="完好的沙海遗物"/>
-<item id="1879517168" name="沙海遗物"/>
+<item id="1879517165" name="Well-preserved Desert Artifact"/>
+<item id="1879517168" name="Desert Artifact"/>
 <map id="268437700"/>
 <map id="268454623"/>
 <map id="268454915"/>

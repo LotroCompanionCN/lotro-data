@@ -1,551 +1,542 @@
 <?xml version="1.0" encoding="UTF-8"?><tasks>
-<task questId="1879196457" name="埃格雷人委托：破损木锤" itemId="1879111567" itemName="破损木锤" itemCount="10"/>
-<task questId="1879196513" name="埃格雷人委托：焦黑毛皮" itemId="1879104280" itemName="焦黑毛皮" itemCount="10"/>
-<task questId="1879196518" name="埃格雷人委托：暗色翅膀" itemId="1879104353" itemName="暗色翅膀" itemCount="10"/>
-<task questId="1879196562" name="埃格雷人委托：熏黑兽皮" itemId="1879104701" itemName="熏黑兽皮" itemCount="10"/>
-<task questId="1879196563" name="埃格雷人委托：破裂的喙" itemId="1879104543" itemName="破裂的喙" itemCount="10"/>
-<task questId="1879196564" name="埃格雷人委托：熏黑剑鞘" itemId="1879104712" itemName="熏黑剑鞘" itemCount="10"/>
-<task questId="1879196565" name="埃格雷人委托：大翅膀" itemId="1879104355" itemName="大翅膀" itemCount="10"/>
-<task questId="1879196566" name="埃格雷人委托：粗糙毛皮" itemId="1879104282" itemName="粗糙毛皮" itemCount="10"/>
-<task questId="1879196567" name="埃格雷人委托：大块污物" itemId="1879104234" itemName="大块污物" itemCount="10"/>
-<task questId="1879196568" name="埃格雷人委托：锯齿鸟喙" itemId="1879104545" itemName="锯齿鸟喙" itemCount="10"/>
-<task questId="1879196569" name="埃格雷人委托：坚硬甲壳" itemId="1879104576" itemName="坚硬甲壳" itemCount="10"/>
-<task questId="1879196570" name="埃格雷人委托：粗糙皮毛" itemId="1879104703" itemName="粗糙皮毛" itemCount="10"/>
-<task questId="1879196574" name="埃格雷人委托：破损木矛" itemId="1879111569" itemName="破损木矛" itemCount="10"/>
-<task questId="1879196575" name="埃格雷人委托：坚韧剑鞘" itemId="1879104714" itemName="坚韧剑鞘" itemCount="10"/>
-<task questId="1879196599" name="埃格雷人委托：有缺陷的耳朵" itemId="1879104385" itemName="有缺陷的耳朵" itemCount="10"/>
-<task questId="1879196610" name="埃格雷人委托：蓬松羽毛" itemId="1879104457" itemName="蓬松羽毛" itemCount="10"/>
-<task questId="1879196611" name="埃格雷人委托：有缺陷的黏液" itemId="1879104426" itemName="有缺陷的黏液" itemCount="10"/>
-<task questId="1879196613" name="埃格雷人委托：粗糙毛皮" itemId="1879104282" itemName="粗糙毛皮" itemCount="10"/>
-<task questId="1879196614" name="埃格雷人委托：大块污物" itemId="1879104234" itemName="大块污物" itemCount="10"/>
-<task questId="1879196615" name="埃格雷人委托：坚韧甲壳" itemId="1879104576" itemName="坚硬甲壳" itemCount="10"/>
-<task questId="1879196617" name="埃格雷人委托：大型指骨" itemId="1879104244" itemName="大型指骨" itemCount="10"/>
-<task questId="1879196618" name="埃格雷人委托：光泽精华" itemId="1879104406" itemName="光泽精华" itemCount="10"/>
-<task questId="1879196619" name="埃格雷人委托：坚韧树枝" itemId="1879104555" itemName="坚韧树枝" itemCount="10"/>
-<task questId="1879196620" name="埃格雷人委托：弯曲树枝" itemId="1879104556" itemName="弯曲树枝" itemCount="10"/>
-<task questId="1879196621" name="埃格雷人委托：带疤的心材" itemId="1879104851" itemName="带疤的心材" itemCount="10"/>
-<task questId="1879196622" name="埃格雷人委托：黑心木" itemId="1879104852" itemName="黑心木" itemCount="10"/>
-<task questId="1879196623" name="埃格雷人委托：重型甲壳" itemId="1879104577" itemName="重型甲壳" itemCount="10"/>
-<task questId="1879196624" name="埃格雷人委托：破旧指骨" itemId="1879104245" itemName="破旧指骨" itemCount="10"/>
-<task questId="1879196625" name="埃格雷人委托：破损短弓" itemId="1879111570" itemName="破损短弓" itemCount="10"/>
-<task questId="1879196626" name="埃格雷人委托：沉重剑鞘" itemId="1879104715" itemName="沉重剑鞘" itemCount="10"/>
-<task questId="1879196627" name="埃格雷人委托：闪烁精华" itemId="1879104407" itemName="闪烁精华" itemCount="10"/>
-<task questId="1879196695" name="旧货社团委托：蓬乱毛皮" itemId="1879104289" itemName="蓬乱毛皮" itemCount="10"/>
-<task questId="1879196696" name="旧货社团委托：轻甲壳" itemId="1879104583" itemName="轻甲壳" itemCount="10"/>
-<task questId="1879196697" name="旧货社团委托：肮脏污秽" itemId="1879104241" itemName="肮脏污秽" itemCount="10"/>
-<task questId="1879196698" name="旧货社团委托：蓬乱兽皮" itemId="1879104710" itemName="蓬乱兽皮" itemCount="10"/>
-<task questId="1879196699" name="旧货社团委托：弯曲爪子" itemId="1879104231" itemName="弯曲爪子" itemCount="10"/>
-<task questId="1879196701" name="旧货社团委托：肮脏翅膀" itemId="1879104362" itemName="肮脏翅膀" itemCount="10"/>
-<task questId="1879196702" name="旧货社团委托：破损匕首" itemId="1879111582" itemName="破损匕首" itemCount="10"/>
-<task questId="1879196703" name="旧货社团委托：破损剑鞘" itemId="1879104721" itemName="破损剑鞘" itemCount="10"/>
-<task questId="1879196704" name="旧货社团委托：黏糊黏液" itemId="1879104433" itemName="黏糊黏液" itemCount="10"/>
-<task questId="1879196705" name="旧货社团委托：脏耳朵" itemId="1879104392" itemName="脏耳朵" itemCount="10"/>
-<task questId="1879196706" name="索林大厅委托：肮脏翅膀" itemId="1879104362" itemName="肮脏翅膀" itemCount="10"/>
-<task questId="1879196707" name="索林大厅委托：钝喙" itemId="1879104552" itemName="钝喙" itemCount="10"/>
-<task questId="1879196709" name="索林大厅委托：蓬乱羽毛" itemId="1879104464" itemName="蓬乱羽毛" itemCount="10"/>
-<task questId="1879196710" name="索林大厅委托：蓬乱毛皮" itemId="1879104289" itemName="蓬乱毛皮" itemCount="10"/>
-<task questId="1879196711" name="索林大厅委托：破损匕首" itemId="1879111582" itemName="破损匕首" itemCount="10"/>
-<task questId="1879196712" name="索林大厅委托：蓬乱兽皮" itemId="1879104710" itemName="蓬乱兽皮" itemCount="10"/>
-<task questId="1879196718" name="索林大厅委托：破损剑鞘" itemId="1879104721" itemName="破损剑鞘" itemCount="10"/>
-<task questId="1879196719" name="索林大厅委托：轻甲壳" itemId="1879104583" itemName="轻甲壳" itemCount="10"/>
-<task questId="1879196720" name="索林大厅委托：黏糊黏液" itemId="1879104433" itemName="黏糊黏液" itemCount="10"/>
-<task questId="1879196721" name="索林大厅委托：肮脏污秽" itemId="1879104241" itemName="肮脏污秽" itemCount="10"/>
-<task questId="1879196901" name="布雷人委托：破损斧头" itemId="1879111566" itemName="破损斧头" itemCount="10"/>
-<task questId="1879196907" name="布雷人委托：湿毛皮" itemId="1879104279" itemName="湿皮毛" itemCount="10"/>
-<task questId="1879196908" name="布雷人委托：焦黑污物" itemId="1879104232" itemName="焦黑污物" itemCount="10"/>
-<task questId="1879196909" name="布雷人委托：湿皮" itemId="1879104700" itemName="湿皮" itemCount="10"/>
-<task questId="1879196910" name="布雷人委托：破旧剑鞘" itemId="1879104711" itemName="破旧剑鞘" itemCount="10"/>
-<task questId="1879196911" name="布雷人委托：苔藓甲壳" itemId="1879104573" itemName="苔藓甲壳" itemCount="10"/>
-<task questId="1879196912" name="布雷人委托：破损木锤" itemId="1879111567" itemName="破损木锤" itemCount="10"/>
-<task questId="1879196913" name="布雷人委托：焦黑毛皮" itemId="1879104280" itemName="焦黑毛皮" itemCount="10"/>
-<task questId="1879196914" name="布雷人委托：熏黑兽皮" itemId="1879104701" itemName="熏黑兽皮" itemCount="10"/>
-<task questId="1879196915" name="布雷人委托：熏黑剑鞘" itemId="1879104712" itemName="熏黑剑鞘" itemCount="10"/>
-<task questId="1879196916" name="布雷人委托：锯齿爪子" itemId="1879104222" itemName="锯齿爪子" itemCount="10"/>
-<task questId="1879196917" name="布雷人委托：暗色翅膀" itemId="1879104353" itemName="暗色翅膀" itemCount="10"/>
-<task questId="1879196918" name="布雷人委托：焦黑甲壳" itemId="1879104574" itemName="焦黑甲壳" itemCount="10"/>
-<task questId="1879196927" name="布雷人委托：闪亮污物" itemId="1879104233" itemName="闪亮污物" itemCount="10"/>
-<task questId="1879196934" name="布雷人委托：凹陷指骨" itemId="1879104243" itemName="凹陷指骨" itemCount="10"/>
-<task questId="1879196935" name="布雷人委托：闪亮精华" itemId="1879104404" itemName="闪亮精华" itemCount="10"/>
-<task questId="1879196937" name="布雷人委托：球状黏液" itemId="1879104425" itemName="球状黏液" itemCount="10"/>
-<task questId="1879196938" name="布雷人委托：暗色兽耳" itemId="1879104384" itemName="暗色兽耳" itemCount="10"/>
-<task questId="1879196958" name="禁止触碰 隐藏内容 - 委托：破损木锤" itemId="1879111567" itemName="破损木锤" itemCount="10"/>
-<task questId="1879196959" name="布雷人委托：粗糙毛皮" itemId="1879104282" itemName="粗糙毛皮" itemCount="10"/>
-<task questId="1879196960" name="布雷人委托：大翅膀" itemId="1879104355" itemName="大翅膀" itemCount="10"/>
-<task questId="1879196961" name="布雷人委托：粗糙皮毛" itemId="1879104703" itemName="粗糙皮毛" itemCount="10"/>
-<task questId="1879196962" name="埃斯特尔丁游侠委托：锯齿鸟喙" itemId="1879104545" itemName="锯齿鸟喙" itemCount="10"/>
-<task questId="1879196963" name="禁止触碰 隐藏内容 - 委托：熏黑剑鞘" itemId="1879104712" itemName="熏黑剑鞘" itemCount="10"/>
-<task questId="1879196964" name="布雷人委托：有缺陷的耳朵" itemId="1879104385" itemName="有缺陷的耳朵" itemCount="10"/>
-<task questId="1879196965" name="禁止触碰 隐藏内容 - 委托：熏黑羽毛" itemId="1879104384" itemName="暗色兽耳" itemCount="10"/>
-<task questId="1879196966" name="布雷人委托：坚韧剑鞘" itemId="1879104714" itemName="坚韧剑鞘" itemCount="10"/>
-<task questId="1879196967" name="布雷人委托：破损木矛" itemId="1879111569" itemName="破损木矛" itemCount="10"/>
-<task questId="1879196968" name="禁止触碰 隐藏内容 - 委托：焦黑毛皮" itemId="1879104280" itemName="焦黑毛皮" itemCount="10"/>
-<task questId="1879196969" name="禁止触碰 隐藏内容 - 委托：熏黑羽毛" itemId="1879104384" itemName="暗色兽耳" itemCount="10"/>
-<task questId="1879196970" name="禁止触碰 隐藏内容 - 委托：破损木锤" itemId="1879111567" itemName="破损木锤" itemCount="10"/>
-<task questId="1879196971" name="禁止触碰 隐藏内容 - 委托：熏黑兽皮" itemId="1879104701" itemName="熏黑兽皮" itemCount="10"/>
-<task questId="1879196972" name="禁止触碰 隐藏内容 - 委托：暗色兽耳" itemId="1879104384" itemName="暗色兽耳" itemCount="10"/>
-<task questId="1879196973" name="禁止触碰 隐藏内容 - 委托：熏黑剑鞘" itemId="1879104712" itemName="熏黑剑鞘" itemCount="10"/>
-<task questId="1879196974" name="埃斯特尔丁游侠委托：破损木矛" itemId="1879111569" itemName="破损木矛" itemCount="10"/>
-<task questId="1879196977" name="埃斯特尔丁游侠委托：粗糙毛皮" itemId="1879104282" itemName="粗糙毛皮" itemCount="10"/>
-<task questId="1879196978" name="埃斯特尔丁游侠委托：粗糙皮毛" itemId="1879104703" itemName="粗糙皮毛" itemCount="10"/>
-<task questId="1879196980" name="埃斯特尔丁游侠委托：坚韧剑鞘" itemId="1879104714" itemName="坚韧剑鞘" itemCount="10"/>
-<task questId="1879196981" name="埃斯特尔丁游侠委托：暗淡尘埃" itemId="1879104598" itemName="暗淡尘埃" itemCount="10"/>
-<task questId="1879196982" name="埃斯特尔丁游侠委托：光泽精华" itemId="1879104406" itemName="光泽精华" itemCount="10"/>
-<task questId="1879196985" name="索林大厅委托：大翅膀" itemId="1879104355" itemName="大翅膀" itemCount="10"/>
-<task questId="1879196986" name="索林大厅委托：破损木矛" itemId="1879111569" itemName="破损木矛" itemCount="10"/>
-<task questId="1879196987" name="索林大厅委托：粗糙毛皮" itemId="1879104282" itemName="粗糙毛皮" itemCount="10"/>
-<task questId="1879196988" name="索林大厅委托：粗糙皮毛" itemId="1879104703" itemName="粗糙皮毛" itemCount="10"/>
-<task questId="1879196989" name="索林大厅委托：坚韧剑鞘" itemId="1879104714" itemName="坚韧剑鞘" itemCount="10"/>
-<task questId="1879196990" name="索林大厅委托：锯齿鸟喙" itemId="1879104545" itemName="锯齿鸟喙" itemCount="10"/>
-<task questId="1879196991" name="索林大厅委托：蓬松羽毛" itemId="1879104457" itemName="蓬松羽毛" itemCount="10"/>
-<task questId="1879196994" name="瑞文戴尔精灵委托：有缺陷的黏液" itemId="1879104426" itemName="有缺陷的黏液" itemCount="10"/>
-<task questId="1879196998" name="瑞文戴尔精灵委托：带疤的心材" itemId="1879104851" itemName="带疤的心材" itemCount="10"/>
-<task questId="1879196999" name="瑞文戴尔精灵委托：坚韧剑鞘" itemId="1879104714" itemName="坚韧剑鞘" itemCount="10"/>
-<task questId="1879197000" name="瑞文戴尔的精灵委托：坚韧甲壳" itemId="1879104576" itemName="坚硬甲壳" itemCount="10"/>
-<task questId="1879197001" name="瑞文戴尔的精灵委托：粗糙皮毛" itemId="1879104703" itemName="粗糙皮毛" itemCount="10"/>
-<task questId="1879197002" name="瑞文戴尔的精灵委托：破损木矛" itemId="1879111569" itemName="破损木矛" itemCount="10"/>
-<task questId="1879197003" name="瑞文戴尔的精灵委托：锋利爪子" itemId="1879104224" itemName="锋利爪子" itemCount="10"/>
-<task questId="1879197006" name="瑞文戴尔的精灵委托：大块污物" itemId="1879104234" itemName="大块污物" itemCount="10"/>
-<task questId="1879197183" name="埃斯特尔丁游侠委托：大块污物" itemId="1879104234" itemName="大块污物" itemCount="10"/>
-<task questId="1879197184" name="埃斯特尔丁游侠委托：粗糙毛皮" itemId="1879104282" itemName="粗糙毛皮" itemCount="10"/>
-<task questId="1879197187" name="埃斯特尔丁游侠委托：破损木矛" itemId="1879111569" itemName="破损木矛" itemCount="10"/>
-<task questId="1879197189" name="埃斯特尔丁游侠委托：坚硬甲壳" itemId="1879104576" itemName="坚硬甲壳" itemCount="10"/>
-<task questId="1879197190" name="埃斯特尔丁游侠委托：粗糙皮毛" itemId="1879104703" itemName="粗糙皮毛" itemCount="10"/>
-<task questId="1879197193" name="埃斯特尔丁游侠委托：有缺陷的黏液" itemId="1879104426" itemName="有缺陷的黏液" itemCount="10"/>
-<task questId="1879197194" name="埃斯特尔丁游侠委托：大翅膀" itemId="1879104355" itemName="大翅膀" itemCount="10"/>
-<task questId="1879197195" name="埃斯特尔丁游侠委托：锯齿鸟喙" itemId="1879104545" itemName="锯齿鸟喙" itemCount="10"/>
-<task questId="1879197196" name="埃斯特尔丁游侠委托：蓬松羽毛" itemId="1879104457" itemName="蓬松羽毛" itemCount="10"/>
-<task questId="1879197197" name="埃斯特尔丁游侠委托：有缺陷的耳朵" itemId="1879104385" itemName="有缺陷的耳朵" itemCount="10"/>
-<task questId="1879197198" name="埃斯特尔丁游侠委托：带疤耳朵" itemId="1879104386" itemName="带疤耳朵" itemCount="10"/>
-<task questId="1879197200" name="埃斯特尔丁游侠委托：坚韧毛皮" itemId="1879104283" itemName="坚韧毛皮" itemCount="10"/>
-<task questId="1879197202" name="埃斯特尔丁游侠委托：破损短弓" itemId="1879111570" itemName="破损短弓" itemCount="10"/>
-<task questId="1879197203" name="埃斯特尔丁游侠委托：凹凸鳞片" itemId="1879104293" itemName="凹凸鳞片" itemCount="10"/>
-<task questId="1879197204" name="埃斯特尔丁游侠委托：粘性污物" itemId="1879104235" itemName="粘性污物" itemCount="10"/>
-<task questId="1879197205" name="埃斯特尔丁游侠委托：柔软皮肤" itemId="1879104704" itemName="柔软皮肤" itemCount="10"/>
-<task questId="1879197206" name="埃斯特尔丁游侠委托：带疤尾巴" itemId="1879104510" itemName="带疤尾巴" itemCount="10"/>
-<task questId="1879197207" name="埃斯特尔丁游侠委托：沉重剑鞘" itemId="1879104715" itemName="沉重剑鞘" itemCount="10"/>
-<task questId="1879197434" name="北方议会委托：大量污物" itemId="1879104237" itemName="大量污物" itemCount="10"/>
-<task questId="1879197435" name="北方议会委托：硬化甲壳" itemId="1879104579" itemName="硬化甲壳" itemCount="10"/>
-<task questId="1879197436" name="北方议会委托：致命利爪" itemId="1879104227" itemName="致命利爪" itemCount="10"/>
-<task questId="1879197437" name="北方议会委托：巨大耳朵" itemId="1879104388" itemName="巨大耳朵" itemCount="10"/>
-<task questId="1879197438" name="北方议会委托：巨型黏液" itemId="1879104429" itemName="巨型黏液" itemCount="10"/>
-<task questId="1879197439" name="北方议会委托：光滑毛皮" itemId="1879104285" itemName="光滑毛皮" itemCount="10"/>
-<task questId="1879197440" name="北方议会委托：破损长柄斧" itemId="1879111572" itemName="破损长柄斧" itemCount="10"/>
-<task questId="1879197441" name="北方议会委托：破损巨剑" itemId="1879111573" itemName="破损巨剑" itemCount="10"/>
-<task questId="1879197442" name="北方议会委托：光滑兽皮" itemId="1879104706" itemName="光滑兽皮" itemCount="10"/>
-<task questId="1879197443" name="北方议会委托：纯黑皮肤" itemId="1879104707" itemName="纯黑皮肤" itemCount="10"/>
-<task questId="1879197444" name="北方议会委托：带钉剑鞘" itemId="1879104717" itemName="带钉剑鞘" itemCount="10"/>
-<task questId="1879197445" name="北方议会委托：镀金剑鞘" itemId="1879104718" itemName="镀金剑鞘" itemCount="10"/>
-<task questId="1879197507" name="北方议会委托：破损长柄斧" itemId="1879111572" itemName="破损长柄斧" itemCount="10"/>
-<task questId="1879197508" name="北方议会委托：纯黑毛皮" itemId="1879104286" itemName="纯黑毛皮" itemCount="10"/>
-<task questId="1879197509" name="北方议会委托：镀金剑鞘" itemId="1879104718" itemName="镀金剑鞘" itemCount="10"/>
-<task questId="1879197510" name="北方议会委托：纯黑皮肤" itemId="1879104707" itemName="纯黑皮肤" itemCount="10"/>
-<task questId="1879197511" name="北方议会委托：致命利爪" itemId="1879104227" itemName="致命利爪" itemCount="10"/>
-<task questId="1879197512" name="北方议会委托：宝石剑鞘" itemId="1879104719" itemName="宝石剑鞘" itemCount="10"/>
-<task questId="1879197513" name="索林大厅委托：破损巨剑" itemId="1879111573" itemName="破损巨剑" itemCount="10"/>
-<task questId="1879197514" name="索林大厅委托：纯黑皮肤" itemId="1879104707" itemName="纯黑皮肤" itemCount="10"/>
-<task questId="1879197515" name="索林大厅委托：巨大膜" itemId="1879104686" itemName="巨大膜" itemCount="10"/>
-<task questId="1879197516" name="北方议会委托：破损木棒" itemId="1879111574" itemName="破损木棒" itemCount="10"/>
-<task questId="1879197517" name="索林大厅委托：锋利爪牙" itemId="1879104228" itemName="锋利爪牙" itemCount="10"/>
-<task questId="1879197518" name="索林大厅委托：镀金剑鞘" itemId="1879104718" itemName="镀金剑鞘" itemCount="10"/>
-<task questId="1879197519" name="索林大厅委托：巨大污物" itemId="1879104238" itemName="巨大污物" itemCount="10"/>
-<task questId="1879197520" name="北方议会委托：巨型翅膀" itemId="1879104360" itemName="巨型翅膀" itemCount="10"/>
-<task questId="1879197521" name="北方议会委托：怪异污物" itemId="1879104239" itemName="怪异污物" itemCount="10"/>
-<task questId="1879197522" name="北方议会委托：大量污物" itemId="1879104237" itemName="大量污物" itemCount="10"/>
-<task questId="1879197523" name="北方议会委托：白化皮肤" itemId="1879104708" itemName="白化皮肤" itemCount="10"/>
-<task questId="1879197524" name="索林大厅委托：纯黑毛皮" itemId="1879104286" itemName="纯黑毛皮" itemCount="10"/>
-<task questId="1879197525" name="索林大厅委托：干净尾巴" itemId="1879104513" itemName="干净尾巴" itemCount="10"/>
-<task questId="1879197526" name="北方议会委托：装甲甲壳" itemId="1879104581" itemName="装甲甲壳" itemCount="10"/>
-<task questId="1879197527" name="北方议会委托：巨型甲壳" itemId="1879104580" itemName="巨型甲壳" itemCount="10"/>
-<task questId="1879197591" name="旧货社团委托：重型甲壳" itemId="1879104577" itemName="重型甲壳" itemCount="10"/>
-<task questId="1879197593" name="旧货社团委托：胶状黏液" itemId="1879104427" itemName="胶状黏液" itemCount="10"/>
-<task questId="1879197595" name="旧货社团委托：重型甲壳" itemId="1879104577" itemName="重型甲壳" itemCount="10"/>
-<task questId="1879197596" name="旧货社团委托：柔软皮肤" itemId="1879104704" itemName="柔软皮肤" itemCount="10"/>
-<task questId="1879197597" name="旧货社团委托：沉重剑鞘" itemId="1879104715" itemName="沉重剑鞘" itemCount="10"/>
-<task questId="1879197598" name="旧货社团委托：非常锋利的爪子" itemId="1879104225" itemName="非常锋利的爪子" itemCount="10"/>
-<task questId="1879197599" name="安努米纳斯卫士委托：破损短弓" itemId="1879111570" itemName="破损短弓" itemCount="10"/>
-<task questId="1879197600" name="旧货社团委托：柔软皮肤" itemId="1879104704" itemName="柔软皮肤" itemCount="10"/>
-<task questId="1879197601" name="旧货社团委托：沉重剑鞘" itemId="1879104715" itemName="沉重剑鞘" itemCount="10"/>
-<task questId="1879197602" name="安努米纳斯卫士委托：沉重剑鞘" itemId="1879104715" itemName="沉重剑鞘" itemCount="10"/>
-<task questId="1879197603" name="安努米纳斯卫士委托：破损长剑" itemId="1879111571" itemName="破损长剑" itemCount="10"/>
-<task questId="1879197604" name="安努米纳斯卫士委托：带疤耳朵" itemId="1879104386" itemName="带疤耳朵" itemCount="10"/>
-<task questId="1879197605" name="安努米纳斯卫士委托：柔软皮肤" itemId="1879104704" itemName="柔软皮肤" itemCount="10"/>
-<task questId="1879197606" name="安努米纳斯卫士委托：新剑鞘" itemId="1879104716" itemName="新剑鞘" itemCount="10"/>
-<task questId="1879197607" name="旧货社团委托：带疤耳朵" itemId="1879104386" itemName="带疤耳朵" itemCount="10"/>
-<task questId="1879197608" name="旧货社团委托：破损短弓" itemId="1879111570" itemName="破损短弓" itemCount="10"/>
-<task questId="1879197609" name="安努米纳斯卫士委托：重型甲壳" itemId="1879104577" itemName="重型甲壳" itemCount="10"/>
-<task questId="1879197610" name="安努米纳斯卫士委托：闪烁精华" itemId="1879104407" itemName="闪烁精华" itemCount="10"/>
-<task questId="1879197611" name="旧货社团委托：坚韧毛皮" itemId="1879104283" itemName="坚韧毛皮" itemCount="10"/>
-<task questId="1879197612" name="安努米纳斯卫士委托：优质兽皮" itemId="1879104705" itemName="优质兽皮" itemCount="10"/>
-<task questId="1879197613" name="安努米纳斯卫士委托：优质毛皮" itemId="1879104284" itemName="优质毛皮" itemCount="10"/>
-<task questId="1879197614" name="安努米纳斯卫士委托：破损长柄斧" itemId="1879111572" itemName="破损长柄斧" itemCount="10"/>
-<task questId="1879197615" name="旧货社团委托：胶状黏液" itemId="1879104427" itemName="胶状黏液" itemCount="10"/>
-<task questId="1879197616" name="旧货社团委托：粘性污物" itemId="1879104235" itemName="粘性污物" itemCount="10"/>
-<task questId="1879197617" name="安努米纳斯卫士委托：无光粉尘" itemId="1879104599" itemName="无光粉尘" itemCount="10"/>
-<task questId="1879197618" name="安努米纳斯卫士委托：带钉剑鞘" itemId="1879104717" itemName="带钉剑鞘" itemCount="10"/>
-<task questId="1879197619" name="安努米纳斯卫士委托：坚韧毛皮" itemId="1879104283" itemName="坚韧毛皮" itemCount="10"/>
-<task questId="1879197620" name="安努米纳斯卫士委托：非常锋利的爪子" itemId="1879104225" itemName="非常锋利的爪子" itemCount="10"/>
-<task questId="1879197621" name="安努米纳斯卫士委托：破损长剑" itemId="1879111571" itemName="破损长剑" itemCount="10"/>
-<task questId="1879197623" name="旧货社团委托：破损短弓" itemId="1879111570" itemName="破损短弓" itemCount="10"/>
-<task questId="1879197625" name="安努米纳斯卫士委托：粘性污物" itemId="1879104235" itemName="粘性污物" itemCount="10"/>
-<task questId="1879197654" name="洛斯索斯人委托：破损巨剑" itemId="1879111573" itemName="破损巨剑" itemCount="10"/>
-<task questId="1879197655" name="洛斯索斯人委托：纯黑毛皮" itemId="1879104286" itemName="纯黑毛皮" itemCount="10"/>
-<task questId="1879197660" name="洛斯索斯人委托：巨大污物" itemId="1879104238" itemName="巨大污物" itemCount="10"/>
-<task questId="1879197675" name="瑞文戴尔精灵委托：破损长剑" itemId="1879111571" itemName="破损长剑" itemCount="10"/>
-<task questId="1879197676" name="瑞文戴尔精灵委托：精致羽毛" itemId="1879104459" itemName="精致羽毛" itemCount="10"/>
-<task questId="1879197677" name="洛斯索斯人委托：巨大鳞片" itemId="1879104296" itemName="巨大鳞片" itemCount="10"/>
-<task questId="1879197678" name="瑞文戴尔精灵委托：极锋利爪子" itemId="1879104226" itemName="极锋利爪子" itemCount="10"/>
-<task questId="1879197679" name="洛斯索斯人委托：白化皮肤" itemId="1879104708" itemName="白化皮肤" itemCount="10"/>
-<task questId="1879197680" name="瑞文戴尔精灵委托：非常锋利的鸟喙" itemId="1879104547" itemName="非常锋利的鸟喙" itemCount="10"/>
-<task questId="1879197681" name="索林大厅委托：灰色耳朵" itemId="1879104387" itemName="灰色耳朵" itemCount="10"/>
-<task questId="1879197682" name="索林大厅委托：镀金剑鞘" itemId="1879104718" itemName="镀金剑鞘" itemCount="10"/>
-<task questId="1879197683" name="洛斯索斯人委托：纯黑皮肤" itemId="1879104707" itemName="纯黑皮肤" itemCount="10"/>
-<task questId="1879197684" name="瑞文戴尔精灵委托：丝质污物" itemId="1879104236" itemName="丝质污物" itemCount="10"/>
-<task questId="1879197685" name="瑞文戴尔精灵委托：棱纹指骨" itemId="1879104246" itemName="棱纹指骨" itemCount="10"/>
-<task questId="1879197686" name="瑞文戴尔精灵委托：光滑翅膀" itemId="1879104357" itemName="光滑翅膀" itemCount="10"/>
-<task questId="1879197687" name="瑞文戴尔精灵委托：光滑鳞片" itemId="1879104294" itemName="光滑鳞片" itemCount="10"/>
-<task questId="1879197688" name="瑞文戴尔精灵委托：灰色心材" itemId="1879104853" itemName="灰色心材" itemCount="10"/>
-<task questId="1879197689" name="瑞文戴尔精灵委托：优质兽皮" itemId="1879104705" itemName="优质兽皮" itemCount="10"/>
-<task questId="1879197690" name="瑞文戴尔精灵委托：灰色耳朵" itemId="1879104387" itemName="灰色耳朵" itemCount="10"/>
-<task questId="1879197691" name="瑞文戴尔精灵委托：极锋利爪子" itemId="1879104226" itemName="极锋利爪子" itemCount="10"/>
-<task questId="1879197692" name="索林大厅委托：优质兽皮" itemId="1879104705" itemName="优质兽皮" itemCount="10"/>
-<task questId="1879197693" name="索林大厅委托：新剑鞘" itemId="1879104716" itemName="新剑鞘" itemCount="10"/>
-<task questId="1879197694" name="洛斯索斯人委托：光明尘埃" itemId="1879104602" itemName="光明尘埃" itemCount="10"/>
-<task questId="1879197695" name="洛斯索斯人委托：纯黑皮肤" itemId="1879104707" itemName="纯黑皮肤" itemCount="10"/>
-<task questId="1879197696" name="索林大厅委托：巨大鳞片" itemId="1879104296" itemName="巨大鳞片" itemCount="10"/>
-<task questId="1879197697" name="瑞文戴尔精灵委托：硬化甲壳" itemId="1879104578" itemName="硬化甲壳" itemCount="10"/>
-<task questId="1879197698" name="瑞文戴尔精灵委托：打结树枝" itemId="1879104557" itemName="打结树枝" itemCount="10"/>
-<task questId="1879197699" name="洛斯索斯人委托：破损木棒" itemId="1879111574" itemName="破损木棒" itemCount="10"/>
-<task questId="1879197700" name="洛斯索斯人委托：巨大耳朵" itemId="1879104390" itemName="巨大耳朵" itemCount="10"/>
-<task questId="1879197701" name="洛斯索斯人委托：纯黑毛皮" itemId="1879104286" itemName="纯黑毛皮" itemCount="10"/>
-<task questId="1879197702" name="索林大厅委托：极锋利爪子" itemId="1879104226" itemName="极锋利爪子" itemCount="10"/>
-<task questId="1879197703" name="索林大厅委托：纯黑皮肤" itemId="1879104707" itemName="纯黑皮肤" itemCount="10"/>
-<task questId="1879197704" name="洛斯索斯人委托：破损巨剑" itemId="1879111573" itemName="破损巨剑" itemCount="10"/>
-<task questId="1879197705" name="洛斯索斯人委托：镀金剑鞘" itemId="1879104718" itemName="镀金剑鞘" itemCount="10"/>
-<task questId="1879197706" name="索林大厅委托：纯黑毛皮" itemId="1879104286" itemName="纯黑毛皮" itemCount="10"/>
-<task questId="1879197707" name="瑞文戴尔精灵委托：丝质污物" itemId="1879104236" itemName="丝质污物" itemCount="10"/>
-<task questId="1879197708" name="索林大厅委托：干净尾巴" itemId="1879104513" itemName="干净尾巴" itemCount="10"/>
-<task questId="1879197709" name="索林大厅委托：破损巨剑" itemId="1879111573" itemName="破损巨剑" itemCount="10"/>
-<task questId="1879197710" name="瑞文戴尔精灵委托：硬化甲壳" itemId="1879104578" itemName="硬化甲壳" itemCount="10"/>
-<task questId="1879197711" name="瑞文戴尔精灵委托：优质毛皮" itemId="1879104284" itemName="优质毛皮" itemCount="10"/>
-<task questId="1879197712" name="瑞文戴尔精灵委托：新剑鞘" itemId="1879104716" itemName="新剑鞘" itemCount="10"/>
-<task questId="1879197713" name="瑞文戴尔精灵委托：破损长剑" itemId="1879111571" itemName="破损长剑" itemCount="10"/>
-<task questId="1879197714" name="洛斯索斯人委托：镀金剑鞘" itemId="1879104718" itemName="镀金剑鞘" itemCount="10"/>
-<task questId="1879197715" name="索林大厅委托：破损长剑" itemId="1879111571" itemName="破损长剑" itemCount="10"/>
-<task questId="1879197716" name="洛斯索斯人委托：纯黑皮肤" itemId="1879104707" itemName="纯黑皮肤" itemCount="10"/>
-<task questId="1879197717" name="洛斯索斯人委托：白化毛皮" itemId="1879104287" itemName="白化毛皮" itemCount="10"/>
-<task questId="1879197718" name="瑞文戴尔精灵委托：灰色黏液" itemId="1879104428" itemName="灰色黏液" itemCount="10"/>
-<task questId="1879197719" name="瑞文戴尔精灵委托：优质兽皮" itemId="1879104705" itemName="优质兽皮" itemCount="10"/>
-<task questId="1879197720" name="索林大厅委托：优质毛皮" itemId="1879104284" itemName="优质毛皮" itemCount="10"/>
-<task questId="1879197736" name="索林大厅委托：纯黑毛皮" itemId="1879104286" itemName="纯黑毛皮" itemCount="10"/>
-<task questId="1879197737" name="索林大厅委托：硬化甲壳" itemId="1879104579" itemName="硬化甲壳" itemCount="10"/>
-<task questId="1879197738" name="瑞文戴尔精灵委托：怪物黏液" itemId="1879104431" itemName="怪物黏液" itemCount="10"/>
-<task questId="1879197739" name="索林大厅委托：破损长柄斧" itemId="1879111572" itemName="破损长柄斧" itemCount="10"/>
-<task questId="1879197740" name="索林大厅委托：巨大鳞片" itemId="1879104295" itemName="巨大鳞片" itemCount="10"/>
-<task questId="1879197741" name="索林大厅委托：光滑兽皮" itemId="1879104706" itemName="光滑兽皮" itemCount="10"/>
-<task questId="1879197742" name="瑞文戴尔精灵委托：抛光翅膀" itemId="1879105258" itemName="抛光翅膀" itemCount="10"/>
-<task questId="1879197743" name="瑞文戴尔精灵委托：破损木棒" itemId="1879111574" itemName="破损木棒" itemCount="10"/>
-<task questId="1879197744" name="瑞文戴尔的精灵委托：巨大耳朵" itemId="1879104390" itemName="巨大耳朵" itemCount="10"/>
-<task questId="1879197745" name="索林大厅委托：巨大心材" itemId="1879104854" itemName="巨大心材" itemCount="10"/>
-<task questId="1879197746" name="索林大厅委托：破损巨剑" itemId="1879111573" itemName="破损巨剑" itemCount="10"/>
-<task questId="1879197747" name="索林大厅委托：巨大耳朵" itemId="1879104388" itemName="巨大耳朵" itemCount="10"/>
-<task questId="1879197748" name="索林大厅委托：带钉剑鞘" itemId="1879104717" itemName="带钉剑鞘" itemCount="10"/>
-<task questId="1879197749" name="索林大厅委托：白化皮肤" itemId="1879104708" itemName="白化皮肤" itemCount="10"/>
-<task questId="1879197750" name="瑞文戴尔精灵委托：宝石剑鞘" itemId="1879104719" itemName="宝石剑鞘" itemCount="10"/>
-<task questId="1879197751" name="瑞文戴尔的精灵委托：破损木棒" itemId="1879111574" itemName="破损木棒" itemCount="10"/>
-<task questId="1879197752" name="索林大厅委托：光滑毛皮" itemId="1879104285" itemName="光滑毛皮" itemCount="10"/>
-<task questId="1879197753" name="瑞文戴尔精灵委托：强力树枝" itemId="1879104560" itemName="强力树枝" itemCount="10"/>
-<task questId="1879197754" name="瑞文戴尔精灵委托：白化毛皮" itemId="1879104287" itemName="白化毛皮" itemCount="10"/>
-<task questId="1879197756" name="索林大厅委托：巨大耳朵" itemId="1879104389" itemName="巨大耳朵" itemCount="10"/>
-<task questId="1879197757" name="瑞文戴尔精灵委托：破损长弓" itemId="1879111575" itemName="破损长弓" itemCount="10"/>
-<task questId="1879197758" name="瑞文戴尔精灵委托：宝石剑鞘" itemId="1879104719" itemName="宝石剑鞘" itemCount="10"/>
-<task questId="1879197759" name="瑞文戴尔精灵委托：破损木棒" itemId="1879111574" itemName="破损木棒" itemCount="10"/>
-<task questId="1879197760" name="瑞文戴尔精灵委托：白化皮肤" itemId="1879104708" itemName="白化皮肤" itemCount="10"/>
-<task questId="1879197761" name="瑞文戴尔的精灵委托：巨型翅膀" itemId="1879104360" itemName="巨型翅膀" itemCount="10"/>
-<task questId="1879197762" name="瑞文戴尔精灵委托：巨型翅膀" itemId="1879104360" itemName="巨型翅膀" itemCount="10"/>
-<task questId="1879197763" name="瑞文戴尔的精灵委托：白化皮毛" itemId="1879104287" itemName="白化毛皮" itemCount="10"/>
-<task questId="1879197764" name="瑞文戴尔的精灵委托：白化皮毛" itemId="1879104287" itemName="白化毛皮" itemCount="10"/>
-<task questId="1879197765" name="瑞文戴尔的精灵委托：白化皮肤" itemId="1879104708" itemName="白化皮肤" itemCount="10"/>
-<task questId="1879197766" name="瑞文戴尔精灵委托：怪异污物" itemId="1879104239" itemName="怪异污物" itemCount="10"/>
-<task questId="1879197767" name="瑞文戴尔精灵委托：装甲甲壳" itemId="1879104581" itemName="装甲甲壳" itemCount="10"/>
-<task questId="1879197768" name="索林大厅委托：巨大鳞片" itemId="1879104296" itemName="巨大鳞片" itemCount="10"/>
-<task questId="1879197769" name="索林大厅委托：纯黑皮肤" itemId="1879104707" itemName="纯黑皮肤" itemCount="10"/>
-<task questId="1879197770" name="瑞文戴尔精灵委托：巨型心木" itemId="1879104856" itemName="巨型心木" itemCount="10"/>
-<task questId="1879197771" name="索林大厅委托：极锋利鸟喙" itemId="1879104548" itemName="极锋利鸟喙" itemCount="10"/>
-<task questId="1879197772" name="索林大厅委托：镀金剑鞘" itemId="1879104718" itemName="镀金剑鞘" itemCount="10"/>
-<task questId="1879197773" name="索林大厅委托：巨大翅膀" itemId="1879104358" itemName="巨大翅膀" itemCount="10"/>
-<task questId="1879220614" name="登兰德人委托：泥泞污物" itemId="1879209756" itemName="泥泞污物" itemCount="10"/>
-<task questId="1879220615" name="希奥杰德的骑手委托：斑点兽皮" itemId="1879209770" itemName="斑点兽皮" itemCount="10"/>
-<task questId="1879220616" name="希奥杰德的骑手委托：装饰性剑鞘" itemId="1879209764" itemName="装饰性剑鞘" itemCount="10"/>
-<task questId="1879220617" name="登兰德人委托：拉伸兽皮" itemId="1879209776" itemName="拉伸兽皮" itemCount="10"/>
-<task questId="1879220618" name="希奥杰德的骑手委托：穿孔盾牌" itemId="1879209744" itemName="穿孔盾牌" itemCount="10"/>
-<task questId="1879220619" name="希奥杰德的骑手委托：带标记毛皮" itemId="1879209740" itemName="带标记毛皮" itemCount="10"/>
-<task questId="1879220620" name="希奥杰德的骑手委托：斑点耳朵" itemId="1879209779" itemName="斑点耳朵" itemCount="10"/>
-<task questId="1879220621" name="登兰德人委托：弯曲金属钉头锤" itemId="1879209743" itemName="弯曲金属钉头锤" itemCount="10"/>
-<task questId="1879220623" name="登兰德人委托：金属剑鞘" itemId="1879209761" itemName="金属剑鞘" itemCount="10"/>
-<task questId="1879220625" name="登兰德人委托：斑点兽耳" itemId="1879209760" itemName="斑点兽耳" itemCount="10"/>
-<task questId="1879231438" name="斯坦加德骑手委托：斑点兽皮" itemId="1879209770" itemName="斑点兽皮" itemCount="10"/>
-<task questId="1879231446" name="斯坦加德骑手委托：穿孔盾牌" itemId="1879209744" itemName="穿孔盾牌" itemCount="10"/>
-<task questId="1879231447" name="斯坦加德骑手委托：黏糊堆" itemId="1879209754" itemName="黏糊堆" itemCount="10"/>
-<task questId="1879231448" name="利姆清河谷的英雄委托：打结心木" itemId="1879209759" itemName="打结心木" itemCount="1"/>
-<task questId="1879231449" name="斯坦加德骑手委托：消逝精华" itemId="1879209774" itemName="消逝精华" itemCount="10"/>
-<task questId="1879231450" name="斯坦加德骑手委托：玻璃质甲壳" itemId="1879209773" itemName="玻璃质甲壳" itemCount="10"/>
-<task questId="1879231451" name="斯坦加德骑手委托：闪光尘堆" itemId="1879209765" itemName="闪光尘堆" itemCount="10"/>
-<task questId="1879231452" name="斯坦加德骑手委托：粗尾巴" itemId="1879209780" itemName="粗尾巴" itemCount="10"/>
-<task questId="1879231453" name="斯坦加德骑手委托：带标记毛皮" itemId="1879209740" itemName="带标记毛皮" itemCount="10"/>
-<task questId="1879231454" name="利姆清河谷的英雄委托：粗树枝" itemId="1879209782" itemName="粗树枝" itemCount="3"/>
-<task questId="1879231455" name="斯坦加德骑手委托：装饰性剑鞘" itemId="1879209764" itemName="装饰性剑鞘" itemCount="10"/>
-<task questId="1879231456" name="斯坦加德骑手委托：斑点耳朵" itemId="1879209779" itemName="斑点耳朵" itemCount="10"/>
-<task questId="1879231457" name="斯坦加德骑手委托：棱彩鳞片" itemId="1879209781" itemName="棱彩鳞片" itemCount="10"/>
-<task questId="1879233913" name="卫兵委托：带刺利爪" itemId="1879105186" itemName="带刺利爪" itemCount="10"/>
-<task questId="1879233915" name="矿工委托：带刺利爪" itemId="1879105186" itemName="带刺利爪" itemCount="10"/>
-<task questId="1879233916" name="矿工委托：撕裂之爪" itemId="1879105188" itemName="撕裂之爪" itemCount="10"/>
-<task questId="1879233917" name="卫兵委托：撕裂之爪" itemId="1879105188" itemName="撕裂之爪" itemCount="10"/>
-<task questId="1879233918" name="卫兵委托：恶心污物" itemId="1879105194" itemName="恶心污物" itemCount="10"/>
-<task questId="1879233919" name="矿工委托：诡异污物" itemId="1879105192" itemName="诡异污物" itemCount="10"/>
-<task questId="1879233920" name="矿工委托：恶心污物" itemId="1879105194" itemName="恶心污物" itemCount="10"/>
-<task questId="1879233921" name="卫兵委托：诡异污物" itemId="1879105192" itemName="诡异污物" itemCount="10"/>
-<task questId="1879233938" name="矿工委托：抛光鳞片" itemId="1879105222" itemName="抛光鳞片" itemCount="10"/>
-<task questId="1879233939" name="卫兵委托：抛光鳞片" itemId="1879105222" itemName="抛光鳞片" itemCount="10"/>
-<task questId="1879233963" name="卫兵委托：精美鳞片" itemId="1879105224" itemName="精美鳞片" itemCount="10"/>
-<task questId="1879233964" name="矿工委托：精美鳞片" itemId="1879105224" itemName="精美鳞片" itemCount="10"/>
-<task questId="1879233977" name="卫兵委托：带斑点的兽皮" itemId="1879105468" itemName="带斑点的兽皮" itemCount="10"/>
-<task questId="1879233996" name="矿工委托：带斑点的兽皮" itemId="1879105468" itemName="带斑点的兽皮" itemCount="10"/>
-<task questId="1879233997" name="卫兵委托：诡异外皮" itemId="1879105470" itemName="诡异外皮" itemCount="10"/>
-<task questId="1879233998" name="矿工委托：诡异外皮" itemId="1879105470" itemName="诡异外皮" itemCount="10"/>
-<task questId="1879233999" name="卫兵委托：抛光剑鞘" itemId="1879105474" itemName="抛光剑鞘" itemCount="10"/>
-<task questId="1879234000" name="矿工委托：抛光剑鞘" itemId="1879105474" itemName="抛光剑鞘" itemCount="10"/>
-<task questId="1879234002" name="卫兵委托：迷人剑鞘" itemId="1879105475" itemName="迷人剑鞘" itemCount="10"/>
-<task questId="1879234003" name="矿工委托：迷人剑鞘" itemId="1879105475" itemName="迷人剑鞘" itemCount="10"/>
-<task questId="1879234007" name="卫兵委托：别致剑鞘" itemId="1879105476" itemName="别致剑鞘" itemCount="10"/>
-<task questId="1879234008" name="矿工委托：别致剑鞘" itemId="1879105476" itemName="别致剑鞘" itemCount="10"/>
-<task questId="1879234010" name="矿工委托：精美剑鞘" itemId="1879105477" itemName="精美剑鞘" itemCount="10"/>
-<task questId="1879234011" name="卫兵委托：精美剑鞘" itemId="1879105477" itemName="精美剑鞘" itemCount="10"/>
-<task questId="1879248455" name="北田场人类委托：短粗喙" itemId="1879245960" itemName="短粗喙" itemCount="10"/>
-<task questId="1879248480" name="南田场人类委托：风化鸟喙" itemId="1879245939" itemName="风化鸟喙" itemCount="10"/>
-<task questId="1879248517" name="恩特河谷人类委托：毛茸茸翅膀" itemId="1879245948" itemName="毛茸茸翅膀" itemCount="10"/>
-<task questId="1879248518" name="南田场人类委托：弯曲翅膀" itemId="1879245942" itemName="弯曲翅膀" itemCount="10"/>
-<task questId="1879248519" name="恩特河谷人类委托：锋利鳞片" itemId="1879245975" itemName="锋利鳞片" itemCount="10"/>
-<task questId="1879248520" name="恩特河谷人类委托：有色甲壳" itemId="1879245947" itemName="有色甲壳" itemCount="10"/>
-<task questId="1879248521" name="恩特河谷人类委托：恶臭污物" itemId="1879245968" itemName="恶臭污物" itemCount="10"/>
-<task questId="1879248522" name="恩特河谷人类委托：断裂树枝" itemId="1879245962" itemName="断裂树枝" itemCount="10"/>
-<task questId="1879248528" name="北高原人类委托：装饰性剑鞘" itemId="1879209764" itemName="装饰性剑鞘" itemCount="10"/>
-<task questId="1879248529" name="南田场人类委托：华丽剑鞘" itemId="1879245961" itemName="华丽剑鞘" itemCount="10"/>
-<task questId="1879248530" name="北田场人类委托：锈蚀剑鞘" itemId="1879245977" itemName="锈蚀剑鞘" itemCount="10"/>
-<task questId="1879248549" name="北高原人类委托：穿孔盾牌" itemId="1879209744" itemName="穿孔盾牌" itemCount="10"/>
-<task questId="1879248550" name="恩特河谷人类委托：破碎棍棒" itemId="1879245949" itemName="破碎棍棒" itemCount="10"/>
-<task questId="1879248553" name="南田场人类委托：撕裂斗篷" itemId="1879245953" itemName="撕裂斗篷" itemCount="10"/>
-<task questId="1879248554" name="北高原人类委托：带标记毛皮" itemId="1879209740" itemName="带标记毛皮" itemCount="10"/>
-<task questId="1879248558" name="南田场人类委托：凌乱毛皮" itemId="1879245967" itemName="凌乱毛皮" itemCount="10"/>
-<task questId="1879248559" name="北田场人类委托：丝滑毛皮" itemId="1879245976" itemName="丝滑毛皮" itemCount="10"/>
-<task questId="1879248560" name="北田场人类委托：斑痕兽皮" itemId="1879245970" itemName="斑痕兽皮" itemCount="10"/>
-<task questId="1879248561" name="北高原人类委托：斑点兽皮" itemId="1879209770" itemName="斑点兽皮" itemCount="10"/>
-<task questId="1879248562" name="北田场人类委托：扭曲耳朵" itemId="1879245963" itemName="扭曲耳朵" itemCount="10"/>
-<task questId="1879248563" name="北田场人类委托：斑点耳朵" itemId="1879209779" itemName="斑点耳朵" itemCount="10"/>
-<task questId="1879259481" name="威德摩荒原居民委托：华丽剑鞘" itemId="1879245961" itemName="华丽剑鞘" itemCount="10"/>
-<task questId="1879259482" name="威德摩荒原居民委托：撕裂斗篷" itemId="1879245953" itemName="撕裂斗篷" itemCount="10"/>
-<task questId="1879259484" name="威德摩荒原居民委托：凌乱毛皮" itemId="1879245967" itemName="凌乱毛皮" itemCount="10"/>
-<task questId="1879259485" name="威德摩荒原居民委托：破损皮革" itemId="1879245966" itemName="破损皮革" itemCount="10"/>
-<task questId="1879259486" name="威德摩荒原居民委托：破损耳" itemId="1879245964" itemName="破损耳" itemCount="10"/>
-<task questId="1879259489" name="威德摩荒原居民委托：苔藓树枝" itemId="1879245944" itemName="苔藓树枝" itemCount="10"/>
-<task questId="1879259491" name="威德摩荒原居民委托：黏滑污物" itemId="1879245972" itemName="黏滑污物" itemCount="10"/>
-<task questId="1879259494" name="威德摩荒原居民委托：弯曲翅膀" itemId="1879245942" itemName="弯曲翅膀" itemCount="10"/>
-<task questId="1879259495" name="威德摩荒原居民委托：风化鸟喙" itemId="1879245939" itemName="风化鸟喙" itemCount="10"/>
-<task questId="1879288149" name="伊欧子嗣委托：破碎匕首" itemId="1879287594" itemName="破碎匕首" itemCount="10"/>
-<task questId="1879288150" name="海尔姆子民委托：破碎短柄斧" itemId="1879287593" itemName="破碎短柄斧" itemCount="10"/>
-<task questId="1879288151" name="海尔姆子民委托：破损毛皮" itemId="1879287634" itemName="破损毛皮" itemCount="10"/>
-<task questId="1879288152" name="伊欧子嗣委托：破旧毛皮" itemId="1879287635" itemName="破旧毛皮" itemCount="10"/>
-<task questId="1879288153" name="伊欧子嗣委托：薄翼" itemId="1879287637" itemName="薄翼" itemCount="10"/>
-<task questId="1879288154" name="海尔姆子民委托：剪下翅膀" itemId="1879287630" itemName="剪下的翅膀" itemCount="10"/>
-<task questId="1879288155" name="伊欧子嗣委托：粗糙兽皮" itemId="1879287629" itemName="粗糙兽皮" itemCount="10"/>
-<task questId="1879288156" name="海尔姆子民委托：撕裂皮革" itemId="1879287639" itemName="撕裂皮革" itemCount="10"/>
-<task questId="1879288157" name="伊欧子嗣委托：闪光剑鞘" itemId="1879287705" itemName="闪光剑鞘" itemCount="10"/>
-<task questId="1879288158" name="海尔姆子民委托：凹痕剑鞘" itemId="1879287703" itemName="凹痕剑鞘" itemCount="10"/>
-<task questId="1879288161" name="伊欧子嗣委托：华丽兽耳" itemId="1879287708" itemName="华丽兽耳" itemCount="10"/>
-<task questId="1879288162" name="海尔姆子民委托：剪下的耳朵" itemId="1879287696" itemName="剪下的耳朵" itemCount="10"/>
-<task questId="1879314013" name="多阿姆洛斯委托：破碎短柄斧" itemId="1879287593" itemName="破碎短柄斧" itemCount="10"/>
-<task questId="1879314015" name="多阿姆洛斯委托：有毒污物" itemId="1879287641" itemName="有毒污物" itemCount="10"/>
-<task questId="1879314016" name="多阿姆洛斯委托：闪烁尘堆" itemId="1879287636" itemName="闪烁尘堆" itemCount="10"/>
-<task questId="1879314017" name="多阿姆洛斯委托：凹痕剑鞘" itemId="1879287703" itemName="凹痕剑鞘" itemCount="10"/>
-<task questId="1879314018" name="多阿姆洛斯委托：撕裂皮革" itemId="1879287639" itemName="撕裂皮革" itemCount="10"/>
-<task questId="1879314019" name="多阿姆洛斯委托：破损毛皮" itemId="1879287634" itemName="破损毛皮" itemCount="10"/>
-<task questId="1879317286" name="佩拉基尔委托：焦黑鸟喙" itemId="1879287631" itemName="焦黑鸟喙" itemCount="10"/>
-<task questId="1879317287" name="佩拉基尔委托：凹痕剑鞘" itemId="1879287703" itemName="凹痕剑鞘" itemCount="10"/>
-<task questId="1879317288" name="佩拉基尔委托：破损毛皮" itemId="1879287634" itemName="破损毛皮" itemCount="10"/>
-<task questId="1879317289" name="佩拉基尔委托：闪亮甲壳" itemId="1879287626" itemName="闪亮甲壳" itemCount="10"/>
-<task questId="1879317290" name="佩拉基尔委托：破损爪" itemId="1879287627" itemName="破损爪" itemCount="10"/>
-<task questId="1879317291" name="佩拉基尔委托：撕裂皮革" itemId="1879287639" itemName="撕裂皮革" itemCount="10"/>
-<task questId="1879317292" name="佩拉基尔委托：破碎短柄斧" itemId="1879287593" itemName="破碎短柄斧" itemCount="10"/>
-<task questId="1879323047" name="伊希利恩游侠委托：剪下的耳朵" itemId="1879287696" itemName="剪下的耳朵" itemCount="10"/>
-<task questId="1879323048" name="伊希利恩游侠委托：凹痕剑鞘" itemId="1879287703" itemName="凹痕剑鞘" itemCount="10"/>
-<task questId="1879323049" name="伊希利恩游侠委托：剪下的翅膀" itemId="1879287630" itemName="剪下的翅膀" itemCount="10"/>
-<task questId="1879323050" name="伊希利恩游侠委托：破碎短柄斧" itemId="1879287593" itemName="破碎短柄斧" itemCount="10"/>
-<task questId="1879323051" name="伊希利恩游侠委托：撕裂皮革" itemId="1879287639" itemName="撕裂皮革" itemCount="10"/>
-<task questId="1879323053" name="伊希利恩游侠委托：有毒污物" itemId="1879287641" itemName="有毒污物" itemCount="10"/>
-<task questId="1879323054" name="伊希利恩游侠委托：破损毛皮" itemId="1879287634" itemName="破损毛皮" itemCount="10"/>
-<task questId="1879328015" name="米那斯提力斯委托：破损爪" itemId="1879287627" itemName="破损爪" itemCount="10"/>
-<task questId="1879328016" name="米那斯提力斯委托：浓稠黏液" itemId="1879287706" itemName="浓稠黏液" itemCount="10"/>
-<task questId="1879328017" name="米那斯提力斯委托：剪下的耳朵" itemId="1879287696" itemName="剪下的耳朵" itemCount="10"/>
-<task questId="1879328018" name="米那斯提力斯委托：撕裂皮革" itemId="1879287639" itemName="撕裂皮革" itemCount="10"/>
-<task questId="1879328019" name="米那斯提力斯委托：闪亮甲壳" itemId="1879287626" itemName="闪亮甲壳" itemCount="10"/>
-<task questId="1879328020" name="米那斯提力斯委托：凹痕剑鞘" itemId="1879287703" itemName="凹痕剑鞘" itemCount="10"/>
-<task questId="1879332164" name="洛汗骑兵委托：精灵剑鞘" itemId="1879306729" itemName="精灵剑鞘" itemCount="10"/>
-<task questId="1879332165" name="洛汗骑兵委托：破旧毛皮" itemId="1879306720" itemName="破旧毛皮" itemCount="10"/>
-<task questId="1879332166" name="洛汗骑兵委托：发霉皮肤" itemId="1879306730" itemName="发霉皮肤" itemCount="10"/>
-<task questId="1879332167" name="洛汗骑兵委托：破碎长矛" itemId="1879306721" itemName="破碎长矛" itemCount="10"/>
-<task questId="1879332168" name="洛汗骑兵委托：烧焦耳朵" itemId="1879306724" itemName="烧焦耳朵" itemCount="10"/>
-<task questId="1879339006" name="西方联军委托：棱彩甲壳" itemId="1879306716" itemName="棱彩甲壳" itemCount="10"/>
-<task questId="1879339007" name="西方联军委托：恶臭污物" itemId="1879306723" itemName="恶臭污物" itemCount="10"/>
-<task questId="1879339010" name="西方联军委托：发霉皮肤" itemId="1879306730" itemName="发霉皮肤" itemCount="10"/>
-<task questId="1879339011" name="西方联军委托：冒泡黏液" itemId="1879306711" itemName="冒泡黏液" itemCount="10"/>
-<task questId="1879339012" name="西方联军委托：破旧毛皮" itemId="1879306720" itemName="破旧毛皮" itemCount="10"/>
-<task questId="1879339155" name="西方联军委托：烧焦耳朵" itemId="1879306724" itemName="烧焦耳朵" itemCount="10"/>
-<task questId="1879356826" name="果戈洛斯委托：奇异污物" itemId="1879357798" itemName="奇异污物" itemCount="10"/>
-<task questId="1879356827" name="果戈洛斯委托：神秘耳朵" itemId="1879357810" itemName="神秘耳朵" itemCount="10"/>
-<task questId="1879356828" name="果戈洛斯委托：石质兽皮" itemId="1879357800" itemName="石质兽皮" itemCount="10"/>
-<task questId="1879356829" name="果戈洛斯委托：黑曜石鳞片" itemId="1879357799" itemName="黑曜石鳞片" itemCount="10"/>
-<task questId="1879356830" name="果戈洛斯委托：奇异黏液" itemId="1879357811" itemName="奇异黏液" itemCount="10"/>
-<task questId="1879366676" name="费烈国斯的精灵委托：硬毛兽皮" itemId="1879357803" itemName="硬毛兽皮" itemCount="10"/>
-<task questId="1879366677" name="河谷镇人类委托：致命利爪" itemId="1879357802" itemName="致命利爪" itemCount="10"/>
-<task questId="1879366678" name="孤山矮人委托：生锈弯刀" itemId="1879357795" itemName="生锈弯刀" itemCount="10"/>
-<task questId="1879366680" name="费烈国斯的精灵委托：石化树枝" itemId="1879357814" itemName="石化树枝" itemCount="10"/>
-<task questId="1879366682" name="河谷镇人类委托：多刺甲壳" itemId="1879357797" itemName="多刺甲壳" itemCount="10"/>
-<task questId="1879378498" name="灰山远征队委托：石磨毛皮" itemId="1879373568" itemName="石磨毛皮" itemCount="10"/>
-<task questId="1879378499" name="灰山远征队委托：枯萎利爪" itemId="1879373573" itemName="枯萎利爪" itemCount="10"/>
-<task questId="1879378500" name="灰山远征队委托：枯萎耳朵" itemId="1879373557" itemName="枯萎耳朵" itemCount="10"/>
-<task questId="1879378501" name="灰山远征队委托：岩尾" itemId="1879373563" itemName="岩尾" itemCount="10"/>
-<task questId="1879378502" name="灰山远征队委托：矮人制剑鞘" itemId="1879373561" itemName="矮人制剑鞘" itemCount="10"/>
-<task questId="1879388354" name="荒野之民委托：石磨毛皮" itemId="1879373564" itemName="石磨毛皮" itemCount="10"/>
-<task questId="1879388355" name="荒野之民委托：失落精华" itemId="1879373572" itemName="失落精华" itemCount="10"/>
-<task questId="1879388356" name="荒野之民委托：卵石污垢" itemId="1879373556" itemName="卵石污垢" itemCount="10"/>
-<task questId="1879388357" name="荒野之民委托：钙化甲壳" itemId="1879373570" itemName="钙化甲壳" itemCount="10"/>
-<task questId="1879396436" name="白卫队委托：簇毛耳朵" itemId="1879395700" itemName="簇毛耳朵" itemCount="10"/>
-<task questId="1879396437" name="白卫队委托：恶心污物" itemId="1879395699" itemName="恶心污物" itemCount="10"/>
-<task questId="1879396438" name="白卫队委托：硬化皮革" itemId="1879395693" itemName="硬化皮革" itemCount="10"/>
-<task questId="1879396439" name="伟大联盟委托：破损长矛" itemId="1879395663" itemName="破损长矛" itemCount="10"/>
-<task questId="1879396440" name="白卫队委托：夜触毛皮" itemId="1879395649" itemName="夜触毛皮" itemCount="10"/>
-<task questId="1879406571" name="荒野守护者委托：不祥翅膀" itemId="1879395619" itemName="不祥翅膀" itemCount="10"/>
-<task questId="1879406572" name="荒野守护者委托：古老剑鞘" itemId="1879395659" itemName="古老剑鞘" itemCount="10"/>
-<task questId="1879406573" name="荒野守护者委托：鞭挞之尾" itemId="1879395638" itemName="鞭挞之尾" itemCount="10"/>
-<task questId="1879406574" name="荒野守护者委托：焦黑树枝" itemId="1879395651" itemName="焦黑树枝" itemCount="10"/>
-<task questId="1879411108" name="埃尔德斯莱德委托：野蛮鸟喙" itemId="1879395677" itemName="野蛮鸟喙" itemCount="10"/>
-<task questId="1879411109" name="埃尔德斯莱德委托：焦黑利爪" itemId="1879395625" itemName="焦黑利爪" itemCount="10"/>
-<task questId="1879411110" name="埃尔德斯莱德委托：缟玛瑙鳞片" itemId="1879395674" itemName="缟玛瑙鳞片" itemCount="10"/>
-<task questId="1879411111" name="埃尔德斯莱德委托：簇毛耳朵" itemId="1879395700" itemName="簇毛耳朵" itemCount="10"/>
-<task questId="1879419721" name="瑟莱因的哈班阿卡委托：破损长矛" itemId="1879395663" itemName="破损长矛" itemCount="10"/>
-<task questId="1879419722" name="瑟莱因的哈班阿卡委托：古老剑鞘" itemId="1879395659" itemName="古老剑鞘" itemCount="10"/>
-<task questId="1879419723" name="瑟莱因的哈班阿卡委托：不祥翅膀" itemId="1879395619" itemName="不祥翅膀" itemCount="10"/>
-<task questId="1879419724" name="瑟莱因的哈班阿卡委托：夜触毛皮" itemId="1879395649" itemName="夜触毛皮" itemCount="10"/>
-<task questId="1879438598" name="贡达巴德委托：霜边耳朵" itemId="1879430504" itemName="霜边耳朵" itemCount="10"/>
-<task questId="1879438599" name="贡达巴德委托：闪亮黏液" itemId="1879430484" itemName="闪亮黏液" itemCount="10"/>
-<task questId="1879438600" name="贡达巴德委托：霜边利爪" itemId="1879430488" itemName="霜边利爪" itemCount="10"/>
-<task questId="1879438601" name="贡达巴德委托：破损斧头" itemId="1879430530" itemName="破损斧头" itemCount="10"/>
-<task questId="1879438602" name="贡达巴德委托：霜边兽皮" itemId="1879430549" itemName="霜边兽皮" itemCount="10"/>
-<task questId="1879456948" name="天鹅泽委托：轻甲壳" itemId="1879104583" itemName="轻甲壳" itemCount="10"/>
-<task questId="1879456949" name="天鹅泽委托：钝树枝" itemId="1879104553" itemName="钝树枝" itemCount="10"/>
-<task questId="1879456950" name="天鹅泽委托：黏糊黏液" itemId="1879104433" itemName="黏糊黏液" itemCount="10"/>
-<task questId="1879456951" name="天鹅泽委托：蓬乱毛皮" itemId="1879104289" itemName="蓬乱毛皮" itemCount="10"/>
-<task questId="1879456952" name="天鹅泽委托：破损斧头" itemId="1879111566" itemName="破损斧头" itemCount="10"/>
-<task questId="1879456953" name="天鹅泽委托：破损匕首" itemId="1879111582" itemName="破损匕首" itemCount="10"/>
-<task questId="1879456954" name="天鹅泽委托：撕裂毛皮" itemId="1879104288" itemName="撕裂毛皮" itemCount="10"/>
-<task questId="1879456955" name="天鹅泽委托：脏鳞片" itemId="1879104299" itemName="脏鳞片" itemCount="10"/>
-<task questId="1879456956" name="天鹅泽委托：破损剑鞘" itemId="1879104721" itemName="破损剑鞘" itemCount="10"/>
-<task questId="1879456957" name="天鹅泽委托：小翅膀" itemId="1879104361" itemName="小翅膀" itemCount="10"/>
-<task questId="1879456960" name="卡多兰委托：破损斧头" itemId="1879111566" itemName="破损斧头" itemCount="10"/>
-<task questId="1879456961" name="卡多兰委托：大型指骨" itemId="1879104244" itemName="大型指骨" itemCount="10"/>
-<task questId="1879456962" name="卡多兰委托：坚韧剑鞘" itemId="1879104714" itemName="坚韧剑鞘" itemCount="10"/>
-<task questId="1879456963" name="卡多兰委托：光泽精华" itemId="1879104406" itemName="光泽精华" itemCount="10"/>
-<task questId="1879456964" name="卡多兰委托：暗色兽耳" itemId="1879104384" itemName="暗色兽耳" itemCount="10"/>
-<task questId="1879456965" name="卡多兰委托：破损木矛" itemId="1879111569" itemName="破损木矛" itemCount="10"/>
-<task questId="1879456966" name="卡多兰委托：坚硬甲壳" itemId="1879104576" itemName="坚硬甲壳" itemCount="10"/>
-<task questId="1879456967" name="卡多兰委托：粗糙皮毛" itemId="1879104703" itemName="粗糙皮毛" itemCount="10"/>
-<task questId="1879456968" name="卡多兰委托：焦黑毛皮" itemId="1879104280" itemName="焦黑毛皮" itemCount="10"/>
-<task questId="1879456969" name="卡多兰委托：暗淡尘埃" itemId="1879104598" itemName="暗淡尘埃" itemCount="10"/>
-<task questId="1879464217" name="委托：英勇勋章" itemId="1879463586" itemName="英勇勋章" itemCount="10"/>
-<task questId="1879464387" name="委托：英勇勋章（第二阶）" itemId="1879463586" itemName="英勇勋章" itemCount="20"/>
-<task questId="1879464388" name="委托：英勇勋章（第三阶）" itemId="1879463586" itemName="英勇勋章" itemCount="30"/>
-<task questId="1879475281" name="刚铎国王西部与外刚铎委托：凹痕斧头" itemId="1879471650" itemName="凹痕斧头" itemCount="10"/>
-<task questId="1879475287" name="乌姆巴尔委托：盐水利爪" itemId="1879471632" itemName="盐水利爪" itemCount="10"/>
-<task questId="1879475289" name="乌姆巴尔委托：腐蚀弯刀鞘" itemId="1879471459" itemName="腐蚀弯刀鞘" itemCount="10"/>
-<task questId="1879475290" name="乌姆巴尔委托：盐水耳朵" itemId="1879471669" itemName="盐水耳朵" itemCount="10"/>
-<task questId="1879475291" name="乌姆巴尔委托：咸黏质" itemId="1879471470" itemName="咸黏质" itemCount="10"/>
-<task questId="1879475292" name="乌姆巴尔委托：海抛兽皮" itemId="1879471515" itemName="海抛兽皮" itemCount="10"/>
-<task questId="1879484284" name="阿格雷格委托：华丽毛皮" itemId="1879105220" itemName="华丽毛皮" itemCount="10"/>
-<task questId="1879484285" name="阿格雷格委托：破损金属棍棒" itemId="1879111579" itemName="破损金属棍棒" itemCount="10"/>
-<task questId="1879484286" name="阿格雷格委托：华丽剑鞘" itemId="1879105478" itemName="华丽剑鞘" itemCount="10"/>
-<task questId="1879484287" name="阿格雷格委托：污秽皮革" itemId="1879105472" itemName="污秽皮革" itemCount="10"/>
-<task questId="1879484288" name="阿格雷格委托：华丽耳朵" itemId="1879105280" itemName="华丽耳朵" itemCount="10"/>
-<task questId="1879493240" name="伊科尔班山谷伊科尔班尼委托：焦糊黏液" itemId="1879493211" itemName="焦糊黏液" itemCount="10"/>
-<task questId="1879493241" name="伊科尔班山谷阿杜希德委托：皮革剑鞘" itemId="1879493213" itemName="皮革剑鞘" itemCount="10"/>
-<task questId="1879493242" name="伊科尔班山谷费特卡里委托：沙痕耳朵" itemId="1879493206" itemName="沙痕耳朵" itemCount="10"/>
-<task questId="1879493243" name="伊科尔班山谷伊科尔班尼委托：沙痕耳朵" itemId="1879493206" itemName="沙痕耳朵" itemCount="10"/>
-<task questId="1879493244" name="伊科尔班山谷伊科尔班尼委托：有缺口的斧头" itemId="1879493204" itemName="有缺口的斧头" itemCount="10"/>
-<task questId="1879493245" name="伊科尔班山谷费特卡里委托：有缺口的斧头" itemId="1879493204" itemName="有缺口的斧头" itemCount="10"/>
-<task questId="1879493246" name="伊科尔班山谷伊科尔班尼委托：日晒利爪" itemId="1879493205" itemName="日晒利爪" itemCount="10"/>
-<task questId="1879493247" name="伊科尔班山谷费特卡里委托：皮革剑鞘" itemId="1879493213" itemName="皮革剑鞘" itemCount="10"/>
-<task questId="1879493248" name="伊科尔班山谷费特卡里委托：日晒利爪" itemId="1879493205" itemName="日晒利爪" itemCount="10"/>
-<task questId="1879493249" name="伊科尔班山谷费特卡里委托：沙烤兽皮" itemId="1879493197" itemName="沙烤兽皮" itemCount="10"/>
-<task questId="1879493250" name="伊科尔班谷阿杜希德委托：沙痕耳朵" itemId="1879493206" itemName="沙痕耳朵" itemCount="10"/>
-<task questId="1879493251" name="伊科尔班山谷阿杜希德委托：日晒利爪" itemId="1879493205" itemName="日晒利爪" itemCount="10"/>
-<task questId="1879493252" name="伊科尔班山谷伊科尔班尼委托：沙烤兽皮" itemId="1879493197" itemName="沙烤兽皮" itemCount="10"/>
-<task questId="1879493253" name="伊科尔班山谷阿杜希德委托：焦糊黏液" itemId="1879493211" itemName="焦糊黏液" itemCount="10"/>
-<task questId="1879493254" name="伊科尔班山谷阿杜希德委托：沙烤兽皮" itemId="1879493197" itemName="沙烤兽皮" itemCount="10"/>
-<task questId="1879493255" name="伊科尔班山谷伊科尔班尼委托：皮革剑鞘" itemId="1879493213" itemName="皮革剑鞘" itemCount="10"/>
-<task questId="1879493256" name="伊科尔班山谷费特卡里委托：焦糊黏液" itemId="1879493211" itemName="焦糊黏液" itemCount="10"/>
-<task questId="1879493257" name="伊科尔班山谷阿杜希德委托：有缺口的斧头" itemId="1879493204" itemName="有缺口的斧头" itemCount="10"/>
-<task questId="1879498505" name="凯兰崔姆委托：破损金属棍棒" itemId="1879111579" itemName="破损金属棍棒" itemCount="10"/>
-<task questId="1879498506" name="凯兰崔姆委托：污秽皮革" itemId="1879105472" itemName="污秽皮革" itemCount="10"/>
-<task questId="1879498507" name="凯兰崔姆委托：华丽耳朵" itemId="1879105280" itemName="华丽耳朵" itemCount="10"/>
-<task questId="1879498508" name="凯兰崔姆委托：华丽剑鞘" itemId="1879105478" itemName="华丽剑鞘" itemCount="10"/>
-<task questId="1879498509" name="凯兰崔姆委托：华丽毛皮" itemId="1879105220" itemName="华丽毛皮" itemCount="10"/>
-<task questId="1879498672" name="玛兰崔姆委托：邪恶污物" itemId="1879105196" itemName="邪恶污物" itemCount="10"/>
-<task questId="1879498673" name="玛兰崔姆委托：华丽尘埃" itemId="1879105412" itemName="华丽尘埃" itemCount="10"/>
-<task questId="1879498674" name="玛兰崔姆委托：锥形甲壳" itemId="1879105400" itemName="锥形甲壳" itemCount="10"/>
-<task questId="1879498675" name="玛兰崔姆委托：邪恶指骨" itemId="1879105202" itemName="邪恶指骨" itemCount="10"/>
-<task questId="1879498676" name="玛兰崔姆委托：邪恶精华" itemId="1879105292" itemName="邪恶精华" itemCount="10"/>
-<task questId="1879501195" name="范贡森林恩特委托：浓稠黏液" itemId="1879287706" itemName="浓稠黏液" itemCount="10"/>
-<task questId="1879501196" name="范贡森林恩特委托：腐烂心木" itemId="1879287704" itemName="腐烂心木" itemCount="10"/>
-<task questId="1879501197" name="范贡森林恩特委托：剧毒膜" itemId="1879287697" itemName="剧毒膜" itemCount="10"/>
-<task questId="1879501198" name="范贡森林恩特委托：破碎短柄斧" itemId="1879287593" itemName="破碎短柄斧" itemCount="10"/>
-<task questId="1879510038" name="穆尔加拉金泰委托：日晒兽皮" itemId="1879509637" itemName="日晒兽皮" itemCount="10"/>
-<task questId="1879510046" name="穆尔加拉金泰委托：日晒斧头" itemId="1879509634" itemName="日晒斧头" itemCount="10"/>
-<task questId="1879510047" name="穆尔加拉金泰委托：沙质黏液" itemId="1879509644" itemName="沙质黏液" itemCount="10"/>
-<task questId="1879510048" name="穆尔加拉金泰委托：填沙耳朵" itemId="1879509631" itemName="填沙耳朵" itemCount="10"/>
-<task questId="1879510049" name="穆尔加拉金泰委托：日晒剑鞘" itemId="1879509639" itemName="日晒剑鞘" itemCount="10"/>
-<task questId="1879510050" name="穆尔加拉金泰委托：骨化利爪" itemId="1879509643" itemName="骨化利爪" itemCount="10"/>
-<task questId="1879510183" name="穆尔加拉扎贾纳委托：填沙耳朵" itemId="1879509631" itemName="填沙耳朵" itemCount="10"/>
-<task questId="1879510184" name="穆尔加拉泰马米尔委托：日晒兽皮" itemId="1879509637" itemName="日晒兽皮" itemCount="10"/>
-<task questId="1879510185" name="穆尔加拉泰马米尔委托：填沙耳朵" itemId="1879509631" itemName="填沙耳朵" itemCount="10"/>
-<task questId="1879510186" name="穆尔加拉哈马蒂委托：日晒剑鞘" itemId="1879509639" itemName="日晒剑鞘" itemCount="10"/>
-<task questId="1879510187" name="穆尔加拉特马米尔委托：骨化利爪" itemId="1879509643" itemName="骨化利爪" itemCount="10"/>
-<task questId="1879510188" name="穆尔加拉扎贾纳委托：日晒剑鞘" itemId="1879509639" itemName="日晒剑鞘" itemCount="10"/>
-<task questId="1879510189" name="穆尔加拉扎贾纳委托：沙质黏液" itemId="1879509644" itemName="沙质黏液" itemCount="10"/>
-<task questId="1879510190" name="穆尔加拉泰马米尔委托：沙质黏液" itemId="1879509644" itemName="沙质黏液" itemCount="10"/>
-<task questId="1879510191" name="穆尔加拉扎贾纳委托：日晒斧头" itemId="1879509634" itemName="日晒斧头" itemCount="10"/>
-<task questId="1879510192" name="穆尔加拉哈马蒂委托：日晒兽皮" itemId="1879509637" itemName="日晒兽皮" itemCount="10"/>
-<task questId="1879510193" name="穆尔加拉哈马提委托：骨化利爪" itemId="1879509643" itemName="骨化利爪" itemCount="10"/>
-<task questId="1879510194" name="穆尔加拉扎贾纳委托：日晒兽皮" itemId="1879509637" itemName="日晒兽皮" itemCount="10"/>
-<task questId="1879510195" name="穆尔加拉扎贾纳委托：骨化利爪" itemId="1879509643" itemName="骨化利爪" itemCount="10"/>
-<task questId="1879510196" name="穆尔加拉泰马米尔委托：日晒剑鞘" itemId="1879509639" itemName="日晒剑鞘" itemCount="10"/>
-<task questId="1879510197" name="穆尔加拉哈马提委托：沙质黏液" itemId="1879509644" itemName="沙质黏液" itemCount="10"/>
-<task questId="1879510198" name="穆尔加拉特马米尔委托：日晒斧头" itemId="1879509634" itemName="日晒斧头" itemCount="10"/>
-<task questId="1879510199" name="穆尔加拉哈马蒂委托：日晒斧头" itemId="1879509634" itemName="日晒斧头" itemCount="10"/>
-<task questId="1879510200" name="穆尔加拉哈马蒂委托：填沙耳朵" itemId="1879509631" itemName="填沙耳朵" itemCount="10"/>
-<task questId="1879528018" name="德劳加尔德侦察兵任务：血迹兽皮" itemId="1879527981" itemName="血迹兽皮" itemCount="10"/>
-<task questId="1879528019" name="德劳加尔德侦察兵任务：血涂斧" itemId="1879527967" itemName="血涂斧" itemCount="10"/>
-<task questId="1879528020" name="德劳加尔德侦察兵任务：血污黏液" itemId="1879527986" itemName="血污黏液" itemCount="10"/>
-<task questId="1879528021" name="德劳加尔德侦察兵任务：风裂剑鞘" itemId="1879527972" itemName="风裂剑鞘" itemCount="10"/>
-<task questId="1879528022" name="德劳加尔德侦察兵任务：血浸爪" itemId="1879527980" itemName="血浸爪" itemCount="10"/>
-<task questId="1879528023" name="德劳加尔德侦察兵任务：畸形耳" itemId="1879527984" itemName="畸形耳" itemCount="10"/>
-<task questId="1879528024" name="特蒂基尔任务：染血之斧" itemId="1879527967" itemName="血涂斧" itemCount="10"/>
-<task questId="1879528025" name="克梅泽尔部族任务：血腥黏液" itemId="1879527986" itemName="血污黏液" itemCount="10"/>
-<task questId="1879528026" name="克梅泽尔部族任务：风裂剑鞘" itemId="1879527972" itemName="风裂剑鞘" itemCount="10"/>
-<task questId="1879528027" name="特蒂基尔任务：血迹斑斑的兽皮" itemId="1879527981" itemName="血迹兽皮" itemCount="10"/>
-<task questId="1879528028" name="特蒂基尔任务：畸形耳朵" itemId="1879527984" itemName="畸形耳" itemCount="10"/>
-<task questId="1879528029" name="克梅泽尔部族任务：畸形耳朵" itemId="1879527984" itemName="畸形耳" itemCount="10"/>
-<task questId="1879528030" name="特蒂基尔任务：风裂剑鞘" itemId="1879527972" itemName="风裂剑鞘" itemCount="10"/>
-<task questId="1879528031" name="克梅泽尔部族任务：沾血的利爪" itemId="1879527980" itemName="血浸爪" itemCount="10"/>
-<task questId="1879528032" name="特蒂基尔任务：血腥黏液" itemId="1879527986" itemName="血污黏液" itemCount="10"/>
-<task questId="1879528033" name="特蒂基尔任务：沾血的利爪" itemId="1879527980" itemName="血浸爪" itemCount="10"/>
-<task questId="1879528034" name="克梅泽尔部族任务：染血之斧" itemId="1879527967" itemName="血涂斧" itemCount="10"/>
-<task questId="1879528035" name="克梅泽尔部族任务：血迹斑斑的兽皮" itemId="1879527981" itemName="血迹兽皮" itemCount="10"/>
+<task questId="1879196457" name="Eglain Task: Broken Wooden Maces" itemId="1879111567" itemName="Broken Wooden Mace" itemCount="10"/>
+<task questId="1879196513" name="Eglain Task: Blackened Fur" itemId="1879104280" itemName="Blackened Fur" itemCount="10"/>
+<task questId="1879196518" name="Eglain Task: Dusky Wings" itemId="1879104353" itemName="Dusky Wing" itemCount="10"/>
+<task questId="1879196562" name="Eglain Task: Blackened Skin" itemId="1879104701" itemName="Blackened Skin" itemCount="10"/>
+<task questId="1879196563" name="Eglain Task: Cracked Beaks" itemId="1879104543" itemName="Cracked Beak" itemCount="10"/>
+<task questId="1879196564" name="Eglain Task: Blackened Sword Sheaths" itemId="1879104712" itemName="Blackened Sword Sheath" itemCount="10"/>
+<task questId="1879196565" name="Eglain Task: Large Wings" itemId="1879104355" itemName="Large Wing" itemCount="10"/>
+<task questId="1879196566" name="Eglain Task: Coarse Fur" itemId="1879104282" itemName="Coarse Fur" itemCount="10"/>
+<task questId="1879196567" name="Eglain Task: Large Filth" itemId="1879104234" itemName="Large Filth" itemCount="10"/>
+<task questId="1879196568" name="Eglain Task: Jagged Beaks" itemId="1879104545" itemName="Jagged Beak" itemCount="10"/>
+<task questId="1879196569" name="Eglain Task: Tough Carapaces" itemId="1879104576" itemName="Tough Carapace" itemCount="10"/>
+<task questId="1879196570" name="Eglain Task: Coarse Skin" itemId="1879104703" itemName="Coarse Skin" itemCount="10"/>
+<task questId="1879196574" name="Eglain Task: Broken Wood Spears" itemId="1879111569" itemName="Broken Wood Spear" itemCount="10"/>
+<task questId="1879196575" name="Eglain Task: Tough Sword Sheaths" itemId="1879104714" itemName="Tough Sword Sheath" itemCount="10"/>
+<task questId="1879196599" name="Eglain Task: Flawed Ears" itemId="1879104385" itemName="Flawed Ear" itemCount="10"/>
+<task questId="1879196610" name="Eglain Task: Ruffled Feathers" itemId="1879104457" itemName="Ruffled Feather" itemCount="10"/>
+<task questId="1879196611" name="Eglain Task: Flawed Goo" itemId="1879104426" itemName="Flawed Goo" itemCount="10"/>
+<task questId="1879196613" name="Eglain Task: Coarse Fur" itemId="1879104282" itemName="Coarse Fur" itemCount="10"/>
+<task questId="1879196614" name="Eglain Task: Large Filth" itemId="1879104234" itemName="Large Filth" itemCount="10"/>
+<task questId="1879196615" name="Eglain Task: Tough Carapaces" itemId="1879104576" itemName="Tough Carapace" itemCount="10"/>
+<task questId="1879196617" name="Eglain Task: Large Finger Bones" itemId="1879104244" itemName="Large Finger Bone" itemCount="10"/>
+<task questId="1879196618" name="Eglain Task: Glossy Essences" itemId="1879104406" itemName="Glossy Essence" itemCount="10"/>
+<task questId="1879196619" name="Eglain Task: Tough Branches" itemId="1879104555" itemName="Tough Branch" itemCount="10"/>
+<task questId="1879196620" name="Eglain Task: Crooked Branches" itemId="1879104556" itemName="Crooked Branch" itemCount="10"/>
+<task questId="1879196621" name="Eglain Task: Scarred Heartwood" itemId="1879104851" itemName="Scarred Heartwood" itemCount="10"/>
+<task questId="1879196622" name="Eglain Task: Black Heartwood" itemId="1879104852" itemName="Black Heartwood" itemCount="10"/>
+<task questId="1879196623" name="Eglain Task: Heavy Carapaces" itemId="1879104577" itemName="Heavy Carapace" itemCount="10"/>
+<task questId="1879196624" name="Eglain Task: Decrepit Finger Bones" itemId="1879104245" itemName="Decrepit Finger Bone" itemCount="10"/>
+<task questId="1879196625" name="Eglain Task: Broken Short Bows" itemId="1879111570" itemName="Broken Short Bow" itemCount="10"/>
+<task questId="1879196626" name="Eglain Task: Heavy Sword Sheaths" itemId="1879104715" itemName="Heavy Sword Sheath" itemCount="10"/>
+<task questId="1879196627" name="Eglain Task: Shimmering Essences" itemId="1879104407" itemName="Shimmering Essence" itemCount="10"/>
+<task questId="1879196695" name="Mathom Society Task: Matted Fur" itemId="1879104289" itemName="Matted Fur" itemCount="10"/>
+<task questId="1879196696" name="Mathom Society Task: Light Carapaces" itemId="1879104583" itemName="Light Carapace" itemCount="10"/>
+<task questId="1879196697" name="Mathom Society Task: Dirty Filth" itemId="1879104241" itemName="Dirty Filth" itemCount="10"/>
+<task questId="1879196698" name="Mathom Society Task: Matted Skins" itemId="1879104710" itemName="Matted Skin" itemCount="10"/>
+<task questId="1879196699" name="Mathom Society Task: Bent Claws" itemId="1879104231" itemName="Bent Claw" itemCount="10"/>
+<task questId="1879196701" name="Mathom Society Task: Dirty Wings" itemId="1879104362" itemName="Dirty Wing" itemCount="10"/>
+<task questId="1879196702" name="Mathom Society Task: Broken Daggers" itemId="1879111582" itemName="Broken Dagger" itemCount="10"/>
+<task questId="1879196703" name="Mathom Society Task: Broken Sword Sheaths" itemId="1879104721" itemName="Broken Sword Sheath" itemCount="10"/>
+<task questId="1879196704" name="Mathom Society Task: Squishy Goo" itemId="1879104433" itemName="Squishy Goo" itemCount="10"/>
+<task questId="1879196705" name="Mathom Society Task: Dirty Ears" itemId="1879104392" itemName="Dirty Ear" itemCount="10"/>
+<task questId="1879196706" name="Thorin's Hall Task: Dirty Wings" itemId="1879104362" itemName="Dirty Wing" itemCount="10"/>
+<task questId="1879196707" name="Thorin's Hall Task: Dull Beaks" itemId="1879104552" itemName="Dull Beak" itemCount="10"/>
+<task questId="1879196709" name="Thorin's Hall Task: Matted Feathers" itemId="1879104464" itemName="Matted Feather" itemCount="10"/>
+<task questId="1879196710" name="Thorin's Hall Task: Matted Furs" itemId="1879104289" itemName="Matted Fur" itemCount="10"/>
+<task questId="1879196711" name="Thorin's Hall Task: Broken Daggers" itemId="1879111582" itemName="Broken Dagger" itemCount="10"/>
+<task questId="1879196712" name="Thorin's Hall Task: Matted Skins" itemId="1879104710" itemName="Matted Skin" itemCount="10"/>
+<task questId="1879196718" name="Thorin's Hall Task: Broken Sword Sheaths" itemId="1879104721" itemName="Broken Sword Sheath" itemCount="10"/>
+<task questId="1879196719" name="Thorin's Hall Task: Light Carapaces" itemId="1879104583" itemName="Light Carapace" itemCount="10"/>
+<task questId="1879196720" name="Thorin's Hall Task: Squishy Goo" itemId="1879104433" itemName="Squishy Goo" itemCount="10"/>
+<task questId="1879196721" name="Thorin's Hall Task: Dirty Filth" itemId="1879104241" itemName="Dirty Filth" itemCount="10"/>
+<task questId="1879196901" name="Men of Bree Task: Broken Hatchets" itemId="1879111566" itemName="Broken Hatchet" itemCount="10"/>
+<task questId="1879196907" name="Men of Bree Task: Wet Fur" itemId="1879104279" itemName="Wet Fur" itemCount="10"/>
+<task questId="1879196908" name="Men of Bree Task: Blackened Filth" itemId="1879104232" itemName="Blackened Filth" itemCount="10"/>
+<task questId="1879196909" name="Men of Bree Task: Wet Skin" itemId="1879104700" itemName="Wet Skin" itemCount="10"/>
+<task questId="1879196910" name="Men of Bree Task: Worn Sword Sheaths" itemId="1879104711" itemName="Worn Sword Sheath" itemCount="10"/>
+<task questId="1879196911" name="Men of Bree Task: Mossy Carapaces" itemId="1879104573" itemName="Mossy Carapace" itemCount="10"/>
+<task questId="1879196912" name="Men of Bree Task: Broken Wooden Maces" itemId="1879111567" itemName="Broken Wooden Mace" itemCount="10"/>
+<task questId="1879196913" name="Men of Bree Task: Blackened Fur" itemId="1879104280" itemName="Blackened Fur" itemCount="10"/>
+<task questId="1879196914" name="Men of Bree Task: Blackened Skin" itemId="1879104701" itemName="Blackened Skin" itemCount="10"/>
+<task questId="1879196915" name="Men of Bree Task: Blackened Sword Sheaths" itemId="1879104712" itemName="Blackened Sword Sheath" itemCount="10"/>
+<task questId="1879196916" name="Men of Bree Task: Jagged Claws" itemId="1879104222" itemName="Jagged Claw" itemCount="10"/>
+<task questId="1879196917" name="Men of Bree Task: Dusky Wings" itemId="1879104353" itemName="Dusky Wing" itemCount="10"/>
+<task questId="1879196918" name="Men of Bree Task: Blackened Carapaces" itemId="1879104574" itemName="Blackened Carapace" itemCount="10"/>
+<task questId="1879196927" name="Men of Bree Task: Glistening Filth" itemId="1879104233" itemName="Glistening Filth" itemCount="10"/>
+<task questId="1879196934" name="Men of Bree Task: Pitted Finger Bones" itemId="1879104243" itemName="Pitted Finger Bone" itemCount="10"/>
+<task questId="1879196935" name="Men of Bree Task: Glistening Essences" itemId="1879104404" itemName="Glistening Essence" itemCount="10"/>
+<task questId="1879196937" name="Men of Bree Task: Bulbous Goo" itemId="1879104425" itemName="Bulbous Goo" itemCount="10"/>
+<task questId="1879196938" name="Men of Bree Task: Dusky Ears" itemId="1879104384" itemName="Dusky Ear" itemCount="10"/>
+<task questId="1879196959" name="Men of Bree Task: Coarse Fur" itemId="1879104282" itemName="Coarse Fur" itemCount="10"/>
+<task questId="1879196960" name="Men of Bree Task: Large Wings" itemId="1879104355" itemName="Large Wing" itemCount="10"/>
+<task questId="1879196961" name="Men of Bree Task: Coarse Skin" itemId="1879104703" itemName="Coarse Skin" itemCount="10"/>
+<task questId="1879196962" name="Rangers of Esteldín Task: Jagged Beaks" itemId="1879104545" itemName="Jagged Beak" itemCount="10"/>
+<task questId="1879196964" name="Men of Bree Task: Flawed Ears" itemId="1879104385" itemName="Flawed Ear" itemCount="10"/>
+<task questId="1879196966" name="Men of Bree Task: Tough Sword Sheaths" itemId="1879104714" itemName="Tough Sword Sheath" itemCount="10"/>
+<task questId="1879196967" name="Men of Bree Task: Broken Wooden Spears" itemId="1879111569" itemName="Broken Wood Spear" itemCount="10"/>
+<task questId="1879196974" name="Rangers of Esteldín Task: Broken Wood Spears" itemId="1879111569" itemName="Broken Wood Spear" itemCount="10"/>
+<task questId="1879196977" name="Rangers of Esteldín Task: Coarse Fur" itemId="1879104282" itemName="Coarse Fur" itemCount="10"/>
+<task questId="1879196978" name="Rangers of Esteldín Task: Coarse Skins" itemId="1879104703" itemName="Coarse Skin" itemCount="10"/>
+<task questId="1879196980" name="Rangers of Esteldín Task: Tough Sword Sheaths" itemId="1879104714" itemName="Tough Sword Sheath" itemCount="10"/>
+<task questId="1879196981" name="Rangers of Esteldín Task: Dim Dust" itemId="1879104598" itemName="Dim Dust" itemCount="10"/>
+<task questId="1879196982" name="Rangers of Esteldín Task: Glossy Essence" itemId="1879104406" itemName="Glossy Essence" itemCount="10"/>
+<task questId="1879196985" name="Thorin's Hall Task: Large Wings" itemId="1879104355" itemName="Large Wing" itemCount="10"/>
+<task questId="1879196986" name="Thorin's Hall Task: Broken Wood Spears" itemId="1879111569" itemName="Broken Wood Spear" itemCount="10"/>
+<task questId="1879196987" name="Thorin's Hall Task: Coarse Furs" itemId="1879104282" itemName="Coarse Fur" itemCount="10"/>
+<task questId="1879196988" name="Thorin's Hall Task: Coarse Skins" itemId="1879104703" itemName="Coarse Skin" itemCount="10"/>
+<task questId="1879196989" name="Thorin's Hall Task: Tough Sword Sheaths" itemId="1879104714" itemName="Tough Sword Sheath" itemCount="10"/>
+<task questId="1879196990" name="Thorin's Hall Task: Jagged Beaks" itemId="1879104545" itemName="Jagged Beak" itemCount="10"/>
+<task questId="1879196991" name="Thorin's Hall Task: Ruffled Feathers" itemId="1879104457" itemName="Ruffled Feather" itemCount="10"/>
+<task questId="1879196994" name="Elves of Rivendell Task: Flawed Goo" itemId="1879104426" itemName="Flawed Goo" itemCount="10"/>
+<task questId="1879196998" name="Elves of Rivendell Task: Scarred Heartwood" itemId="1879104851" itemName="Scarred Heartwood" itemCount="10"/>
+<task questId="1879196999" name="Elves of Rivendell Task: Tough Sword Sheaths" itemId="1879104714" itemName="Tough Sword Sheath" itemCount="10"/>
+<task questId="1879197000" name="Elves of Rivendell Task: Tough Carapaces" itemId="1879104576" itemName="Tough Carapace" itemCount="10"/>
+<task questId="1879197001" name="Elves of Rivendell Task: Coarse Skin" itemId="1879104703" itemName="Coarse Skin" itemCount="10"/>
+<task questId="1879197002" name="Elves of Rivendell Task: Broken Wood Spears" itemId="1879111569" itemName="Broken Wood Spear" itemCount="10"/>
+<task questId="1879197003" name="Elves of Rivendell Task: Sharp Claws" itemId="1879104224" itemName="Sharp Claw" itemCount="10"/>
+<task questId="1879197006" name="Elves of Rivendell Task: Large Filth" itemId="1879104234" itemName="Large Filth" itemCount="10"/>
+<task questId="1879197183" name="Rangers of Esteldín Task: Large Filth" itemId="1879104234" itemName="Large Filth" itemCount="10"/>
+<task questId="1879197184" name="Rangers of Esteldín Task: Coarse Fur" itemId="1879104282" itemName="Coarse Fur" itemCount="10"/>
+<task questId="1879197187" name="Rangers of Esteldín Task: Broken Wood Spears" itemId="1879111569" itemName="Broken Wood Spear" itemCount="10"/>
+<task questId="1879197189" name="Rangers of Esteldín Task: Tough Carapaces" itemId="1879104576" itemName="Tough Carapace" itemCount="10"/>
+<task questId="1879197190" name="Rangers of Esteldín Task: Coarse Skin" itemId="1879104703" itemName="Coarse Skin" itemCount="10"/>
+<task questId="1879197193" name="Rangers of Esteldín Task: Flawed Goo" itemId="1879104426" itemName="Flawed Goo" itemCount="10"/>
+<task questId="1879197194" name="Rangers of Esteldín Task: Large Wings" itemId="1879104355" itemName="Large Wing" itemCount="10"/>
+<task questId="1879197195" name="Rangers of Esteldín Task: Jagged Beaks" itemId="1879104545" itemName="Jagged Beak" itemCount="10"/>
+<task questId="1879197196" name="Rangers of Esteldín Task: Ruffled Feathers" itemId="1879104457" itemName="Ruffled Feather" itemCount="10"/>
+<task questId="1879197197" name="Rangers of Esteldín Task: Flawed Ears" itemId="1879104385" itemName="Flawed Ear" itemCount="10"/>
+<task questId="1879197198" name="Rangers of Esteldín Task: Scarred Ears" itemId="1879104386" itemName="Scarred Ear" itemCount="10"/>
+<task questId="1879197200" name="Rangers of Esteldín Task: Leathery Fur" itemId="1879104283" itemName="Leathery Fur" itemCount="10"/>
+<task questId="1879197202" name="Rangers of Esteldín Task: Broken Short Bows" itemId="1879111570" itemName="Broken Short Bow" itemCount="10"/>
+<task questId="1879197203" name="Rangers of Esteldín Task: Bumpy Scales" itemId="1879104293" itemName="Bumpy Scale" itemCount="10"/>
+<task questId="1879197204" name="Rangers of Esteldín Task: Sticky Filth" itemId="1879104235" itemName="Sticky Filth" itemCount="10"/>
+<task questId="1879197205" name="Rangers of Esteldín Task: Soft Skin" itemId="1879104704" itemName="Soft Skin" itemCount="10"/>
+<task questId="1879197206" name="Rangers of Esteldín Task: Scarred Tails" itemId="1879104510" itemName="Scarred Tail" itemCount="10"/>
+<task questId="1879197207" name="Rangers of Esteldín Task: Heavy Sword Sheaths" itemId="1879104715" itemName="Heavy Sword Sheath" itemCount="10"/>
+<task questId="1879197434" name="Council of the North Task: Huge Filth" itemId="1879104237" itemName="Huge Filth" itemCount="10"/>
+<task questId="1879197435" name="Council of the North Task: Toughened Carapaces" itemId="1879104579" itemName="Toughened Carapace" itemCount="10"/>
+<task questId="1879197436" name="Council of the North Task: Lethal Sharp Claws" itemId="1879104227" itemName="Lethal Sharp Claw" itemCount="10"/>
+<task questId="1879197437" name="Council of the North Task: Huge Ears" itemId="1879104388" itemName="Huge Ear" itemCount="10"/>
+<task questId="1879197438" name="Council of the North Task: Huge Goo" itemId="1879104429" itemName="Huge Goo" itemCount="10"/>
+<task questId="1879197439" name="Council of the North Task: Sleek Fur" itemId="1879104285" itemName="Sleek Fur" itemCount="10"/>
+<task questId="1879197440" name="Council of the North Task: Broken Halberds" itemId="1879111572" itemName="Broken Halberd" itemCount="10"/>
+<task questId="1879197441" name="Council of the North Task: Broken Great Swords" itemId="1879111573" itemName="Broken Great Sword" itemCount="10"/>
+<task questId="1879197442" name="Council of the North Task: Sleek Skin" itemId="1879104706" itemName="Sleek Skin" itemCount="10"/>
+<task questId="1879197443" name="Council of the North Task: Pure Black Skin" itemId="1879104707" itemName="Pure Black Skin" itemCount="10"/>
+<task questId="1879197444" name="Council of the North Task: Studded Sword Sheaths" itemId="1879104717" itemName="Studded Sword Sheath" itemCount="10"/>
+<task questId="1879197445" name="Council of the North Task: Gilded Sword Sheaths" itemId="1879104718" itemName="Gilded Sword Sheath" itemCount="10"/>
+<task questId="1879197507" name="Council of the North Task: Broken Halberds" itemId="1879111572" itemName="Broken Halberd" itemCount="10"/>
+<task questId="1879197508" name="Council of the North Task: Pure Black Fur" itemId="1879104286" itemName="Pure Black Fur" itemCount="10"/>
+<task questId="1879197509" name="Council of the North Task: Gilded Sword Sheaths" itemId="1879104718" itemName="Gilded Sword Sheath" itemCount="10"/>
+<task questId="1879197510" name="Council of the North Task: Pure Black Skin" itemId="1879104707" itemName="Pure Black Skin" itemCount="10"/>
+<task questId="1879197511" name="Council of the North Task: Lethal Sharp Claws" itemId="1879104227" itemName="Lethal Sharp Claw" itemCount="10"/>
+<task questId="1879197512" name="Council of the North Task: Jewelled Sword Sheaths" itemId="1879104719" itemName="Jewelled Sword Sheath" itemCount="10"/>
+<task questId="1879197513" name="Thorin's Hall Task: Broken Great Swords" itemId="1879111573" itemName="Broken Great Sword" itemCount="10"/>
+<task questId="1879197514" name="Thorin's Hall Task: Pure Black Skin" itemId="1879104707" itemName="Pure Black Skin" itemCount="10"/>
+<task questId="1879197515" name="Thorin's Hall Task: Great Membranes" itemId="1879104686" itemName="Great Membrane" itemCount="10"/>
+<task questId="1879197516" name="Council of the North Task: Broken Wooden Clubs" itemId="1879111574" itemName="Broken Wooden Club" itemCount="10"/>
+<task questId="1879197517" name="Thorin's Hall Task: Razor Sharp Claws" itemId="1879104228" itemName="Razor Sharp Claw" itemCount="10"/>
+<task questId="1879197518" name="Thorin's Hall Task: Gilded Sword Sheaths" itemId="1879104718" itemName="Gilded Sword Sheath" itemCount="10"/>
+<task questId="1879197519" name="Thorin's Hall Task: Great Filth" itemId="1879104238" itemName="Great Filth" itemCount="10"/>
+<task questId="1879197520" name="Council of the North Task: Monstrous Wings" itemId="1879104360" itemName="Monstrous Wing" itemCount="10"/>
+<task questId="1879197521" name="Council of the North Task: Monstrous Filth" itemId="1879104239" itemName="Monstrous Filth" itemCount="10"/>
+<task questId="1879197522" name="Council of the North Task: Huge Filth" itemId="1879104237" itemName="Huge Filth" itemCount="10"/>
+<task questId="1879197523" name="Council of the North Task: Albino Skin" itemId="1879104708" itemName="Albino Skin" itemCount="10"/>
+<task questId="1879197524" name="Thorin's Hall Task: Pure Black Fur" itemId="1879104286" itemName="Pure Black Fur" itemCount="10"/>
+<task questId="1879197525" name="Thorin's Hall Task: Clean Tails" itemId="1879104513" itemName="Clean Tail" itemCount="10"/>
+<task questId="1879197526" name="Council of the North Task: Armoured Carapaces" itemId="1879104581" itemName="Armoured Carapace" itemCount="10"/>
+<task questId="1879197527" name="Council of the North Task: Enlarged Carapaces" itemId="1879104580" itemName="Enlarged Carapace" itemCount="10"/>
+<task questId="1879197591" name="Mathom Society Task: Heavy Carapaces" itemId="1879104577" itemName="Heavy Carapace" itemCount="10"/>
+<task questId="1879197593" name="Mathom Society Task: Jellied Goo" itemId="1879104427" itemName="Jellied Goo" itemCount="10"/>
+<task questId="1879197595" name="Mathom Society Task: Heavy Carapaces" itemId="1879104577" itemName="Heavy Carapace" itemCount="10"/>
+<task questId="1879197596" name="Mathom Society Task: Soft Skin" itemId="1879104704" itemName="Soft Skin" itemCount="10"/>
+<task questId="1879197597" name="Mathom Society Task: Heavy Sword Sheaths" itemId="1879104715" itemName="Heavy Sword Sheath" itemCount="10"/>
+<task questId="1879197598" name="Mathom Society Task: Very Sharp Claws" itemId="1879104225" itemName="Very Sharp Claw" itemCount="10"/>
+<task questId="1879197599" name="Wardens of Annúminas Task: Broken Short Bows" itemId="1879111570" itemName="Broken Short Bow" itemCount="10"/>
+<task questId="1879197600" name="Mathom Society Task: Soft Skin" itemId="1879104704" itemName="Soft Skin" itemCount="10"/>
+<task questId="1879197601" name="Mathom Society Task: Heavy Sword Sheaths" itemId="1879104715" itemName="Heavy Sword Sheath" itemCount="10"/>
+<task questId="1879197602" name="Wardens of Annúminas Task: Heavy Sword Sheaths" itemId="1879104715" itemName="Heavy Sword Sheath" itemCount="10"/>
+<task questId="1879197603" name="Wardens of Annúminas Task: Broken Longswords" itemId="1879111571" itemName="Broken Longsword" itemCount="10"/>
+<task questId="1879197604" name="Wardens of Annúminas Task: Scarred Ears" itemId="1879104386" itemName="Scarred Ear" itemCount="10"/>
+<task questId="1879197605" name="Wardens of Annúminas Task: Soft Skin" itemId="1879104704" itemName="Soft Skin" itemCount="10"/>
+<task questId="1879197606" name="Wardens of Annúminas Task: New Sword Sheaths" itemId="1879104716" itemName="New Sword Sheath" itemCount="10"/>
+<task questId="1879197607" name="Mathom Society Task: Scarred Ears" itemId="1879104386" itemName="Scarred Ear" itemCount="10"/>
+<task questId="1879197608" name="Mathom Society Task: Broken Short Bows" itemId="1879111570" itemName="Broken Short Bow" itemCount="10"/>
+<task questId="1879197609" name="Wardens of Annúminas Task: Heavy Carapaces" itemId="1879104577" itemName="Heavy Carapace" itemCount="10"/>
+<task questId="1879197610" name="Wardens of Annúminas Task: Shimmering Essence" itemId="1879104407" itemName="Shimmering Essence" itemCount="10"/>
+<task questId="1879197611" name="Mathom Society Task: Leathery Fur" itemId="1879104283" itemName="Leathery Fur" itemCount="10"/>
+<task questId="1879197612" name="Wardens of Annúminas Task: Fine Skin" itemId="1879104705" itemName="Fine Skin" itemCount="10"/>
+<task questId="1879197613" name="Wardens of Annúminas Task: Fine Fur" itemId="1879104284" itemName="Fine Fur" itemCount="10"/>
+<task questId="1879197614" name="Wardens of Annúminas Task: Broken Halberds" itemId="1879111572" itemName="Broken Halberd" itemCount="10"/>
+<task questId="1879197615" name="Mathom Society Task: Jellied Goo" itemId="1879104427" itemName="Jellied Goo" itemCount="10"/>
+<task questId="1879197616" name="Mathom Society Task: Sticky Filth" itemId="1879104235" itemName="Sticky Filth" itemCount="10"/>
+<task questId="1879197617" name="Wardens of Annúminas Task: Muted Dust" itemId="1879104599" itemName="Muted Dust" itemCount="10"/>
+<task questId="1879197618" name="Wardens of Annúminas Task: Studded Sword Sheaths" itemId="1879104717" itemName="Studded Sword Sheath" itemCount="10"/>
+<task questId="1879197619" name="Wardens of Annúminas Task: Leathery Fur" itemId="1879104283" itemName="Leathery Fur" itemCount="10"/>
+<task questId="1879197620" name="Wardens of Annúminas Task: Very Sharp Claws" itemId="1879104225" itemName="Very Sharp Claw" itemCount="10"/>
+<task questId="1879197621" name="Wardens of Annúminas Task: Broken Longswords" itemId="1879111571" itemName="Broken Longsword" itemCount="10"/>
+<task questId="1879197623" name="Mathom Society Task: Broken Short Bows" itemId="1879111570" itemName="Broken Short Bow" itemCount="10"/>
+<task questId="1879197625" name="Wardens of Annúminas Task: Sticky Filth" itemId="1879104235" itemName="Sticky Filth" itemCount="10"/>
+<task questId="1879197654" name="Lossoth Task: Broken Great Swords" itemId="1879111573" itemName="Broken Great Sword" itemCount="10"/>
+<task questId="1879197655" name="Lossoth Task: Pure Black Fur" itemId="1879104286" itemName="Pure Black Fur" itemCount="10"/>
+<task questId="1879197660" name="Lossoth Task: Great Filth" itemId="1879104238" itemName="Great Filth" itemCount="10"/>
+<task questId="1879197675" name="Elves of Rivendell Task: Broken Longswords" itemId="1879111571" itemName="Broken Longsword" itemCount="10"/>
+<task questId="1879197676" name="Elves of Rivendell Task: Fine Feathers" itemId="1879104459" itemName="Fine Feather" itemCount="10"/>
+<task questId="1879197677" name="Lossoth Task: Great Scales" itemId="1879104296" itemName="Great Scale" itemCount="10"/>
+<task questId="1879197678" name="Elves of Rivendell Task: Extremely Sharp Claws" itemId="1879104226" itemName="Extremely Sharp Claw" itemCount="10"/>
+<task questId="1879197679" name="Lossoth Task: Albino Skin" itemId="1879104708" itemName="Albino Skin" itemCount="10"/>
+<task questId="1879197680" name="Elves of Rivendell Task: Very Sharp Beaks" itemId="1879104547" itemName="Very Sharp Beak" itemCount="10"/>
+<task questId="1879197681" name="Thorin's Hall Task: Grey Ears" itemId="1879104387" itemName="Grey Ear" itemCount="10"/>
+<task questId="1879197682" name="Thorin's Hall Task: Gilded Sword Sheaths" itemId="1879104718" itemName="Gilded Sword Sheath" itemCount="10"/>
+<task questId="1879197683" name="Lossoth Task: Pure Black Skin" itemId="1879104707" itemName="Pure Black Skin" itemCount="10"/>
+<task questId="1879197684" name="Elves of Rivendell Task: Silky Filth" itemId="1879104236" itemName="Silky Filth" itemCount="10"/>
+<task questId="1879197685" name="Elves of Rivendell Task: Ridged Finger-bones" itemId="1879104246" itemName="Ridged Finger Bone" itemCount="10"/>
+<task questId="1879197686" name="Elves of Rivendell Task: Smooth Wings" itemId="1879104357" itemName="Smooth Wing" itemCount="10"/>
+<task questId="1879197687" name="Elves of Rivendell Task: Smooth Scales" itemId="1879104294" itemName="Smooth Scale" itemCount="10"/>
+<task questId="1879197688" name="Elves of Rivendell Task: Grey Heartwood" itemId="1879104853" itemName="Grey Heartwood" itemCount="10"/>
+<task questId="1879197689" name="Elves of Rivendell Task: Fine Skin" itemId="1879104705" itemName="Fine Skin" itemCount="10"/>
+<task questId="1879197690" name="Elves of Rivendell Task: Grey Ears" itemId="1879104387" itemName="Grey Ear" itemCount="10"/>
+<task questId="1879197691" name="Elves of Rivendell Task: Extremely Sharp Claws" itemId="1879104226" itemName="Extremely Sharp Claw" itemCount="10"/>
+<task questId="1879197692" name="Thorin's Hall Task: Fine Skin" itemId="1879104705" itemName="Fine Skin" itemCount="10"/>
+<task questId="1879197693" name="Thorin's Hall Task: New Sword Sheaths" itemId="1879104716" itemName="New Sword Sheath" itemCount="10"/>
+<task questId="1879197694" name="Lossoth Task: Bright Dust" itemId="1879104602" itemName="Bright Dust" itemCount="10"/>
+<task questId="1879197695" name="Lossoth Task: Pure Black Skin" itemId="1879104707" itemName="Pure Black Skin" itemCount="10"/>
+<task questId="1879197696" name="Thorin's Hall Task: Great Scales" itemId="1879104296" itemName="Great Scale" itemCount="10"/>
+<task questId="1879197697" name="Elves of Rivendell Task: Hardened Carapaces" itemId="1879104578" itemName="Hardened Carapace" itemCount="10"/>
+<task questId="1879197698" name="Elves of Rivendell Task: Knotted Branches" itemId="1879104557" itemName="Knotted Branch" itemCount="10"/>
+<task questId="1879197699" name="Lossoth Task: Broken Wooden Clubs" itemId="1879111574" itemName="Broken Wooden Club" itemCount="10"/>
+<task questId="1879197700" name="Lossoth Task: Monstrous Ears" itemId="1879104390" itemName="Monstrous Ear" itemCount="10"/>
+<task questId="1879197701" name="Lossoth Task: Pure Black Fur" itemId="1879104286" itemName="Pure Black Fur" itemCount="10"/>
+<task questId="1879197702" name="Thorin's Hall Task: Extremely Sharp Claws" itemId="1879104226" itemName="Extremely Sharp Claw" itemCount="10"/>
+<task questId="1879197703" name="Thorin's Hall Task: Pure Black Skin" itemId="1879104707" itemName="Pure Black Skin" itemCount="10"/>
+<task questId="1879197704" name="Lossoth Task: Broken Great Swords" itemId="1879111573" itemName="Broken Great Sword" itemCount="10"/>
+<task questId="1879197705" name="Lossoth Task: Gilded Sword Sheaths" itemId="1879104718" itemName="Gilded Sword Sheath" itemCount="10"/>
+<task questId="1879197706" name="Thorin's Hall Task: Pure Black Fur" itemId="1879104286" itemName="Pure Black Fur" itemCount="10"/>
+<task questId="1879197707" name="Elves of Rivendell Task: Silky Filth" itemId="1879104236" itemName="Silky Filth" itemCount="10"/>
+<task questId="1879197708" name="Thorin's Hall Task: Clean Tails" itemId="1879104513" itemName="Clean Tail" itemCount="10"/>
+<task questId="1879197709" name="Thorin's Hall Task: Broken Great Swords" itemId="1879111573" itemName="Broken Great Sword" itemCount="10"/>
+<task questId="1879197710" name="Elves of Rivendell Task: Hardened Carapaces" itemId="1879104578" itemName="Hardened Carapace" itemCount="10"/>
+<task questId="1879197711" name="Elves of Rivendell Task: Fine Fur" itemId="1879104284" itemName="Fine Fur" itemCount="10"/>
+<task questId="1879197712" name="Elves of Rivendell Task: New Sword Sheaths" itemId="1879104716" itemName="New Sword Sheath" itemCount="10"/>
+<task questId="1879197713" name="Elves of Rivendell Task: Broken Longswords" itemId="1879111571" itemName="Broken Longsword" itemCount="10"/>
+<task questId="1879197714" name="Lossoth Task: Gilded Sword Sheaths" itemId="1879104718" itemName="Gilded Sword Sheath" itemCount="10"/>
+<task questId="1879197715" name="Thorin's Hall Task: Broken Longswords" itemId="1879111571" itemName="Broken Longsword" itemCount="10"/>
+<task questId="1879197716" name="Lossoth Task: Pure Black Skin" itemId="1879104707" itemName="Pure Black Skin" itemCount="10"/>
+<task questId="1879197717" name="Lossoth Task: Albino Fur" itemId="1879104287" itemName="Albino Fur" itemCount="10"/>
+<task questId="1879197718" name="Elves of Rivendell Task: Grey Goo" itemId="1879104428" itemName="Grey Goo" itemCount="10"/>
+<task questId="1879197719" name="Elves of Rivendell Task: Fine Skin" itemId="1879104705" itemName="Fine Skin" itemCount="10"/>
+<task questId="1879197720" name="Thorin's Hall Task: Fine Fur" itemId="1879104284" itemName="Fine Fur" itemCount="10"/>
+<task questId="1879197736" name="Thorin's Hall Task: Pure Black Fur" itemId="1879104286" itemName="Pure Black Fur" itemCount="10"/>
+<task questId="1879197737" name="Thorin's Hall Task: Toughened Carapaces" itemId="1879104579" itemName="Toughened Carapace" itemCount="10"/>
+<task questId="1879197738" name="Elves of Rivendell Task: Monstrous Goo" itemId="1879104431" itemName="Monstrous Goo" itemCount="10"/>
+<task questId="1879197739" name="Thorin's Hall Task: Broken Halberds" itemId="1879111572" itemName="Broken Halberd" itemCount="10"/>
+<task questId="1879197740" name="Thorin's Hall Task: Huge Scales" itemId="1879104295" itemName="Huge Scale" itemCount="10"/>
+<task questId="1879197741" name="Thorin's Hall Task: Sleek Skin" itemId="1879104706" itemName="Sleek Skin" itemCount="10"/>
+<task questId="1879197742" name="Elves of Rivendell Task: Polished Wings" itemId="1879105258" itemName="Polished Wing" itemCount="10"/>
+<task questId="1879197743" name="Elves of Rivendell Task: Broken Wooden Clubs" itemId="1879111574" itemName="Broken Wooden Club" itemCount="10"/>
+<task questId="1879197744" name="Elves of Rivendell Task: Monstrous Ears" itemId="1879104390" itemName="Monstrous Ear" itemCount="10"/>
+<task questId="1879197745" name="Thorin's Hall Task: Huge Heartwood" itemId="1879104854" itemName="Huge Heartwood" itemCount="10"/>
+<task questId="1879197746" name="Thorin's Hall Task: Broken Great Swords" itemId="1879111573" itemName="Broken Great Sword" itemCount="10"/>
+<task questId="1879197747" name="Thorin's Hall Task: Huge Ears" itemId="1879104388" itemName="Huge Ear" itemCount="10"/>
+<task questId="1879197748" name="Thorin's Hall Task: Studded Sword Sheaths" itemId="1879104717" itemName="Studded Sword Sheath" itemCount="10"/>
+<task questId="1879197749" name="Thorin's Hall Task: Albino Skin" itemId="1879104708" itemName="Albino Skin" itemCount="10"/>
+<task questId="1879197750" name="Elves of Rivendell Task: Jewelled Sword Sheaths" itemId="1879104719" itemName="Jewelled Sword Sheath" itemCount="10"/>
+<task questId="1879197751" name="Elves of Rivendell Task: Broken Wooden Clubs" itemId="1879111574" itemName="Broken Wooden Club" itemCount="10"/>
+<task questId="1879197752" name="Thorin's Hall Task: Sleek Fur" itemId="1879104285" itemName="Sleek Fur" itemCount="10"/>
+<task questId="1879197753" name="Elves of Rivendell Task: Powerful Branches" itemId="1879104560" itemName="Powerful Branch" itemCount="10"/>
+<task questId="1879197754" name="Elves of Rivendell Task: Albino Fur" itemId="1879104287" itemName="Albino Fur" itemCount="10"/>
+<task questId="1879197756" name="Thorin's Hall Task: Great Ears" itemId="1879104389" itemName="Great Ear" itemCount="10"/>
+<task questId="1879197757" name="Elves of Rivendell Task: Broken Long Bows" itemId="1879111575" itemName="Broken Long Bow" itemCount="10"/>
+<task questId="1879197758" name="Elves of Rivendell Task: Jewelled Sword Sheaths" itemId="1879104719" itemName="Jewelled Sword Sheath" itemCount="10"/>
+<task questId="1879197759" name="Elves of Rivendell Task: Broken Wooden Clubs" itemId="1879111574" itemName="Broken Wooden Club" itemCount="10"/>
+<task questId="1879197760" name="Elves of Rivendell Task: Albino Skin" itemId="1879104708" itemName="Albino Skin" itemCount="10"/>
+<task questId="1879197761" name="Elves of Rivendell Task: Monstrous Wings" itemId="1879104360" itemName="Monstrous Wing" itemCount="10"/>
+<task questId="1879197762" name="Elves of Rivendell Task: Monstrous Wings" itemId="1879104360" itemName="Monstrous Wing" itemCount="10"/>
+<task questId="1879197763" name="Elves of Rivendell Task: Albino Fur" itemId="1879104287" itemName="Albino Fur" itemCount="10"/>
+<task questId="1879197764" name="Elves of Rivendell Task: Albino Fur" itemId="1879104287" itemName="Albino Fur" itemCount="10"/>
+<task questId="1879197765" name="Elves of Rivendell Task: Albino Skin" itemId="1879104708" itemName="Albino Skin" itemCount="10"/>
+<task questId="1879197766" name="Elves of Rivendell Task: Monstrous Filth" itemId="1879104239" itemName="Monstrous Filth" itemCount="10"/>
+<task questId="1879197767" name="Elves of Rivendell Task: Armoured Carapaces" itemId="1879104581" itemName="Armoured Carapace" itemCount="10"/>
+<task questId="1879197768" name="Thorin's Hall Task: Great Scales" itemId="1879104296" itemName="Great Scale" itemCount="10"/>
+<task questId="1879197769" name="Thorin's Hall Task: Pure Black Skin" itemId="1879104707" itemName="Pure Black Skin" itemCount="10"/>
+<task questId="1879197770" name="Elves of Rivendell Task: Monstrous Heartwood" itemId="1879104856" itemName="Monstrous Heartwood" itemCount="10"/>
+<task questId="1879197771" name="Thorin's Hall Task: Extremely Sharp Beaks" itemId="1879104548" itemName="Extremely Sharp Beak" itemCount="10"/>
+<task questId="1879197772" name="Thorin's Hall Task: Gilded Sword Sheaths" itemId="1879104718" itemName="Gilded Sword Sheath" itemCount="10"/>
+<task questId="1879197773" name="Thorin's Hall Task: Huge Wings" itemId="1879104358" itemName="Huge Wing" itemCount="10"/>
+<task questId="1879220614" name="Men of Dunland Task: Mucky Filth" itemId="1879209756" itemName="Mucky Filth" itemCount="10"/>
+<task questId="1879220615" name="Théodred's Riders Task: Blotchy Skins" itemId="1879209770" itemName="Blotchy Skin" itemCount="10"/>
+<task questId="1879220616" name="Théodred's Riders Task: Decorative Sword Sheaths" itemId="1879209764" itemName="Decorative Sword Sheath" itemCount="10"/>
+<task questId="1879220617" name="Men of Dunland Task: Stretched Skins" itemId="1879209776" itemName="Stretched Skin" itemCount="10"/>
+<task questId="1879220618" name="Théodred's Riders Task: Punctured Shields" itemId="1879209744" itemName="Punctured Shield" itemCount="10"/>
+<task questId="1879220619" name="Théodred's Riders Task: Marked Furs" itemId="1879209740" itemName="Marked Fur" itemCount="10"/>
+<task questId="1879220620" name="Théodred's Riders Task: Speckled Ears" itemId="1879209779" itemName="Speckled Ear" itemCount="10"/>
+<task questId="1879220621" name="Men of Dunland Task: Bent Metal Maces" itemId="1879209743" itemName="Bent Metal Mace" itemCount="10"/>
+<task questId="1879220623" name="Men of Dunland Task: Metal Sword Sheaths" itemId="1879209761" itemName="Metal Sword Sheath" itemCount="10"/>
+<task questId="1879220625" name="Men of Dunland Task: Spotted Ears" itemId="1879209760" itemName="Spotted Ear" itemCount="10"/>
+<task questId="1879231438" name="Riders of Stangard Task: Blotchy Skins" itemId="1879209770" itemName="Blotchy Skin" itemCount="10"/>
+<task questId="1879231446" name="Riders of Stangard Task: Punctured Shields" itemId="1879209744" itemName="Punctured Shield" itemCount="10"/>
+<task questId="1879231447" name="Riders of Stangard Task: Sticky Goo" itemId="1879209754" itemName="Sticky Goo" itemCount="10"/>
+<task questId="1879231448" name="Heroes of Limlight Task: Knotted Heartwood" itemId="1879209759" itemName="Knotted Heartwood" itemCount="1"/>
+<task questId="1879231449" name="Riders of Stangard Task: Fading Essences" itemId="1879209774" itemName="Fading Essence" itemCount="10"/>
+<task questId="1879231450" name="Riders of Stangard Task: Glassy Carapaces" itemId="1879209773" itemName="Glassy Carapace" itemCount="10"/>
+<task questId="1879231451" name="Riders of Stangard Task: Piles of Sparkling Dust" itemId="1879209765" itemName="Sparkling Dust" itemCount="10"/>
+<task questId="1879231452" name="Riders of Stangard Task: Thick Tails" itemId="1879209780" itemName="Thick Tail" itemCount="10"/>
+<task questId="1879231453" name="Riders of Stangard Task: Marked Furs" itemId="1879209740" itemName="Marked Fur" itemCount="10"/>
+<task questId="1879231454" name="Heroes of Limlight Task: Thick Branches" itemId="1879209782" itemName="Thick Branch" itemCount="3"/>
+<task questId="1879231455" name="Riders of Stangard Task: Decorative Sword Sheaths" itemId="1879209764" itemName="Decorative Sword Sheath" itemCount="10"/>
+<task questId="1879231456" name="Riders of Stangard Task: Speckled Ears" itemId="1879209779" itemName="Speckled Ear" itemCount="10"/>
+<task questId="1879231457" name="Riders of Stangard Task: Prismatic Scales" itemId="1879209781" itemName="Prismatic Scale" itemCount="10"/>
+<task questId="1879233913" name="Guards Task: Barbed Claws" itemId="1879105186" itemName="Barbed Claw" itemCount="10"/>
+<task questId="1879233915" name="Miners Task: Barbed Claws" itemId="1879105186" itemName="Barbed Claw" itemCount="10"/>
+<task questId="1879233916" name="Miners Task: Raking Claws" itemId="1879105188" itemName="Raking Claw" itemCount="10"/>
+<task questId="1879233917" name="Guards Task: Raking Claws" itemId="1879105188" itemName="Raking Claw" itemCount="10"/>
+<task questId="1879233918" name="Guards Task: Nasty Filth" itemId="1879105194" itemName="Nasty Filth" itemCount="10"/>
+<task questId="1879233919" name="Miners Task: Creepy Filth" itemId="1879105192" itemName="Creepy Filth" itemCount="10"/>
+<task questId="1879233920" name="Miners Task: Nasty Filth" itemId="1879105194" itemName="Nasty Filth" itemCount="10"/>
+<task questId="1879233921" name="Guards Task: Creepy Filth" itemId="1879105192" itemName="Creepy Filth" itemCount="10"/>
+<task questId="1879233938" name="Miners Task: Polished Scales" itemId="1879105222" itemName="Polished Scale" itemCount="10"/>
+<task questId="1879233939" name="Guards Task: Polished Scales" itemId="1879105222" itemName="Polished Scale" itemCount="10"/>
+<task questId="1879233963" name="Guards Task: Elegant Scales" itemId="1879105224" itemName="Elegant Scale" itemCount="10"/>
+<task questId="1879233964" name="Miners Task: Elegant Scales" itemId="1879105224" itemName="Elegant Scale" itemCount="10"/>
+<task questId="1879233977" name="Guards Task: Spotted Skins" itemId="1879105468" itemName="Spotted Skin" itemCount="10"/>
+<task questId="1879233996" name="Miners Task: Spotted Skins" itemId="1879105468" itemName="Spotted Skin" itemCount="10"/>
+<task questId="1879233997" name="Guards Task: Creepy Skins" itemId="1879105470" itemName="Creepy Skin" itemCount="10"/>
+<task questId="1879233998" name="Miners Task: Creepy Skins" itemId="1879105470" itemName="Creepy Skin" itemCount="10"/>
+<task questId="1879233999" name="Guards Task: Polished Sword Sheaths" itemId="1879105474" itemName="Polished Sword Sheath" itemCount="10"/>
+<task questId="1879234000" name="Miners Task: Polished Sword Sheaths" itemId="1879105474" itemName="Polished Sword Sheath" itemCount="10"/>
+<task questId="1879234002" name="Guards Task: Charming Sword Sheaths" itemId="1879105475" itemName="Charming Sword Sheath" itemCount="10"/>
+<task questId="1879234003" name="Miners Task: Charming Sword Sheaths" itemId="1879105475" itemName="Charming Sword Sheath" itemCount="10"/>
+<task questId="1879234007" name="Guards Task: Elegant Sword Sheaths" itemId="1879105476" itemName="Elegant Sword Sheath" itemCount="10"/>
+<task questId="1879234008" name="Miners Task: Elegant Sword Sheaths" itemId="1879105476" itemName="Elegant Sword Sheath" itemCount="10"/>
+<task questId="1879234010" name="Miners Task: Beautiful Sword Sheaths" itemId="1879105477" itemName="Beautiful Sword Sheath" itemCount="10"/>
+<task questId="1879234011" name="Guards Task: Beautiful Sword Sheaths" itemId="1879105477" itemName="Beautiful Sword Sheath" itemCount="10"/>
+<task questId="1879248455" name="Men of the Norcrofts Task: Stubby Beaks" itemId="1879245960" itemName="Stubby Beak" itemCount="10"/>
+<task questId="1879248480" name="Men of the Sutcrofts Task: Weathered Beaks" itemId="1879245939" itemName="Weathered Beak" itemCount="10"/>
+<task questId="1879248517" name="Men of the Entwash Vale Task: Fuzzy Wings" itemId="1879245948" itemName="Fuzzy Wing" itemCount="10"/>
+<task questId="1879248518" name="Men of the Sutcrofts Task: Bent Wings" itemId="1879245942" itemName="Bent Wing" itemCount="10"/>
+<task questId="1879248519" name="Men of the Entwash Vale Task: Sharp Scales" itemId="1879245975" itemName="Sharp Scale" itemCount="10"/>
+<task questId="1879248520" name="Men of the Entwash Vale Task: Tinted Carapaces" itemId="1879245947" itemName="Tinted Carapace" itemCount="10"/>
+<task questId="1879248521" name="Men of the Entwash Vale Task: Foetid Filth" itemId="1879245968" itemName="Foetid Filth" itemCount="10"/>
+<task questId="1879248522" name="Men of the Entwash Vale Task: Split Branches" itemId="1879245962" itemName="Split Branch" itemCount="10"/>
+<task questId="1879248528" name="Men of the Wold Task: Decorative Sword Sheaths" itemId="1879209764" itemName="Decorative Sword Sheath" itemCount="10"/>
+<task questId="1879248529" name="Men of the Sutcrofts Task: Ornate Sword Sheaths" itemId="1879245961" itemName="Ornate Sword Sheath" itemCount="10"/>
+<task questId="1879248530" name="Men of the Norcrofts Task: Tarnished Sword Sheaths" itemId="1879245977" itemName="Tarnished Sword Sheath" itemCount="10"/>
+<task questId="1879248549" name="Men of the Wold Task: Punctured Shields" itemId="1879209744" itemName="Punctured Shield" itemCount="10"/>
+<task questId="1879248550" name="Men of the Entwash Vale Task: Shattered Clubs" itemId="1879245949" itemName="Shattered Club" itemCount="10"/>
+<task questId="1879248553" name="Men of the Sutcrofts Task: Ripped Cloaks" itemId="1879245953" itemName="Ripped Cloak" itemCount="10"/>
+<task questId="1879248554" name="Men of the Wold Task: Marked Fur" itemId="1879209740" itemName="Marked Fur" itemCount="10"/>
+<task questId="1879248558" name="Men of the Sutcrofts Task: Unkempt Fur" itemId="1879245967" itemName="Unkempt Fur" itemCount="10"/>
+<task questId="1879248559" name="Men of the Norcrofts Task: Silky Fur" itemId="1879245976" itemName="Silky Fur" itemCount="10"/>
+<task questId="1879248560" name="Men of the Norcrofts Task: Stained Skins" itemId="1879245970" itemName="Stained Skin" itemCount="10"/>
+<task questId="1879248561" name="Men of the Wold Task: Blotchy Skins" itemId="1879209770" itemName="Blotchy Skin" itemCount="10"/>
+<task questId="1879248562" name="Men of the Norcrofts Task: Contorted Ears" itemId="1879245963" itemName="Contorted Ear" itemCount="10"/>
+<task questId="1879248563" name="Men of the Norcrofts Task: Speckled Ears" itemId="1879209779" itemName="Speckled Ear" itemCount="10"/>
+<task questId="1879259481" name="People of Wildermore Task: Ornate Sword Sheaths" itemId="1879245961" itemName="Ornate Sword Sheath" itemCount="10"/>
+<task questId="1879259482" name="People of Wildermore Task: Ripped Cloaks" itemId="1879245953" itemName="Ripped Cloak" itemCount="10"/>
+<task questId="1879259484" name="People of Wildermore Task: Unkempt Furs" itemId="1879245967" itemName="Unkempt Fur" itemCount="10"/>
+<task questId="1879259485" name="People of Wildermore Task: Tattered Skins" itemId="1879245966" itemName="Tattered Skin" itemCount="10"/>
+<task questId="1879259486" name="People of Wildermore Task: Damaged Ears" itemId="1879245964" itemName="Damaged Ear" itemCount="10"/>
+<task questId="1879259489" name="People of Wildermore Task: Mossy Branches" itemId="1879245944" itemName="Mossy Branch" itemCount="10"/>
+<task questId="1879259491" name="People of Wildermore Task: Slimy Filth" itemId="1879245972" itemName="Slimy Filth" itemCount="10"/>
+<task questId="1879259494" name="People of Wildermore Task: Bent Wings" itemId="1879245942" itemName="Bent Wing" itemCount="10"/>
+<task questId="1879259495" name="People of Wildermore Task: Weathered Beaks" itemId="1879245939" itemName="Weathered Beak" itemCount="10"/>
+<task questId="1879288149" name="Eorlingas Task: Shattered Daggers" itemId="1879287594" itemName="Shattered Dagger" itemCount="10"/>
+<task questId="1879288150" name="Helmingas Task: Shattered Hatchets" itemId="1879287593" itemName="Shattered Hatchet" itemCount="10"/>
+<task questId="1879288151" name="Helmingas Task: Damaged Furs" itemId="1879287634" itemName="Damaged Fur" itemCount="10"/>
+<task questId="1879288152" name="Eorlingas Task: Tattered Furs" itemId="1879287635" itemName="Tattered Fur" itemCount="10"/>
+<task questId="1879288153" name="Eorlingas Task: Thin Wings" itemId="1879287637" itemName="Thin Wing" itemCount="10"/>
+<task questId="1879288154" name="Helmingas Task: Clipped Wings" itemId="1879287630" itemName="Clipped Wing" itemCount="10"/>
+<task questId="1879288155" name="Eorlingas Task: Rough Skins" itemId="1879287629" itemName="Rough Skin" itemCount="10"/>
+<task questId="1879288156" name="Helmingas Task: Torn Skins" itemId="1879287639" itemName="Torn Skin" itemCount="10"/>
+<task questId="1879288157" name="Eorlingas Task: Glittering Sword Sheaths" itemId="1879287705" itemName="Glittering Sword Sheath" itemCount="10"/>
+<task questId="1879288158" name="Helmingas Task: Pitted Sword Sheaths" itemId="1879287703" itemName="Pitted Sword Sheath" itemCount="10"/>
+<task questId="1879288161" name="Eorlingas Task: Ornate Ears" itemId="1879287708" itemName="Ornate Ear" itemCount="10"/>
+<task questId="1879288162" name="Helmingas Task: Clipped Ears" itemId="1879287696" itemName="Clipped Ear" itemCount="10"/>
+<task questId="1879314013" name="Dol Amroth Task: Shattered Hatchets" itemId="1879287593" itemName="Shattered Hatchet" itemCount="10"/>
+<task questId="1879314015" name="Dol Amroth Task: Toxic Filth" itemId="1879287641" itemName="Toxic Filth" itemCount="10"/>
+<task questId="1879314016" name="Dol Amroth Task: Glinting Dust Piles" itemId="1879287636" itemName="Glinting Dust" itemCount="10"/>
+<task questId="1879314017" name="Dol Amroth Task: Pitted Sword Sheaths" itemId="1879287703" itemName="Pitted Sword Sheath" itemCount="10"/>
+<task questId="1879314018" name="Dol Amroth Task: Torn Skins" itemId="1879287639" itemName="Torn Skin" itemCount="10"/>
+<task questId="1879314019" name="Dol Amroth Task: Damaged Furs" itemId="1879287634" itemName="Damaged Fur" itemCount="10"/>
+<task questId="1879317286" name="Pelargir Task: Blackened Beaks" itemId="1879287631" itemName="Blackened Beak" itemCount="10"/>
+<task questId="1879317287" name="Pelargir Task: Pitted Sword Sheaths" itemId="1879287703" itemName="Pitted Sword Sheath" itemCount="10"/>
+<task questId="1879317288" name="Pelargir Task: Damaged Furs" itemId="1879287634" itemName="Damaged Fur" itemCount="10"/>
+<task questId="1879317289" name="Pelargir Task: Shining Carapaces" itemId="1879287626" itemName="Shining Carapace" itemCount="10"/>
+<task questId="1879317290" name="Pelargir Task: Damaged Claws" itemId="1879287627" itemName="Damaged Claw" itemCount="10"/>
+<task questId="1879317291" name="Pelargir Task: Torn Skins" itemId="1879287639" itemName="Torn Skin" itemCount="10"/>
+<task questId="1879317292" name="Pelargir Task: Shattered Hatchets" itemId="1879287593" itemName="Shattered Hatchet" itemCount="10"/>
+<task questId="1879323047" name="Rangers of Ithilien Task: Clipped Ears" itemId="1879287696" itemName="Clipped Ear" itemCount="10"/>
+<task questId="1879323048" name="Rangers of Ithilien Task: Pitted Sword Sheaths" itemId="1879287703" itemName="Pitted Sword Sheath" itemCount="10"/>
+<task questId="1879323049" name="Rangers of Ithilien Task: Clipped Wings" itemId="1879287630" itemName="Clipped Wing" itemCount="10"/>
+<task questId="1879323050" name="Rangers of Ithilien Task: Shattered Hatchets" itemId="1879287593" itemName="Shattered Hatchet" itemCount="10"/>
+<task questId="1879323051" name="Rangers of Ithilien Task: Torn Skins" itemId="1879287639" itemName="Torn Skin" itemCount="10"/>
+<task questId="1879323053" name="Rangers of Ithilien Task: Toxic Filth" itemId="1879287641" itemName="Toxic Filth" itemCount="10"/>
+<task questId="1879323054" name="Rangers of Ithilien Task: Damaged Furs" itemId="1879287634" itemName="Damaged Fur" itemCount="10"/>
+<task questId="1879328015" name="Minas Tirith Task: Damaged Claws" itemId="1879287627" itemName="Damaged Claw" itemCount="10"/>
+<task questId="1879328016" name="Minas Tirith Task: Thickened Goo" itemId="1879287706" itemName="Thickened Goo" itemCount="10"/>
+<task questId="1879328017" name="Minas Tirith Task: Clipped Ears" itemId="1879287696" itemName="Clipped Ear" itemCount="10"/>
+<task questId="1879328018" name="Minas Tirith Task: Torn Skins" itemId="1879287639" itemName="Torn Skin" itemCount="10"/>
+<task questId="1879328019" name="Minas Tirith Task: Shining Carapaces" itemId="1879287626" itemName="Shining Carapace" itemCount="10"/>
+<task questId="1879328020" name="Minas Tirith Task: Pitted Sword Sheaths" itemId="1879287703" itemName="Pitted Sword Sheath" itemCount="10"/>
+<task questId="1879332164" name="Riders of Rohan Task: Elven Sword Sheaths" itemId="1879306729" itemName="Elven Sword Sheath" itemCount="10"/>
+<task questId="1879332165" name="Riders of Rohan Task: Worn Furs" itemId="1879306720" itemName="Worn Fur" itemCount="10"/>
+<task questId="1879332166" name="Riders of Rohan Task: Mouldy Skins" itemId="1879306730" itemName="Mouldy Skin" itemCount="10"/>
+<task questId="1879332167" name="Riders of Rohan Task: Shattered Spears" itemId="1879306721" itemName="Shattered Spear" itemCount="10"/>
+<task questId="1879332168" name="Riders of Rohan Task: Burnt Ears" itemId="1879306724" itemName="Burnt Ear" itemCount="10"/>
+<task questId="1879339006" name="Host of the West Task: Prismatic Carapaces" itemId="1879306716" itemName="Prismatic Carapace" itemCount="10"/>
+<task questId="1879339007" name="Host of the West Task: Reeking Filth" itemId="1879306723" itemName="Reeking Filth" itemCount="10"/>
+<task questId="1879339010" name="Host of the West Task: Mouldy Skin" itemId="1879306730" itemName="Mouldy Skin" itemCount="10"/>
+<task questId="1879339011" name="Host of the West Task: Bubbling Goo" itemId="1879306711" itemName="Bubbling Goo" itemCount="10"/>
+<task questId="1879339012" name="Host of the West Task: Worn Fur" itemId="1879306720" itemName="Worn Fur" itemCount="10"/>
+<task questId="1879339155" name="Host of the West Task: Burnt Ear" itemId="1879306724" itemName="Burnt Ear" itemCount="10"/>
+<task questId="1879356826" name="Gorgoroth Task: Intriguing Filth" itemId="1879357798" itemName="Intriguing Filth" itemCount="10"/>
+<task questId="1879356827" name="Gorgoroth Task: Mysterious Ears" itemId="1879357810" itemName="Mysterious Ear" itemCount="10"/>
+<task questId="1879356828" name="Gorgoroth Task: Stony Skins" itemId="1879357800" itemName="Stony Skin" itemCount="10"/>
+<task questId="1879356829" name="Gorgoroth Task: Obsidian Scales" itemId="1879357799" itemName="Obsidian Scale" itemCount="10"/>
+<task questId="1879356830" name="Gorgoroth Task: Curious Goo" itemId="1879357811" itemName="Curious Goo" itemCount="10"/>
+<task questId="1879366676" name="Elves of Felegoth Task: Bristled Fur" itemId="1879357803" itemName="Bristled Fur" itemCount="10"/>
+<task questId="1879366677" name="Men of Dale Task: Deadly Claws" itemId="1879357802" itemName="Deadly Claw" itemCount="10"/>
+<task questId="1879366678" name="Dwarves of Erebor Task: Rusted Scimitars" itemId="1879357795" itemName="Rusted Scimitar" itemCount="10"/>
+<task questId="1879366680" name="Elves of Felegoth Task: Petrified Branch" itemId="1879357814" itemName="Petrified Branch" itemCount="10"/>
+<task questId="1879366682" name="Men of Dale Task: Spiny Carapaces" itemId="1879357797" itemName="Spiny Carapace" itemCount="10"/>
+<task questId="1879378498" name="Expedition Task: Stone-abraded Skin" itemId="1879373568" itemName="Stone-abraded Skin" itemCount="10"/>
+<task questId="1879378499" name="Expedition Task: Withered Claw" itemId="1879373573" itemName="Withered Claw" itemCount="10"/>
+<task questId="1879378500" name="Expedition Task: Withered Ear" itemId="1879373557" itemName="Withered Ear" itemCount="10"/>
+<task questId="1879378501" name="Expedition Task: Rock Tail" itemId="1879373563" itemName="Rock Tail" itemCount="10"/>
+<task questId="1879378502" name="Expedition Task: Dwarf-made Sword Sheath" itemId="1879373561" itemName="Dwarf-made Sword Sheath" itemCount="10"/>
+<task questId="1879388354" name="Wilderfolk Task: Stone-worn Furs" itemId="1879373564" itemName="Stone-worn Fur" itemCount="10"/>
+<task questId="1879388355" name="Wilderfolk Task: Lost Essences" itemId="1879373572" itemName="Lost Essence" itemCount="10"/>
+<task questId="1879388356" name="Wilderfolk Task: Pebbled Filth" itemId="1879373556" itemName="Pebbled Filth" itemCount="10"/>
+<task questId="1879388357" name="Wilderfolk Task: Calcified Carapaces" itemId="1879373570" itemName="Calcified Carapace" itemCount="10"/>
+<task questId="1879396436" name="White Company Task: Tufted Ears" itemId="1879395700" itemName="Tufted Ear" itemCount="10"/>
+<task questId="1879396437" name="White Company Task: Disgusting Filth" itemId="1879395699" itemName="Disgusting Filth" itemCount="10"/>
+<task questId="1879396438" name="White Company Task: Toughened Skins" itemId="1879395693" itemName="Toughened Skin" itemCount="10"/>
+<task questId="1879396439" name="The Great Alliance Task: Cracked Lances" itemId="1879395663" itemName="Cracked Lance" itemCount="10"/>
+<task questId="1879396440" name="White Company Task: Night-touched Furs" itemId="1879395649" itemName="Night-touched Fur" itemCount="10"/>
+<task questId="1879406571" name="Wilderland Task: Sinister Wings" itemId="1879395619" itemName="Sinister Wing" itemCount="10"/>
+<task questId="1879406572" name="Wilderland Task: Ancient Sword Sheaths" itemId="1879395659" itemName="Ancient Sword Sheath" itemCount="10"/>
+<task questId="1879406573" name="Wilderland Task: Lashing Tails" itemId="1879395638" itemName="Lashing Tail" itemCount="10"/>
+<task questId="1879406574" name="Wilderland Task: Blackened Branches" itemId="1879395651" itemName="Blackened Branch" itemCount="10"/>
+<task questId="1879411108" name="Elderslade Task: Savage Beaks" itemId="1879395677" itemName="Savage Beak" itemCount="10"/>
+<task questId="1879411109" name="Elderslade Task: Blackened Claws" itemId="1879395625" itemName="Blackened Claw" itemCount="10"/>
+<task questId="1879411110" name="Elderslade Task: Onyx Scales" itemId="1879395674" itemName="Onyx Scale" itemCount="10"/>
+<task questId="1879411111" name="Elderslade Task: Tufted Ears" itemId="1879395700" itemName="Tufted Ear" itemCount="10"/>
+<task questId="1879419721" name="Haban'akkâ of Thráin Task: Cracked Lances" itemId="1879395663" itemName="Cracked Lance" itemCount="10"/>
+<task questId="1879419722" name="Haban'akkâ of Thráin Task: Ancient Sword Sheaths" itemId="1879395659" itemName="Ancient Sword Sheath" itemCount="10"/>
+<task questId="1879419723" name="Haban'akkâ of Thráin Task: Sinister Wings" itemId="1879395619" itemName="Sinister Wing" itemCount="10"/>
+<task questId="1879419724" name="Haban'akkâ of Thráin Task: Night-touched Furs" itemId="1879395649" itemName="Night-touched Fur" itemCount="10"/>
+<task questId="1879438598" name="Gundabad Task: Frost-rimed Ear" itemId="1879430504" itemName="Frost-rimed Ear" itemCount="10"/>
+<task questId="1879438599" name="Gundabad Task: Gleaming Goo" itemId="1879430484" itemName="Gleaming Goo" itemCount="10"/>
+<task questId="1879438600" name="Gundabad Task: Frost-rimed Claw" itemId="1879430488" itemName="Frost-rimed Claw" itemCount="10"/>
+<task questId="1879438601" name="Gundabad Task: Cracked Axe" itemId="1879430530" itemName="Cracked Axe" itemCount="10"/>
+<task questId="1879438602" name="Gundabad Task: Frost-rimed Skin" itemId="1879430549" itemName="Frost-rimed Skin" itemCount="10"/>
+<task questId="1879456948" name="Swanfleet Task: Light Carapaces" itemId="1879104583" itemName="Light Carapace" itemCount="10"/>
+<task questId="1879456949" name="Swanfleet Task: Blunt Branches" itemId="1879104553" itemName="Blunt Branch" itemCount="10"/>
+<task questId="1879456950" name="Swanfleet Task: Squishy Goos" itemId="1879104433" itemName="Squishy Goo" itemCount="10"/>
+<task questId="1879456951" name="Swanfleet Task: Matted Furs" itemId="1879104289" itemName="Matted Fur" itemCount="10"/>
+<task questId="1879456952" name="Swanfleet Task: Broken Hatchets" itemId="1879111566" itemName="Broken Hatchet" itemCount="10"/>
+<task questId="1879456953" name="Swanfleet Task: Broken Daggers" itemId="1879111582" itemName="Broken Dagger" itemCount="10"/>
+<task questId="1879456954" name="Swanfleet Task: Torn Furs" itemId="1879104288" itemName="Torn Fur" itemCount="10"/>
+<task questId="1879456955" name="Swanfleet Task: Dirty Scales" itemId="1879104299" itemName="Dirty Scale" itemCount="10"/>
+<task questId="1879456956" name="Swanfleet Task: Broken Sword Sheaths" itemId="1879104721" itemName="Broken Sword Sheath" itemCount="10"/>
+<task questId="1879456957" name="Swanfleet Task: Small Wings" itemId="1879104361" itemName="Small Wing" itemCount="10"/>
+<task questId="1879456960" name="Cardolan Task: Broken Hatchets" itemId="1879111566" itemName="Broken Hatchet" itemCount="10"/>
+<task questId="1879456961" name="Cardolan Task: Large Finger Bones" itemId="1879104244" itemName="Large Finger Bone" itemCount="10"/>
+<task questId="1879456962" name="Cardolan Task: Tough Sword Sheaths" itemId="1879104714" itemName="Tough Sword Sheath" itemCount="10"/>
+<task questId="1879456963" name="Cardolan Task: Glossy Essences" itemId="1879104406" itemName="Glossy Essence" itemCount="10"/>
+<task questId="1879456964" name="Cardolan Task: Dusky Ears" itemId="1879104384" itemName="Dusky Ear" itemCount="10"/>
+<task questId="1879456965" name="Cardolan Task: Broken Wood Spears" itemId="1879111569" itemName="Broken Wood Spear" itemCount="10"/>
+<task questId="1879456966" name="Cardolan Task: Tough Carapaces" itemId="1879104576" itemName="Tough Carapace" itemCount="10"/>
+<task questId="1879456967" name="Cardolan Task: Coarse Skins" itemId="1879104703" itemName="Coarse Skin" itemCount="10"/>
+<task questId="1879456968" name="Cardolan Task: Blackened Furs" itemId="1879104280" itemName="Blackened Fur" itemCount="10"/>
+<task questId="1879456969" name="Cardolan Task: Dim Dust" itemId="1879104598" itemName="Dim Dust" itemCount="10"/>
+<task questId="1879464217" name="Task: Tokens of Heroism" itemId="1879463586" itemName="Token of Heroism" itemCount="10"/>
+<task questId="1879464387" name="Task: Tokens of Heroism (Tier 2)" itemId="1879463586" itemName="Token of Heroism" itemCount="20"/>
+<task questId="1879464388" name="Task: Tokens of Heroism (Tier 3)" itemId="1879463586" itemName="Token of Heroism" itemCount="30"/>
+<task questId="1879475281" name="King's Gondor West and Outer Gondor Task: Pitted Axe" itemId="1879471650" itemName="Pitted Axe" itemCount="10"/>
+<task questId="1879475287" name="Umbar Task: Brine-touched Claw" itemId="1879471632" itemName="Brine-touched Claw" itemCount="10"/>
+<task questId="1879475289" name="Umbar Task: Corroded Cutlass Sheaths" itemId="1879471459" itemName="Corroded Cutlass Sheath" itemCount="10"/>
+<task questId="1879475290" name="Umbar Task: Brine-touched Ear" itemId="1879471669" itemName="Brine-touched Ear" itemCount="10"/>
+<task questId="1879475291" name="Umbar Task: Salty Goo" itemId="1879471470" itemName="Salty Goo" itemCount="10"/>
+<task questId="1879475292" name="Umbar Task: Sea-tossed Skin" itemId="1879471515" itemName="Sea-tossed Skin" itemCount="10"/>
+<task questId="1879484284" name="Algraig Task: Gorgeous Fur" itemId="1879105220" itemName="Gorgeous Fur" itemCount="10"/>
+<task questId="1879484285" name="Algraig Task: Broken Metal Club" itemId="1879111579" itemName="Broken Metal Club" itemCount="10"/>
+<task questId="1879484286" name="Algraig Task: Gorgeous Sword Sheath" itemId="1879105478" itemName="Gorgeous Sword Sheath" itemCount="10"/>
+<task questId="1879484287" name="Algraig Task: Nasty Skin" itemId="1879105472" itemName="Nasty Skin" itemCount="10"/>
+<task questId="1879484288" name="Algraig Task: Gorgeous Ear" itemId="1879105280" itemName="Gorgeous Ear" itemCount="10"/>
+<task questId="1879493240" name="Ikorbân Valley Ikorbâni Task: Scorched Goo" itemId="1879493211" itemName="Scorched Goo" itemCount="10"/>
+<task questId="1879493241" name="Ikorbân Valley Adúrhid Task: Leathered Sword Sheath" itemId="1879493213" itemName="Leathered Sword Sheath" itemCount="10"/>
+<task questId="1879493242" name="Ikorbân Valley Phetekâri Task: Sand-scarred Ear" itemId="1879493206" itemName="Sand-scarred Ear" itemCount="10"/>
+<task questId="1879493243" name="Ikorbân Valley Ikorbâni Task: Sand-scarred Ear" itemId="1879493206" itemName="Sand-scarred Ear" itemCount="10"/>
+<task questId="1879493244" name="Ikorbân Valley Ikorbâni Task: Notched Axe" itemId="1879493204" itemName="Notched Axe" itemCount="10"/>
+<task questId="1879493245" name="Ikorbân Valley Phetekâri Task: Notched Axe" itemId="1879493204" itemName="Notched Axe" itemCount="10"/>
+<task questId="1879493246" name="Ikorbân Valley Ikorbâni Task: Sun-bronzed Claw" itemId="1879493205" itemName="Sun-bronzed Claw" itemCount="10"/>
+<task questId="1879493247" name="Ikorbân Valley Phetekâri Task: Leathered Sword Sheath" itemId="1879493213" itemName="Leathered Sword Sheath" itemCount="10"/>
+<task questId="1879493248" name="Ikorbân Valley Phetekâri Task: Sun-bronzed Claw" itemId="1879493205" itemName="Sun-bronzed Claw" itemCount="10"/>
+<task questId="1879493249" name="Ikorbân Valley Phetekâri Task: Sand-baked Hide" itemId="1879493197" itemName="Sand-baked Hide" itemCount="10"/>
+<task questId="1879493250" name="Ikorbân Valley Adúrhid Task: Sand-scarred Ear" itemId="1879493206" itemName="Sand-scarred Ear" itemCount="10"/>
+<task questId="1879493251" name="Ikorbân Valley Adúrhid Task: Sun-bronzed Claw" itemId="1879493205" itemName="Sun-bronzed Claw" itemCount="10"/>
+<task questId="1879493252" name="Ikorbân Valley Ikorbâni Task: Sand-baked Hide" itemId="1879493197" itemName="Sand-baked Hide" itemCount="10"/>
+<task questId="1879493253" name="Ikorbân Valley Adúrhid Task: Scorched Goo" itemId="1879493211" itemName="Scorched Goo" itemCount="10"/>
+<task questId="1879493254" name="Ikorbân Valley Adúrhid Task: Sand-baked Hide" itemId="1879493197" itemName="Sand-baked Hide" itemCount="10"/>
+<task questId="1879493255" name="Ikorbân Valley Ikorbâni Task: Leathered Sword Sheath" itemId="1879493213" itemName="Leathered Sword Sheath" itemCount="10"/>
+<task questId="1879493256" name="Ikorbân Valley Phetekâri Task: Scorched Goo" itemId="1879493211" itemName="Scorched Goo" itemCount="10"/>
+<task questId="1879493257" name="Ikorbân Valley Adúrhid Task: Notched Axe" itemId="1879493204" itemName="Notched Axe" itemCount="10"/>
+<task questId="1879498505" name="Galadhrim Task: Broken Metal Club" itemId="1879111579" itemName="Broken Metal Club" itemCount="10"/>
+<task questId="1879498506" name="Galadhrim Task: Nasty Skin" itemId="1879105472" itemName="Nasty Skin" itemCount="10"/>
+<task questId="1879498507" name="Galadhrim Task: Gorgeous Ear" itemId="1879105280" itemName="Gorgeous Ear" itemCount="10"/>
+<task questId="1879498508" name="Galadhrim Task: Gorgeous Sword Sheath" itemId="1879105478" itemName="Gorgeous Sword Sheath" itemCount="10"/>
+<task questId="1879498509" name="Galadhrim Task: Gorgeous Fur" itemId="1879105220" itemName="Gorgeous Fur" itemCount="10"/>
+<task questId="1879498672" name="Malledhrim Task: Vile Filth" itemId="1879105196" itemName="Vile Filth" itemCount="10"/>
+<task questId="1879498673" name="Malledhrim Task: Gorgeous Dust" itemId="1879105412" itemName="Gorgeous Dust" itemCount="10"/>
+<task questId="1879498674" name="Malledhrim Task: Tapered Carapace" itemId="1879105400" itemName="Tapered Carapace" itemCount="10"/>
+<task questId="1879498675" name="Malledhrim Task: Vile Finger Bone" itemId="1879105202" itemName="Vile Finger Bone" itemCount="10"/>
+<task questId="1879498676" name="Malledhrim Task: Vile Essence" itemId="1879105292" itemName="Vile Essence" itemCount="10"/>
+<task questId="1879501195" name="Ents of Fangorn Forest Task: Thickened Goo" itemId="1879287706" itemName="Thickened Goo" itemCount="10"/>
+<task questId="1879501196" name="Ents of Fangorn Forest Task: Rotten Heartwood" itemId="1879287704" itemName="Rotten Heartwood" itemCount="10"/>
+<task questId="1879501197" name="Ents of Fangorn Forest Task: Noxious Membrane" itemId="1879287697" itemName="Noxious Membrane" itemCount="10"/>
+<task questId="1879501198" name="Ents of Fangorn Forest Task: Shattered Hatchets" itemId="1879287593" itemName="Shattered Hatchet" itemCount="10"/>
+<task questId="1879510038" name="Mûr Ghala Kintai Task: Sun-dried Hides" itemId="1879509637" itemName="Sun-dried Hide" itemCount="10"/>
+<task questId="1879510046" name="Mûr Ghala Kintai Task: Sun-baked Axes" itemId="1879509634" itemName="Sun-baked Axe" itemCount="10"/>
+<task questId="1879510047" name="Mûr Ghala Kintai Task: Sandy Goo" itemId="1879509644" itemName="Sandy Goo" itemCount="10"/>
+<task questId="1879510048" name="Mûr Ghala Kintai Task: Sand-filled Ears" itemId="1879509631" itemName="Sand-filled Ear" itemCount="10"/>
+<task questId="1879510049" name="Mûr Ghala Kintai Task: Sun-scorched Sword Sheaths" itemId="1879509639" itemName="Sun-scorched Sword Sheath" itemCount="10"/>
+<task questId="1879510050" name="Mûr Ghala Kintai Task: Ossified Claws" itemId="1879509643" itemName="Ossified Claw" itemCount="10"/>
+<task questId="1879510183" name="Mûr Ghala Zajâna Task: Sand-filled Ears" itemId="1879509631" itemName="Sand-filled Ear" itemCount="10"/>
+<task questId="1879510184" name="Mûr Ghala Temámir Task: Sun-dried Hides" itemId="1879509637" itemName="Sun-dried Hide" itemCount="10"/>
+<task questId="1879510185" name="Mûr Ghala Temámir Task: Sand-filled Ears" itemId="1879509631" itemName="Sand-filled Ear" itemCount="10"/>
+<task questId="1879510186" name="Mûr Ghala Hamâti Task: Sun-scorched Sword Sheaths" itemId="1879509639" itemName="Sun-scorched Sword Sheath" itemCount="10"/>
+<task questId="1879510187" name="Mûr Ghala Temámir Task: Ossified Claws" itemId="1879509643" itemName="Ossified Claw" itemCount="10"/>
+<task questId="1879510188" name="Mûr Ghala Zajâna Task: Sun-scorched Sword Sheaths" itemId="1879509639" itemName="Sun-scorched Sword Sheath" itemCount="10"/>
+<task questId="1879510189" name="Mûr Ghala Zajâna Task: Sandy Goo" itemId="1879509644" itemName="Sandy Goo" itemCount="10"/>
+<task questId="1879510190" name="Mûr Ghala Temámir Task: Sandy Goo" itemId="1879509644" itemName="Sandy Goo" itemCount="10"/>
+<task questId="1879510191" name="Mûr Ghala Zajâna Task: Sun-baked Axes" itemId="1879509634" itemName="Sun-baked Axe" itemCount="10"/>
+<task questId="1879510192" name="Mûr Ghala Hamâti Task: Sun-dried Hides" itemId="1879509637" itemName="Sun-dried Hide" itemCount="10"/>
+<task questId="1879510193" name="Mûr Ghala Hamâti Task: Ossified Claws" itemId="1879509643" itemName="Ossified Claw" itemCount="10"/>
+<task questId="1879510194" name="Mûr Ghala Zajâna Task: Sun-dried Hides" itemId="1879509637" itemName="Sun-dried Hide" itemCount="10"/>
+<task questId="1879510195" name="Mûr Ghala Zajâna Task: Ossified Claws" itemId="1879509643" itemName="Ossified Claw" itemCount="10"/>
+<task questId="1879510196" name="Mûr Ghala Temámir Task: Sun-scorched Sword Sheaths" itemId="1879509639" itemName="Sun-scorched Sword Sheath" itemCount="10"/>
+<task questId="1879510197" name="Mûr Ghala Hamâti Task: Sandy Goo" itemId="1879509644" itemName="Sandy Goo" itemCount="10"/>
+<task questId="1879510198" name="Mûr Ghala Temámir Task: Sun-baked Axes" itemId="1879509634" itemName="Sun-baked Axe" itemCount="10"/>
+<task questId="1879510199" name="Mûr Ghala Hamâti Task: Sun-baked Axes" itemId="1879509634" itemName="Sun-baked Axe" itemCount="10"/>
+<task questId="1879510200" name="Mûr Ghala Hamâti Task: Sand-filled Ears" itemId="1879509631" itemName="Sand-filled Ear" itemCount="10"/>
+<task questId="1879528018" name="Draugardh Scouts Task: Blood-stained Hides" itemId="1879527981" itemName="Blood-stained Hide" itemCount="10"/>
+<task questId="1879528019" name="Draugardh Scouts Task: Blood-coated Axes" itemId="1879527967" itemName="Blood-coated Axe" itemCount="10"/>
+<task questId="1879528020" name="Draugardh Scouts Task: Bloody Goo" itemId="1879527986" itemName="Bloody Goo" itemCount="10"/>
+<task questId="1879528021" name="Draugardh Scouts Task: Wind-cracked Sword Sheaths" itemId="1879527972" itemName="Wind-cracked Sword Sheath" itemCount="10"/>
+<task questId="1879528022" name="Draugardh Scouts Task: Blood-soaked Claws" itemId="1879527980" itemName="Blood-soaked Claw" itemCount="10"/>
+<task questId="1879528023" name="Draugardh Scouts Task: Deformed Ears" itemId="1879527984" itemName="Deformed Ear" itemCount="10"/>
+<task questId="1879528024" name="Têtikir Task: Blood-coated Axes" itemId="1879527967" itemName="Blood-coated Axe" itemCount="10"/>
+<task questId="1879528025" name="Khemozêl Clan Task: Bloody Goo" itemId="1879527986" itemName="Bloody Goo" itemCount="10"/>
+<task questId="1879528026" name="Khemozêl Clan Task: Wind-cracked Sword Sheaths" itemId="1879527972" itemName="Wind-cracked Sword Sheath" itemCount="10"/>
+<task questId="1879528027" name="Têtikir Task: Blood-stained Hides" itemId="1879527981" itemName="Blood-stained Hide" itemCount="10"/>
+<task questId="1879528028" name="Têtikir Task: Deformed Ears" itemId="1879527984" itemName="Deformed Ear" itemCount="10"/>
+<task questId="1879528029" name="Khemozêl Clan Task: Deformed Ears" itemId="1879527984" itemName="Deformed Ear" itemCount="10"/>
+<task questId="1879528030" name="Têtikir Task: Wind-cracked Sword Sheaths" itemId="1879527972" itemName="Wind-cracked Sword Sheath" itemCount="10"/>
+<task questId="1879528031" name="Khemozêl Clan Task: Blood-soaked Claws" itemId="1879527980" itemName="Blood-soaked Claw" itemCount="10"/>
+<task questId="1879528032" name="Têtikir Task: Bloody Goo" itemId="1879527986" itemName="Bloody Goo" itemCount="10"/>
+<task questId="1879528033" name="Têtikir Task: Blood-soaked Claws" itemId="1879527980" itemName="Blood-soaked Claw" itemCount="10"/>
+<task questId="1879528034" name="Khemozêl Clan Task: Blood-coated Axes" itemId="1879527967" itemName="Blood-coated Axe" itemCount="10"/>
+<task questId="1879528035" name="Khemozêl Clan Task: Blood-stained Hides" itemId="1879527981" itemName="Blood-stained Hide" itemCount="10"/>
 </tasks>

@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><nationalities>
-<nationality code="17" name="布雷兰（Bree-land）" description="key:620757446:209366371" iconID="1091603145" maleGuideline="key:620757446:154032899" femaleGuideline="key:620757446:209641603" titleID="1879073639"/>
-<nationality code="16" name="河谷镇地区" description="key:620757446:109680147" iconID="1091603146" maleGuideline="key:620757446:62890579" femaleGuideline="key:620757446:178773587" titleID="1879073640">
+<nationality code="17" name="Bree-land" description="key:620757446:209366371" iconID="1091603145" maleGuideline="key:620757446:154032899" femaleGuideline="key:620757446:209641603" titleID="1879073639"/>
+<nationality code="16" name="Dale-lands" description="key:620757446:109680147" iconID="1091603146" maleGuideline="key:620757446:62890579" femaleGuideline="key:620757446:178773587" titleID="1879073640">
 <alias name="Dale"/>
 </nationality>
-<nationality code="6" name="刚铎（Gondor）" description="key:620757446:207473683" iconID="1091603147" maleGuideline="key:620757446:160117843" femaleGuideline="key:620757446:114938019" titleID="1879073641"/>
-<nationality code="5" name="洛汗（Rohan）" description="key:620757446:195508531" iconID="1091603148" maleGuideline="key:620757446:215879603" femaleGuideline="key:620757446:9105843" titleID="1879073642"/>
-<nationality code="31" name="哈拉德/沙加纳（Harad/Shagâna）" description="key:620757446:171983955" iconID="1092998201" maleGuideline="key:620757446:267701267" femaleGuideline="key:620757446:89232019" titleID="1879498788"/>
-<nationality code="30" name="鲁恩/科尔（Rhûn/The Khôl）" description="key:620757446:16377235" iconID="1092998202" maleGuideline="key:620757446:95359955" femaleGuideline="key:620757446:179721219" titleID="1879498785"/>
-<nationality code="29" name="乌姆巴尔" description="key:620757446:99053395" iconID="1092998203" maleGuideline="key:620757446:245209379" femaleGuideline="key:620757446:3972979" titleID="1879498786"/>
-<nationality code="18" name="瀑布河系（Fallohide）" description="key:620757446:36917667" iconID="1091603149" maleGuideline="key:620757446:123856835" femaleGuideline="key:620757446:73575107" titleID="1879073643">
+<nationality code="6" name="Gondor" description="key:620757446:207473683" iconID="1091603147" maleGuideline="key:620757446:160117843" femaleGuideline="key:620757446:114938019" titleID="1879073641"/>
+<nationality code="5" name="Rohan" description="key:620757446:195508531" iconID="1091603148" maleGuideline="key:620757446:215879603" femaleGuideline="key:620757446:9105843" titleID="1879073642"/>
+<nationality code="31" name="Harad/Shagâna" description="key:620757446:171983955" iconID="1092998201" maleGuideline="key:620757446:267701267" femaleGuideline="key:620757446:89232019" titleID="1879498788"/>
+<nationality code="30" name="Rhûn/The Khôl" description="key:620757446:16377235" iconID="1092998202" maleGuideline="key:620757446:95359955" femaleGuideline="key:620757446:179721219" titleID="1879498785"/>
+<nationality code="29" name="Umbar" description="key:620757446:99053395" iconID="1092998203" maleGuideline="key:620757446:245209379" femaleGuideline="key:620757446:3972979" titleID="1879498786"/>
+<nationality code="18" name="Fallohide" description="key:620757446:36917667" iconID="1091603149" maleGuideline="key:620757446:123856835" femaleGuideline="key:620757446:73575107" titleID="1879073643">
 <alias name="Fallohides"/>
 </nationality>
-<nationality code="14" name="哈福特（Harfoot）" description="key:620757446:93024147" iconID="1091603150" maleGuideline="key:620757446:247044579" femaleGuideline="key:620757446:205283155" titleID="1879073644"/>
-<nationality code="13" name="斯图尔族（Stoor）" description="key:620757446:199690163" iconID="1091603151" maleGuideline="key:620757446:211677235" femaleGuideline="key:620757446:1339763" titleID="1879073645">
+<nationality code="14" name="Harfoot" description="key:620757446:93024147" iconID="1091603150" maleGuideline="key:620757446:247044579" femaleGuideline="key:620757446:205283155" titleID="1879073644"/>
+<nationality code="13" name="Stoor" description="key:620757446:199690163" iconID="1091603151" maleGuideline="key:620757446:211677235" femaleGuideline="key:620757446:1339763" titleID="1879073645">
 <alias name="Stoors"/>
 </nationality>
-<nationality code="28" name="迷雾谷（Misthallow）" description="key:620757446:234086131" iconID="1092831222" maleGuideline="key:620757446:111241971" femaleGuideline="key:620757446:82786051" titleID="1879467595"/>
-<nationality code="3" name="铁丘陵（Iron Hills）" description="key:620757446:25828435" iconID="1091603156" maleGuideline="key:620757446:44114963" titleID="1879073646"/>
-<nationality code="12" name="孤山（The Lonely Mountain）" description="key:620757446:175009267" iconID="1091603154" maleGuideline="key:620757446:253402099" titleID="1879073647">
+<nationality code="28" name="Misthallow" description="key:620757446:234086131" iconID="1092831222" maleGuideline="key:620757446:111241971" femaleGuideline="key:620757446:82786051" titleID="1879467595"/>
+<nationality code="3" name="Iron Hills" description="key:620757446:25828435" iconID="1091603156" maleGuideline="key:620757446:44114963" titleID="1879073646"/>
+<nationality code="12" name="The Lonely Mountain" description="key:620757446:175009267" iconID="1091603154" maleGuideline="key:620757446:253402099" titleID="1879073647">
 <alias name="Lonely Mountain"/>
 </nationality>
-<nationality code="4" name="蓝色山脉（Blue Mountains）" description="key:620757446:170492259" iconID="1091603152" maleGuideline="key:620757446:257914627" titleID="1879073648"/>
-<nationality code="10" name="灰山" description="key:620757446:232669539" iconID="1091603153" maleGuideline="key:620757446:118142723" titleID="1879073649"/>
-<nationality code="9" name="白色山脉（White Mountains）" description="key:620757446:261165955" iconID="1091603155" maleGuideline="key:620757446:138814947" titleID="1879073650"/>
-<nationality code="27" name="魔多" description="key:620757446:265962291" iconID="1092464253" maleGuideline="key:620757446:151958963" femaleGuideline="key:620757446:256963875" titleID="1879389169">
+<nationality code="4" name="Blue Mountains" description="key:620757446:170492259" iconID="1091603152" maleGuideline="key:620757446:257914627" titleID="1879073648"/>
+<nationality code="10" name="Grey Mountains" description="key:620757446:232669539" iconID="1091603153" maleGuideline="key:620757446:118142723" titleID="1879073649"/>
+<nationality code="9" name="White Mountains" description="key:620757446:261165955" iconID="1091603155" maleGuideline="key:620757446:138814947" titleID="1879073650"/>
+<nationality code="27" name="Mordor" description="key:620757446:265962291" iconID="1092464253" maleGuideline="key:620757446:151958963" femaleGuideline="key:620757446:256963875" titleID="1879389169">
 <alias name="Mordor Mountains"/>
 </nationality>
-<nationality code="15" name="林顿（Lindon）" description="key:620757446:8432643" iconID="1091603140" maleGuideline="key:620757446:95704163" femaleGuideline="key:620757446:41550931" titleID="1879073651"/>
-<nationality code="8" name="洛丝萝林）" description="key:620757446:41992371" iconID="1091603141" maleGuideline="key:620757446:129265459" femaleGuideline="key:620757446:98400851" titleID="1879073652"/>
-<nationality code="11" name="幽暗密林（Mirkwood）" description="key:620757446:28202163" iconID="1091603142" maleGuideline="key:620757446:47889203" femaleGuideline="key:620757446:190938035" titleID="1879073653"/>
-<nationality code="7" name="瑞文戴尔（Rivendell）" description="key:620757446:61096611" iconID="1091603143" maleGuideline="key:620757446:80787139" femaleGuideline="key:620757446:22260147" titleID="1879073654"/>
-<nationality code="2" name="埃德赫隆德（Edhellond）" description="key:620757446:239353443" iconID="1091603144" maleGuideline="key:620757446:200346115" femaleGuideline="key:620757446:26207891" titleID="1879073655"/>
-<nationality code="1" name="魔多" description="key:620757446:206028819" iconID="1090555699" maleGuideline="key:620757446:167587923"/>
-<nationality code="19" name="安都因河谷（Vales of Anduin）" description="key:620757446:224354611" iconID="1091944085" maleGuideline="key:620757446:102078387" femaleGuideline="key:620757446:137557923" titleID="1879319275"/>
-<nationality code="21" name="贝烈瑞安德（Beleriand）" description="key:620757446:151159187" iconID="1092244375" maleGuideline="key:620757446:171341779" femaleGuideline="key:620757446:127030227" titleID="1879339801"/>
-<nationality code="22" name="伊姆拉缀斯（Imladris）" description="key:620757446:13962563" iconID="1092322526" maleGuideline="key:620757446:100924195" femaleGuideline="key:620757446:236897331" titleID="1879351239"/>
-<nationality code="26" name="纳国斯隆德（Nargothrond）" description="key:620757446:91036979" iconID="1092322528" maleGuideline="key:620757446:236596035" femaleGuideline="key:620757446:103743475" titleID="1879351238"/>
-<nationality code="23" name="刚多林（Gondolin）" description="key:620757446:40057987" iconID="1092322525" maleGuideline="key:620757446:118621411" femaleGuideline="key:620757446:76122867" titleID="1879351240"/>
-<nationality code="24" name="欧西瑞安德（Ossiriand）" description="key:620757446:244221875" iconID="1092322527" maleGuideline="key:620757446:196767795" femaleGuideline="key:620757446:194278995" titleID="1879351241"/>
+<nationality code="15" name="Lindon" description="key:620757446:8432643" iconID="1091603140" maleGuideline="key:620757446:95704163" femaleGuideline="key:620757446:41550931" titleID="1879073651"/>
+<nationality code="8" name="Lórien" description="key:620757446:41992371" iconID="1091603141" maleGuideline="key:620757446:129265459" femaleGuideline="key:620757446:98400851" titleID="1879073652"/>
+<nationality code="11" name="Mirkwood" description="key:620757446:28202163" iconID="1091603142" maleGuideline="key:620757446:47889203" femaleGuideline="key:620757446:190938035" titleID="1879073653"/>
+<nationality code="7" name="Rivendell" description="key:620757446:61096611" iconID="1091603143" maleGuideline="key:620757446:80787139" femaleGuideline="key:620757446:22260147" titleID="1879073654"/>
+<nationality code="2" name="Edhellond" description="key:620757446:239353443" iconID="1091603144" maleGuideline="key:620757446:200346115" femaleGuideline="key:620757446:26207891" titleID="1879073655"/>
+<nationality code="1" name="Mordor" description="key:620757446:206028819" iconID="1090555699" maleGuideline="key:620757446:167587923"/>
+<nationality code="19" name="Vales of Anduin" description="key:620757446:224354611" iconID="1091944085" maleGuideline="key:620757446:102078387" femaleGuideline="key:620757446:137557923" titleID="1879319275"/>
+<nationality code="21" name="Beleriand" description="key:620757446:151159187" iconID="1092244375" maleGuideline="key:620757446:171341779" femaleGuideline="key:620757446:127030227" titleID="1879339801"/>
+<nationality code="22" name="Imladris" description="key:620757446:13962563" iconID="1092322526" maleGuideline="key:620757446:100924195" femaleGuideline="key:620757446:236897331" titleID="1879351239"/>
+<nationality code="26" name="Nargothrond" description="key:620757446:91036979" iconID="1092322528" maleGuideline="key:620757446:236596035" femaleGuideline="key:620757446:103743475" titleID="1879351238"/>
+<nationality code="23" name="Gondolin" description="key:620757446:40057987" iconID="1092322525" maleGuideline="key:620757446:118621411" femaleGuideline="key:620757446:76122867" titleID="1879351240"/>
+<nationality code="24" name="Ossiriand" description="key:620757446:244221875" iconID="1092322527" maleGuideline="key:620757446:196767795" femaleGuideline="key:620757446:194278995" titleID="1879351241"/>
 </nationalities>

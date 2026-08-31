@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="en">
-<label key="key:620756996:168595271" value="比翁"/>
-<label key="key:620756996:171553462" value="矮人"/>
-<label key="key:620756996:171812238" value="人类"/>
-<label key="key:620756996:211126420" value="河流霍比特人"/>
-<label key="key:620756996:215946294" value="高等精灵"/>
-<label key="key:620756996:49821557" value="壮斧矮人"/>
-<label key="key:620756996:64170820" value="霍比特人"/>
-<label key="key:620756996:81410566" value="精灵"/>
-<label key="key:620775236:133532190" value="霍比特人最开心的时刻就是享受一天六顿饱饭的简单生活，一旦被召唤行动，他们就会变得可靠而坚定。"/>
-<label key="key:620775236:250657493" value="霍比特人（男性）"/>
-<label key="key:620775236:256297669" value="霍比特人（女性）"/>
-<label key="key:620775269:133532190" value="人类不如精灵长寿、不如矮人强壮、不如霍比特人坚韧，但他们以勇气和足智多谋闻名。"/>
-<label key="key:620775269:250657493" value="人类（男性）"/>
-<label key="key:620775269:256297669" value="人类种族（女性）"/>
-<label key="key:620775298:133532190" value="很久以前，精灵们接纳了中洲的年轻种族，在危急时刻与他们结盟，但数世纪的战争、背叛和苦难让他们对自己的隐居之地变得极度警惕。"/>
-<label key="key:620775298:250657493" value="精灵（男性）"/>
-<label key="key:620775298:256297669" value="精灵（女性）"/>
-<label key="key:620775325:133532190" value="石之住民与金属矿工，矮人是坚毅的族群，能抵抗敌人的腐化——却难抵贪婪。"/>
-<label key="key:620775325:250657493" value="矮人"/>
-<label key="key:620953824:133532190" value="比翁一族（Beornings）是远古人类的后裔，愤怒时能\q变身\q为熊。他们性格粗犷、多疑、不拘礼节，尊重自然界的一切生物，并且最痛恨半兽人。"/>
-<label key="key:620953824:250657493" value="比翁一族(男性)"/>
-<label key="key:620953824:256297669" value="比翁(女性)"/>
-<label key="key:620994010:133532190" value="高等精灵（High Elves），即那些曾目睹维林诺（Valinor）之美的精灵及其后裔，拥有远超森林亲族的优雅与力量。少数留存于世的高等精灵渴望在前往不朽之地（Undying Lands）前，确保中洲（Middle-earth）安全无虞，可托付给人类。"/>
-<label key="key:620994010:250657493" value="高等精灵（男性）"/>
-<label key="key:620994010:256297669" value="高等精灵（女性）"/>
-<label key="key:621021244:133532190" value="壮斧矮人曾是矮人七大家族之一——即德拉萨氏族——的一部分。他们因渴望索伦赐予的魔戒而走向毁灭，德拉萨氏族令其后代在黑暗之地陷入了一段被奴役的时代。"/>
-<label key="key:621021244:250657493" value="壮斧矮人(男性)(Stout-axe(Male))"/>
-<label key="key:621021244:256297669" value="壮斧矮人(女性)(Stout-axe(Female))"/>
-<label key="key:621078964:133532190" value="作为迷雾山脉以东仅存的同类，河流霍比特人是身形轻盈的森林子民，深谙林木知识，与他们隐居的山脉息息相通。"/>
-<label key="key:621078964:250657493" value="河流霍比特人（男性）"/>
-<label key="key:621078964:256297669" value="河流霍比特人（女性）"/>
+<label key="key:620756996:168595271" value="Beorning"/>
+<label key="key:620756996:171553462" value="Dwarf"/>
+<label key="key:620756996:171812238" value="Man"/>
+<label key="key:620756996:211126420" value="River Hobbit"/>
+<label key="key:620756996:215946294" value="High Elf"/>
+<label key="key:620756996:49821557" value="Stout-axe"/>
+<label key="key:620756996:64170820" value="Hobbit"/>
+<label key="key:620756996:81410566" value="Elf"/>
+<label key="key:620775236:133532190" value="Happiest when enjoying a simple life with six square meals a day, hobbits are solid and dependable when called to action."/>
+<label key="key:620775236:250657493" value="Hobbit (Male)"/>
+<label key="key:620775236:256297669" value="Hobbit (Female)"/>
+<label key="key:620775269:133532190" value="Not as long-lived as Elves, sturdy as dwarves, or resilient as hobbits, Men are renowned for their courage and resourcefulness."/>
+<label key="key:620775269:250657493" value="Race of Man (Male)"/>
+<label key="key:620775269:256297669" value="Race of Man (Female)"/>
+<label key="key:620775298:133532190" value="Long ago, the Elves welcomed the younger races of Middle-earth and allied with them when the need was great, but centuries of war, betrayal, and hardship have made them fiercely protective of their seclusion."/>
+<label key="key:620775298:250657493" value="Elf (Male)"/>
+<label key="key:620775298:256297669" value="Elf (Female)"/>
+<label key="key:620775325:133532190" value="Dwellers of stone and miners of metal, the dwarves are a doughty folk, resistant to the corruption of the Enemy -- but not to greed."/>
+<label key="key:620775325:250657493" value="Dwarf"/>
+<label key="key:620953824:133532190" value="Beornings descend from ancient Men, and can \qskin-change\q into bears when angered. They are gruff, distrustful, impolite, respect all creatures of nature, and hate Orcs more than anything."/>
+<label key="key:620953824:250657493" value="Beorning (Male)"/>
+<label key="key:620953824:256297669" value="Beorning (Female)"/>
+<label key="key:620994010:133532190" value="High Elves, those who have beheld the beauty of Valinor and their descendants, possess grace and strength beyond even their woodland kin. Those few who remain yearn to see that Middle-earth is safe to bequeath to Men before they depart for the Undying Lands."/>
+<label key="key:620994010:250657493" value="High Elf (Male)"/>
+<label key="key:620994010:256297669" value="High Elf (Female)"/>
+<label key="key:621021244:133532190" value="The Stout-axes were once a part of one of the seven houses of the Dwarves, known as Drása's Folk. Brought to ruin by their desire for the Ring granted to them by Sauron, Drása's Folk doomed their descendants to an era of thralldom in the Black Land."/>
+<label key="key:621021244:250657493" value="Stout-axe (Male)"/>
+<label key="key:621021244:256297669" value="Stout-axe (Female)"/>
+<label key="key:621078964:133532190" value="The last of their kind remaining east of the Misty Mountains, River Hobbits are a lithe and silvan folk, steeped in wood-lore and attuned to the mountains where they remain hidden."/>
+<label key="key:621078964:250657493" value="River Hobbit (Male)"/>
+<label key="key:621078964:256297669" value="River Hobbit (Female)"/>
 </labels>

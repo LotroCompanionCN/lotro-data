@@ -2,13 +2,13 @@
 <race id="1879073442" code="23" key="man" legacyLabel="Race of Man" name="key:620756996:171812238" tag="U" tall="true" description="key:620775269:133532190">
 <gender name="key:620775269:250657493" largeIconId="1092350624" iconId="1091602757" smallIconId="1092365270" avatarId="1879073498"/>
 <gender name="key:620775269:256297669" largeIconId="1092365271" iconId="1091602763" smallIconId="1092365272" avatarId="1879073500"/>
-<nationality id="17" name="布雷兰（Bree-land）"/>
-<nationality id="16" name="河谷镇地区"/>
-<nationality id="6" name="刚铎（Gondor）"/>
-<nationality id="31" name="哈拉德/沙加纳（Harad/Shagâna）"/>
-<nationality id="30" name="鲁恩/科尔（Rhûn/The Khôl）"/>
-<nationality id="5" name="洛汗（Rohan）"/>
-<nationality id="29" name="乌姆巴尔"/>
+<nationality id="17" name="Bree-land"/>
+<nationality id="16" name="Dale-lands"/>
+<nationality id="6" name="Gondor"/>
+<nationality id="31" name="Harad/Shagâna"/>
+<nationality id="30" name="Rhûn/The Khôl"/>
+<nationality id="5" name="Rohan"/>
+<nationality id="29" name="Umbar"/>
 <allowedClass id="Burglar"/>
 <allowedClass id="Captain"/>
 <allowedClass id="Champion"/>
@@ -20,31 +20,31 @@
 <allowedClass id="Brawler"/>
 <allowedClass id="Rune-keeper"/>
 <allowedClass id="Corsair"/>
-<raceTrait minLevel="1" traitId="1879073502" traitName="人类的馈赠"/>
-<raceTrait minLevel="1" traitId="1879073503" traitName="人类的衰弱"/>
-<raceTrait minLevel="1" traitId="1879073504" traitName="易于激励"/>
-<raceTrait minLevel="1" traitId="1879073505" traitName="强壮人类"/>
-<raceTrait minLevel="5" traitId="1879365746" traitName="小提琴使用"/>
-<raceTrait minLevel="5" traitId="1879378378" traitName="巴松管使用"/>
-<raceTrait minLevel="116" traitId="1879380288" traitName="内在之光（Inner Light）"/>
-<earnableTrait traitId="1879073519" traitName="战术与力量奖励"/>
-<earnableTrait traitId="1879073515" traitName="上勾拳"/>
-<earnableTrait traitId="1879073521" traitName="人类剑伤害加成"/>
-<earnableTrait traitId="1879073523" traitName="第四纪元的人类"/>
-<earnableTrait traitId="1879073534" traitName="人类的平衡（Balance of Man）"/>
-<earnableTrait traitId="1879092949" traitName="有美德的人类"/>
-<earnableTrait traitId="1879073529" traitName="责无旁贷"/>
-<earnableTrait traitId="1879073525" traitName="返回布雷"/>
-<earnableTrait traitId="1879073536" traitName="士气之力"/>
+<raceTrait minLevel="1" traitId="1879073502" traitName="Gift of Men"/>
+<raceTrait minLevel="1" traitId="1879073503" traitName="Diminishing of Mankind"/>
+<raceTrait minLevel="1" traitId="1879073504" traitName="Easily Inspired"/>
+<raceTrait minLevel="1" traitId="1879073505" traitName="Strong Men"/>
+<raceTrait minLevel="5" traitId="1879365746" traitName="Fiddle Use"/>
+<raceTrait minLevel="5" traitId="1879378378" traitName="Bassoon Use"/>
+<raceTrait minLevel="116" traitId="1879380288" traitName="Inner Light"/>
+<earnableTrait traitId="1879073519" traitName="Tactics and Might Bonus"/>
+<earnableTrait traitId="1879073515" traitName="Upper-cut"/>
+<earnableTrait traitId="1879073521" traitName="Man Sword-damage Bonus"/>
+<earnableTrait traitId="1879073523" traitName="Man of the Fourth Age"/>
+<earnableTrait traitId="1879073534" traitName="Balance of Man"/>
+<earnableTrait traitId="1879092949" traitName="Virtuous Man"/>
+<earnableTrait traitId="1879073529" traitName="Duty-bound"/>
+<earnableTrait traitId="1879073525" traitName="Return to Bree"/>
+<earnableTrait traitId="1879073536" traitName="Strength of Morale"/>
 </race>
 <race id="1879073443" code="65" key="elf" legacyLabel="Elf" name="key:620756996:81410566" tag="L" tall="true" description="key:620775298:133532190">
 <gender name="key:620775298:250657493" largeIconId="1092365262" iconId="1091602760" smallIconId="1092365263" avatarId="1879073541"/>
 <gender name="key:620775298:256297669" largeIconId="1092365264" iconId="1091602759" smallIconId="1092365265" avatarId="1879073543"/>
-<nationality id="15" name="林顿（Lindon）"/>
-<nationality id="8" name="洛丝萝林）"/>
-<nationality id="11" name="幽暗密林（Mirkwood）"/>
-<nationality id="7" name="瑞文戴尔（Rivendell）"/>
-<nationality id="2" name="埃德赫隆德（Edhellond）"/>
+<nationality id="15" name="Lindon"/>
+<nationality id="8" name="Lórien"/>
+<nationality id="11" name="Mirkwood"/>
+<nationality id="7" name="Rivendell"/>
+<nationality id="2" name="Edhellond"/>
 <allowedClass id="Champion"/>
 <allowedClass id="Guardian"/>
 <allowedClass id="Hunter"/>
@@ -54,30 +54,30 @@
 <allowedClass id="Warden"/>
 <allowedClass id="Brawler"/>
 <allowedClass id="Burglar"/>
-<raceTrait minLevel="1" traitId="1879073545" traitName="首生儿女的悲伤（Sorrow of the Firstborn）"/>
-<raceTrait minLevel="1" traitId="1879073546" traitName="森林敏捷"/>
-<raceTrait minLevel="1" traitId="1879073547" traitName="首生儿女的消逝（Fading of the Firstborn）"/>
-<raceTrait minLevel="1" traitId="1879073548" traitName="不生病"/>
-<raceTrait minLevel="5" traitId="1879365746" traitName="小提琴使用"/>
-<raceTrait minLevel="5" traitId="1879378378" traitName="巴松管使用"/>
-<raceTrait minLevel="116" traitId="1879380288" traitName="内在之光（Inner Light）"/>
-<earnableTrait traitId="1879073561" traitName="战术与信念奖励"/>
-<earnableTrait traitId="1879073574" traitName="精灵单手剑伤害加成"/>
-<earnableTrait traitId="1879073563" traitName="精灵弓伤害加成"/>
-<earnableTrait traitId="1879073565" traitName="人类之友"/>
-<earnableTrait traitId="1879073558" traitName="西尔凡阴影"/>
-<earnableTrait traitId="1879092951" traitName="有美德的精灵"/>
-<earnableTrait traitId="1879073570" traitName="埃尔达的优雅"/>
-<earnableTrait traitId="1879073483" traitName="返回瑞文戴尔"/>
-<earnableTrait traitId="1879073576" traitName="精灵之力"/>
+<raceTrait minLevel="1" traitId="1879073545" traitName="Sorrow of the Firstborn"/>
+<raceTrait minLevel="1" traitId="1879073546" traitName="Agility of the Woods"/>
+<raceTrait minLevel="1" traitId="1879073547" traitName="Fading of the Firstborn"/>
+<raceTrait minLevel="1" traitId="1879073548" traitName="Suffer no Illness"/>
+<raceTrait minLevel="5" traitId="1879365746" traitName="Fiddle Use"/>
+<raceTrait minLevel="5" traitId="1879378378" traitName="Bassoon Use"/>
+<raceTrait minLevel="116" traitId="1879380288" traitName="Inner Light"/>
+<earnableTrait traitId="1879073561" traitName="Tactics and Conviction Bonus"/>
+<earnableTrait traitId="1879073574" traitName="Elf One-handed Sword-damage Bonus"/>
+<earnableTrait traitId="1879073563" traitName="Elf Bow-damage Bonus"/>
+<earnableTrait traitId="1879073565" traitName="Friend Of Man"/>
+<earnableTrait traitId="1879073558" traitName="Silvan Shadows"/>
+<earnableTrait traitId="1879092951" traitName="Virtuous Elf"/>
+<earnableTrait traitId="1879073570" traitName="Eldar's Grace"/>
+<earnableTrait traitId="1879073483" traitName="Return to Rivendell"/>
+<earnableTrait traitId="1879073576" traitName="Power of the Eldar"/>
 </race>
 <race id="1879073444" code="73" key="dwarf" legacyLabel="Dwarf" name="key:620756996:171553462" tag="D" tall="false" description="key:620775325:133532190">
 <gender name="key:620775325:250657493" largeIconId="1092365273" iconId="1091602758" smallIconId="1092365274" avatarId="1879073580"/>
-<nationality id="4" name="蓝色山脉（Blue Mountains）"/>
-<nationality id="3" name="铁丘陵（Iron Hills）"/>
-<nationality id="12" name="孤山（The Lonely Mountain）"/>
-<nationality id="10" name="灰山"/>
-<nationality id="9" name="白色山脉（White Mountains）"/>
+<nationality id="4" name="Blue Mountains"/>
+<nationality id="3" name="Iron Hills"/>
+<nationality id="12" name="The Lonely Mountain"/>
+<nationality id="10" name="Grey Mountains"/>
+<nationality id="9" name="White Mountains"/>
 <allowedClass id="Champion"/>
 <allowedClass id="Guardian"/>
 <allowedClass id="Hunter"/>
@@ -86,30 +86,30 @@
 <allowedClass id="Brawler"/>
 <allowedClass id="Captain"/>
 <allowedClass id="Warden"/>
-<raceTrait minLevel="1" traitId="1879073582" traitName="坚固"/>
-<raceTrait minLevel="1" traitId="1879073583" traitName="矮壮体型（Stocky）"/>
-<raceTrait minLevel="1" traitId="1879073584" traitName="失落的矮人王国（Lost Dwarf-kingdoms）"/>
-<raceTrait minLevel="1" traitId="1879073585" traitName="战斗不倦"/>
-<raceTrait minLevel="1" traitId="1879064086" traitName="单手斧"/>
-<raceTrait minLevel="5" traitId="1879365746" traitName="小提琴使用"/>
-<raceTrait minLevel="5" traitId="1879378378" traitName="巴松管使用"/>
-<raceTrait minLevel="116" traitId="1879380288" traitName="内在之光（Inner Light）"/>
-<earnableTrait traitId="1879073599" traitName="诡诈与力量加成"/>
-<earnableTrait traitId="1879073601" traitName="矮人斧头伤害加成"/>
-<earnableTrait traitId="1879073603" traitName="命运矮人"/>
-<earnableTrait traitId="1879076358" traitName="盾牌斗士"/>
-<earnableTrait traitId="1879092950" traitName="有美德的矮人"/>
-<earnableTrait traitId="1879073605" traitName="返回梭林之门"/>
-<earnableTrait traitId="1879073595" traitName="头槌"/>
-<earnableTrait traitId="1879073609" traitName="石之耐力"/>
-<earnableTrait traitId="1879073613" traitName="矮人耐力"/>
+<raceTrait minLevel="1" traitId="1879073582" traitName="Sturdiness"/>
+<raceTrait minLevel="1" traitId="1879073583" traitName="Stocky"/>
+<raceTrait minLevel="1" traitId="1879073584" traitName="Lost Dwarf-kingdoms"/>
+<raceTrait minLevel="1" traitId="1879073585" traitName="Unwearying in Battle"/>
+<raceTrait minLevel="1" traitId="1879064086" traitName="One-handed Axes"/>
+<raceTrait minLevel="5" traitId="1879365746" traitName="Fiddle Use"/>
+<raceTrait minLevel="5" traitId="1879378378" traitName="Bassoon Use"/>
+<raceTrait minLevel="116" traitId="1879380288" traitName="Inner Light"/>
+<earnableTrait traitId="1879073599" traitName="Guile and Might Bonus"/>
+<earnableTrait traitId="1879073601" traitName="Dwarf Axe-damage Bonus"/>
+<earnableTrait traitId="1879073603" traitName="Fateful Dwarf"/>
+<earnableTrait traitId="1879076358" traitName="Shield Brawler"/>
+<earnableTrait traitId="1879092950" traitName="Virtuous Dwarf"/>
+<earnableTrait traitId="1879073605" traitName="Return to Thorin's Gate"/>
+<earnableTrait traitId="1879073595" traitName="Head-butt"/>
+<earnableTrait traitId="1879073609" traitName="Endurance of Stone"/>
+<earnableTrait traitId="1879073613" traitName="Dwarf-endurance"/>
 </race>
 <race id="1879073441" code="81" key="hobbit" legacyLabel="Hobbit" name="key:620756996:64170820" tag="O" tall="false" description="key:620775236:133532190">
 <gender name="key:620775236:250657493" largeIconId="1092365266" iconId="1091602762" smallIconId="1092365267" avatarId="1879073447"/>
 <gender name="key:620775236:256297669" largeIconId="1092365268" iconId="1091602761" smallIconId="1092365269" avatarId="1879073449"/>
-<nationality id="18" name="瀑布河系（Fallohide）"/>
-<nationality id="14" name="哈福特（Harfoot）"/>
-<nationality id="13" name="斯图尔族（Stoor）"/>
+<nationality id="18" name="Fallohide"/>
+<nationality id="14" name="Harfoot"/>
+<nationality id="13" name="Stoor"/>
 <allowedClass id="Burglar"/>
 <allowedClass id="Guardian"/>
 <allowedClass id="Hunter"/>
@@ -118,54 +118,54 @@
 <allowedClass id="Brawler"/>
 <allowedClass id="Champion"/>
 <allowedClass id="Lore-master"/>
-<raceTrait minLevel="1" traitId="1879073451" traitName="体型矮小（Small Size）"/>
-<raceTrait minLevel="1" traitId="1879073452" traitName="霍比特人的坚韧"/>
-<raceTrait minLevel="1" traitId="1879073453" traitName="快速恢复"/>
-<raceTrait minLevel="1" traitId="1879073454" traitName="霍比特勇气"/>
-<raceTrait minLevel="1" traitId="1879073455" traitName="抵抗腐化"/>
-<raceTrait minLevel="5" traitId="1879365746" traitName="小提琴使用"/>
-<raceTrait minLevel="5" traitId="1879378378" traitName="巴松管使用"/>
-<raceTrait minLevel="116" traitId="1879380288" traitName="内在之光（Inner Light）"/>
-<earnableTrait traitId="1879073473" traitName="诡诈与信念加成"/>
-<earnableTrait traitId="1879073475" traitName="霍比特短棍伤害加成"/>
-<earnableTrait traitId="1879073477" traitName="霍比特人身材"/>
-<earnableTrait traitId="1879092952" traitName="有美德的霍比特人"/>
-<earnableTrait traitId="1879073479" traitName="返回麦克-戴尔文"/>
-<earnableTrait traitId="1879073494" traitName="霍比特静默（Hobbit-silence）"/>
-<earnableTrait traitId="1879073485" traitName="霍比特韧性"/>
-<earnableTrait traitId="1879073490" traitName="霍比特潜行"/>
-<earnableTrait traitId="1879073469" traitName="弯腰捡石头"/>
+<raceTrait minLevel="1" traitId="1879073451" traitName="Small Size"/>
+<raceTrait minLevel="1" traitId="1879073452" traitName="Hobbit-toughness"/>
+<raceTrait minLevel="1" traitId="1879073453" traitName="Rapid Recovery"/>
+<raceTrait minLevel="1" traitId="1879073454" traitName="Hobbit-courage"/>
+<raceTrait minLevel="1" traitId="1879073455" traitName="Resist Corruption"/>
+<raceTrait minLevel="5" traitId="1879365746" traitName="Fiddle Use"/>
+<raceTrait minLevel="5" traitId="1879378378" traitName="Bassoon Use"/>
+<raceTrait minLevel="116" traitId="1879380288" traitName="Inner Light"/>
+<earnableTrait traitId="1879073473" traitName="Guile and Conviction Bonus"/>
+<earnableTrait traitId="1879073475" traitName="Hobbit Club-damage Bonus"/>
+<earnableTrait traitId="1879073477" traitName="Hobbit-stature"/>
+<earnableTrait traitId="1879092952" traitName="Virtuous Hobbit"/>
+<earnableTrait traitId="1879073479" traitName="Return to Michel Delving"/>
+<earnableTrait traitId="1879073494" traitName="Hobbit-silence"/>
+<earnableTrait traitId="1879073485" traitName="Hobbit-resilience"/>
+<earnableTrait traitId="1879073490" traitName="Hobbit-stealth"/>
+<earnableTrait traitId="1879073469" traitName="Stoop for a Stone"/>
 </race>
 <race id="1879315796" code="114" key="beorning" legacyLabel="Beorning" name="key:620756996:168595271" tag="B" tall="true" description="key:620953824:133532190">
 <gender name="key:620953824:250657493" largeIconId="1092365260" iconId="1091932685" smallIconId="1092365259" avatarId="1879316633"/>
 <gender name="key:620953824:256297669" largeIconId="1092365261" iconId="1091932682" smallIconId="1092365258" avatarId="1879316636"/>
-<nationality id="19" name="安都因河谷（Vales of Anduin）"/>
+<nationality id="19" name="Vales of Anduin"/>
 <allowedClass id="Beorning"/>
-<raceTrait minLevel="1" traitId="1879316863" traitName="荒野之力"/>
-<raceTrait minLevel="1" traitId="1879316864" traitName="数量稀少（Few in Number）"/>
-<raceTrait minLevel="1" traitId="1879316862" traitName="自然抗性"/>
-<raceTrait minLevel="1" traitId="1879316861" traitName="厚实皮毛"/>
-<raceTrait minLevel="5" traitId="1879365746" traitName="小提琴使用"/>
-<raceTrait minLevel="5" traitId="1879378378" traitName="巴松管使用"/>
-<raceTrait minLevel="116" traitId="1879380288" traitName="内在之光（Inner Light）"/>
-<earnableTrait traitId="1879316913" traitName="力量与信念加成"/>
-<earnableTrait traitId="1879316854" traitName="比翁一族棍棒与斧头伤害加成"/>
-<earnableTrait traitId="1879316867" traitName="使者"/>
-<earnableTrait traitId="1879317033" traitName="自然饮食（Natural Diet）"/>
-<earnableTrait traitId="1879316853" traitName="有美德的比翁族人"/>
-<earnableTrait traitId="1879316911" traitName="烘焙蜂蜜蛋糕"/>
-<earnableTrait traitId="1879317044" traitName="回光返照"/>
-<earnableTrait traitId="1879317027" traitName="返回格里姆贝奥恩的小屋"/>
-<earnableTrait traitId="1879317040" traitName="野性存在"/>
+<raceTrait minLevel="1" traitId="1879316863" traitName="Might of the Wild"/>
+<raceTrait minLevel="1" traitId="1879316864" traitName="Few in Number"/>
+<raceTrait minLevel="1" traitId="1879316862" traitName="Natural Resistance"/>
+<raceTrait minLevel="1" traitId="1879316861" traitName="Thick Hide"/>
+<raceTrait minLevel="5" traitId="1879365746" traitName="Fiddle Use"/>
+<raceTrait minLevel="5" traitId="1879378378" traitName="Bassoon Use"/>
+<raceTrait minLevel="116" traitId="1879380288" traitName="Inner Light"/>
+<earnableTrait traitId="1879316913" traitName="Might and Conviction Bonus"/>
+<earnableTrait traitId="1879316854" traitName="Beorning Club and Axe-damage Bonus"/>
+<earnableTrait traitId="1879316867" traitName="Emissary"/>
+<earnableTrait traitId="1879317033" traitName="Natural Diet"/>
+<earnableTrait traitId="1879316853" traitName="Virtuous Beorning"/>
+<earnableTrait traitId="1879316911" traitName="Bake a Honey-cake"/>
+<earnableTrait traitId="1879317044" traitName="Bracing Roar"/>
+<earnableTrait traitId="1879317027" traitName="Return to Grimbeorn's Lodge"/>
+<earnableTrait traitId="1879317040" traitName="Feral Presence"/>
 </race>
 <race id="1879339803" code="117" key="highelf" legacyLabel="High Elf" name="key:620756996:215946294" tag="L" tall="true" description="key:620994010:133532190">
 <gender name="key:620994010:250657493" largeIconId="1092390249" iconId="1092390251" smallIconId="1092365263" avatarId="1879339800"/>
 <gender name="key:620994010:256297669" largeIconId="1092390248" iconId="1092390250" smallIconId="1092365265" avatarId="1879339798"/>
-<nationality id="23" name="刚多林（Gondolin）"/>
-<nationality id="22" name="伊姆拉缀斯（Imladris）"/>
-<nationality id="26" name="纳国斯隆德（Nargothrond）"/>
-<nationality id="21" name="贝烈瑞安德（Beleriand）"/>
-<nationality id="24" name="欧西瑞安德（Ossiriand）"/>
+<nationality id="23" name="Gondolin"/>
+<nationality id="22" name="Imladris"/>
+<nationality id="26" name="Nargothrond"/>
+<nationality id="21" name="Beleriand"/>
+<nationality id="24" name="Ossiriand"/>
 <allowedClass id="Captain"/>
 <allowedClass id="Champion"/>
 <allowedClass id="Guardian"/>
@@ -177,30 +177,30 @@
 <allowedClass id="Brawler"/>
 <allowedClass id="Burglar"/>
 <allowedClass id="Corsair"/>
-<raceTrait minLevel="19" traitId="1879346346" traitName="初诞者之怒"/>
-<raceTrait minLevel="25" traitId="1879346343" traitName="维林诺的优雅"/>
-<raceTrait minLevel="29" traitId="1879346315" traitName="残存者"/>
-<raceTrait minLevel="1" traitId="1879359117" traitName="不朽者的悲伤（Sorrow of the Undying）"/>
-<raceTrait minLevel="1" traitId="1879359115" traitName="首生儿女的消逝（Fading of the Firstborn）"/>
-<raceTrait minLevel="1" traitId="1879359114" traitName="埃尔达的安宁"/>
-<raceTrait minLevel="1" traitId="1879359116" traitName="不患疾病"/>
-<raceTrait minLevel="5" traitId="1879365746" traitName="小提琴使用"/>
-<raceTrait minLevel="5" traitId="1879378378" traitName="巴松管使用"/>
-<raceTrait minLevel="116" traitId="1879380288" traitName="内在之光（Inner Light）"/>
-<earnableTrait traitId="1879346312" traitName="首生儿女之优雅"/>
-<earnableTrait traitId="1879346315" traitName="残存者"/>
-<earnableTrait traitId="1879346313" traitName="剑舞者"/>
-<earnableTrait traitId="1879346311" traitName="有美德的高等精灵"/>
-<earnableTrait traitId="1879346314" traitName="黑暗之敌"/>
-<earnableTrait traitId="1879346345" traitName="前往卡拉斯加拉东"/>
-<earnableTrait traitId="1879346346" traitName="初诞者之怒"/>
-<earnableTrait traitId="1879346343" traitName="维林诺的优雅"/>
-<earnableTrait traitId="1879346344" traitName="第一纪元的荣耀"/>
+<raceTrait minLevel="19" traitId="1879346346" traitName="Wrath of the Firstborn"/>
+<raceTrait minLevel="25" traitId="1879346343" traitName="Grace of Valinor"/>
+<raceTrait minLevel="29" traitId="1879346315" traitName="Those Who Remain"/>
+<raceTrait minLevel="1" traitId="1879359117" traitName="Sorrow of the Undying"/>
+<raceTrait minLevel="1" traitId="1879359115" traitName="Fading of the Firstborn"/>
+<raceTrait minLevel="1" traitId="1879359114" traitName="Peace of the Eldar"/>
+<raceTrait minLevel="1" traitId="1879359116" traitName="Suffer no Illness"/>
+<raceTrait minLevel="5" traitId="1879365746" traitName="Fiddle Use"/>
+<raceTrait minLevel="5" traitId="1879378378" traitName="Bassoon Use"/>
+<raceTrait minLevel="116" traitId="1879380288" traitName="Inner Light"/>
+<earnableTrait traitId="1879346312" traitName="Grace of the Firstborn"/>
+<earnableTrait traitId="1879346315" traitName="Those Who Remain"/>
+<earnableTrait traitId="1879346313" traitName="Blade Dancer"/>
+<earnableTrait traitId="1879346311" traitName="Virtuous High Elf"/>
+<earnableTrait traitId="1879346314" traitName="Enmity of Darkness"/>
+<earnableTrait traitId="1879346345" traitName="Travel to Caras Galadhon"/>
+<earnableTrait traitId="1879346346" traitName="Wrath of the Firstborn"/>
+<earnableTrait traitId="1879346343" traitName="Grace of Valinor"/>
+<earnableTrait traitId="1879346344" traitName="Glory of the First Age"/>
 </race>
 <race id="1879389089" code="120" key="stoutaxedwarf" legacyLabel="Stout-axe Dwarf" name="key:620756996:49821557" tag="D" tall="false" description="key:621021244:133532190">
 <gender name="key:621021244:250657493" largeIconId="1092464256" iconId="1092464254" smallIconId="1092464255" avatarId="1879389085"/>
 <gender name="key:621021244:256297669" largeIconId="1092464256" iconId="1092464254" smallIconId="1092464255" avatarId="1879389085"/>
-<nationality id="27" name="魔多"/>
+<nationality id="27" name="Mordor"/>
 <allowedClass id="Burglar"/>
 <allowedClass id="Champion"/>
 <allowedClass id="Guardian"/>
@@ -211,31 +211,31 @@
 <allowedClass id="Captain"/>
 <allowedClass id="Warden"/>
 <allowedClass id="Corsair"/>
-<raceTrait minLevel="1" traitId="1879391215" traitName="不屈意志"/>
-<raceTrait minLevel="1" traitId="1879391217" traitName="黑土地铸就"/>
-<raceTrait minLevel="1" traitId="1879391214" traitName="魔眼之影（Shadow of the Eye）"/>
-<raceTrait minLevel="1" traitId="1879391216" traitName="德拉萨部族的末日（Doom of Drása's Folk）"/>
-<raceTrait minLevel="1" traitId="1879064086" traitName="单手斧"/>
-<raceTrait minLevel="5" traitId="1879365746" traitName="小提琴使用"/>
-<raceTrait minLevel="5" traitId="1879378378" traitName="巴松管使用"/>
-<raceTrait minLevel="116" traitId="1879380288" traitName="内在之光（Inner Light）"/>
-<raceTrait minLevel="13" traitId="1879391220" traitName="未写就的命运"/>
-<raceTrait minLevel="19" traitId="1879391236" traitName="矮壮之斧的坚韧"/>
-<raceTrait minLevel="29" traitId="1879391262" traitName="火焰淬炼"/>
-<earnableTrait traitId="1879391218" traitName="巧手敏捷"/>
-<earnableTrait traitId="1879391222" traitName="火焰之心"/>
-<earnableTrait traitId="1879391220" traitName="未写就的命运"/>
-<earnableTrait traitId="1879391262" traitName="火焰淬炼"/>
-<earnableTrait traitId="1879391221" traitName="美德 stout-axe"/>
-<earnableTrait traitId="1879391219" traitName="必要的才智（Needful Ingenuity）"/>
-<earnableTrait traitId="1879391237" traitName="返回索林之厅"/>
-<earnableTrait traitId="1879391235" traitName="坚固之盾"/>
-<earnableTrait traitId="1879391236" traitName="矮壮之斧的坚韧"/>
+<raceTrait minLevel="1" traitId="1879391215" traitName="Unyielding Will"/>
+<raceTrait minLevel="1" traitId="1879391217" traitName="Wrought by the Black Land"/>
+<raceTrait minLevel="1" traitId="1879391214" traitName="Shadow of the Eye"/>
+<raceTrait minLevel="1" traitId="1879391216" traitName="Doom of Drása's Folk"/>
+<raceTrait minLevel="1" traitId="1879064086" traitName="One-handed Axes"/>
+<raceTrait minLevel="5" traitId="1879365746" traitName="Fiddle Use"/>
+<raceTrait minLevel="5" traitId="1879378378" traitName="Bassoon Use"/>
+<raceTrait minLevel="116" traitId="1879380288" traitName="Inner Light"/>
+<raceTrait minLevel="13" traitId="1879391220" traitName="Unwritten Destiny"/>
+<raceTrait minLevel="19" traitId="1879391236" traitName="Fortitude of the Stout-axes"/>
+<raceTrait minLevel="29" traitId="1879391262" traitName="Flame-tempered"/>
+<earnableTrait traitId="1879391218" traitName="Nimble-handed"/>
+<earnableTrait traitId="1879391222" traitName="Heart of Fire"/>
+<earnableTrait traitId="1879391220" traitName="Unwritten Destiny"/>
+<earnableTrait traitId="1879391262" traitName="Flame-tempered"/>
+<earnableTrait traitId="1879391221" traitName="Virtuous Stout-axe"/>
+<earnableTrait traitId="1879391219" traitName="Needful Ingenuity"/>
+<earnableTrait traitId="1879391237" traitName="Return to Thorin's Hall"/>
+<earnableTrait traitId="1879391235" traitName="Stout-shield"/>
+<earnableTrait traitId="1879391236" traitName="Fortitude of the Stout-axes"/>
 </race>
 <race id="1879467593" code="125" key="riverhobbit" legacyLabel="River Hobbit" name="key:620756996:211126420" tag="O" tall="false" description="key:621078964:133532190">
 <gender name="key:621078964:250657493" largeIconId="1092831220" iconId="1092831221" smallIconId="1092365267" avatarId="1879467587"/>
 <gender name="key:621078964:256297669" largeIconId="1092831219" iconId="1092831223" smallIconId="1092365269" avatarId="1879467588"/>
-<nationality id="28" name="迷雾谷（Misthallow）"/>
+<nationality id="28" name="Misthallow"/>
 <allowedClass id="Brawler"/>
 <allowedClass id="Burglar"/>
 <allowedClass id="Captain"/>
@@ -247,22 +247,22 @@
 <allowedClass id="Warden"/>
 <allowedClass id="Corsair"/>
 <allowedClass id="Rune-keeper"/>
-<raceTrait minLevel="1" traitId="1879469348" traitName="如鱼得水"/>
-<raceTrait minLevel="1" traitId="1879469347" traitName="与世隔绝滋生怀疑（Seclusion Breeds Suspicion）"/>
-<raceTrait minLevel="1" traitId="1879469358" traitName="坚韧霍比特人"/>
-<raceTrait minLevel="1" traitId="1879469349" traitName="游泳者"/>
-<raceTrait minLevel="1" traitId="1879064091" traitName="匕首"/>
-<raceTrait minLevel="5" traitId="1879365746" traitName="小提琴使用"/>
-<raceTrait minLevel="5" traitId="1879378378" traitName="巴松管使用"/>
-<raceTrait minLevel="116" traitId="1879380288" traitName="内在之光（Inner Light）"/>
-<earnableTrait traitId="1879469356" traitName="狡诈与战术加成"/>
-<earnableTrait traitId="1879469351" traitName="控水之术"/>
-<earnableTrait traitId="1879469357" traitName="河民"/>
-<earnableTrait traitId="1879469354" traitName="见识世界"/>
-<earnableTrait traitId="1879469353" traitName="有美德的河流霍比特人"/>
-<earnableTrait traitId="1879469350" traitName="河流霍比特人长矛与匕首伤害加成"/>
-<earnableTrait traitId="1879469352" traitName="返回林德尔比"/>
-<earnableTrait traitId="1879469355" traitName="诡秘捕获"/>
-<earnableTrait traitId="1879073494" traitName="霍比特静默（Hobbit-silence）"/>
+<raceTrait minLevel="1" traitId="1879469348" traitName="Slippery Like a Fish"/>
+<raceTrait minLevel="1" traitId="1879469347" traitName="Seclusion Breeds Suspicion"/>
+<raceTrait minLevel="1" traitId="1879469358" traitName="Hardy Holbytlan"/>
+<raceTrait minLevel="1" traitId="1879469349" traitName="Swimmer"/>
+<raceTrait minLevel="1" traitId="1879064091" traitName="Daggers"/>
+<raceTrait minLevel="5" traitId="1879365746" traitName="Fiddle Use"/>
+<raceTrait minLevel="5" traitId="1879378378" traitName="Bassoon Use"/>
+<raceTrait minLevel="116" traitId="1879380288" traitName="Inner Light"/>
+<earnableTrait traitId="1879469356" traitName="Guile and Tactics Bonus"/>
+<earnableTrait traitId="1879469351" traitName="Way with Water"/>
+<earnableTrait traitId="1879469357" traitName="River-folk"/>
+<earnableTrait traitId="1879469354" traitName="Seen the World"/>
+<earnableTrait traitId="1879469353" traitName="Virtuous River Hobbit"/>
+<earnableTrait traitId="1879469350" traitName="River Hobbit Spear and Dagger-damage Bonus"/>
+<earnableTrait traitId="1879469352" traitName="Return to Lyndelby"/>
+<earnableTrait traitId="1879469355" traitName="Elusive Catch"/>
+<earnableTrait traitId="1879073494" traitName="Hobbit-silence"/>
 </race>
 </races>

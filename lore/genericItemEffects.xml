@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><genericItemEffects>
-<category code="14" label="弩">
-<effect id="1879049208" name="弩减益"/>
+<category code="14" label="Crossbow">
+<effect id="1879049208" name="Crossbow Debuf"/>
 </category>
-<category code="41" label="标枪">
-<effect id="1879277510" name="标枪减益"/>
+<category code="41" label="Javelin">
+<effect id="1879277510" name="Javelin Debuff"/>
 </category>
-<category code="20" label="匕首">
-<effect id="1879086274" name="匕首精准"/>
+<category code="20" label="Dagger">
+<effect id="1879086274" name="Dagger Precision"/>
 </category>
-<category code="28" label="单手剑">
-<effect id="1879258391" name="剑招架"/>
+<category code="28" label="One-handed Sword">
+<effect id="1879258391" name="Sword Parry"/>
 </category>
-<category code="3" label="双手剑">
-<effect id="1879258390" name="剑招架"/>
-<effect id="1879458602" name="双手武器加成"/>
+<category code="3" label="Two-handed Sword">
+<effect id="1879258390" name="Sword Parry"/>
+<effect id="1879458602" name="2H Weapon Bonus"/>
 </category>
-<category code="6" label="双手斧">
-<effect id="1879458602" name="双手武器加成"/>
+<category code="6" label="Two-handed Axe">
+<effect id="1879458602" name="2H Weapon Bonus"/>
 </category>
-<category code="4" label="双手棍">
-<effect id="1879458602" name="双手武器加成"/>
+<category code="4" label="Two-handed Club">
+<effect id="1879458602" name="2H Weapon Bonus"/>
 </category>
-<category code="15" label="双手锤">
-<effect id="1879458602" name="双手武器加成"/>
+<category code="15" label="Two-handed Hammer">
+<effect id="1879458602" name="2H Weapon Bonus"/>
 </category>
-<category code="16" label="长戟">
-<effect id="1879277487" name="戟精准度"/>
-<effect id="1879458602" name="双手武器加成"/>
+<category code="16" label="Halberd">
+<effect id="1879277487" name="Halberd Precision"/>
+<effect id="1879458602" name="2H Weapon Bonus"/>
 </category>
-<category code="8" label="弓">
-<effect id="1879049213" name="弓箭精准"/>
+<category code="8" label="Bow">
+<effect id="1879049213" name="Bow Precision"/>
 </category>
-<category code="11" label="重盾">
-<effect id="1879085059" name="重盾"/>
+<category code="11" label="Heavy Shield">
+<effect id="1879085059" name="Heavy Shield"/>
 </category>
-<category code="40" label="守望者盾">
-<effect id="1879085059" name="重盾"/>
+<category code="40" label="Warden's Shield">
+<effect id="1879085059" name="Heavy Shield"/>
 </category>
-<category code="17" label="盾牌">
-<effect id="1879085059" name="重盾"/>
+<category code="17" label="Shield">
+<effect id="1879085059" name="Heavy Shield"/>
 </category>
 </genericItemEffects>

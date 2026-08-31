@@ -1,2042 +1,2042 @@
 <?xml version="1.0" encoding="UTF-8"?><titles>
-<title id="1879139766" name="遗忘西部的守护者" category="17" tier="1" damageType="BELERIAND"/>
-<title id="1879139767" name="亡灵收割者（Dead-reaver）" category="1" tier="1" damageType="COMMON" slayer="11"/>
-<title id="1879139768" name="狂怒尸妖" category="1" tier="2" damageType="COMMON" slayer="11"/>
-<title id="1879139769" name="暗影终结者" category="1" tier="3" damageType="COMMON" slayer="11"/>
-<title id="1879140366" name="狂野斗士（Wild Fighter）" category="10" tier="1" damageType="COMMON" slayer="14"/>
-<title id="1879140367" name="蜘蛛切割者" category="14" tier="3" damageType="COMMON" slayer="4"/>
-<title id="1879140369" name="巨人战士" category="4" tier="1" damageType="COMMON" slayer="9"/>
-<title id="1879140370" name="屠龙者" category="7" tier="3" damageType="COMMON" slayer="6"/>
-<title id="1879140372" name="邪恶杀手" category="8" tier="2" damageType="COMMON" slayer="5"/>
-<title id="1879140373" name="破暗者" category="18" tier="2" damageType="COMMON" slayer="13"/>
-<title id="1879140374" name="巨魔克星" category="13" tier="2" damageType="COMMON" slayer="7"/>
-<title id="1879140375" name="除虫者" category="14" tier="1" damageType="COMMON" slayer="4"/>
-<title id="1879140376" name="巨人杀手" category="4" tier="3" damageType="COMMON" slayer="9"/>
-<title id="1879140377" name="碎石者" category="13" tier="1" damageType="COMMON" slayer="7"/>
-<title id="1879140378" name="暗影 master" category="18" tier="1" damageType="COMMON" slayer="13"/>
-<title id="1879140379" name="驯兽大师" category="10" tier="3" damageType="COMMON" slayer="14"/>
-<title id="1879140380" name="黑暗驱除者" category="8" tier="1" damageType="COMMON" slayer="5"/>
-<title id="1879140382" name="暗影 piercer" category="8" tier="3" damageType="COMMON" slayer="5"/>
-<title id="1879140383" name="奥洛格掠夺者（Olog-reaver）" category="13" tier="3" damageType="COMMON" slayer="7"/>
-<title id="1879140384" name="兽人斩杀者" category="5" tier="2" damageType="COMMON" slayer="1"/>
-<title id="1879140385" name="乌鲁克杀手" category="5" tier="3" damageType="COMMON" slayer="1"/>
-<title id="1879140386" name="怨灵终结者" category="18" tier="3" damageType="COMMON" slayer="13"/>
-<title id="1879140387" name="蛮族驯兽师" category="10" tier="2" damageType="COMMON" slayer="14"/>
-<title id="1879140388" name="Drake 劈砍者" category="7" tier="2" damageType="COMMON" slayer="6"/>
-<title id="1879140389" name="哥布林穿刺者" category="5" tier="1" damageType="COMMON" slayer="1"/>
-<title id="1879140390" name="除虫者（Pest-hewer）" category="14" tier="2" damageType="COMMON" slayer="4"/>
-<title id="1879140391" name="mountain-master" category="4" tier="2" damageType="COMMON" slayer="9"/>
-<title id="1879140392" name="地龙斗士（Worm-fighter）" category="7" tier="1" damageType="COMMON" slayer="6"/>
-<title id="1879140454" name="深厅守护者" category="16" tier="1" damageType="ANCIENT_DWARF"/>
-<title id="1879140455" name="沉没王国的后裔" category="6" tier="1" damageType="WESTERNESSE"/>
-<title id="1879141569" name="冰霜 reaver" category="19" tier="2" damageType="COMMON">
+<title id="1879139766" name="Defender of the Forgotten West" category="17" tier="1" damageType="BELERIAND"/>
+<title id="1879139767" name="Dead-reaver" category="1" tier="1" damageType="COMMON" slayer="11"/>
+<title id="1879139768" name="Wight-rager" category="1" tier="2" damageType="COMMON" slayer="11"/>
+<title id="1879139769" name="Shade-ender" category="1" tier="3" damageType="COMMON" slayer="11"/>
+<title id="1879140366" name="Wild Fighter" category="10" tier="1" damageType="COMMON" slayer="14"/>
+<title id="1879140367" name="Spider-cleaver" category="14" tier="3" damageType="COMMON" slayer="4"/>
+<title id="1879140369" name="Giant-fighter" category="4" tier="1" damageType="COMMON" slayer="9"/>
+<title id="1879140370" name="Dragon-slayer" category="7" tier="3" damageType="COMMON" slayer="6"/>
+<title id="1879140372" name="Fell-slayer" category="8" tier="2" damageType="COMMON" slayer="5"/>
+<title id="1879140373" name="Dark-cleaver" category="18" tier="2" damageType="COMMON" slayer="13"/>
+<title id="1879140374" name="Troll-bane" category="13" tier="2" damageType="COMMON" slayer="7"/>
+<title id="1879140375" name="Vermin-slayer" category="14" tier="1" damageType="COMMON" slayer="4"/>
+<title id="1879140376" name="Giant-killer" category="4" tier="3" damageType="COMMON" slayer="9"/>
+<title id="1879140377" name="Stone-smasher" category="13" tier="1" damageType="COMMON" slayer="7"/>
+<title id="1879140378" name="Shadow-master" category="18" tier="1" damageType="COMMON" slayer="13"/>
+<title id="1879140379" name="Beast-master" category="10" tier="3" damageType="COMMON" slayer="14"/>
+<title id="1879140380" name="Dark-banisher" category="8" tier="1" damageType="COMMON" slayer="5"/>
+<title id="1879140382" name="Shadow-piercer" category="8" tier="3" damageType="COMMON" slayer="5"/>
+<title id="1879140383" name="Olog-reaver" category="13" tier="3" damageType="COMMON" slayer="7"/>
+<title id="1879140384" name="Orc-hewer" category="5" tier="2" damageType="COMMON" slayer="1"/>
+<title id="1879140385" name="Uruk-slayer" category="5" tier="3" damageType="COMMON" slayer="1"/>
+<title id="1879140386" name="Wraith-ender" category="18" tier="3" damageType="COMMON" slayer="13"/>
+<title id="1879140387" name="Savage-tamer" category="10" tier="2" damageType="COMMON" slayer="14"/>
+<title id="1879140388" name="Drake-cleaver" category="7" tier="2" damageType="COMMON" slayer="6"/>
+<title id="1879140389" name="Goblin-piercer" category="5" tier="1" damageType="COMMON" slayer="1"/>
+<title id="1879140390" name="Pest-hewer" category="14" tier="2" damageType="COMMON" slayer="4"/>
+<title id="1879140391" name="Mountain-master" category="4" tier="2" damageType="COMMON" slayer="9"/>
+<title id="1879140392" name="Worm-fighter" category="7" tier="1" damageType="COMMON" slayer="6"/>
+<title id="1879140454" name="Guardian of the Deep Halls" category="16" tier="1" damageType="ANCIENT_DWARF"/>
+<title id="1879140455" name="Scion of the Drowned Kingdom" category="6" tier="1" damageType="WESTERNESSE"/>
+<title id="1879141569" name="Frost-reaver" category="19" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Frost" value="300"/>
 </stats>
 </title>
-<title id="1879141570" name="火焰 spirit" category="9" tier="3" damageType="COMMON">
+<title id="1879141570" name="Flame-striker" category="9" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 </stats>
 </title>
-<title id="1879141571" name="天穹怒者（Sky-rager）" category="12" tier="2" damageType="COMMON">
+<title id="1879141571" name="Sky-rager" category="12" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="300"/>
 </stats>
 </title>
-<title id="1879141572" name="燃烧狂怒者" category="9" tier="2" damageType="COMMON">
+<title id="1879141572" name="Burning Rager" category="9" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="300"/>
 </stats>
 </title>
-<title id="1879141573" name="冷酷之心" category="19" tier="1" damageType="COMMON">
+<title id="1879141573" name="Cold-heart" category="19" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Frost" value="200"/>
 </stats>
 </title>
-<title id="1879141574" name="冰拳（Ice-fist）" category="19" tier="3" damageType="COMMON">
+<title id="1879141574" name="Ice-fist" category="19" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Frost" value="500"/>
 </stats>
 </title>
-<title id="1879141575" name="风暴战锤" category="12" tier="3" damageType="COMMON">
+<title id="1879141575" name="Storm-hammer" category="12" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 </stats>
 </title>
-<title id="1879141576" name="闪耀打击者" category="15" tier="1" damageType="COMMON">
+<title id="1879141576" name="Gleaming Striker" category="15" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="200"/>
 </stats>
 </title>
-<title id="1879141577" name="闪耀之星" category="15" tier="3" damageType="COMMON">
+<title id="1879141577" name="Shining Star" category="15" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 </stats>
 </title>
-<title id="1879141578" name="仇敌蛰刺" category="12" tier="1" damageType="COMMON">
+<title id="1879141578" name="Foe-stinger" category="12" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="200"/>
 </stats>
 </title>
-<title id="1879141579" name="火焰淬炼" category="9" tier="1" damageType="COMMON">
+<title id="1879141579" name="Fire-temper" category="9" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="200"/>
 </stats>
 </title>
-<title id="1879141580" name="闪光灾祸" category="15" tier="2" damageType="COMMON">
+<title id="1879141580" name="Flashing Bane" category="15" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="300"/>
 </stats>
 </title>
-<title id="1879141633" name="坚定之心" category="41" tier="3" damageType="COMMON">
+<title id="1879141633" name="Resolute Heart" category="41" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 </stats>
 </title>
-<title id="1879141634" name="钢铁意志" category="41" tier="2" damageType="COMMON">
+<title id="1879141634" name="Iron Will" category="41" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="8186"/>
 </stats>
 </title>
-<title id="1879141635" name="坚定守护者" category="42" tier="2" damageType="COMMON">
+<title id="1879141635" name="Steadfast Protector" category="42" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="8186"/>
 </stats>
 </title>
-<title id="1879141636" name="坚固防御者" category="42" tier="1" damageType="COMMON">
+<title id="1879141636" name="Stout Defender" category="42" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="2988"/>
 </stats>
 </title>
-<title id="1879141637" name="坚毅守护者" category="42" tier="3" damageType="COMMON">
+<title id="1879141637" name="Stalwart Guardian" category="42" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 </stats>
 </title>
-<title id="1879141638" name="坚定决心（Firm Resolve）" category="41" tier="1" damageType="COMMON">
+<title id="1879141638" name="Firm Resolve" category="41" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="2988"/>
 </stats>
 </title>
-<title id="1879150823" name="加拉德松之城英雄（Hero of Caras Galadhon）" category="21" tier="1" damageType="BELERIAND" slayer="1"/>
-<title id="1879176020" name="精灵 fell-slayer" category="22" tier="2" damageType="BELERIAND" slayer="5"/>
-<title id="1879176021" name="精灵破影者" category="22" tier="3" damageType="BELERIAND" slayer="5"/>
-<title id="1879176023" name="精灵驯兽师" category="26" tier="2" damageType="BELERIAND" slayer="14"/>
-<title id="1879176024" name="精灵驯兽师" category="26" tier="3" damageType="BELERIAND" slayer="14"/>
-<title id="1879176025" name="精灵亡魂掠夺者" category="30" tier="1" damageType="BELERIAND" slayer="11"/>
-<title id="1879176026" name="精灵尸妖狂怒者" category="30" tier="2" damageType="BELERIAND" slayer="11"/>
-<title id="1879176027" name="精灵暗影终结者" category="30" tier="3" damageType="BELERIAND" slayer="11"/>
-<title id="1879176029" name="精灵屠龙斧" category="27" tier="2" damageType="BELERIAND" slayer="6"/>
-<title id="1879176030" name="精灵屠龙者" category="27" tier="3" damageType="BELERIAND" slayer="6"/>
-<title id="1879176032" name="精灵山脉掌控者" category="23" tier="2" damageType="BELERIAND" slayer="9"/>
-<title id="1879176033" name="精灵巨人杀手" category="23" tier="3" damageType="BELERIAND" slayer="9"/>
-<title id="1879176034" name="精灵害虫杀手" category="25" tier="1" damageType="BELERIAND" slayer="4"/>
-<title id="1879176035" name="精灵害虫斩杀者" category="25" tier="2" damageType="BELERIAND" slayer="4"/>
-<title id="1879176036" name="精灵精灵蛛灭者" category="25" tier="3" damageType="BELERIAND" slayer="4"/>
-<title id="1879176038" name="精灵潜伏兽驯服者" category="24" tier="2" damageType="BELERIAND" slayer="10"/>
-<title id="1879176039" name="精灵伐木者" category="24" tier="3" damageType="BELERIAND" slayer="10"/>
-<title id="1879176040" name="精灵兽人斩杀者" category="21" tier="2" damageType="BELERIAND" slayer="1"/>
-<title id="1879176041" name="精灵乌鲁克杀手" category="21" tier="3" damageType="BELERIAND" slayer="1"/>
-<title id="1879176042" name="精灵碎石者" category="28" tier="1" damageType="BELERIAND" slayer="7"/>
-<title id="1879176043" name="精灵巨魔杀手" category="28" tier="2" damageType="BELERIAND" slayer="7"/>
-<title id="1879176044" name="精灵奥罗格掠夺者" category="28" tier="3" damageType="BELERIAND" slayer="7"/>
-<title id="1879176045" name="精灵控影者" category="29" tier="1" damageType="BELERIAND" slayer="13"/>
-<title id="1879176046" name="精灵暗影屠灭者" category="29" tier="2" damageType="BELERIAND" slayer="13"/>
-<title id="1879176047" name="精灵怨灵终结者" category="29" tier="3" damageType="BELERIAND" slayer="13"/>
-<title id="1879184189" name="努门诺尔 Shade-ender" category="33" tier="3" damageType="WESTERNESSE" slayer="11"/>
-<title id="1879184191" name="努门诺尔 Olog-reaver" category="38" tier="3" damageType="WESTERNESSE" slayer="7"/>
-<title id="1879184198" name="努门诺尔 Giant-killer" category="34" tier="3" damageType="WESTERNESSE" slayer="9"/>
-<title id="1879184201" name="努门诺尔蜘蛛切割者" category="40" tier="3" damageType="WESTERNESSE" slayer="4"/>
-<title id="1879184210" name="努门诺尔暗影穿刺者" category="35" tier="3" damageType="WESTERNESSE" slayer="5"/>
-<title id="1879184221" name="努门诺尔 Dragon-slayer" category="36" tier="3" damageType="WESTERNESSE" slayer="6"/>
-<title id="1879184227" name="努门诺尔 Beast-master" category="37" tier="3" damageType="WESTERNESSE" slayer="14"/>
-<title id="1879184229" name="努门诺尔乌鲁克杀手" category="31" tier="3" damageType="WESTERNESSE" slayer="1"/>
-<title id="1879184230" name="努门诺尔怨灵终结者" category="39" tier="3" damageType="WESTERNESSE" slayer="13"/>
-<title id="1879184235" name="努门诺尔树木切割者" category="32" tier="3" damageType="WESTERNESSE" slayer="10"/>
-<title id="1879226959" name="上古精灵时代的冲突I" category="48" tier="1" damageType="BELERIAND">
+<title id="1879150823" name="Hero of Caras Galadhon" category="21" tier="1" damageType="BELERIAND" slayer="1"/>
+<title id="1879176020" name="Elven Fell-slayer" category="22" tier="2" damageType="BELERIAND" slayer="5"/>
+<title id="1879176021" name="Elven Shadow-piercer" category="22" tier="3" damageType="BELERIAND" slayer="5"/>
+<title id="1879176023" name="Elven Savage-tamer" category="26" tier="2" damageType="BELERIAND" slayer="14"/>
+<title id="1879176024" name="Elven Beast-master" category="26" tier="3" damageType="BELERIAND" slayer="14"/>
+<title id="1879176025" name="Elven Dead-reaver" category="30" tier="1" damageType="BELERIAND" slayer="11"/>
+<title id="1879176026" name="Elven Wight-rager" category="30" tier="2" damageType="BELERIAND" slayer="11"/>
+<title id="1879176027" name="Elven Shade-ender" category="30" tier="3" damageType="BELERIAND" slayer="11"/>
+<title id="1879176029" name="Elven Drake-cleaver" category="27" tier="2" damageType="BELERIAND" slayer="6"/>
+<title id="1879176030" name="Elven Dragon-slayer" category="27" tier="3" damageType="BELERIAND" slayer="6"/>
+<title id="1879176032" name="Elven Mountain-master" category="23" tier="2" damageType="BELERIAND" slayer="9"/>
+<title id="1879176033" name="Elven Giant-killer" category="23" tier="3" damageType="BELERIAND" slayer="9"/>
+<title id="1879176034" name="Elven Vermin-slayer" category="25" tier="1" damageType="BELERIAND" slayer="4"/>
+<title id="1879176035" name="Elven Pest-hewer" category="25" tier="2" damageType="BELERIAND" slayer="4"/>
+<title id="1879176036" name="Elven Spider-cleaver" category="25" tier="3" damageType="BELERIAND" slayer="4"/>
+<title id="1879176038" name="Elven Lurker-tamer" category="24" tier="2" damageType="BELERIAND" slayer="10"/>
+<title id="1879176039" name="Elven Tree-cutter" category="24" tier="3" damageType="BELERIAND" slayer="10"/>
+<title id="1879176040" name="Elven Orc-hewer" category="21" tier="2" damageType="BELERIAND" slayer="1"/>
+<title id="1879176041" name="Elven Uruk-slayer" category="21" tier="3" damageType="BELERIAND" slayer="1"/>
+<title id="1879176042" name="Elven Stone-smasher" category="28" tier="1" damageType="BELERIAND" slayer="7"/>
+<title id="1879176043" name="Elven Troll-bane" category="28" tier="2" damageType="BELERIAND" slayer="7"/>
+<title id="1879176044" name="Elven Olog-reaver" category="28" tier="3" damageType="BELERIAND" slayer="7"/>
+<title id="1879176045" name="Elven Shadow-master" category="29" tier="1" damageType="BELERIAND" slayer="13"/>
+<title id="1879176046" name="Elven Dark-cleaver" category="29" tier="2" damageType="BELERIAND" slayer="13"/>
+<title id="1879176047" name="Elven Wraith-ender" category="29" tier="3" damageType="BELERIAND" slayer="13"/>
+<title id="1879184189" name="Númenórean Shade-ender" category="33" tier="3" damageType="WESTERNESSE" slayer="11"/>
+<title id="1879184191" name="Númenórean Olog-reaver" category="38" tier="3" damageType="WESTERNESSE" slayer="7"/>
+<title id="1879184198" name="Númenórean Giant-killer" category="34" tier="3" damageType="WESTERNESSE" slayer="9"/>
+<title id="1879184201" name="Númenórean Spider-cleaver" category="40" tier="3" damageType="WESTERNESSE" slayer="4"/>
+<title id="1879184210" name="Númenórean Shadow-piercer" category="35" tier="3" damageType="WESTERNESSE" slayer="5"/>
+<title id="1879184221" name="Númenórean Dragon-slayer" category="36" tier="3" damageType="WESTERNESSE" slayer="6"/>
+<title id="1879184227" name="Númenórean Beast-master" category="37" tier="3" damageType="WESTERNESSE" slayer="14"/>
+<title id="1879184229" name="Númenórean Uruk-slayer" category="31" tier="3" damageType="WESTERNESSE" slayer="1"/>
+<title id="1879184230" name="Númenórean Wraith-ender" category="39" tier="3" damageType="WESTERNESSE" slayer="13"/>
+<title id="1879184235" name="Númenórean Tree-cutter" category="32" tier="3" damageType="WESTERNESSE" slayer="10"/>
+<title id="1879226959" name="Conflict of Eldar Days I" category="48" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="27217"/>
 </stats>
 </title>
-<title id="1879226960" name="上古精灵时代知识I" category="50" tier="1" damageType="BELERIAND">
+<title id="1879226960" name="Knowledge of Eldar Days I" category="50" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="TACTICAL_MASTERY" value="27217"/>
 </stats>
 </title>
-<title id="1879226961" name="上古精灵时代的优雅I" category="61" tier="1" damageType="BELERIAND">
+<title id="1879226961" name="Grace of Eldar Days I" category="61" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="EVADE" value="22444"/>
 </stats>
 </title>
-<title id="1879226962" name="上古精灵时代的力量I" category="63" tier="1" damageType="BELERIAND">
+<title id="1879226962" name="Power of Eldar Days I" category="63" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="BLOCK" value="22444"/>
 </stats>
 </title>
-<title id="1879226963" name="上古精灵时代的守护者I" category="45" tier="1" damageType="BELERIAND">
+<title id="1879226963" name="Defender of Eldar Days I" category="45" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="PARRY" value="22444"/>
 </stats>
 </title>
-<title id="1879227069" name="上古精灵时代知识 III" category="50" tier="3" damageType="BELERIAND">
+<title id="1879227069" name="Knowledge of Eldar Days III" category="50" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="TACTICAL_MASTERY" value="134694"/>
 </stats>
 </title>
-<title id="1879227070" name="上古精灵时代的优雅 III" category="61" tier="3" damageType="BELERIAND">
+<title id="1879227070" name="Grace of Eldar Days III" category="61" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="EVADE" value="110416"/>
 </stats>
 </title>
-<title id="1879227071" name="上古精灵时代知识 II" category="50" tier="2" damageType="BELERIAND">
+<title id="1879227071" name="Knowledge of Eldar Days II" category="50" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="TACTICAL_MASTERY" value="67633"/>
 </stats>
 </title>
-<title id="1879227072" name="上古精灵时代的冲突III（Conflict of Eldar Days III）" category="48" tier="3" damageType="BELERIAND">
+<title id="1879227072" name="Conflict of Eldar Days III" category="48" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="134694"/>
 </stats>
 </title>
-<title id="1879227073" name="上古精灵时代的优雅 II" category="61" tier="2" damageType="BELERIAND">
+<title id="1879227073" name="Grace of Eldar Days II" category="61" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="EVADE" value="55828"/>
 </stats>
 </title>
-<title id="1879227074" name="上古精灵时代的冲突II（Conflict of Eldar Days II）" category="48" tier="2" damageType="BELERIAND">
+<title id="1879227074" name="Conflict of Eldar Days II" category="48" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="67633"/>
 </stats>
 </title>
-<title id="1879227075" name="上古精灵时代之力II" category="63" tier="2" damageType="BELERIAND">
+<title id="1879227075" name="Power of Eldar Days II" category="63" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="BLOCK" value="55828"/>
 </stats>
 </title>
-<title id="1879227076" name="上古精灵时代之力III" category="63" tier="3" damageType="BELERIAND">
+<title id="1879227076" name="Power of Eldar Days III" category="63" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="BLOCK" value="110416"/>
 </stats>
 </title>
-<title id="1879227077" name="上古精灵时代的守护者 III" category="45" tier="3" damageType="BELERIAND">
+<title id="1879227077" name="Defender of Eldar Days III" category="45" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="PARRY" value="110416"/>
 </stats>
 </title>
-<title id="1879227078" name="上古精灵时代的守护者II" category="45" tier="2" damageType="BELERIAND">
+<title id="1879227078" name="Defender of Eldar Days II" category="45" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="PARRY" value="55828"/>
 </stats>
 </title>
-<title id="1879227079" name="炽热议会Ⅱ" category="62" tier="2" damageType="COMMON">
+<title id="1879227079" name="Ardent Council II" category="62" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="TACTICAL_MASTERY" value="67633"/>
 </stats>
 </title>
-<title id="1879227080" name="炽热强度Ⅲ" category="55" tier="3" damageType="COMMON">
+<title id="1879227080" name="Ardent Strength III" category="55" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="BLOCK" value="110416"/>
 </stats>
 </title>
-<title id="1879227081" name="炽热强度Ⅰ" category="55" tier="1" damageType="COMMON">
+<title id="1879227081" name="Ardent Strength I" category="55" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="BLOCK" value="22444"/>
 </stats>
 </title>
-<title id="1879227082" name="炽热议会Ⅰ" category="62" tier="1" damageType="COMMON">
+<title id="1879227082" name="Ardent Council I" category="62" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="TACTICAL_MASTERY" value="27217"/>
 </stats>
 </title>
-<title id="1879227083" name="炽热希望Ⅰ" category="59" tier="1" damageType="COMMON">
+<title id="1879227083" name="Ardent Hope I" category="59" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="EVADE" value="22444"/>
 </stats>
 </title>
-<title id="1879227084" name="炽热战士Ⅲ" category="56" tier="3" damageType="COMMON">
+<title id="1879227084" name="Ardent Warrior III" category="56" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="PHYSICAL_MASTERY" value="134694"/>
 </stats>
 </title>
-<title id="1879227085" name="炽热强度Ⅱ" category="55" tier="2" damageType="COMMON">
+<title id="1879227085" name="Ardent Strength II" category="55" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="BLOCK" value="55828"/>
 </stats>
 </title>
-<title id="1879227086" name="炽热防御Ⅱ" category="60" tier="2" damageType="COMMON">
+<title id="1879227086" name="Ardent Defence II" category="60" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="PARRY" value="55828"/>
 </stats>
 </title>
-<title id="1879227087" name="炽热希望Ⅱ" category="59" tier="2" damageType="COMMON">
+<title id="1879227087" name="Ardent Hope II" category="59" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="EVADE" value="55828"/>
 </stats>
 </title>
-<title id="1879227088" name="炽热防御Ⅰ" category="60" tier="1" damageType="COMMON">
+<title id="1879227088" name="Ardent Defence I" category="60" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="PARRY" value="22444"/>
 </stats>
 </title>
-<title id="1879227089" name="炽热防御Ⅲ" category="60" tier="3" damageType="COMMON">
+<title id="1879227089" name="Ardent Defence III" category="60" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="PARRY" value="110416"/>
 </stats>
 </title>
-<title id="1879227090" name="炽热希望Ⅲ" category="59" tier="3" damageType="COMMON">
+<title id="1879227090" name="Ardent Hope III" category="59" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="EVADE" value="110416"/>
 </stats>
 </title>
-<title id="1879227091" name="炽热战士Ⅱ" category="56" tier="2" damageType="COMMON">
+<title id="1879227091" name="Ardent Warrior II" category="56" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="PHYSICAL_MASTERY" value="67633"/>
 </stats>
 </title>
-<title id="1879227092" name="炽热战士Ⅰ" category="56" tier="1" damageType="COMMON">
+<title id="1879227092" name="Ardent Warrior I" category="56" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="PHYSICAL_MASTERY" value="27217"/>
 </stats>
 </title>
-<title id="1879227093" name="炽热议会Ⅲ" category="62" tier="3" damageType="COMMON">
+<title id="1879227093" name="Ardent Council III" category="62" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="TACTICAL_MASTERY" value="134694"/>
 </stats>
 </title>
-<title id="1879227094" name="持久智慧II" category="46" tier="2" damageType="COMMON">
+<title id="1879227094" name="Enduring Wisdom II" category="46" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="TACTICAL_MASTERY" value="67633"/>
 </stats>
 </title>
-<title id="1879227095" name="持久之力III" category="57" tier="3" damageType="COMMON">
+<title id="1879227095" name="Enduring Force III" category="57" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="PHYSICAL_MASTERY" value="134694"/>
 </stats>
 </title>
-<title id="1879227096" name="持久智慧I" category="46" tier="1" damageType="COMMON">
+<title id="1879227096" name="Enduring Wisdom I" category="46" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="TACTICAL_MASTERY" value="27217"/>
 </stats>
 </title>
-<title id="1879227097" name="持久防护II" category="49" tier="2" damageType="COMMON">
+<title id="1879227097" name="Enduring Protection II" category="49" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="PARRY" value="55828"/>
 </stats>
 </title>
-<title id="1879227098" name="持久胜利I" category="44" tier="1" damageType="COMMON">
+<title id="1879227098" name="Enduring Triumph I" category="44" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="EVADE" value="22444"/>
 </stats>
 </title>
-<title id="1879227099" name="持久之力II" category="57" tier="2" damageType="COMMON">
+<title id="1879227099" name="Enduring Force II" category="57" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="PHYSICAL_MASTERY" value="67633"/>
 </stats>
 </title>
-<title id="1879227100" name="持久防护III" category="49" tier="3" damageType="COMMON">
+<title id="1879227100" name="Enduring Protection III" category="49" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="PARRY" value="110416"/>
 </stats>
 </title>
-<title id="1879227101" name="持久之力I" category="57" tier="1" damageType="COMMON">
+<title id="1879227101" name="Enduring Force I" category="57" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="PHYSICAL_MASTERY" value="27217"/>
 </stats>
 </title>
-<title id="1879227102" name="持久胜利II" category="44" tier="2" damageType="COMMON">
+<title id="1879227102" name="Enduring Triumph II" category="44" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="EVADE" value="55828"/>
 </stats>
 </title>
-<title id="1879227103" name="持久智慧III" category="46" tier="3" damageType="COMMON">
+<title id="1879227103" name="Enduring Wisdom III" category="46" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="TACTICAL_MASTERY" value="134694"/>
 </stats>
 </title>
-<title id="1879227104" name="持久防护I" category="49" tier="1" damageType="COMMON">
+<title id="1879227104" name="Enduring Protection I" category="49" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="PARRY" value="22444"/>
 </stats>
 </title>
-<title id="1879227105" name="持久胜利III" category="44" tier="3" damageType="COMMON">
+<title id="1879227105" name="Enduring Triumph III" category="44" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="EVADE" value="110416"/>
 </stats>
 </title>
-<title id="1879227106" name="持久 resolve III" category="43" tier="3" damageType="COMMON">
+<title id="1879227106" name="Enduring Resolve III" category="43" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="BLOCK" value="110416"/>
 </stats>
 </title>
-<title id="1879227107" name="持久 resolve II" category="43" tier="2" damageType="COMMON">
+<title id="1879227107" name="Enduring Resolve II" category="43" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="BLOCK" value="55828"/>
 </stats>
 </title>
-<title id="1879227108" name="持久 resolve I" category="43" tier="1" damageType="COMMON">
+<title id="1879227108" name="Enduring Resolve I" category="43" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="BLOCK" value="22444"/>
 </stats>
 </title>
-<title id="1879227109" name="熔岩勇气 II" category="47" tier="2" damageType="COMMON">
+<title id="1879227109" name="Molten Courage II" category="47" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="TACTICAL_MASTERY" value="67633"/>
 </stats>
 </title>
-<title id="1879227110" name="敏捷火焰 II" category="58" tier="2" damageType="COMMON">
+<title id="1879227110" name="Agile Flame II" category="58" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="EVADE" value="55828"/>
 </stats>
 </title>
-<title id="1879227111" name="熔岩勇气 I" category="47" tier="1" damageType="COMMON">
+<title id="1879227111" name="Molten Courage I" category="47" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="TACTICAL_MASTERY" value="27217"/>
 </stats>
 </title>
-<title id="1879227112" name="敏捷火焰 III" category="58" tier="3" damageType="COMMON">
+<title id="1879227112" name="Agile Flame III" category="58" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="EVADE" value="110416"/>
 </stats>
 </title>
-<title id="1879227113" name="敏捷火焰 I" category="58" tier="1" damageType="COMMON">
+<title id="1879227113" name="Agile Flame I" category="58" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="EVADE" value="22444"/>
 </stats>
 </title>
-<title id="1879227114" name="熔岩勇气 III" category="47" tier="3" damageType="COMMON">
+<title id="1879227114" name="Molten Courage III" category="47" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="TACTICAL_MASTERY" value="134694"/>
 </stats>
 </title>
-<title id="1879227115" name="光辉英勇 III" category="52" tier="3" damageType="COMMON">
+<title id="1879227115" name="Radiant Valour III" category="52" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="TACTICAL_MASTERY" value="134694"/>
 </stats>
 </title>
-<title id="1879227116" name="光辉英勇 II" category="52" tier="2" damageType="COMMON">
+<title id="1879227116" name="Radiant Valour II" category="52" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="TACTICAL_MASTERY" value="67633"/>
 </stats>
 </title>
-<title id="1879227117" name="光辉英勇 I" category="52" tier="1" damageType="COMMON">
+<title id="1879227117" name="Radiant Valour I" category="52" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="TACTICAL_MASTERY" value="27217"/>
 </stats>
 </title>
-<title id="1879227118" name="微光III" category="51" tier="3" damageType="COMMON">
+<title id="1879227118" name="Subtle Light III" category="51" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="EVADE" value="110416"/>
 </stats>
 </title>
-<title id="1879227119" name="微光II" category="51" tier="2" damageType="COMMON">
+<title id="1879227119" name="Subtle Light II" category="51" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="EVADE" value="55828"/>
 </stats>
 </title>
-<title id="1879227120" name="微光I" category="51" tier="1" damageType="COMMON">
+<title id="1879227120" name="Subtle Light I" category="51" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="EVADE" value="22444"/>
 </stats>
 </title>
-<title id="1879227121" name="狂怒之灵 III" category="54" tier="3" damageType="COMMON">
+<title id="1879227121" name="Raging Spirit III" category="54" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="TACTICAL_MASTERY" value="134694"/>
 </stats>
 </title>
-<title id="1879227122" name="狂怒之灵 II" category="54" tier="2" damageType="COMMON">
+<title id="1879227122" name="Raging Spirit II" category="54" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="TACTICAL_MASTERY" value="67633"/>
 </stats>
 </title>
-<title id="1879227123" name="狂怒之灵 I" category="54" tier="1" damageType="COMMON">
+<title id="1879227123" name="Raging Spirit I" category="54" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="TACTICAL_MASTERY" value="27217"/>
 </stats>
 </title>
-<title id="1879227124" name="瞬逝风暴I" category="53" tier="1" damageType="COMMON">
+<title id="1879227124" name="Fleeting Storm I" category="53" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="EVADE" value="22444"/>
 </stats>
 </title>
-<title id="1879227125" name="瞬逝风暴III" category="53" tier="3" damageType="COMMON">
+<title id="1879227125" name="Fleeting Storm III" category="53" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="EVADE" value="110416"/>
 </stats>
 </title>
-<title id="1879227126" name="瞬逝风暴II" category="53" tier="2" damageType="COMMON">
+<title id="1879227126" name="Fleeting Storm II" category="53" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="EVADE" value="55828"/>
 </stats>
 </title>
-<title id="1879232147" name="上古精灵时代之力 I" category="67" tier="1" damageType="BELERIAND">
+<title id="1879232147" name="Might of Eldar Days I" category="67" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="MIGHT" value="2800"/>
 </stats>
 </title>
-<title id="1879232148" name="上古精灵时代I 的活力" category="75" tier="1" damageType="BELERIAND">
+<title id="1879232148" name="Vitality of Eldar Days I" category="75" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="VITALITY" value="2500"/>
 </stats>
 </title>
-<title id="1879232149" name="上古精灵时代的意志 I（Will of Eldar Days I）" category="90" tier="1" damageType="BELERIAND">
+<title id="1879232149" name="Will of Eldar Days I" category="90" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="WILL" value="2800"/>
 </stats>
 </title>
-<title id="1879232150" name="上古精灵时代之力II" category="67" tier="2" damageType="BELERIAND">
+<title id="1879232150" name="Might of Eldar Days II" category="67" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="MIGHT" value="7100"/>
 </stats>
 </title>
-<title id="1879232151" name="上古精灵时代的命运III" category="81" tier="3" damageType="BELERIAND">
+<title id="1879232151" name="Fate of Eldar Days III" category="81" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="FATE" value="11600"/>
 </stats>
 </title>
-<title id="1879232152" name="上古精灵时代敏捷III" category="84" tier="3" damageType="BELERIAND">
+<title id="1879232152" name="Agility of Eldar Days III" category="84" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="AGILITY" value="14000"/>
 </stats>
 </title>
-<title id="1879232153" name="上古精灵时代的命运I" category="81" tier="1" damageType="BELERIAND">
+<title id="1879232153" name="Fate of Eldar Days I" category="81" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="FATE" value="2600"/>
 </stats>
 </title>
-<title id="1879232154" name="上古精灵时代之力III" category="67" tier="3" damageType="BELERIAND">
+<title id="1879232154" name="Might of Eldar Days III" category="67" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="MIGHT" value="14000"/>
 </stats>
 </title>
-<title id="1879232155" name="上古精灵时代的命运II" category="81" tier="2" damageType="BELERIAND">
+<title id="1879232155" name="Fate of Eldar Days II" category="81" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="FATE" value="5700"/>
 </stats>
 </title>
-<title id="1879232156" name="上古精灵时代敏捷性II" category="84" tier="2" damageType="BELERIAND">
+<title id="1879232156" name="Agility of Eldar Days II" category="84" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="AGILITY" value="7100"/>
 </stats>
 </title>
-<title id="1879232157" name="上古精灵时代的意志 II（Will of Eldar Days II）" category="90" tier="2" damageType="BELERIAND">
+<title id="1879232157" name="Will of Eldar Days II" category="90" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="WILL" value="7100"/>
 </stats>
 </title>
-<title id="1879232158" name="上古精灵时代III 的活力" category="75" tier="3" damageType="BELERIAND">
+<title id="1879232158" name="Vitality of Eldar Days III" category="75" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="VITALITY" value="13800"/>
 </stats>
 </title>
-<title id="1879232159" name="上古精灵时代I 的敏捷" category="84" tier="1" damageType="BELERIAND">
+<title id="1879232159" name="Agility of Eldar Days I" category="84" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="AGILITY" value="2800"/>
 </stats>
 </title>
-<title id="1879232160" name="上古精灵时代的意志 III（Will of Eldar Days III）" category="90" tier="3" damageType="BELERIAND">
+<title id="1879232160" name="Will of Eldar Days III" category="90" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="WILL" value="14000"/>
 </stats>
 </title>
-<title id="1879232161" name="上古精灵时代II 的活力" category="75" tier="2" damageType="BELERIAND">
+<title id="1879232161" name="Vitality of Eldar Days II" category="75" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="VITALITY" value="6900"/>
 </stats>
 </title>
-<title id="1879232162" name="炽热活力Ⅱ" category="85" tier="2" damageType="COMMON">
+<title id="1879232162" name="Ardent Vitality II" category="85" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="VITALITY" value="6900"/>
 </stats>
 </title>
-<title id="1879232163" name="炽热敏捷Ⅰ" category="65" tier="1" damageType="COMMON">
+<title id="1879232163" name="Ardent Agility I" category="65" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="AGILITY" value="2800"/>
 </stats>
 </title>
-<title id="1879232164" name="炽热力量Ⅲ" category="86" tier="3" damageType="COMMON">
+<title id="1879232164" name="Ardent Might III" category="86" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="MIGHT" value="14000"/>
 </stats>
 </title>
-<title id="1879232165" name="炽热意志Ⅱ" category="79" tier="2" damageType="COMMON">
+<title id="1879232165" name="Ardent Will II" category="79" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="WILL" value="7100"/>
 </stats>
 </title>
-<title id="1879232166" name="炽热力量Ⅱ" category="86" tier="2" damageType="COMMON">
+<title id="1879232166" name="Ardent Might II" category="86" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="MIGHT" value="7100"/>
 </stats>
 </title>
-<title id="1879232167" name="炽热意志Ⅲ" category="79" tier="3" damageType="COMMON">
+<title id="1879232167" name="Ardent Will III" category="79" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="WILL" value="14000"/>
 </stats>
 </title>
-<title id="1879232168" name="炽热敏捷Ⅲ" category="65" tier="3" damageType="COMMON">
+<title id="1879232168" name="Ardent Agility III" category="65" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="AGILITY" value="14000"/>
 </stats>
 </title>
-<title id="1879232169" name="炽热活力Ⅰ" category="85" tier="1" damageType="COMMON">
+<title id="1879232169" name="Ardent Vitality I" category="85" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="VITALITY" value="2500"/>
 </stats>
 </title>
-<title id="1879232170" name="炽热命运Ⅲ" category="92" tier="3" damageType="COMMON">
+<title id="1879232170" name="Ardent Fate III" category="92" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="FATE" value="11600"/>
 </stats>
 </title>
-<title id="1879232171" name="炽热命运Ⅰ" category="92" tier="1" damageType="COMMON">
+<title id="1879232171" name="Ardent Fate I" category="92" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="FATE" value="2600"/>
 </stats>
 </title>
-<title id="1879232172" name="炽热力量Ⅰ" category="86" tier="1" damageType="COMMON">
+<title id="1879232172" name="Ardent Might I" category="86" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="MIGHT" value="2800"/>
 </stats>
 </title>
-<title id="1879232173" name="炽热敏捷Ⅱ" category="65" tier="2" damageType="COMMON">
+<title id="1879232173" name="Ardent Agility II" category="65" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="AGILITY" value="7100"/>
 </stats>
 </title>
-<title id="1879232174" name="炽热命运Ⅱ" category="92" tier="2" damageType="COMMON">
+<title id="1879232174" name="Ardent Fate II" category="92" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="FATE" value="5700"/>
 </stats>
 </title>
-<title id="1879232175" name="炽热意志Ⅰ" category="79" tier="1" damageType="COMMON">
+<title id="1879232175" name="Ardent Will I" category="79" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="WILL" value="2800"/>
 </stats>
 </title>
-<title id="1879232176" name="炽热活力Ⅲ" category="85" tier="3" damageType="COMMON">
+<title id="1879232176" name="Ardent Vitality III" category="85" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="VITALITY" value="13800"/>
 </stats>
 </title>
-<title id="1879232177" name="持久活力III" category="82" tier="3" damageType="COMMON">
+<title id="1879232177" name="Enduring Vitality III" category="82" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="VITALITY" value="13800"/>
 </stats>
 </title>
-<title id="1879232178" name="持久意志II" category="69" tier="2" damageType="COMMON">
+<title id="1879232178" name="Enduring Will II" category="69" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="WILL" value="7100"/>
 </stats>
 </title>
-<title id="1879232179" name="持久敏捷Ⅲ" category="64" tier="3" damageType="COMMON">
+<title id="1879232179" name="Enduring Agility III" category="64" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="AGILITY" value="14000"/>
 </stats>
 </title>
-<title id="1879232180" name="永恒命运II" category="72" tier="2" damageType="COMMON">
+<title id="1879232180" name="Enduring Fate II" category="72" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="FATE" value="5700"/>
 </stats>
 </title>
-<title id="1879232181" name="持久力量I" category="89" tier="1" damageType="COMMON">
+<title id="1879232181" name="Enduring Might I" category="89" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="MIGHT" value="2800"/>
 </stats>
 </title>
-<title id="1879232182" name="持久敏捷Ⅱ" category="64" tier="2" damageType="COMMON">
+<title id="1879232182" name="Enduring Agility II" category="64" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="AGILITY" value="7100"/>
 </stats>
 </title>
-<title id="1879232183" name="持久力量III" category="89" tier="3" damageType="COMMON">
+<title id="1879232183" name="Enduring Might III" category="89" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="MIGHT" value="14000"/>
 </stats>
 </title>
-<title id="1879232184" name="持久意志I" category="69" tier="1" damageType="COMMON">
+<title id="1879232184" name="Enduring Will I" category="69" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="WILL" value="2800"/>
 </stats>
 </title>
-<title id="1879232185" name="永恒命运III" category="72" tier="3" damageType="COMMON">
+<title id="1879232185" name="Enduring Fate III" category="72" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="FATE" value="11600"/>
 </stats>
 </title>
-<title id="1879232186" name="持久力量II" category="89" tier="2" damageType="COMMON">
+<title id="1879232186" name="Enduring Might II" category="89" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="MIGHT" value="7100"/>
 </stats>
 </title>
-<title id="1879232187" name="持久活力I" category="82" tier="1" damageType="COMMON">
+<title id="1879232187" name="Enduring Vitality I" category="82" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="VITALITY" value="2500"/>
 </stats>
 </title>
-<title id="1879232188" name="持久活力II" category="82" tier="2" damageType="COMMON">
+<title id="1879232188" name="Enduring Vitality II" category="82" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="VITALITY" value="6900"/>
 </stats>
 </title>
-<title id="1879232189" name="持久意志III" category="69" tier="3" damageType="COMMON">
+<title id="1879232189" name="Enduring Will III" category="69" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="WILL" value="14000"/>
 </stats>
 </title>
-<title id="1879232190" name="持久命运I" category="72" tier="1" damageType="COMMON">
+<title id="1879232190" name="Enduring Fate I" category="72" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="FATE" value="2600"/>
 </stats>
 </title>
-<title id="1879232191" name="持久敏捷Ⅰ" category="64" tier="1" damageType="COMMON">
+<title id="1879232191" name="Enduring Agility I" category="64" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="AGILITY" value="2800"/>
 </stats>
 </title>
-<title id="1879232192" name="刚毅火焰I" category="68" tier="1" damageType="COMMON">
+<title id="1879232192" name="Wilful Flame I" category="68" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="WILL" value="2800"/>
 </stats>
 </title>
-<title id="1879232193" name="刚毅火焰II" category="68" tier="2" damageType="COMMON">
+<title id="1879232193" name="Wilful Flame II" category="68" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="WILL" value="7100"/>
 </stats>
 </title>
-<title id="1879232194" name="刚毅火焰III" category="68" tier="3" damageType="COMMON">
+<title id="1879232194" name="Wilful Flame III" category="68" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="WILL" value="14000"/>
 </stats>
 </title>
-<title id="1879232195" name="生命火焰I" category="78" tier="1" damageType="COMMON">
+<title id="1879232195" name="Vital Flame I" category="78" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="VITALITY" value="2500"/>
 </stats>
 </title>
-<title id="1879232196" name="生命火焰II" category="78" tier="2" damageType="COMMON">
+<title id="1879232196" name="Vital Flame II" category="78" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="VITALITY" value="6900"/>
 </stats>
 </title>
-<title id="1879232197" name="生命火焰III" category="78" tier="3" damageType="COMMON">
+<title id="1879232197" name="Vital Flame III" category="78" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="VITALITY" value="13800"/>
 </stats>
 </title>
-<title id="1879232198" name="命运火焰 I" category="88" tier="1" damageType="COMMON">
+<title id="1879232198" name="Fateful Flame I" category="88" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="FATE" value="2600"/>
 </stats>
 </title>
-<title id="1879232199" name="命运火焰 III" category="88" tier="3" damageType="COMMON">
+<title id="1879232199" name="Fateful Flame III" category="88" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="FATE" value="11600"/>
 </stats>
 </title>
-<title id="1879232200" name="命运火焰 II" category="88" tier="2" damageType="COMMON">
+<title id="1879232200" name="Fateful Flame II" category="88" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="FATE" value="5700"/>
 </stats>
 </title>
-<title id="1879232201" name="刚毅之光III" category="83" tier="3" damageType="COMMON">
+<title id="1879232201" name="Wilful Light III" category="83" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="WILL" value="14000"/>
 </stats>
 </title>
-<title id="1879232202" name="生命之光II" category="77" tier="2" damageType="COMMON">
+<title id="1879232202" name="Vital Light II" category="77" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="VITALITY" value="6900"/>
 </stats>
 </title>
-<title id="1879232203" name="生命之光III" category="77" tier="3" damageType="COMMON">
+<title id="1879232203" name="Vital Light III" category="77" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="VITALITY" value="13800"/>
 </stats>
 </title>
-<title id="1879232204" name="刚毅之光I" category="83" tier="1" damageType="COMMON">
+<title id="1879232204" name="Wilful Light I" category="83" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="WILL" value="2800"/>
 </stats>
 </title>
-<title id="1879232205" name="命运之光 III" category="66" tier="3" damageType="COMMON">
+<title id="1879232205" name="Fateful Light III" category="66" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="FATE" value="11600"/>
 </stats>
 </title>
-<title id="1879232206" name="命运之光 II" category="66" tier="2" damageType="COMMON">
+<title id="1879232206" name="Fateful Light II" category="66" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="FATE" value="5700"/>
 </stats>
 </title>
-<title id="1879232207" name="生命之光I" category="77" tier="1" damageType="COMMON">
+<title id="1879232207" name="Vital Light I" category="77" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="VITALITY" value="2500"/>
 </stats>
 </title>
-<title id="1879232208" name="命运之光 I" category="66" tier="1" damageType="COMMON">
+<title id="1879232208" name="Fateful Light I" category="66" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="FATE" value="2600"/>
 </stats>
 </title>
-<title id="1879232209" name="刚毅之光II" category="83" tier="2" damageType="COMMON">
+<title id="1879232209" name="Wilful Light II" category="83" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="WILL" value="7100"/>
 </stats>
 </title>
-<title id="1879232210" name="命运风暴 I" category="70" tier="1" damageType="COMMON">
+<title id="1879232210" name="Fateful Storm I" category="70" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="FATE" value="2600"/>
 </stats>
 </title>
-<title id="1879232211" name="命运风暴 III" category="70" tier="3" damageType="COMMON">
+<title id="1879232211" name="Fateful Storm III" category="70" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="FATE" value="11600"/>
 </stats>
 </title>
-<title id="1879232212" name="命运风暴 II" category="70" tier="2" damageType="COMMON">
+<title id="1879232212" name="Fateful Storm II" category="70" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="FATE" value="5700"/>
 </stats>
 </title>
-<title id="1879232213" name="生命风暴I" category="91" tier="1" damageType="COMMON">
+<title id="1879232213" name="Vital Storm I" category="91" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="VITALITY" value="2500"/>
 </stats>
 </title>
-<title id="1879232214" name="刚毅风暴I" category="76" tier="1" damageType="COMMON">
+<title id="1879232214" name="Wilful Storm I" category="76" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="WILL" value="2800"/>
 </stats>
 </title>
-<title id="1879232215" name="生命风暴II" category="91" tier="2" damageType="COMMON">
+<title id="1879232215" name="Vital Storm II" category="91" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="VITALITY" value="6900"/>
 </stats>
 </title>
-<title id="1879232216" name="刚毅风暴II" category="76" tier="2" damageType="COMMON">
+<title id="1879232216" name="Wilful Storm II" category="76" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="WILL" value="7100"/>
 </stats>
 </title>
-<title id="1879232217" name="刚毅风暴III" category="76" tier="3" damageType="COMMON">
+<title id="1879232217" name="Wilful Storm III" category="76" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="WILL" value="14000"/>
 </stats>
 </title>
-<title id="1879232218" name="生命风暴III" category="91" tier="3" damageType="COMMON">
+<title id="1879232218" name="Vital Storm III" category="91" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="VITALITY" value="13800"/>
 </stats>
 </title>
-<title id="1879269304" name="持久支援II" category="94" tier="2" damageType="COMMON">
+<title id="1879269304" name="Enduring Support II" category="94" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="CRITICAL_DEFENCE" value="53177"/>
 </stats>
 </title>
-<title id="1879269305" name="持久支援III" category="94" tier="3" damageType="COMMON">
+<title id="1879269305" name="Enduring Support III" category="94" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="CRITICAL_DEFENCE" value="105167"/>
 </stats>
 </title>
-<title id="1879269306" name="炽热护盾Ⅱ" category="95" tier="2" damageType="COMMON">
+<title id="1879269306" name="Ardent Shield II" category="95" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="CRITICAL_DEFENCE" value="53177"/>
 </stats>
 </title>
-<title id="1879269307" name="炽热护盾Ⅲ" category="95" tier="3" damageType="COMMON">
+<title id="1879269307" name="Ardent Shield III" category="95" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="CRITICAL_DEFENCE" value="105167"/>
 </stats>
 </title>
-<title id="1879269308" name="持久支援I" category="94" tier="1" damageType="COMMON">
+<title id="1879269308" name="Enduring Support I" category="94" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="CRITICAL_DEFENCE" value="21328"/>
 </stats>
 </title>
-<title id="1879269309" name="炽热护盾Ⅰ" category="95" tier="1" damageType="COMMON">
+<title id="1879269309" name="Ardent Shield I" category="95" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="CRITICAL_DEFENCE" value="21328"/>
 </stats>
 </title>
-<title id="1879269319" name="守护风暴III" category="96" tier="3" damageType="COMMON">
+<title id="1879269319" name="Warding Storm III" category="96" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="105167"/>
 </stats>
 </title>
-<title id="1879269320" name="守护之光I" category="97" tier="1" damageType="COMMON">
+<title id="1879269320" name="Warding Light I" category="97" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="21328"/>
 </stats>
 </title>
-<title id="1879269321" name="守护之光III" category="97" tier="3" damageType="COMMON">
+<title id="1879269321" name="Warding Light III" category="97" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="105167"/>
 </stats>
 </title>
-<title id="1879269322" name="守护之光II" category="97" tier="2" damageType="COMMON">
+<title id="1879269322" name="Warding Light II" category="97" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="53177"/>
 </stats>
 </title>
-<title id="1879269323" name="守护之火III" category="98" tier="3" damageType="COMMON">
+<title id="1879269323" name="Warding Flame III" category="98" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="105167"/>
 </stats>
 </title>
-<title id="1879269324" name="守护之火II" category="98" tier="2" damageType="COMMON">
+<title id="1879269324" name="Warding Flame II" category="98" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="53177"/>
 </stats>
 </title>
-<title id="1879269325" name="守护之火I" category="98" tier="1" damageType="COMMON">
+<title id="1879269325" name="Warding Flame I" category="98" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="21328"/>
 </stats>
 </title>
-<title id="1879269326" name="守护风暴I" category="96" tier="1" damageType="COMMON">
+<title id="1879269326" name="Warding Storm I" category="96" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="21328"/>
 </stats>
 </title>
-<title id="1879269327" name="守护风暴II" category="96" tier="2" damageType="COMMON">
+<title id="1879269327" name="Warding Storm II" category="96" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="53177"/>
 </stats>
 </title>
-<title id="1879269328" name="上古精灵时代守护者三世" category="99" tier="3" damageType="BELERIAND">
+<title id="1879269328" name="Keeper of Eldar Days III" category="99" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="105167"/>
 </stats>
 </title>
-<title id="1879269329" name="上古精灵时代守护者二世" category="99" tier="2" damageType="BELERIAND">
+<title id="1879269329" name="Keeper of Eldar Days II" category="99" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="53177"/>
 </stats>
 </title>
-<title id="1879269330" name="上古精灵时代守护者一世" category="99" tier="1" damageType="BELERIAND">
+<title id="1879269330" name="Keeper of Eldar Days I" category="99" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="21328"/>
 </stats>
 </title>
-<title id="1879269422" name="上古精灵时代III的 potency" category="104" tier="3" damageType="BELERIAND">
+<title id="1879269422" name="Potency of Eldar Days III" category="104" tier="3" damageType="BELERIAND">
 <stats>
 <stat name="CRITICAL_RATING" value="79063"/>
 </stats>
 </title>
-<title id="1879269423" name="上古精灵时代之力II" category="104" tier="2" damageType="BELERIAND">
+<title id="1879269423" name="Potency of Eldar Days II" category="104" tier="2" damageType="BELERIAND">
 <stats>
 <stat name="CRITICAL_RATING" value="39810"/>
 </stats>
 </title>
-<title id="1879269426" name="上古精灵时代I 的效力" category="104" tier="1" damageType="BELERIAND">
+<title id="1879269426" name="Potency of Eldar Days I" category="104" tier="1" damageType="BELERIAND">
 <stats>
 <stat name="CRITICAL_RATING" value="16045"/>
 </stats>
 </title>
-<title id="1879269428" name="暴击烈焰II" category="103" tier="2" damageType="COMMON">
+<title id="1879269428" name="Critical Flame II" category="103" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="CRITICAL_RATING" value="39810"/>
 </stats>
 </title>
-<title id="1879269429" name="持续火焰 II" category="101" tier="2" damageType="COMMON">
+<title id="1879269429" name="Persistent Flame II" category="101" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="FINESSE" value="21303"/>
 </stats>
 </title>
-<title id="1879269430" name="致命火焰III" category="103" tier="3" damageType="COMMON">
+<title id="1879269430" name="Critical Flame III" category="103" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="CRITICAL_RATING" value="79063"/>
 </stats>
 </title>
-<title id="1879269431" name="持续火焰 I" category="101" tier="1" damageType="COMMON">
+<title id="1879269431" name="Persistent Flame I" category="101" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="FINESSE" value="8532"/>
 </stats>
 </title>
-<title id="1879269432" name="持续光明 III" category="114" tier="3" damageType="COMMON">
+<title id="1879269432" name="Persistent Light III" category="114" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="FINESSE" value="42086"/>
 </stats>
 </title>
-<title id="1879269433" name="持续光明 II" category="114" tier="2" damageType="COMMON">
+<title id="1879269433" name="Persistent Light II" category="114" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="FINESSE" value="21303"/>
 </stats>
 </title>
-<title id="1879269434" name="致命火焰I" category="103" tier="1" damageType="COMMON">
+<title id="1879269434" name="Critical Flame I" category="103" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="CRITICAL_RATING" value="16045"/>
 </stats>
 </title>
-<title id="1879269435" name="强效致命之光III" category="112" tier="3" damageType="COMMON">
+<title id="1879269435" name="Critical Light III" category="112" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="CRITICAL_RATING" value="79063"/>
 </stats>
 </title>
-<title id="1879269436" name="持续光明 I" category="114" tier="1" damageType="COMMON">
+<title id="1879269436" name="Persistent Light I" category="114" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="FINESSE" value="8532"/>
 </stats>
 </title>
-<title id="1879269437" name="精准光明II" category="112" tier="2" damageType="COMMON">
+<title id="1879269437" name="Critical Light II" category="112" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="CRITICAL_RATING" value="39810"/>
 </stats>
 </title>
-<title id="1879269438" name="致命之光I" category="112" tier="1" damageType="COMMON">
+<title id="1879269438" name="Critical Light I" category="112" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="CRITICAL_RATING" value="16045"/>
 </stats>
 </title>
-<title id="1879269439" name="持续火焰 III" category="101" tier="3" damageType="COMMON">
+<title id="1879269439" name="Persistent Flame III" category="101" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="FINESSE" value="42086"/>
 </stats>
 </title>
-<title id="1879269440" name="持久目标II" category="108" tier="2" damageType="COMMON">
+<title id="1879269440" name="Enduring Purpose II" category="108" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="FINESSE" value="53177"/>
 </stats>
 </title>
-<title id="1879269441" name="致命风暴I" category="109" tier="1" damageType="COMMON">
+<title id="1879269441" name="Critical Storm I" category="109" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="CRITICAL_RATING" value="16045"/>
 </stats>
 </title>
-<title id="1879269442" name="持续风暴 II" category="110" tier="2" damageType="COMMON">
+<title id="1879269442" name="Persistent Storm II" category="110" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="FINESSE" value="21303"/>
 </stats>
 </title>
-<title id="1879269443" name="炽热打击Ⅱ" category="111" tier="2" damageType="COMMON">
+<title id="1879269443" name="Ardent Strike II" category="111" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="CRITICAL_RATING" value="39810"/>
 </stats>
 </title>
-<title id="1879269444" name="持久目标I" category="108" tier="1" damageType="COMMON">
+<title id="1879269444" name="Enduring Purpose I" category="108" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="FINESSE" value="21328"/>
 </stats>
 </title>
-<title id="1879269445" name="炽热打击Ⅰ" category="111" tier="1" damageType="COMMON">
+<title id="1879269445" name="Ardent Strike I" category="111" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="CRITICAL_RATING" value="16045"/>
 </stats>
 </title>
-<title id="1879269446" name="持久战术II" category="106" tier="2" damageType="COMMON">
+<title id="1879269446" name="Enduring Tactics II" category="106" tier="2" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="39892"/>
 <stat name="CRITICAL_RATING" value="39810"/>
 </stats>
 </title>
-<title id="1879269447" name="炽热打击Ⅲ" category="111" tier="3" damageType="COMMON">
+<title id="1879269447" name="Ardent Strike III" category="111" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="CRITICAL_RATING" value="79063"/>
 </stats>
 </title>
-<title id="1879269448" name="持久战术I" category="106" tier="1" damageType="COMMON">
+<title id="1879269448" name="Enduring Tactics I" category="106" tier="1" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="16046"/>
 <stat name="CRITICAL_RATING" value="16045"/>
 </stats>
 </title>
-<title id="1879269449" name="持久战术III" category="106" tier="3" damageType="COMMON">
+<title id="1879269449" name="Enduring Tactics III" category="106" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="CRITICAL_RATING" value="79063"/>
 </stats>
 </title>
-<title id="1879269450" name="炽热决心Ⅰ" category="113" tier="1" damageType="COMMON">
+<title id="1879269450" name="Ardent Determination I" category="113" tier="1" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="16046"/>
 <stat name="FINESSE" value="8532"/>
 </stats>
 </title>
-<title id="1879269451" name="炽热决心Ⅲ" category="113" tier="3" damageType="COMMON">
+<title id="1879269451" name="Ardent Determination III" category="113" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="78876"/>
 <stat name="FINESSE" value="42086"/>
 </stats>
 </title>
-<title id="1879269452" name="炽热决心Ⅱ" category="113" tier="2" damageType="COMMON">
+<title id="1879269452" name="Ardent Determination II" category="113" tier="2" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="39892"/>
 <stat name="FINESSE" value="21303"/>
 </stats>
 </title>
-<title id="1879269453" name="暴击风暴II" category="109" tier="2" damageType="COMMON">
+<title id="1879269453" name="Critical Storm II" category="109" tier="2" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="CRITICAL_RATING" value="39810"/>
 </stats>
 </title>
-<title id="1879269454" name="持续风暴 I" category="110" tier="1" damageType="COMMON">
+<title id="1879269454" name="Persistent Storm I" category="110" tier="1" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="FINESSE" value="8532"/>
 </stats>
 </title>
-<title id="1879269455" name="持久目标III" category="108" tier="3" damageType="COMMON">
+<title id="1879269455" name="Enduring Purpose III" category="108" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="78876"/>
 <stat name="FINESSE" value="105167"/>
 </stats>
 </title>
-<title id="1879269456" name="持续风暴 III" category="110" tier="3" damageType="COMMON">
+<title id="1879269456" name="Persistent Storm III" category="110" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="FINESSE" value="42086"/>
 </stats>
 </title>
-<title id="1879269457" name="暴击风暴III" category="109" tier="3" damageType="COMMON">
+<title id="1879269457" name="Critical Storm III" category="109" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="CRITICAL_RATING" value="79063"/>
 </stats>
 </title>
-<title id="1879413765" name="敏捷火焰 IV" category="58" tier="3" damageType="COMMON">
+<title id="1879413765" name="Agile Flame IV" category="58" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879413766" name="暴击风暴IV" category="109" tier="3" damageType="COMMON">
+<title id="1879413766" name="Critical Storm IV" category="109" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879413767" name="生命风暴IV" category="91" tier="3" damageType="COMMON">
+<title id="1879413767" name="Vital Storm IV" category="91" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879413768" name="生命之光IV" category="77" tier="3" damageType="COMMON">
+<title id="1879413768" name="Vital Light IV" category="77" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879413769" name="刚毅风暴IV" category="76" tier="3" damageType="COMMON">
+<title id="1879413769" name="Wilful Storm IV" category="76" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879413770" name="持续风暴 IV" category="110" tier="3" damageType="COMMON">
+<title id="1879413770" name="Persistent Storm IV" category="110" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879413771" name="守护风暴IV" category="96" tier="3" damageType="COMMON">
+<title id="1879413771" name="Warding Storm IV" category="96" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879413772" name="致命火焰IV" category="103" tier="3" damageType="COMMON">
+<title id="1879413772" name="Critical Flame IV" category="103" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879413773" name="持续火焰 IV" category="101" tier="3" damageType="COMMON">
+<title id="1879413773" name="Persistent Flame IV" category="101" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879413774" name="命运之光 IV" category="66" tier="3" damageType="COMMON">
+<title id="1879413774" name="Fateful Light IV" category="66" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879413775" name="守护之火IV" category="98" tier="3" damageType="COMMON">
+<title id="1879413775" name="Warding Flame IV" category="98" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879413776" name="持续光明 IV" category="114" tier="3" damageType="COMMON">
+<title id="1879413776" name="Persistent Light IV" category="114" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879413777" name="致命之光IV" category="112" tier="3" damageType="COMMON">
+<title id="1879413777" name="Critical Light IV" category="112" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879413778" name="守护之光IV" category="97" tier="3" damageType="COMMON">
+<title id="1879413778" name="Warding Light IV" category="97" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879413779" name="命运风暴 IV" category="70" tier="3" damageType="COMMON">
+<title id="1879413779" name="Fateful Storm IV" category="70" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879413780" name="生命火焰IV" category="78" tier="3" damageType="COMMON">
+<title id="1879413780" name="Vital Flame IV" category="78" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879413781" name="瞬逝风暴IV" category="53" tier="3" damageType="COMMON">
+<title id="1879413781" name="Fleeting Storm IV" category="53" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Lightning" value="500"/>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879413782" name="微光IV" category="51" tier="3" damageType="COMMON">
+<title id="1879413782" name="Subtle Light IV" category="51" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879413783" name="刚毅之光IV" category="83" tier="3" damageType="COMMON">
+<title id="1879413783" name="Wilful Light IV" category="83" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Light" value="500"/>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879413784" name="刚毅火焰IV" category="68" tier="3" damageType="COMMON">
+<title id="1879413784" name="Wilful Flame IV" category="68" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879413785" name="命运火焰 IV" category="88" tier="3" damageType="COMMON">
+<title id="1879413785" name="Fateful Flame IV" category="88" tier="3" damageType="COMMON">
 <stats>
 <stat name="Combat_SkillDamageMultiplier_Fire" value="500"/>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879413824" name="持久敏捷Ⅳ" category="64" tier="3" damageType="COMMON">
+<title id="1879413824" name="Enduring Agility IV" category="64" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879413825" name="持久 resolve IV" category="43" tier="3" damageType="COMMON">
+<title id="1879413825" name="Enduring Resolve IV" category="43" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879413826" name="炽热命运Ⅳ" category="92" tier="3" damageType="COMMON">
+<title id="1879413826" name="Ardent Fate IV" category="92" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879413827" name="炽热强度Ⅳ" category="55" tier="3" damageType="COMMON">
+<title id="1879413827" name="Ardent Strength IV" category="55" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879413828" name="炽热战士Ⅳ" category="56" tier="3" damageType="COMMON">
+<title id="1879413828" name="Ardent Warrior IV" category="56" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879413829" name="持久之力IV" category="57" tier="3" damageType="COMMON">
+<title id="1879413829" name="Enduring Force IV" category="57" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879413830" name="炽热意志Ⅳ" category="79" tier="3" damageType="COMMON">
+<title id="1879413830" name="Ardent Will IV" category="79" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879413831" name="持久目标IV" category="108" tier="3" damageType="COMMON">
+<title id="1879413831" name="Enduring Purpose IV" category="108" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879413832" name="炽热决心Ⅳ" category="113" tier="3" damageType="COMMON">
+<title id="1879413832" name="Ardent Determination IV" category="113" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879413833" name="持久力量IV" category="89" tier="3" damageType="COMMON">
+<title id="1879413833" name="Enduring Might IV" category="89" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879413834" name="持久防护IV" category="49" tier="3" damageType="COMMON">
+<title id="1879413834" name="Enduring Protection IV" category="49" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="PARRY" value="188857"/>
 </stats>
 </title>
-<title id="1879413835" name="持久意志IV" category="69" tier="3" damageType="COMMON">
+<title id="1879413835" name="Enduring Will IV" category="69" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879413836" name="炽热希望Ⅳ" category="59" tier="3" damageType="COMMON">
+<title id="1879413836" name="Ardent Hope IV" category="59" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879413837" name="炽热议会Ⅳ" category="62" tier="3" damageType="COMMON">
+<title id="1879413837" name="Ardent Council IV" category="62" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879413838" name="炽热打击Ⅳ" category="111" tier="3" damageType="COMMON">
+<title id="1879413838" name="Ardent Strike IV" category="111" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879413839" name="持久支援IV" category="94" tier="3" damageType="COMMON">
+<title id="1879413839" name="Enduring Support IV" category="94" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879413840" name="持久活力IV" category="82" tier="3" damageType="COMMON">
+<title id="1879413840" name="Enduring Vitality IV" category="82" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879413841" name="炽热护盾Ⅳ" category="95" tier="3" damageType="COMMON">
+<title id="1879413841" name="Ardent Shield IV" category="95" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879413842" name="炽热防御Ⅳ" category="60" tier="3" damageType="COMMON">
+<title id="1879413842" name="Ardent Defence IV" category="60" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="PARRY" value="188857"/>
 </stats>
 </title>
-<title id="1879413843" name="持久战术IV" category="106" tier="3" damageType="COMMON">
+<title id="1879413843" name="Enduring Tactics IV" category="106" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879413844" name="炽热活力Ⅳ" category="85" tier="3" damageType="COMMON">
+<title id="1879413844" name="Ardent Vitality IV" category="85" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879413845" name="炽热敏捷Ⅳ" category="65" tier="3" damageType="COMMON">
+<title id="1879413845" name="Ardent Agility IV" category="65" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879413846" name="永恒命运IV" category="72" tier="3" damageType="COMMON">
+<title id="1879413846" name="Enduring Fate IV" category="72" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879413847" name="持久智慧IV" category="46" tier="3" damageType="COMMON">
+<title id="1879413847" name="Enduring Wisdom IV" category="46" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879413848" name="持久胜利IV" category="44" tier="3" damageType="COMMON">
+<title id="1879413848" name="Enduring Triumph IV" category="44" tier="3" damageType="COMMON">
 <stats>
 <stat name="TACTICAL_MITIGATION" value="134143"/>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879413849" name="炽热力量Ⅳ" category="86" tier="3" damageType="COMMON">
+<title id="1879413849" name="Ardent Might IV" category="86" tier="3" damageType="COMMON">
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="134143"/>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879413972" name="深谷的命运IV" category="115" tier="3" damageType="ANCIENT_DWARF">
+<title id="1879413972" name="Fate of the Deep Halls IV" category="115" tier="3" damageType="ANCIENT_DWARF">
 <stats>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879413998" name="命运 Eldar 时代除兽人者 IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879413998" name="Fateful Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879413999" name="保存的上古精灵时代野兽杀手 IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879413999" name="Preserving Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879414001" name="深厅的强力除兽人者 IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414001" name="Mighty Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879414002" name="敏捷的 Deep Halls 远古除兽人 IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414002" name="Agile Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879414003" name="上古精灵时代的优雅野兽杀手 IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414003" name="Graceful Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879414005" name="深渊大厅的强力屠兽者IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414005" name="Mighty Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879414007" name="生命精灵时代除兽者IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414007" name="Vital Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879414008" name="深渊大厅的防御性屠兽者IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414008" name="Defending Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="PARRY" value="188857"/>
 </stats>
 </title>
-<title id="1879414012" name="上古精灵时代的强健屠兽者IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414012" name="Hearty Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879414013" name="敏捷的上古精灵时代远古除兽者 IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414013" name="Agile Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879414015" name="命运 Deep Halls 除兽人者 IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414015" name="Fateful Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879414016" name="生命深谷除兽人者IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414016" name="Vital Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879414018" name="深厅博学野兽杀手 IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414018" name="Knowledgeable Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414019" name="深厅博学兽人杀手 IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414019" name="Knowledgeable Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414021" name="强大的深谷兽人杀手IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414021" name="Powerful Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879414022" name="上古精灵时代博学野兽杀手 IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414022" name="Knowledgeable Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414024" name="命运 Deep Halls 除兽者 IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414024" name="Fateful Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879414025" name="强大的上古精灵时代野兽杀手IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414025" name="Powerful Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879414026" name="敏捷的上古精灵时代远古除兽人 IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414026" name="Agile Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879414028" name="上古精灵时代的防御型兽人杀手IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414028" name="Defending Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="PARRY" value="188857"/>
 </stats>
 </title>
-<title id="1879414031" name="上古精灵时代的优雅兽人杀手 IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414031" name="Graceful Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879414032" name="意志坚定的上古精灵时代野兽杀手IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414032" name="Willful Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879414034" name="上古精灵时代的强力除兽人者 IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414034" name="Mighty Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879414035" name="上古精灵时代的守护屠兽者IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414035" name="Defending Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="PARRY" value="188857"/>
 </stats>
 </title>
-<title id="1879414036" name="深渊大厅的第四阶游击战兽人杀手" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414036" name="Skirmishing Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414039" name="深厅游击猎兽者IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414039" name="Skirmishing Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414041" name="深厅的防御型兽人杀手IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414041" name="Defending Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="PARRY" value="188857"/>
 </stats>
 </title>
-<title id="1879414042" name="深厅强健兽人杀手IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414042" name="Hearty Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879414044" name="深厅强力屠兽者IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414044" name="Potent Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879414045" name="生命精灵时代除兽人者IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414045" name="Vital Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879414051" name="意志坚定的上古精灵时代兽人杀手IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414051" name="Willful Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879414052" name="上古精灵时代的强大屠兽者IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414052" name="Mighty Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879414053" name="保存的深厅兽人杀手 IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414053" name="Preserving Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879414057" name="上古精灵时代IV 时期的游击战兽人杀手" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414057" name="Skirmishing Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414061" name="深谷的优雅兽人杀手 IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414061" name="Graceful Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879414062" name="上古精灵时代的游击战屠兽者IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414062" name="Skirmishing Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414063" name="强大的深谷野兽杀手IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414063" name="Powerful Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879414064" name="深谷的优雅野兽杀手 IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414064" name="Graceful Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879414065" name="意志坚定的深谷野兽杀手IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414065" name="Willful Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879414073" name="保存的深厅野兽杀手 IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414073" name="Preserving Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879414081" name="生命深谷除兽者IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414081" name="Vital Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879414083" name="意志坚定的深谷兽人杀手IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414083" name="Willful Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879414084" name="命运 Eldar 时代除兽者 IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414084" name="Fateful Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879414085" name="敏捷的 Deep Halls 远古除兽者 IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414085" name="Agile Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879414088" name="保存的上古精灵时代兽人杀手 IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414088" name="Preserving Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879414089" name="上古精灵时代的强健兽人杀手IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414089" name="Hearty Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879414090" name="深渊大厅的强健屠兽者IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
+<title id="1879414090" name="Hearty Beast-slayer of the Deep Halls IV" category="129" tier="3" damageType="ANCIENT_DWARF" slayer="14">
 <stats>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879414092" name="强大的上古精灵时代兽人杀手IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414092" name="Powerful Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879414093" name="强效深渊大厅杀兽人者 IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
+<title id="1879414093" name="Potent Orc-slayer of the Deep Halls IV" category="128" tier="3" damageType="ANCIENT_DWARF" slayer="1">
 <stats>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879414095" name="上古精灵时代强力屠兽者IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
+<title id="1879414095" name="Potent Beast-slayer of Eldar Days IV" category="26" tier="3" damageType="BELERIAND" slayer="14">
 <stats>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879414098" name="强效精灵时代杀兽人者 IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414098" name="Potent Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879414100" name="上古精灵时代博学兽人杀手 IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
+<title id="1879414100" name="Knowledgeable Orc-slayer of Eldar Days IV" category="21" tier="3" damageType="BELERIAND" slayer="1">
 <stats>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414127" name="上古精灵时代的游击杀虫者IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414127" name="Skirmishing Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414130" name="上古精灵时代的防御性杀虫者IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414130" name="Defending Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="PARRY" value="188857"/>
 </stats>
 </title>
-<title id="1879414132" name="上古精灵时代的强力除虫者 IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414132" name="Mighty Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879414134" name="保存的上古精灵时代昆虫杀手 IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414134" name="Preserving Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879414136" name="上古精灵时代博学昆虫杀手 IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414136" name="Knowledgeable Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879414137" name="意志坚定的上古精灵时代昆虫杀手IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414137" name="Willful Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879414141" name="上古精灵时代的强健杀虫者IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414141" name="Hearty Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879414142" name="强大的上古精灵时代昆虫杀手IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414142" name="Powerful Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879414143" name="生命精灵时代除虫者IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414143" name="Vital Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879414144" name="上古精灵时代的优雅昆虫杀手 IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414144" name="Graceful Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879414147" name="敏捷的上古精灵时代远古除虫者 IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414147" name="Agile Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879414148" name="命运上古精灵时代除虫者 IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414148" name="Fateful Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879414150" name="强效精灵时代杀虫者 IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
+<title id="1879414150" name="Potent Insect-slayer of Eldar Days IV" category="25" tier="3" damageType="BELERIAND" slayer="4">
 <stats>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879420639" name="意志坚定的深谷远古邪物杀手IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420639" name="Willful Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879420646" name="努门诺尔强力远古除魔者IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420646" name="Potent Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879420651" name="生命古深谷除魔者IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420651" name="Vital Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879420658" name="深厅博学古邪杀手 IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420658" name="Knowledgeable Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879420661" name="保存的努门诺尔远古邪恶杀手 IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420661" name="Preserving Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879420664" name="意志坚定的努门诺尔远古邪物杀手IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420664" name="Willful Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879420666" name="深厅强力远古除魔者IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420666" name="Hearty Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879420670" name="努门诺尔博学古邪杀手 IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420670" name="Knowledgeable Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879420674" name="上古精灵时代强大的远古屠魔者IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420674" name="Powerful Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879420677" name="强大的努门诺尔远古邪物杀手IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420677" name="Powerful Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879420679" name="命运古 Númenór 除魔者 IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420679" name="Fateful Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879420680" name="敏捷的 Deep Halls 远古除邪者 IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420680" name="Agile Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879420684" name="生命古精灵时代除魔者IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420684" name="Vital Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879420685" name="保存的深厅远古邪恶杀手 IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420685" name="Preserving Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879420686" name="努门诺尔强健古恶杀手IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420686" name="Hearty Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879420687" name="意志坚定的上古精灵时代远古邪物杀手IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420687" name="Willful Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="WILL" value="23800"/>
 </stats>
 </title>
-<title id="1879420688" name="敏捷的 Númenór 远古除邪者 IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420688" name="Agile Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879420689" name="上古精灵时代的游击战古邪杀手IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420689" name="Skirmishing Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879420690" name="深谷的优雅古邪杀手 IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420690" name="Graceful Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879420691" name="上古精灵时代的优雅古邪杀手 IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420691" name="Graceful Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879420692" name="上古精灵时代的强大远古除魔者四世" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420692" name="Mighty Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879420693" name="命运古 Eldar 时代除魔者 IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420693" name="Fateful Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879420694" name="努门诺尔的强大远古除魔者IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420694" name="Mighty Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879420695" name="上古精灵时代的强健远古屠魔者IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420695" name="Hearty Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="FINESSE" value="180490"/>
 </stats>
 </title>
-<title id="1879420696" name="守护古邪：深渊大厅屠戮者IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420696" name="Defending Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="PARRY" value="188857"/>
 </stats>
 </title>
-<title id="1879420697" name="敏捷的上古精灵时代远古除邪者 IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420697" name="Agile Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="AGILITY" value="23800"/>
 </stats>
 </title>
-<title id="1879420698" name="努门诺尔第四代游击古邪杀手" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420698" name="Skirmishing Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879420699" name="深厅游击远古屠魔者IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420699" name="Skirmishing Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879420700" name="potent Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420700" name="Potent Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879420701" name="深渊大厅的强大远古屠魔者IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420701" name="Mighty Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="MIGHT" value="23800"/>
 </stats>
 </title>
-<title id="1879420702" name="上古精灵时代博学古邪杀手 IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420702" name="Knowledgeable Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="TACTICAL_MASTERY" value="229327"/>
 </stats>
 </title>
-<title id="1879420703" name="守护古邪-努门诺尔杀手IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420703" name="Defending Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="PARRY" value="188857"/>
 </stats>
 </title>
-<title id="1879420704" name="命运古 Deep Halls 除魔者 IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420704" name="Fateful Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="FATE" value="19700"/>
 </stats>
 </title>
-<title id="1879420705" name="上古精灵时代强力古邪杀手IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420705" name="Potent Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="CRITICAL_RATING" value="134898"/>
 </stats>
 </title>
-<title id="1879420706" name="生命古努门诺尔除魔者IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420706" name="Vital Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="VITALITY" value="23200"/>
 </stats>
 </title>
-<title id="1879420707" name="保存的上古精灵时代远古邪恶杀手 IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420707" name="Preserving Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="180490"/>
 </stats>
 </title>
-<title id="1879420708" name="强大的深谷远古邪物杀手IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
+<title id="1879420708" name="Powerful Ancient Evil-slayer of the Deep Halls IV" category="134" tier="3" damageType="ANCIENT_DWARF" slayer="5">
 <stats>
 <stat name="BLOCK" value="188857"/>
 </stats>
 </title>
-<title id="1879420709" name="努门诺尔的优雅古邪杀手 IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
+<title id="1879420709" name="Graceful Ancient Evil-slayer of Númenór IV" category="35" tier="3" damageType="WESTERNESSE" slayer="5">
 <stats>
 <stat name="EVADE" value="188857"/>
 </stats>
 </title>
-<title id="1879420710" name="守护古邪· 上古精灵时代的屠魔者IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
+<title id="1879420710" name="Defending Ancient Evil-slayer of Eldar Days IV" category="22" tier="3" damageType="BELERIAND" slayer="5">
 <stats>
 <stat name="PARRY" value="188857"/>
 </stats>
